@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '0 6 * * *'
 
 jobs:
   update:
@@ -13,8 +13,8 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      #      - name: Install dependencies
-      #        run: sudo apt-get install -y geoip-bin
+      - name: Install dependencies
+        run: sudo apt-get install -y geoip-bin
 
       - name: Make a change
         run: echo date +%s%N > servers.txt
@@ -22,4 +22,4 @@ jobs:
       # commit
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: servers.txt
+          file_pattern: ip_to_geo.json
