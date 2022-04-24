@@ -21,7 +21,9 @@ jobs:
 
       - name: Update
         run: |
-          quakestat -qwm master.quakeservers.net -u > foo.txt& && cat foo.txt
+          quakestat -qwm master.quakeservers.net -u
+          wait
+          cat foo.txt
 
       # commit
       - uses: stefanzweifel/git-auto-commit-action@v4
