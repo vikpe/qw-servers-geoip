@@ -6,7 +6,7 @@ from typing import List
 
 def read_master_server(master_address: str) -> List[str]:
     hostname, _ = master_address.split(":")
-    quakestat_cmd = f"quakestat -qwm {hostname} -u -errors -syncconnect -timeout 10 -mi 5 | awk '{{print $2}}'"
+    quakestat_cmd = f"quakestat -qwm {hostname} | awk '{{print $2}}'"
 
     try:
         qstat_rows = subprocess.check_output(quakestat_cmd, shell=True).strip().decode().splitlines()
