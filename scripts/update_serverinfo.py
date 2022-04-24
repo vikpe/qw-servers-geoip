@@ -6,7 +6,7 @@ from typing import List
 
 def read_master_server(master_address: str) -> List[str]:
     hostname, port_bits = master_address.split(":")
-    cmd = f"bash ./scripts/read_master_server.sh {hostname} {port_bits}"
+    cmd = f"./scripts/read_master_server.sh {hostname} {port_bits}"
 
     try:
         subprocess.call(cmd, shell=True)
