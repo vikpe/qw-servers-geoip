@@ -21,7 +21,7 @@ jobs:
 
       - name: Update
         run: |
-          quakestat -qwm master.quakeservers.net -u > foo.txt
+          quakestat -qwm master.quakeservers.net -u -errors
           wait
           cat foo.txt
 
