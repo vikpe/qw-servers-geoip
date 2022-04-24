@@ -1,2 +1,5 @@
 # qw-servers-geoip
-Hostname to geo location for QuakeWorld servers.
+
+> Server IP to geo location for QuakeWorld servers
+
+* Automatically updated every 24h
