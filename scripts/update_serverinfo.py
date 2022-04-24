@@ -25,6 +25,8 @@ def read_master_server(master_address: str) -> List[str]:
         result_file = f"{hostname}.servers"
 
         with open(result_file, "rb") as fp:
+            print(fp.read())
+            fp.seek(0)
             _ = fp.read(header_block_len)
 
             while server_chunk := fp.read(server_bits):
