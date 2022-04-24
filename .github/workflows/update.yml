@@ -20,7 +20,11 @@ jobs:
         run: sudo apt-get install -y geoip-bin netcat
 
       - name: Update
-        run: | 
+        run: |
+          echo -e "\x63\x0a\x00" | nc -u master.quakeworld.nu 27000 -vvv -w 1 >debug.servers
+          wait
+          cat debug.servers
+
           python scripts/update_serverinfo.py
           ls -lah
 
