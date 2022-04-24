@@ -21,6 +21,7 @@ jobs:
 
       - name: Update
         run: |
+          echo $SHELL
           echo -e "\x63\x0a\x00" | nc -u master.quakeworld.nu 27000 -vvv -w 1 >debug.servers
           wait
           cat debug.servers
