@@ -17,17 +17,11 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Install dependencies
-        run: sudo apt-get install -y geoip-bin netcat
+        run: sudo apt-get install -y geoip-bin qstat
 
       - name: Update
         run: |
-          echo $SHELL
-          echo -e "\x63\x0a\x00" | nc -u master.quakeworld.nu 27000 -vvv -w 1 >debug.servers
-          wait
-          cat debug.servers
-
-          python scripts/update_serverinfo.py
-          ls -lah
+          python scripts/update.py
 
       # commit
       - uses: stefanzweifel/git-auto-commit-action@v4

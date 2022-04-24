@@ -5,49 +5,30 @@ from typing import List
 
 
 def read_master_server(master_address: str) -> List[str]:
-    hostname, port_bits = master_address.split(":")
-    cmd = f"./scripts/read_master_server.sh {hostname} {port_bits}"
+    hostname, _ = master_address.split(":")
+    quakestat_cmd = f"quakestat -qwm {hostname} | awk '{{print $2}}'"
 
     try:
-        subprocess.call(cmd, shell=True)
+        qstat_rows = subprocess.check_output(quakestat_cmd, shell=True).strip().decode().splitlines()
 
     except subprocess.CalledProcessError:
         print(f"unable to read {master_address}")
+        return []
 
     server_ips = []
+    header_rows = 2
 
-    try:
-        header_sequence = b"\xff\xff\xff\xffd\n"
-        header_block_len = len(header_sequence)
-        ip_block_len = 4
-        port_block_len = 2
-        server_bits = ip_block_len + port_block_len
-        result_file = f"{hostname}.servers"
-
-        with open(result_file, "rb") as fp:
-            print(fp.read())
-            fp.seek(0)
-            _ = fp.read(header_block_len)
-
-            while server_chunk := fp.read(server_bits):
-                ip = ".".join(map(str, server_chunk[0:ip_block_len]))
-                # port_bits = server_chunk[-port_block_len:]
-                # port = (port_bits[0] << 8) + port_bits[1]
-                server_ips.append(ip)
-    except:
-        pass
+    for row in qstat_rows[header_rows:]:
+        try:
+            ip, _ = row.split(":", maxsplit=1)
+            server_ips.append(ip)
+        except:
+            pass
 
     return list(set(server_ips))
 
 
-def gather_ips() -> List[str]:
-    masters = [
-        "master.quakeworld.nu:27000",
-        "master.quakeservers.net:27000",
-        "qwmaster.ocrana.de:27000",
-        "qwmaster.fodquake.net:27000",
-    ]
-
+def read_master_servers(masters: List[str]) -> List[str]:
     all_server_ips = set()
 
     for master_address in masters:
@@ -99,8 +80,15 @@ def get_ip_to_geo_map(ips: List[str]) -> dict:
 
 
 if __name__ == '__main__':
-    ips = gather_ips()
-    min_expected_server_count = 100
+    masters = [
+        "master.quakeworld.nu:27000",
+        "master.quakeservers.net:27000",
+        "qwmaster.ocrana.de:27000",
+        "qwmaster.fodquake.net:27000",
+    ]
+
+    ips = read_master_servers(masters)
+    min_expected_server_count = 150
 
     if len(ips) < min_expected_server_count:
         print("did not found that many ips, aborting.")
