@@ -20,7 +20,9 @@ jobs:
         run: sudo apt-get install -y geoip-bin netcat
 
       - name: Update
-        run: python scripts/update_serverinfo.py
+        run: | 
+          python scripts/update_serverinfo.py
+          ls -lah
 
       # commit
       - uses: stefanzweifel/git-auto-commit-action@v4
