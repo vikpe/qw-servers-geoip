@@ -55,25 +55,25 @@ def get_country_info(ip: str) -> str:
         return geoiplookup_response
 
 
-def get_alpha2_to_region_map() -> dict:
-    with open("geo_data/alpha2_to_region.json", "r") as fp:
+def get_cc_to_region_map() -> dict:
+    with open("geo_data/cc_to_region.json", "r") as fp:
         return json.load(fp)
 
 
 def get_ip_to_geo_map(ips: List[str]) -> dict:
     trans = {}
-    alpha2_to_region_map = get_alpha2_to_region_map()
+    cc_to_region_map = get_cc_to_region_map()
 
-    for ip in ips:
+    for ip in sorted(ips):
         country_info = get_country_info(ip)
 
         if country_info:
-            alpha2, country = country_info.split(", ", maxsplit=1)
+            cc, country = country_info.split(", ", maxsplit=1)
 
             trans[ip] = {
-                "alpha2": alpha2,
+                "cc": cc,
                 "country": country,
-                "region": alpha2_to_region_map.get(alpha2, "")
+                "region": cc_to_region_map.get(cc, "")
             }
 
     return trans
