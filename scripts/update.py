@@ -1,46 +1,26 @@
 import json
+import os
 import subprocess
 
 from typing import List
 
 
-def read_master_server(master_address: str) -> List[str]:
-    hostname, _ = master_address.split(":")
-    quakestat_cmd = f"quakestat -qwm {hostname} | awk '{{print $2}}'"
+def get_ips_from_masters(masters: List[str]) -> List[str]:
+    cmd = f"./masterstat {' '.join(masters)} > servers.txt"
+    subprocess.call(cmd, shell=True)
 
-    try:
-        qstat_rows = subprocess.check_output(quakestat_cmd, shell=True).strip().decode().splitlines()
+    with open("servers.txt", "r") as fp:
+        server_addresses = fp.read().strip().splitlines()
 
-    except subprocess.CalledProcessError:
-        print(f"unable to read {master_address}")
-        return []
+    os.remove("servers.txt")
 
     server_ips = []
-    header_rows = 2
 
-    for row in qstat_rows[header_rows:]:
-        try:
-            ip, _ = row.split(":", maxsplit=1)
-            server_ips.append(ip)
-        except:
-            pass
+    for address in server_addresses:
+        if ":" in address:
+            server_ips.append(address.split(":", maxsplit=1)[0])
 
-    return list(set(server_ips))
-
-
-def read_master_servers(masters: List[str]) -> List[str]:
-    all_server_ips = set()
-
-    for master_address in masters:
-        print(f"{master_address}: connect")
-        server_ips = read_master_server(master_address)
-        print(f"{master_address}: collected {len(server_ips)} ips")
-        all_server_ips.update(server_ips)
-        print()
-
-    print(f"done, total {len(all_server_ips)} ips")
-
-    return list(all_server_ips)
+    return list(sorted(set(server_ips)))
 
 
 def get_country_info(ip: str) -> str:
@@ -87,7 +67,7 @@ if __name__ == '__main__':
         "qwmaster.fodquake.net:27000",
     ]
 
-    ips = read_master_servers(masters)
+    ips = get_ips_from_masters(masters)
     min_expected_server_count = 150
 
     if len(ips) < min_expected_server_count:
@@ -98,3 +78,5 @@ if __name__ == '__main__':
 
     with open("ip_to_geo.json", "w") as fp:
         json.dump(ip_to_geo_map, fp, indent=2)
+
+    print(f"done. {len(ips)}")
