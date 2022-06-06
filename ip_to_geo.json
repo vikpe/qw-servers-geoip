@@ -39,10 +39,10 @@
     "country": "United States",
     "region": "Americas"
   },
-  "107.191.52.140": {
-    "cc": "JP",
-    "country": "Japan",
-    "region": "Asia"
+  "107.2.98.142": {
+    "cc": "US",
+    "country": "United States",
+    "region": "Americas"
   },
   "108.56.142.152": {
     "cc": "US",
@@ -189,9 +189,9 @@
     "country": "Netherlands",
     "region": "Europe"
   },
-  "146.59.13.133": {
-    "cc": "NO",
-    "country": "Norway",
+  "146.90.114.217": {
+    "cc": "GB",
+    "country": "United Kingdom",
     "region": "Europe"
   },
   "149.28.240.2": {
@@ -219,11 +219,6 @@
     "country": "India",
     "region": "Asia"
   },
-  "150.143.136.249": {
-    "cc": "GB",
-    "country": "United Kingdom",
-    "region": "Europe"
-  },
   "155.138.193.35": {
     "cc": "US",
     "country": "United States",
@@ -248,6 +243,11 @@
     "cc": "NL",
     "country": "Netherlands",
     "region": "Europe"
+  },
+  "158.140.207.138": {
+    "cc": "AU",
+    "country": "Australia",
+    "region": "Oceania"
   },
   "158.174.255.11": {
     "cc": "SE",
@@ -274,7 +274,7 @@
     "country": "Germany",
     "region": "Europe"
   },
-  "162.211.18.2": {
+  "161.97.106.241": {
     "cc": "US",
     "country": "United States",
     "region": "Americas"
@@ -330,6 +330,11 @@
     "region": "Americas"
   },
   "173.218.143.245": {
+    "cc": "US",
+    "country": "United States",
+    "region": "Americas"
+  },
+  "173.66.54.83": {
     "cc": "US",
     "country": "United States",
     "region": "Americas"
@@ -398,6 +403,11 @@
     "cc": "RU",
     "country": "Russian Federation",
     "region": "Europe"
+  },
+  "187.20.128.10": {
+    "cc": "BR",
+    "country": "Brazil",
+    "region": "Americas"
   },
   "188.166.0.137": {
     "cc": "NL",
@@ -469,7 +479,7 @@
     "country": "Germany",
     "region": "Europe"
   },
-  "195.228.100.83": {
+  "195.228.101.21": {
     "cc": "HU",
     "country": "Hungary",
     "region": "Europe"
@@ -519,7 +529,7 @@
     "country": "United States",
     "region": "Americas"
   },
-  "202.161.9.100": {
+  "202.161.11.108": {
     "cc": "AU",
     "country": "Australia",
     "region": "Oceania"
@@ -659,11 +669,6 @@
     "country": "United States",
     "region": "Americas"
   },
-  "24.24.133.238": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
-  },
   "3.235.93.21": {
     "cc": "US",
     "country": "United States",
@@ -674,10 +679,10 @@
     "country": "United States",
     "region": "Americas"
   },
-  "31.208.12.61": {
-    "cc": "SE",
-    "country": "Sweden",
-    "region": "Europe"
+  "34.129.203.130": {
+    "cc": "US",
+    "country": "United States",
+    "region": "Americas"
   },
   "34.148.103.12": {
     "cc": "US",
@@ -802,6 +807,11 @@
   "46.26.238.181": {
     "cc": "ES",
     "country": "Spain",
+    "region": "Europe"
+  },
+  "5.240.245.170": {
+    "cc": "SE",
+    "country": "Sweden",
     "region": "Europe"
   },
   "5.253.62.53": {
@@ -949,6 +959,11 @@
     "country": "United States",
     "region": "Americas"
   },
+  "73.202.0.3": {
+    "cc": "US",
+    "country": "United States",
+    "region": "Americas"
+  },
   "73.23.136.10": {
     "cc": "US",
     "country": "United States",
@@ -959,7 +974,7 @@
     "country": "United States",
     "region": "Americas"
   },
-  "74.91.126.90": {
+  "73.88.59.191": {
     "cc": "US",
     "country": "United States",
     "region": "Americas"
@@ -979,7 +994,7 @@
     "country": "United States",
     "region": "Americas"
   },
-  "76.17.190.31": {
+  "76.174.246.217": {
     "cc": "US",
     "country": "United States",
     "region": "Americas"
@@ -1069,7 +1084,7 @@
     "country": "Czech Republic",
     "region": "Europe"
   },
-  "89.44.10.23": {
+  "89.44.10.24": {
     "cc": "RO",
     "country": "Romania",
     "region": "Europe"
@@ -1094,14 +1109,14 @@
     "country": "Russian Federation",
     "region": "Europe"
   },
-  "91.211.246.220": {
-    "cc": "LT",
-    "country": "Lithuania",
-    "region": "Europe"
-  },
   "91.66.4.41": {
     "cc": "DE",
     "country": "Germany",
+    "region": "Europe"
+  },
+  "92.32.156.157": {
+    "cc": "SE",
+    "country": "Sweden",
     "region": "Europe"
   },
   "94.156.45.86": {
