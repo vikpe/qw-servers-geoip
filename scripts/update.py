@@ -43,7 +43,7 @@ def get_ip_to_geo_map(ips: List[str]) -> dict:
                 "country": entry["country"],
                 "cc": entry["countryCode"],
                 "city": entry["city"],
-                "coordinates": f'{entry["lat"]},{entry["lon"]}',
+                "coordinates": [entry["lat"], entry["lon"]]
             }
 
     return ip_to_geo_map
