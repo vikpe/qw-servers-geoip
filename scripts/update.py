@@ -38,7 +38,13 @@ def get_ip_to_geo_map(ips: List[str]) -> dict:
         geodata = requests.post(geo_api_url, json=ip_chunk).json()
 
         for entry in geodata:
-            ip_to_geo_map[entry["query"]] = entry
+            ip_to_geo_map[entry["query"]] = {
+                "region": entry["continent"],
+                "country": entry["country"],
+                "cc": entry["countryCode"],
+                "city": entry["city"],
+                "coordinates": f'{entry["lat"]},{entry["lon"]}',
+            }
 
     return ip_to_geo_map
 
