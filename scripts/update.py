@@ -1,6 +1,7 @@
 import json
 import os
 import subprocess
+import requests
 
 from typing import List
 
@@ -23,40 +24,23 @@ def get_ips_from_masters(masters: List[str]) -> List[str]:
     return list(sorted(set(server_ips)))
 
 
-def get_country_info(ip: str) -> str:
-    cmd = f"geoiplookup {ip} | awk -F': ' '{{print $2}}'"
-    geoiplookup_response = subprocess.check_output(cmd, shell=True).decode().strip()
-
-    error_needles = ["can't resolve hostname", "IP Address not found"]
-
-    if any(n in geoiplookup_response for n in error_needles):
-        return ""
-    else:
-        return geoiplookup_response
-
-
-def get_cc_to_region_map() -> dict:
-    with open("geo_data/cc_to_region.json", "r") as fp:
-        return json.load(fp)
+def chunks(arr: list, size: int):
+    for i in range(0, len(arr), size):
+        yield arr[i:i + size]
 
 
 def get_ip_to_geo_map(ips: List[str]) -> dict:
-    trans = {}
-    cc_to_region_map = get_cc_to_region_map()
+    geo_api_url = "http://ip-api.com/batch?fields=status,message,continent,country,countryCode,city,lat,lon,query"
 
-    for ip in sorted(ips):
-        country_info = get_country_info(ip)
+    ip_to_geo_map = {}
 
-        if country_info:
-            cc, country = country_info.split(", ", maxsplit=1)
+    for ip_chunk in list(chunks(ips, 100)):
+        geodata = requests.post(geo_api_url, json=ip_chunk).json()
 
-            trans[ip] = {
-                "cc": cc,
-                "country": country,
-                "region": cc_to_region_map.get(cc, "")
-            }
+        for entry in geodata:
+            ip_to_geo_map[entry["query"]] = entry
 
-    return trans
+    return ip_to_geo_map
 
 
 if __name__ == '__main__':
