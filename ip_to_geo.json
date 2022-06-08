@@ -39,16 +39,6 @@
     "country": "United States",
     "region": "Americas"
   },
-  "107.2.98.142": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
-  },
-  "108.56.142.152": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
-  },
   "108.61.117.210": {
     "cc": "NL",
     "country": "Netherlands",
@@ -134,11 +124,6 @@
     "country": "United States",
     "region": "Americas"
   },
-  "138.201.11.60": {
-    "cc": "DE",
-    "country": "Germany",
-    "region": "Europe"
-  },
   "138.68.21.116": {
     "cc": "US",
     "country": "United States",
@@ -187,6 +172,11 @@
   "145.24.145.131": {
     "cc": "NL",
     "country": "Netherlands",
+    "region": "Europe"
+  },
+  "146.59.13.133": {
+    "cc": "NO",
+    "country": "Norway",
     "region": "Europe"
   },
   "146.90.114.217": {
@@ -334,11 +324,6 @@
     "country": "United States",
     "region": "Americas"
   },
-  "173.66.54.83": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
-  },
   "174.138.141.243": {
     "cc": "CA",
     "country": "Canada",
@@ -404,11 +389,6 @@
     "country": "Russian Federation",
     "region": "Europe"
   },
-  "187.20.128.10": {
-    "cc": "BR",
-    "country": "Brazil",
-    "region": "Americas"
-  },
   "188.166.0.137": {
     "cc": "NL",
     "country": "Netherlands",
@@ -437,11 +417,6 @@
   "190.18.73.232": {
     "cc": "AR",
     "country": "Argentina",
-    "region": "Americas"
-  },
-  "191.252.153.182": {
-    "cc": "BR",
-    "country": "Brazil",
     "region": "Americas"
   },
   "192.166.218.37": {
@@ -624,10 +599,10 @@
     "country": "Germany",
     "region": "Europe"
   },
-  "220.233.28.140": {
-    "cc": "AU",
-    "country": "Australia",
-    "region": "Oceania"
+  "217.215.138.225": {
+    "cc": "SE",
+    "country": "Sweden",
+    "region": "Europe"
   },
   "221.121.157.22": {
     "cc": "AU",
@@ -744,6 +719,11 @@
     "country": "Japan",
     "region": "Asia"
   },
+  "40.84.144.27": {
+    "cc": "US",
+    "country": "United States",
+    "region": "Americas"
+  },
   "40.89.135.153": {
     "cc": "FR",
     "country": "France",
@@ -809,11 +789,6 @@
     "country": "Spain",
     "region": "Europe"
   },
-  "5.240.245.170": {
-    "cc": "SE",
-    "country": "Sweden",
-    "region": "Europe"
-  },
   "5.253.62.53": {
     "cc": "RU",
     "country": "Russian Federation",
@@ -858,6 +833,11 @@
     "cc": "FR",
     "country": "France",
     "region": "Europe"
+  },
+  "52.159.114.44": {
+    "cc": "US",
+    "country": "United States",
+    "region": "Americas"
   },
   "52.172.208.182": {
     "cc": "IN",
@@ -944,22 +924,17 @@
     "country": "United States",
     "region": "Americas"
   },
-  "69.164.196.96": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
-  },
   "70.34.202.147": {
     "cc": "US",
     "country": "United States",
     "region": "Americas"
   },
-  "72.89.204.228": {
+  "72.83.103.37": {
     "cc": "US",
     "country": "United States",
     "region": "Americas"
   },
-  "73.202.0.3": {
+  "72.89.204.228": {
     "cc": "US",
     "country": "United States",
     "region": "Americas"
@@ -990,11 +965,6 @@
     "region": "Americas"
   },
   "76.101.98.61": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
-  },
-  "76.174.246.217": {
     "cc": "US",
     "country": "United States",
     "region": "Americas"
