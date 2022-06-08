@@ -1,1147 +1,1626 @@
 {
   "100.36.1.151": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Arlington",
+    "coordinates": "38.8865,-77.0911"
   },
   "102.37.98.187": {
-    "cc": "ZA",
+    "region": "Africa",
     "country": "South Africa",
-    "region": "Africa"
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": "-26.20229,28.034195"
+  },
+  "103.151.65.11": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Kippa-Ring",
+    "coordinates": "-27.2262,153.093"
+  },
+  "103.151.65.19": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Kippa-Ring",
+    "coordinates": "-27.2262,153.093"
+  },
+  "103.151.65.3": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Kippa-Ring",
+    "coordinates": "-27.2262,153.093"
   },
   "103.16.181.89": {
-    "cc": "NZ",
+    "region": "Oceania",
     "country": "New Zealand",
-    "region": "Oceania"
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": "-36.8506,174.7679"
   },
   "103.195.53.179": {
-    "cc": "AU",
+    "region": "Oceania",
     "country": "Australia",
-    "region": "Oceania"
+    "cc": "AU",
+    "city": "Adelaide",
+    "coordinates": "-34.9274,138.6005"
   },
   "103.25.59.27": {
-    "cc": "AU",
+    "region": "Oceania",
     "country": "Australia",
-    "region": "Oceania"
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": "-33.8715,151.2006"
   },
   "104.207.135.230": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Piscataway",
+    "coordinates": "40.5511,-74.4606"
   },
   "104.236.169.23": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": "37.7308,-122.3838"
   },
   "104.237.158.248": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Fremont",
+    "coordinates": "37.5625,-122.0004"
   },
   "108.61.117.210": {
-    "cc": "NL",
+    "region": "Europe",
     "country": "Netherlands",
-    "region": "Europe"
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": "52.3891,4.6563"
   },
   "108.61.178.207": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": "50.117,8.72785"
   },
   "108.61.204.55": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": "32.7908,-96.8336"
   },
   "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
     "cc": "RU",
-    "country": "Russian Federation",
-    "region": "Europe"
+    "city": "Tver",
+    "coordinates": "56.8651,35.8938"
   },
   "109.200.20.152": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "London",
+    "coordinates": "51.5074,-0.127758"
   },
   "109.74.206.154": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "London",
+    "coordinates": "51.5164,-0.093"
   },
   "116.203.97.160": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Nuremberg",
+    "coordinates": "49.4521,11.0767"
   },
   "122.116.14.182": {
-    "cc": "TW",
+    "region": "Asia",
     "country": "Taiwan",
-    "region": "Asia"
+    "cc": "TW",
+    "city": "Taipei",
+    "coordinates": "25.0504,121.5324"
   },
   "128.199.52.100": {
-    "cc": "NL",
+    "region": "Europe",
     "country": "Netherlands",
-    "region": "Europe"
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": "52.352,4.9392"
   },
   "13.245.236.222": {
-    "cc": "ZA",
+    "region": "Africa",
     "country": "South Africa",
-    "region": "Africa"
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": "-26.2041,28.0473"
   },
   "13.51.47.117": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": "59.3293,18.0686"
   },
   "13.53.75.0": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": "59.3293,18.0686"
   },
   "13.54.145.53": {
-    "cc": "AU",
+    "region": "Oceania",
     "country": "Australia",
-    "region": "Oceania"
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": "-33.8591,151.2002"
   },
   "13.79.234.207": {
-    "cc": "IE",
+    "region": "Europe",
     "country": "Ireland",
-    "region": "Europe"
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": "53.3478,-6.2597"
   },
   "136.243.174.101": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Falkenstein",
+    "coordinates": "50.475,12.365"
   },
   "137.74.7.185": {
-    "cc": "PL",
+    "region": "Europe",
     "country": "Poland",
-    "region": "Europe"
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": "52.2484,21.0026"
   },
   "138.197.111.29": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Clifton",
+    "coordinates": "40.8364,-74.1403"
   },
   "138.68.21.116": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Santa Clara",
+    "coordinates": "37.3417,-121.9753"
   },
   "139.162.151.209": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": "50.1188,8.6843"
   },
   "139.162.245.4": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "London",
+    "coordinates": "51.5164,-0.093"
   },
   "139.162.45.192": {
-    "cc": "SG",
+    "region": "Asia",
     "country": "Singapore",
-    "region": "Asia"
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": "1.35208,103.82"
   },
   "141.144.231.49": {
-    "cc": "GB",
-    "country": "United Kingdom",
-    "region": "Europe"
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": "50.1049,8.6295"
   },
   "144.138.101.141": {
-    "cc": "AU",
+    "region": "Oceania",
     "country": "Australia",
-    "region": "Oceania"
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": "-37.8159,144.9669"
   },
   "144.202.1.33": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Piscataway",
+    "coordinates": "40.5511,-74.4606"
   },
   "144.202.59.41": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Elk Grove Village",
+    "coordinates": "42.0048,-87.9954"
   },
   "144.22.145.206": {
-    "cc": "BR",
+    "region": "South America",
     "country": "Brazil",
-    "region": "Americas"
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": "-23.5475,-46.6361"
   },
   "145.24.145.131": {
-    "cc": "NL",
+    "region": "Europe",
     "country": "Netherlands",
-    "region": "Europe"
+    "cc": "NL",
+    "city": "Rotterdam",
+    "coordinates": "51.9134,4.46847"
   },
   "146.59.13.133": {
-    "cc": "NO",
-    "country": "Norway",
-    "region": "Europe"
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": "52.2251,21.0477"
   },
   "146.90.114.217": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "Chelsea",
+    "coordinates": "51.4831,-0.1646"
   },
   "149.28.240.2": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": "32.7889,-96.8021"
   },
   "149.28.62.121": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Piscataway",
+    "coordinates": "40.5511,-74.4606"
   },
   "149.28.80.80": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": "34.0544,-118.244"
   },
   "15.185.149.206": {
-    "cc": "BH",
+    "region": "Asia",
     "country": "Bahrain",
-    "region": "Asia"
+    "cc": "BH",
+    "city": "Manama",
+    "coordinates": "26.2167,50.5833"
   },
   "15.206.27.77": {
-    "cc": "IN",
+    "region": "Asia",
     "country": "India",
-    "region": "Asia"
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": "19.076,72.8777"
   },
   "155.138.193.35": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Atlanta",
+    "coordinates": "33.7838,-84.4455"
   },
   "155.138.235.219": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Atlanta",
+    "coordinates": "33.7838,-84.4455"
   },
   "155.4.69.157": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": "57.7065,11.967"
   },
   "157.230.152.128": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Santa Clara",
+    "coordinates": "37.3417,-121.9753"
   },
   "158.101.195.75": {
-    "cc": "NL",
+    "region": "Europe",
     "country": "Netherlands",
-    "region": "Europe"
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": "52.352,4.9392"
   },
   "158.140.207.138": {
-    "cc": "AU",
+    "region": "Oceania",
     "country": "Australia",
-    "region": "Oceania"
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": "-37.8159,144.9669"
   },
   "158.174.255.11": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": "59.3274,18.0653"
   },
   "159.203.25.195": {
-    "cc": "CA",
+    "region": "North America",
     "country": "Canada",
-    "region": "Americas"
+    "cc": "CA",
+    "city": "Toronto",
+    "coordinates": "43.6547,-79.3623"
   },
   "159.65.230.186": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "North Bergen",
+    "coordinates": "40.793,-74.0247"
   },
   "159.65.65.221": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Santa Clara",
+    "coordinates": "37.3417,-121.9753"
   },
   "159.69.197.183": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Nuremberg",
+    "coordinates": "49.4521,11.0767"
   },
   "161.97.106.241": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Nuremberg",
+    "coordinates": "49.405,11.1617"
   },
   "162.248.92.183": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": "41.8868,-87.6386"
   },
   "162.248.94.117": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Seattle",
+    "coordinates": "47.6143,-122.339"
   },
   "163.172.90.127": {
-    "cc": "FR",
+    "region": "Europe",
     "country": "France",
-    "region": "Europe"
+    "cc": "FR",
+    "city": "Paris",
+    "coordinates": "48.8534,2.3488"
   },
   "163.47.21.45": {
-    "cc": "NZ",
+    "region": "Oceania",
     "country": "New Zealand",
-    "region": "Oceania"
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": "-36.8506,174.7679"
   },
   "165.227.101.81": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Clifton",
+    "coordinates": "40.8364,-74.1403"
   },
   "167.71.142.56": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "London",
+    "coordinates": "51.5368,-0.6718"
   },
   "168.61.175.143": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": "41.5908,-93.6208"
   },
   "169.197.182.39": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Plano",
+    "coordinates": "33.0468,-96.7109"
   },
   "172.104.153.148": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": "50.1188,8.6843"
   },
   "173.183.159.196": {
-    "cc": "CA",
+    "region": "North America",
     "country": "Canada",
-    "region": "Americas"
+    "cc": "CA",
+    "city": "Airdrie",
+    "coordinates": "51.3062,-114.0394"
   },
   "173.218.143.245": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": "35.7767,-90.7694"
   },
   "174.138.141.243": {
-    "cc": "CA",
+    "region": "North America",
     "country": "Canada",
-    "region": "Americas"
+    "cc": "CA",
+    "city": "Edmonton",
+    "coordinates": "53.5461,-113.494"
   },
   "176.210.100.6": {
+    "region": "Europe",
+    "country": "Russia",
     "cc": "RU",
-    "country": "Russian Federation",
-    "region": "Europe"
+    "city": "Omsk",
+    "coordinates": "54.9978,73.4001"
   },
   "177.71.158.196": {
-    "cc": "BR",
+    "region": "South America",
     "country": "Brazil",
-    "region": "Americas"
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": "-23.5505,-46.6333"
   },
   "178.164.113.57": {
-    "cc": "NO",
+    "region": "Europe",
     "country": "Norway",
-    "region": "Europe"
+    "cc": "NO",
+    "city": "Tiller",
+    "coordinates": "63.3335,10.3757"
   },
   "178.216.200.50": {
-    "cc": "PL",
+    "region": "Europe",
     "country": "Poland",
-    "region": "Europe"
+    "cc": "PL",
+    "city": "Poznan",
+    "coordinates": "52.3929,16.874"
   },
   "179.228.138.121": {
-    "cc": "BR",
+    "region": "South America",
     "country": "Brazil",
-    "region": "Americas"
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": "-23.6283,-46.6409"
   },
   "18.183.225.216": {
-    "cc": "JP",
+    "region": "Asia",
     "country": "Japan",
-    "region": "Asia"
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": "35.6895,139.692"
   },
   "18.196.7.115": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": "50.1109,8.68213"
   },
   "18.230.74.240": {
-    "cc": "BR",
+    "region": "South America",
     "country": "Brazil",
-    "region": "Americas"
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": "-23.5505,-46.6333"
   },
   "185.11.166.90": {
-    "cc": "PT",
+    "region": "Europe",
     "country": "Portugal",
-    "region": "Europe"
+    "cc": "PT",
+    "city": "Lisbon",
+    "coordinates": "38.7223,-9.13934"
   },
   "185.187.72.51": {
-    "cc": "HU",
+    "region": "Europe",
     "country": "Hungary",
-    "region": "Europe"
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": "47.4979,19.0402"
   },
   "185.189.48.45": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Hallstahammar",
+    "coordinates": "59.6129,16.2162"
   },
   "185.87.193.39": {
+    "region": "Europe",
+    "country": "Russia",
     "cc": "RU",
-    "country": "Russian Federation",
-    "region": "Europe"
+    "city": "Moscow",
+    "coordinates": "55.795,37.6014"
   },
   "188.166.0.137": {
-    "cc": "NL",
+    "region": "Europe",
     "country": "Netherlands",
-    "region": "Europe"
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": "52.352,4.9392"
   },
   "188.166.161.185": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": "50.1188,8.6843"
   },
   "188.166.3.138": {
-    "cc": "NL",
+    "region": "Europe",
     "country": "Netherlands",
-    "region": "Europe"
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": "52.352,4.9392"
   },
   "188.255.55.114": {
+    "region": "Europe",
+    "country": "Russia",
     "cc": "RU",
-    "country": "Russian Federation",
-    "region": "Europe"
+    "city": "Moscow",
+    "coordinates": "55.7483,37.6171"
   },
   "188.40.103.81": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Falkenstein",
+    "coordinates": "50.475,12.365"
   },
   "190.18.73.232": {
-    "cc": "AR",
+    "region": "South America",
     "country": "Argentina",
-    "region": "Americas"
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": "-34.6022,-58.3845"
   },
   "192.166.218.37": {
-    "cc": "PL",
+    "region": "Europe",
     "country": "Poland",
-    "region": "Europe"
+    "cc": "PL",
+    "city": "Lodz",
+    "coordinates": "51.775,19.456"
   },
   "193.11.31.124": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": "59.3274,18.0653"
   },
   "193.168.147.138": {
-    "cc": "FR",
+    "region": "Europe",
     "country": "France",
-    "region": "Europe"
+    "cc": "FR",
+    "city": "Nanterre",
+    "coordinates": "48.8909,2.2093"
   },
   "193.168.147.161": {
-    "cc": "FR",
+    "region": "Europe",
     "country": "France",
-    "region": "Europe"
+    "cc": "FR",
+    "city": "Nanterre",
+    "coordinates": "48.8909,2.2093"
   },
   "193.227.134.114": {
+    "region": "Europe",
+    "country": "Russia",
     "cc": "RU",
-    "country": "Russian Federation",
-    "region": "Europe"
+    "city": "Moscow",
+    "coordinates": "55.7731,37.8294"
   },
   "194.158.215.192": {
-    "cc": "BY",
+    "region": "Europe",
     "country": "Belarus",
-    "region": "Europe"
+    "cc": "BY",
+    "city": "Novo-Pashkovo",
+    "coordinates": "53.9567,30.2496"
   },
   "195.201.133.22": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Gunzenhausen",
+    "coordinates": "49.1156,10.7511"
   },
   "195.228.101.21": {
-    "cc": "HU",
+    "region": "Europe",
     "country": "Hungary",
-    "region": "Europe"
+    "cc": "HU",
+    "city": "Dobrokoz",
+    "coordinates": "46.4203,18.2366"
   },
   "195.56.148.203": {
-    "cc": "HU",
+    "region": "Europe",
     "country": "Hungary",
-    "region": "Europe"
+    "cc": "HU",
+    "city": "\u00c9rd",
+    "coordinates": "47.3876,18.8893"
   },
   "198.58.125.152": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Richardson",
+    "coordinates": "32.9473,-96.7028"
   },
   "20.106.48.249": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": "41.5908,-93.6208"
   },
   "20.125.113.83": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": "33.448376,-112.074036"
   },
   "20.245.213.126": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": "37.783,-122.417"
   },
   "20.38.33.59": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": "33.448376,-112.074036"
   },
   "20.51.107.74": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Quincy",
+    "coordinates": "47.233,-119.852"
   },
   "20.83.56.153": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": "41.5908,-93.6208"
   },
   "20.93.32.31": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": "53.3478,-6.2597"
   },
   "202.161.11.108": {
-    "cc": "AU",
+    "region": "Oceania",
     "country": "Australia",
-    "region": "Oceania"
+    "cc": "AU",
+    "city": "Tylden",
+    "coordinates": "-37.3394,144.3791"
   },
   "203.29.243.177": {
-    "cc": "AU",
+    "region": "Oceania",
     "country": "Australia",
-    "region": "Oceania"
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": "-31.8575,115.8913"
   },
   "206.51.245.84": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": "41.9703,-87.664"
   },
   "208.77.22.94": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": "41.871,-87.6289"
   },
   "210.54.39.19": {
-    "cc": "NZ",
+    "region": "Oceania",
     "country": "New Zealand",
-    "region": "Oceania"
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": "-36.8506,174.7679"
   },
   "212.13.203.166": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "London",
+    "coordinates": "51.5074,-0.127758"
   },
   "212.13.203.167": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "London",
+    "coordinates": "51.5074,-0.127758"
   },
   "212.42.38.88": {
+    "region": "Europe",
+    "country": "Russia",
     "cc": "RU",
-    "country": "Russian Federation",
-    "region": "Europe"
+    "city": "Moscow",
+    "coordinates": "55.7558,37.6173"
   },
   "213.115.54.131": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Link\u00f6ping",
+    "coordinates": "58.4016,15.6462"
   },
   "213.146.131.233": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "Leeds",
+    "coordinates": "53.8258,-1.5205"
   },
   "213.164.209.174": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": "55.6078,12.9982"
   },
   "213.239.216.253": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Nuremberg",
+    "coordinates": "49.4521,11.0767"
   },
   "213.4.33.27": {
-    "cc": "ES",
+    "region": "Europe",
     "country": "Spain",
-    "region": "Europe"
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": "40.5167,-3.66479"
   },
   "213.94.54.140": {
-    "cc": "ES",
+    "region": "Europe",
     "country": "Spain",
-    "region": "Europe"
+    "cc": "ES",
+    "city": "Bergondo",
+    "coordinates": "43.316,-8.2278"
   },
   "216.128.134.224": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": "32.7872,-96.7942"
   },
   "216.240.134.107": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Santa Clarita",
+    "coordinates": "34.4255,-118.425"
   },
   "217.160.44.209": {
-    "cc": "GB",
-    "country": "United Kingdom",
-    "region": "Europe"
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": "50.1109,8.68213"
   },
   "217.182.204.42": {
-    "cc": "FR",
+    "region": "Europe",
     "country": "France",
-    "region": "Europe"
+    "cc": "FR",
+    "city": "Gravelines",
+    "coordinates": "50.9871,2.12554"
   },
   "217.197.83.173": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": "52.5457,13.3651"
   },
   "217.215.138.225": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Vaestra Froelunda",
+    "coordinates": "57.6442,11.9332"
   },
   "221.121.157.22": {
-    "cc": "AU",
+    "region": "Oceania",
     "country": "Australia",
-    "region": "Oceania"
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": "-33.8688,151.209"
   },
   "223.165.64.141": {
-    "cc": "NZ",
+    "region": "Oceania",
     "country": "New Zealand",
-    "region": "Oceania"
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": "-36.8906,174.794"
   },
   "23.101.194.133": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": "37.783,-122.417"
   },
   "23.122.104.118": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Hot Springs",
+    "coordinates": "34.5392,-93.0653"
   },
   "23.22.56.152": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": "39.0438,-77.4874"
   },
   "23.227.170.216": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": "32.8137,-96.8704"
   },
   "23.227.170.222": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": "32.8137,-96.8704"
   },
   "23.99.68.109": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": "37.783,-122.417"
   },
   "3.235.93.21": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": "39.0438,-77.4874"
   },
   "3.84.74.69": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": "39.0438,-77.4874"
   },
   "34.129.203.130": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": "-37.8136,144.963"
   },
   "34.148.103.12": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "North Charleston",
+    "coordinates": "32.8771,-80.013"
   },
   "34.151.68.224": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": "-33.8688,151.2092"
   },
   "34.245.26.73": {
-    "cc": "IE",
+    "region": "Europe",
     "country": "Ireland",
-    "region": "Europe"
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": "53.3498,-6.26031"
   },
   "35.184.4.200": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": "41.2619,-95.8608"
   },
   "35.185.44.174": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "North Charleston",
+    "coordinates": "32.8771,-80.013"
   },
   "35.185.84.245": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "North Charleston",
+    "coordinates": "32.8771,-80.013"
   },
   "35.223.126.47": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": "41.2619,-95.8608"
   },
   "35.244.90.148": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": "-33.8688,151.2092"
   },
   "39.106.228.43": {
-    "cc": "CN",
+    "region": "Asia",
     "country": "China",
-    "region": "Asia"
+    "cc": "CN",
+    "city": "Beijing",
+    "coordinates": "39.9075,116.3972"
   },
   "4.15.251.248": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Broomfield",
+    "coordinates": "39.9209,-105.144"
   },
   "40.80.91.10": {
-    "cc": "IN",
+    "region": "Asia",
     "country": "India",
-    "region": "Asia"
+    "cc": "IN",
+    "city": "Pune",
+    "coordinates": "18.5144,73.864235"
   },
   "40.81.199.58": {
-    "cc": "JP",
+    "region": "Asia",
     "country": "Japan",
-    "region": "Asia"
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": "35.68,139.77"
   },
   "40.84.144.27": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "San Antonio",
+    "coordinates": "29.4167,-98.5"
   },
   "40.89.135.153": {
-    "cc": "FR",
+    "region": "Europe",
     "country": "France",
-    "region": "Europe"
+    "cc": "FR",
+    "city": "Paris",
+    "coordinates": "48.856567,2.347322"
   },
   "45.225.92.11": {
-    "cc": "CL",
+    "region": "South America",
     "country": "Chile",
-    "region": "Americas"
+    "cc": "CL",
+    "city": "Santiago",
+    "coordinates": "-33.4513,-70.6653"
   },
   "45.32.196.50": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": "32.7908,-96.8336"
   },
   "45.32.75.169": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": "34.0544,-118.244"
   },
   "45.33.29.156": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Richardson",
+    "coordinates": "32.9473,-96.7028"
   },
   "45.76.23.209": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Elk Grove Village",
+    "coordinates": "42.0048,-87.9954"
   },
   "45.76.45.12": {
-    "cc": "FR",
+    "region": "Europe",
     "country": "France",
-    "region": "Europe"
+    "cc": "FR",
+    "city": "Aubervilliers",
+    "coordinates": "48.9163,2.3869"
   },
   "45.76.56.39": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": "32.7889,-96.8021"
   },
   "45.77.197.170": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": "25.8119,-80.2318"
   },
   "45.79.149.60": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Cedar Knolls",
+    "coordinates": "40.8229,-74.4592"
   },
   "46.101.78.83": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "London",
+    "coordinates": "51.5368,-0.6718"
   },
   "46.227.68.148": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Hagersten",
+    "coordinates": "59.2885,17.9612"
   },
   "46.26.238.181": {
-    "cc": "ES",
+    "region": "Europe",
     "country": "Spain",
-    "region": "Europe"
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": "40.4163,-3.6934"
   },
   "5.253.62.53": {
+    "region": "Europe",
+    "country": "Russia",
     "cc": "RU",
-    "country": "Russian Federation",
-    "region": "Europe"
+    "city": "Moscow",
+    "coordinates": "55.7084,37.6528"
   },
   "5.9.62.13": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Falkenstein",
+    "coordinates": "50.475,12.365"
   },
   "5.9.82.79": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Falkenstein",
+    "coordinates": "50.475,12.365"
   },
   "51.15.121.7": {
-    "cc": "NL",
+    "region": "Europe",
     "country": "Netherlands",
-    "region": "Europe"
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": "52.3759,4.8975"
   },
   "51.210.10.181": {
-    "cc": "FR",
+    "region": "Europe",
     "country": "France",
-    "region": "Europe"
+    "cc": "FR",
+    "city": "Strasbourg",
+    "coordinates": "48.5734,7.75211"
   },
   "51.75.53.205": {
-    "cc": "PL",
+    "region": "Europe",
     "country": "Poland",
-    "region": "Europe"
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": "52.2251,21.0477"
   },
   "51.79.51.110": {
-    "cc": "CA",
+    "region": "North America",
     "country": "Canada",
-    "region": "Americas"
+    "cc": "CA",
+    "city": "Beauharnois",
+    "coordinates": "45.3151,-73.8779"
   },
   "51.83.128.107": {
-    "cc": "PL",
+    "region": "Europe",
     "country": "Poland",
-    "region": "Europe"
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": "52.2484,21.0026"
   },
   "51.91.103.142": {
-    "cc": "FR",
+    "region": "Europe",
     "country": "France",
-    "region": "Europe"
+    "cc": "FR",
+    "city": "Strasbourg",
+    "coordinates": "48.5734,7.75211"
   },
   "52.159.114.44": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": "41.8819,-87.6278"
   },
   "52.172.208.182": {
-    "cc": "IN",
+    "region": "Asia",
     "country": "India",
-    "region": "Asia"
+    "cc": "IN",
+    "city": "Pune",
+    "coordinates": "18.5144,73.864235"
   },
   "52.240.58.168": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Boydton",
+    "coordinates": "36.677696,-78.37471"
   },
   "52.59.193.229": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": "50.1109,8.68213"
   },
   "52.63.245.209": {
-    "cc": "AU",
+    "region": "Oceania",
     "country": "Australia",
-    "region": "Oceania"
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": "-33.8591,151.2002"
   },
   "52.67.74.216": {
-    "cc": "BR",
+    "region": "South America",
     "country": "Brazil",
-    "region": "Americas"
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": "-23.5505,-46.6333"
   },
   "52.89.197.170": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Portland",
+    "coordinates": "45.5235,-122.676"
   },
   "54.176.42.24": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": "37.3394,-121.895"
   },
   "54.193.7.210": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": "37.3394,-121.895"
   },
   "54.206.119.217": {
-    "cc": "AU",
+    "region": "Oceania",
     "country": "Australia",
-    "region": "Oceania"
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": "-33.8591,151.2002"
   },
   "54.232.250.209": {
-    "cc": "BR",
+    "region": "South America",
     "country": "Brazil",
-    "region": "Americas"
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": "-23.5505,-46.6333"
   },
   "54.94.165.196": {
-    "cc": "BR",
+    "region": "South America",
     "country": "Brazil",
-    "region": "Americas"
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": "-23.5505,-46.6333"
   },
   "62.163.0.183": {
-    "cc": "NL",
+    "region": "Europe",
     "country": "Netherlands",
-    "region": "Europe"
+    "cc": "NL",
+    "city": "Rotterdam",
+    "coordinates": "51.9281,4.5052"
   },
   "62.63.208.136": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "\u00c4ngelholm",
+    "coordinates": "56.2619,12.861"
   },
   "64.227.18.147": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "North Bergen",
+    "coordinates": "40.793,-74.0247"
   },
   "66.85.80.160": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": "41.8868,-87.6386"
   },
   "67.168.161.88": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Seattle",
+    "coordinates": "47.7346,-122.3479"
   },
   "67.177.38.122": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "West Jordan",
+    "coordinates": "40.6038,-112.0405"
   },
   "70.34.202.147": {
-    "cc": "US",
-    "country": "United States",
-    "region": "Americas"
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Spanga",
+    "coordinates": "59.3779,17.9155"
   },
   "72.83.103.37": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": "38.93,-77.35"
   },
   "72.89.204.228": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Bellmore",
+    "coordinates": "40.6737,-73.5336"
   },
   "73.23.136.10": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": "26.3771,-81.7334"
   },
   "73.38.102.191": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": "41.3908,-73.4483"
   },
   "73.88.59.191": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Chaska",
+    "coordinates": "44.8058,-93.6071"
   },
   "75.102.17.203": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": "41.8781,-87.6298"
   },
   "75.86.248.90": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": "45.0874,-87.6697"
   },
   "76.101.98.61": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Cape Coral",
+    "coordinates": "26.6284,-82.0197"
   },
   "78.141.238.193": {
-    "cc": "FR",
-    "country": "France",
-    "region": "Europe"
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": "51.5128,-0.0638"
   },
   "78.156.12.223": {
-    "cc": "NO",
+    "region": "Europe",
     "country": "Norway",
-    "region": "Europe"
+    "cc": "NO",
+    "city": "Trondheim",
+    "coordinates": "63.3923,10.3644"
   },
   "78.45.114.166": {
+    "region": "Europe",
+    "country": "Czechia",
     "cc": "CZ",
-    "country": "Czech Republic",
-    "region": "Europe"
+    "city": "Prague",
+    "coordinates": "50.0804,14.5045"
   },
   "78.72.217.85": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "\u00c4ngelholm",
+    "coordinates": "56.2619,12.861"
   },
   "79.139.57.116": {
-    "cc": "PL",
-    "country": "Poland",
-    "region": "Europe"
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Osku",
+    "coordinates": "47.16,18.0761"
   },
   "80.241.209.47": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Munich",
+    "coordinates": "48.1077,11.6091"
   },
   "82.141.152.3": {
-    "cc": "HU",
+    "region": "Europe",
     "country": "Hungary",
-    "region": "Europe"
+    "cc": "HU",
+    "city": "Budaors",
+    "coordinates": "47.4571,18.9356"
   },
   "82.146.57.57": {
+    "region": "Europe",
+    "country": "Russia",
     "cc": "RU",
-    "country": "Russian Federation",
-    "region": "Europe"
+    "city": "Skolkovo",
+    "coordinates": "55.6916,37.3474"
   },
   "82.196.2.206": {
-    "cc": "NL",
+    "region": "Europe",
     "country": "Netherlands",
-    "region": "Europe"
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": "52.3006,4.9479"
   },
   "84.187.40.190": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": "48.709,8.7399"
   },
   "84.83.171.254": {
-    "cc": "NL",
+    "region": "Europe",
     "country": "Netherlands",
-    "region": "Europe"
+    "cc": "NL",
+    "city": "Almere Stad",
+    "coordinates": "52.3866,5.2782"
   },
   "85.214.82.181": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": "52.5234,13.3224"
   },
   "86.3.237.198": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "London",
+    "coordinates": "51.456,-0.0611"
   },
   "88.198.221.98": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Falkenstein",
+    "coordinates": "50.475,12.365"
   },
   "88.90.185.28": {
-    "cc": "NO",
+    "region": "Europe",
     "country": "Norway",
-    "region": "Europe"
+    "cc": "NO",
+    "city": "Kristiansand",
+    "coordinates": "58.151,7.9882"
   },
   "88.90.221.229": {
-    "cc": "NO",
+    "region": "Europe",
     "country": "Norway",
-    "region": "Europe"
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": "59.955,10.859"
   },
   "89.239.25.13": {
+    "region": "Europe",
+    "country": "Czechia",
     "cc": "CZ",
-    "country": "Czech Republic",
-    "region": "Europe"
+    "city": "Kralupy nad Vltavou",
+    "coordinates": "50.2385,14.3263"
   },
   "89.44.10.24": {
-    "cc": "RO",
-    "country": "Romania",
-    "region": "Europe"
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": "-33.808,151.002"
   },
   "89.66.20.205": {
-    "cc": "PL",
+    "region": "Europe",
     "country": "Poland",
-    "region": "Europe"
+    "cc": "PL",
+    "city": "Tarn\u00f3w",
+    "coordinates": "50.0196,20.9853"
   },
   "91.102.91.59": {
-    "cc": "DK",
+    "region": "Europe",
     "country": "Denmark",
-    "region": "Europe"
+    "cc": "DK",
+    "city": "Albertslund Municipality",
+    "coordinates": "55.6596,12.3571"
   },
   "91.102.91.61": {
-    "cc": "DK",
+    "region": "Europe",
     "country": "Denmark",
-    "region": "Europe"
+    "cc": "DK",
+    "city": "Albertslund Municipality",
+    "coordinates": "55.6596,12.3571"
   },
   "91.206.14.17": {
+    "region": "Europe",
+    "country": "Russia",
     "cc": "RU",
-    "country": "Russian Federation",
-    "region": "Europe"
+    "city": "St Petersburg",
+    "coordinates": "59.9311,30.3609"
   },
   "91.66.4.41": {
-    "cc": "DE",
+    "region": "Europe",
     "country": "Germany",
-    "region": "Europe"
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": "52.5221,13.4814"
   },
   "92.32.156.157": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Timra",
+    "coordinates": "62.4909,17.3146"
   },
   "94.156.45.86": {
-    "cc": "BG",
-    "country": "Bulgaria",
-    "region": "Europe"
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": "52.1574,21.0126"
   },
   "94.16.128.193": {
-    "cc": "CH",
+    "region": "Europe",
     "country": "Switzerland",
-    "region": "Europe"
+    "cc": "CH",
+    "city": "Oberwil",
+    "coordinates": "47.5119,7.5579"
   },
   "94.254.94.4": {
-    "cc": "SE",
+    "region": "Europe",
     "country": "Sweden",
-    "region": "Europe"
+    "cc": "SE",
+    "city": "Lund",
+    "coordinates": "55.7037,13.1946"
   },
   "94.3.187.73": {
-    "cc": "GB",
+    "region": "Europe",
     "country": "United Kingdom",
-    "region": "Europe"
+    "cc": "GB",
+    "city": "Burton-on-Trent",
+    "coordinates": "52.7839,-1.6676"
   },
   "95.165.133.239": {
+    "region": "Europe",
+    "country": "Russia",
     "cc": "RU",
-    "country": "Russian Federation",
-    "region": "Europe"
+    "city": "Moscow",
+    "coordinates": "55.7483,37.6171"
   },
   "95.216.18.118": {
-    "cc": "FI",
+    "region": "Europe",
     "country": "Finland",
-    "region": "Europe"
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": "60.1719,24.9347"
   },
   "95.216.202.86": {
-    "cc": "FI",
+    "region": "Europe",
     "country": "Finland",
-    "region": "Europe"
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": "60.1719,24.9347"
   },
   "95.94.59.73": {
-    "cc": "PT",
+    "region": "Europe",
     "country": "Portugal",
-    "region": "Europe"
+    "cc": "PT",
+    "city": "Leiria",
+    "coordinates": "39.7495,-8.80768"
   },
   "99.47.21.158": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "San Mateo",
+    "coordinates": "37.5428,-122.2971"
   },
   "99.48.163.106": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Allen",
+    "coordinates": "33.0928,-96.6454"
   },
   "99.72.255.45": {
-    "cc": "US",
+    "region": "North America",
     "country": "United States",
-    "region": "Americas"
+    "cc": "US",
+    "city": "Memphis",
+    "coordinates": "35.1431,-90.0492"
   }
 }
