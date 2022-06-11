@@ -109,16 +109,6 @@
       -122.0004
     ]
   },
-  "107.2.98.142": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -230,6 +220,16 @@
     ]
   },
   "13.53.75.0": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
+    ]
+  },
+  "13.53.97.251": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -457,6 +457,16 @@
     "coordinates": [
       19.076,
       72.8777
+    ]
+  },
+  "152.171.135.68": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6022,
+      -58.3845
     ]
   },
   "152.249.4.252": {
@@ -887,16 +897,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "190.18.73.232": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6022,
-      -58.3845
     ]
   },
   "192.166.218.37": {
@@ -1889,16 +1889,6 @@
       -87.6386
     ]
   },
-  "67.177.38.122": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "West Jordan",
-    "coordinates": [
-      40.6038,
-      -112.0405
-    ]
-  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1939,14 +1929,14 @@
       -81.7334
     ]
   },
-  "73.38.102.191": {
+  "73.43.26.183": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Ridgefield",
+    "city": "Canton",
     "coordinates": [
-      41.2986,
-      -73.4941
+      34.2497,
+      -84.4894
     ]
   },
   "73.88.59.191": {
@@ -2007,16 +1997,6 @@
     "coordinates": [
       63.3923,
       10.3644
-    ]
-  },
-  "78.45.114.166": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0804,
-      14.5045
     ]
   },
   "78.45.9.248": {
@@ -2169,16 +2149,6 @@
       14.3263
     ]
   },
-  "89.44.10.30": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.808,
-      151.002
-    ]
-  },
   "89.66.20.205": {
     "region": "Europe",
     "country": "Poland",
@@ -2207,16 +2177,6 @@
     "coordinates": [
       55.6596,
       12.3571
-    ]
-  },
-  "91.152.201.65": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Nurmij\u00e4rvi",
-    "coordinates": [
-      60.4666,
-      24.8233
     ]
   },
   "91.206.14.17": {
@@ -2277,16 +2237,6 @@
     "coordinates": [
       55.7037,
       13.1946
-    ]
-  },
-  "94.3.187.73": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Derby",
-    "coordinates": [
-      52.926,
-      -1.4334
     ]
   },
   "95.165.133.239": {
