@@ -1,14 +1,4 @@
 {
-  "100.36.1.151": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Arlington",
-    "coordinates": [
-      38.8865,
-      -77.0911
-    ]
-  },
   "102.37.98.187": {
     "region": "Africa",
     "country": "South Africa",
@@ -39,7 +29,7 @@
       153.093
     ]
   },
-  "103.151.65.3": {
+  "103.151.65.226": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -107,16 +97,6 @@
     "coordinates": [
       37.5625,
       -122.0004
-    ]
-  },
-  "107.2.98.142": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "108.61.117.210": {
@@ -257,6 +237,16 @@
     "coordinates": [
       53.3478,
       -6.2597
+    ]
+  },
+  "130.242.114.28": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.342,
+      18.0623
     ]
   },
   "136.243.174.101": {
@@ -799,16 +789,6 @@
       37.6014
     ]
   },
-  "187.20.232.41": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -879,16 +859,6 @@
       19.456
     ]
   },
-  "193.11.31.124": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3274,
-      18.0653
-    ]
-  },
   "193.168.147.138": {
     "region": "Europe",
     "country": "France",
@@ -939,7 +909,7 @@
       10.7511
     ]
   },
-  "195.228.100.221": {
+  "195.228.100.92": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1089,14 +1059,14 @@
       -87.6289
     ]
   },
-  "209.226.41.181": {
+  "209.226.19.165": {
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Kanata",
+    "city": "Calabogie",
     "coordinates": [
-      45.3736,
-      -75.918
+      45.2744,
+      -76.7806
     ]
   },
   "210.54.39.19": {
@@ -1367,16 +1337,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "34.129.203.130": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8136,
-      144.963
     ]
   },
   "34.148.103.12": {
@@ -1809,6 +1769,16 @@
       -121.895
     ]
   },
+  "54.203.92.128": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Portland",
+    "coordinates": [
+      45.5235,
+      -122.676
+    ]
+  },
   "54.206.119.217": {
     "region": "Oceania",
     "country": "Australia",
@@ -1877,6 +1847,16 @@
     "coordinates": [
       41.8868,
       -87.6386
+    ]
+  },
+  "67.168.161.88": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seattle",
+    "coordinates": [
+      47.7346,
+      -122.3479
     ]
   },
   "70.34.202.147": {
@@ -2129,16 +2109,6 @@
       14.3263
     ]
   },
-  "89.44.10.24": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.808,
-      151.002
-    ]
-  },
   "89.66.20.205": {
     "region": "Europe",
     "country": "Poland",
@@ -2167,6 +2137,16 @@
     "coordinates": [
       55.6596,
       12.3571
+    ]
+  },
+  "91.152.201.65": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Nurmij\u00e4rvi",
+    "coordinates": [
+      60.4666,
+      24.8233
     ]
   },
   "91.206.14.17": {
