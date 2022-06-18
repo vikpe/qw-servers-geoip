@@ -109,6 +109,16 @@
       -122.0004
     ]
   },
+  "107.2.98.142": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -209,16 +219,6 @@
       28.0473
     ]
   },
-  "13.51.47.117": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
-    ]
-  },
   "13.53.75.0": {
     "region": "Europe",
     "country": "Sweden",
@@ -275,8 +275,8 @@
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.2484,
-      21.0026
+      52.2296,
+      21.0067
     ]
   },
   "138.197.111.29": {
@@ -405,8 +405,8 @@
     "cc": "GB",
     "city": "Craigavon",
     "coordinates": [
-      54.4539,
-      -6.383
+      54.385,
+      -6.3282
     ]
   },
   "149.28.240.2": {
@@ -457,26 +457,6 @@
     "coordinates": [
       19.076,
       72.8777
-    ]
-  },
-  "152.171.135.68": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6022,
-      -58.3845
-    ]
-  },
-  "152.249.4.252": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Sorocaba",
-    "coordinates": [
-      -23.4736,
-      -47.4425
     ]
   },
   "155.138.193.35": {
@@ -577,26 +557,6 @@
     "coordinates": [
       37.3417,
       -121.9753
-    ]
-  },
-  "159.69.197.183": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Nuremberg",
-    "coordinates": [
-      49.4521,
-      11.0767
-    ]
-  },
-  "161.97.106.241": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Nuremberg",
-    "coordinates": [
-      49.405,
-      11.1617
     ]
   },
   "162.248.92.183": {
@@ -705,8 +665,8 @@
     "cc": "US",
     "city": "Jonesboro",
     "coordinates": [
-      35.7767,
-      -90.7694
+      35.8308,
+      -90.7023
     ]
   },
   "174.138.141.243": {
@@ -839,7 +799,7 @@
       37.6014
     ]
   },
-  "187.20.128.10": {
+  "187.20.232.41": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -897,6 +857,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "190.18.73.173": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6022,
+      -58.3845
     ]
   },
   "192.166.218.37": {
@@ -1099,6 +1069,16 @@
       -87.664
     ]
   },
+  "207.148.5.197": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
+    ]
+  },
   "208.77.22.94": {
     "region": "North America",
     "country": "United States",
@@ -1107,6 +1087,16 @@
     "coordinates": [
       41.871,
       -87.6289
+    ]
+  },
+  "209.226.41.181": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Kanata",
+    "coordinates": [
+      45.3736,
+      -75.918
     ]
   },
   "210.54.39.19": {
@@ -1347,6 +1337,16 @@
     "coordinates": [
       37.783,
       -122.417
+    ]
+  },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "3.235.93.21": {
@@ -1715,8 +1715,8 @@
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.2484,
-      21.0026
+      52.2296,
+      21.0067
     ]
   },
   "51.91.103.142": {
@@ -1809,16 +1809,6 @@
       -121.895
     ]
   },
-  "54.193.7.210": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
-    ]
-  },
   "54.206.119.217": {
     "region": "Oceania",
     "country": "Australia",
@@ -1849,14 +1839,14 @@
       -46.6333
     ]
   },
-  "62.163.0.183": {
+  "62.195.93.97": {
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
     "city": "Rotterdam",
     "coordinates": [
-      51.9281,
-      4.5052
+      51.9179,
+      4.4901
     ]
   },
   "62.63.208.136": {
@@ -1929,16 +1919,6 @@
       -81.7334
     ]
   },
-  "73.43.26.183": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Canton",
-    "coordinates": [
-      34.2497,
-      -84.4894
-    ]
-  },
   "73.88.59.191": {
     "region": "North America",
     "country": "United States",
@@ -2005,8 +1985,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0804,
-      14.5045
+      50.0761,
+      14.4479
     ]
   },
   "78.72.217.85": {
@@ -2085,8 +2065,8 @@
     "cc": "NL",
     "city": "Almere Stad",
     "coordinates": [
-      52.3698,
-      5.213
+      52.3631,
+      5.2139
     ]
   },
   "85.214.82.181": {
@@ -2149,6 +2129,16 @@
       14.3263
     ]
   },
+  "89.44.10.24": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.808,
+      151.002
+    ]
+  },
   "89.66.20.205": {
     "region": "Europe",
     "country": "Poland",
@@ -2197,16 +2187,6 @@
     "coordinates": [
       52.5221,
       13.4814
-    ]
-  },
-  "92.32.156.157": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3772,
-      17.3203
     ]
   },
   "94.156.45.86": {
@@ -2287,16 +2267,6 @@
     "coordinates": [
       37.5428,
       -122.2971
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.8646,
-      -96.7884
     ]
   },
   "99.72.255.45": {
