@@ -59,16 +59,6 @@
       151.2006
     ]
   },
-  "104.197.7.196": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -97,6 +87,16 @@
     "coordinates": [
       37.5625,
       -122.0004
+    ]
+  },
+  "107.2.98.142": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
     ]
   },
   "108.61.117.210": {
@@ -189,14 +189,34 @@
       4.9392
     ]
   },
-  "13.245.236.222": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Johannesburg",
+  "129.159.254.9": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
     "coordinates": [
-      -26.2041,
-      28.0473
+      50.1049,
+      8.6295
+    ]
+  },
+  "13.211.135.153": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
+    ]
+  },
+  "13.52.245.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
     ]
   },
   "13.53.75.0": {
@@ -377,16 +397,6 @@
     "coordinates": [
       51.9134,
       4.46847
-    ]
-  },
-  "146.59.13.133": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2251,
-      21.0477
     ]
   },
   "146.90.114.217": {
@@ -639,6 +649,16 @@
       8.6843
     ]
   },
+  "174.102.195.161": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
+    ]
+  },
   "174.138.141.243": {
     "region": "North America",
     "country": "Canada",
@@ -657,6 +677,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.57.189.225": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "D\u00fcsseldorf",
+    "coordinates": [
+      51.1878,
+      6.8607
     ]
   },
   "177.71.158.196": {
@@ -779,6 +809,16 @@
       37.6014
     ]
   },
+  "187.20.107.38": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
+    ]
+  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -829,7 +869,7 @@
       12.365
     ]
   },
-  "190.18.73.173": {
+  "190.192.110.31": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -937,26 +977,6 @@
     "coordinates": [
       41.5908,
       -93.6208
-    ]
-  },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
-  "20.245.213.126": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
     ]
   },
   "20.38.33.59": {
@@ -1239,14 +1259,14 @@
       -122.417
     ]
   },
-  "23.122.104.118": {
+  "23.17.148.107": {
     "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Little Rock",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Airdrie",
     "coordinates": [
-      34.6848,
-      -92.2813
+      51.3062,
+      -114.0394
     ]
   },
   "23.22.56.152": {
@@ -1347,6 +1367,16 @@
     "coordinates": [
       53.3498,
       -6.26031
+    ]
+  },
+  "34.68.231.95": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "35.184.4.200": {
@@ -1459,6 +1489,16 @@
       2.347322
     ]
   },
+  "41.216.201.198": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": [
+      -26.3811,
+      27.8376
+    ]
+  },
   "45.225.92.11": {
     "region": "South America",
     "country": "Chile",
@@ -1569,14 +1609,24 @@
       17.9612
     ]
   },
-  "5.253.62.53": {
+  "46.26.238.181": {
     "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
     "coordinates": [
-      55.7084,
-      37.6528
+      40.4163,
+      -3.6934
+    ]
+  },
+  "5.240.66.111": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3333,
+      18.05
     ]
   },
   "5.9.62.13": {
@@ -1597,16 +1647,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "50.99.19.110": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Edmonton",
-    "coordinates": [
-      53.5185,
-      -113.6579
     ]
   },
   "51.15.121.7": {
@@ -1739,16 +1779,6 @@
       -122.676
     ]
   },
-  "54.176.42.24": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
-    ]
-  },
   "54.203.92.128": {
     "region": "North America",
     "country": "United States",
@@ -1757,16 +1787,6 @@
     "coordinates": [
       45.5235,
       -122.676
-    ]
-  },
-  "54.206.119.217": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
     ]
   },
   "54.232.250.209": {
@@ -1849,6 +1869,16 @@
       17.9155
     ]
   },
+  "71.94.115.153": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "South Beloit",
+    "coordinates": [
+      42.4832,
+      -89.027
+    ]
+  },
   "72.83.103.37": {
     "region": "North America",
     "country": "United States",
@@ -1915,8 +1945,8 @@
     "cc": "US",
     "city": "Cape Coral",
     "coordinates": [
-      26.6284,
-      -82.0197
+      26.6909,
+      -81.9483
     ]
   },
   "78.141.238.193": {
@@ -1969,6 +1999,16 @@
       18.0761
     ]
   },
+  "79.229.113.232": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1109,
+      8.68213
+    ]
+  },
   "80.241.209.47": {
     "region": "Europe",
     "country": "Germany",
@@ -2019,14 +2059,14 @@
       -2.5419
     ]
   },
-  "83.95.185.41": {
+  "84.187.42.76": {
     "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Randers",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
     "coordinates": [
-      56.4422,
-      10.1127
+      48.709,
+      8.7399
     ]
   },
   "84.83.171.254": {
@@ -2129,16 +2169,6 @@
       30.3609
     ]
   },
-  "91.55.93.39": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "91.66.4.41": {
     "region": "Europe",
     "country": "Germany",
@@ -2149,16 +2179,6 @@
       13.4814
     ]
   },
-  "94.156.45.86": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.1574,
-      21.0126
-    ]
-  },
   "94.16.128.193": {
     "region": "Europe",
     "country": "Switzerland",
@@ -2167,6 +2187,16 @@
     "coordinates": [
       47.5119,
       7.5579
+    ]
+  },
+  "94.254.94.4": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lund",
+    "coordinates": [
+      55.7037,
+      13.1946
     ]
   },
   "95.165.133.239": {
@@ -2217,6 +2247,16 @@
     "coordinates": [
       37.5428,
       -122.2971
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.8646,
+      -96.7884
     ]
   },
   "99.72.255.45": {
