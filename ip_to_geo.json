@@ -89,6 +89,16 @@
       151.2006
     ]
   },
+  "104.205.71.211": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Airdrie",
+    "coordinates": [
+      51.3062,
+      -114.0394
+    ]
+  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -117,16 +127,6 @@
     "coordinates": [
       37.5625,
       -122.0004
-    ]
-  },
-  "107.2.98.142": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "108.61.117.210": {
@@ -219,6 +219,16 @@
       4.9392
     ]
   },
+  "129.213.49.75": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.018,
+      -77.539
+    ]
+  },
   "13.51.107.238": {
     "region": "Europe",
     "country": "Sweden",
@@ -273,10 +283,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Frankfurt am Main",
+    "city": "Falkenstein",
     "coordinates": [
-      50.1084,
-      8.6841
+      50.475,
+      12.365
     ]
   },
   "137.74.7.185": {
@@ -399,6 +409,16 @@
       4.46847
     ]
   },
+  "146.59.13.133": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2251,
+      21.0477
+    ]
+  },
   "146.90.114.217": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -499,14 +519,24 @@
       4.9392
     ]
   },
+  "158.140.207.138": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Gothenburg",
     "coordinates": [
-      59.3287,
-      18.0717
+      57.7065,
+      11.967
     ]
   },
   "158.174.255.214": {
@@ -547,6 +577,16 @@
     "coordinates": [
       37.3417,
       -121.9753
+    ]
+  },
+  "161.97.106.241": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Nuremberg",
+    "coordinates": [
+      49.405,
+      11.1617
     ]
   },
   "162.248.92.183": {
@@ -699,6 +739,16 @@
       16.874
     ]
   },
+  "179.174.50.61": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.6283,
+      -46.6409
+    ]
+  },
   "179.228.138.121": {
     "region": "South America",
     "country": "Brazil",
@@ -779,6 +829,16 @@
       16.2162
     ]
   },
+  "185.251.89.15": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "St Petersburg",
+    "coordinates": [
+      59.99,
+      30.2571
+    ]
+  },
   "185.87.193.39": {
     "region": "Europe",
     "country": "Russia",
@@ -787,16 +847,6 @@
     "coordinates": [
       55.795,
       37.6014
-    ]
-  },
-  "187.20.107.38": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -893,10 +943,10 @@
     "region": "Europe",
     "country": "Belarus",
     "cc": "BY",
-    "city": "Novo-Pashkovo",
+    "city": "Minsk",
     "coordinates": [
-      53.9567,
-      30.2496
+      53.9007,
+      27.5709
     ]
   },
   "195.201.133.22": {
@@ -939,6 +989,16 @@
       -93.6208
     ]
   },
+  "20.125.113.83": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
+    ]
+  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -947,6 +1007,16 @@
     "coordinates": [
       53.3478,
       -6.2597
+    ]
+  },
+  "20.245.213.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": [
+      37.783,
+      -122.417
     ]
   },
   "20.38.33.59": {
@@ -1019,26 +1089,6 @@
       174.7679
     ]
   },
-  "212.13.203.166": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5074,
-      -0.127758
-    ]
-  },
-  "212.13.203.167": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5074,
-      -0.127758
-    ]
-  },
   "212.14.115.49": {
     "region": "Europe",
     "country": "Spain",
@@ -1087,16 +1137,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "213.178.118.23": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Kecskem\u00e9t",
-    "coordinates": [
-      46.905,
-      19.6958
     ]
   },
   "213.239.216.253": {
@@ -1149,6 +1189,16 @@
       8.38571
     ]
   },
+  "217.163.11.95": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Cradley Heath",
+    "coordinates": [
+      52.4721,
+      -2.08212
+    ]
+  },
   "217.182.204.42": {
     "region": "Europe",
     "country": "France",
@@ -1165,8 +1215,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.5521,
-      13.4103
+      52.5457,
+      13.3651
     ]
   },
   "217.215.138.225": {
@@ -1209,14 +1259,14 @@
       -122.417
     ]
   },
-  "23.17.148.107": {
+  "23.122.104.118": {
     "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Airdrie",
+    "country": "United States",
+    "cc": "US",
+    "city": "Little Rock",
     "coordinates": [
-      51.3062,
-      -114.0394
+      34.6848,
+      -92.2813
     ]
   },
   "23.22.56.152": {
@@ -1269,14 +1319,14 @@
       -79.7249
     ]
   },
-  "24.24.133.238": {
+  "3.22.223.203": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Sun Valley",
+    "city": "Dublin",
     "coordinates": [
-      34.2183,
-      -118.3718
+      40.0992,
+      -83.1141
     ]
   },
   "3.235.93.21": {
@@ -1309,6 +1359,16 @@
       -77.4874
     ]
   },
+  "31.46.217.63": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "S\u00e1toralja\u00fajhely",
+    "coordinates": [
+      48.3945,
+      21.6626
+    ]
+  },
   "34.129.203.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -1337,6 +1397,16 @@
     "coordinates": [
       -33.8688,
       151.2092
+    ]
+  },
+  "34.170.88.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "34.245.26.73": {
@@ -1377,16 +1447,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.224.206.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.244.90.148": {
@@ -1579,24 +1639,14 @@
       17.9612
     ]
   },
-  "46.26.238.181": {
+  "46.249.253.75": {
     "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Trondheim",
     "coordinates": [
-      40.4163,
-      -3.6934
-    ]
-  },
-  "5.240.66.111": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Arvika",
-    "coordinates": [
-      59.6549,
-      12.5921
+      63.4282,
+      10.4209
     ]
   },
   "5.9.62.13": {
@@ -1749,16 +1799,6 @@
       -122.676
     ]
   },
-  "54.177.109.4": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
-    ]
-  },
   "54.203.92.128": {
     "region": "North America",
     "country": "United States",
@@ -1859,14 +1899,24 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
+  "73.132.25.92": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Petaluma",
+    "city": "Elkton",
     "coordinates": [
-      38.2478,
-      -122.6192
+      39.6249,
+      -75.8351
+    ]
+  },
+  "73.23.136.10": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.43.26.183": {
@@ -1907,26 +1957,6 @@
     "coordinates": [
       26.6284,
       -82.0197
-    ]
-  },
-  "78.141.238.193": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5128,
-      -0.0638
-    ]
-  },
-  "78.156.12.223": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Trondheim",
-    "coordinates": [
-      63.3923,
-      10.3179
     ]
   },
   "78.45.9.248": {
@@ -1997,6 +2027,16 @@
     "coordinates": [
       51.4351,
       -2.5419
+    ]
+  },
+  "83.95.185.41": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Randers",
+    "coordinates": [
+      56.4835,
+      10.0844
     ]
   },
   "84.39.252.192": {
@@ -2109,14 +2149,14 @@
       30.3609
     ]
   },
-  "91.55.69.124": {
+  "91.55.85.160": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Calw",
+    "city": "Neubulach",
     "coordinates": [
-      48.709,
-      8.7399
+      48.6649,
+      8.6905
     ]
   },
   "91.66.4.41": {
