@@ -289,16 +289,6 @@
       12.365
     ]
   },
-  "136.244.64.144": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "City of London",
-    "coordinates": [
-      51.5204,
-      -0.0727822
-    ]
-  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -417,6 +407,16 @@
     "coordinates": [
       52.2251,
       21.0477
+    ]
+  },
+  "146.90.114.135": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Craigavon",
+    "coordinates": [
+      54.4539,
+      -6.383
     ]
   },
   "146.90.114.217": {
@@ -555,8 +555,8 @@
     "cc": "CA",
     "city": "Toronto",
     "coordinates": [
-      43.6547,
-      -79.3623
+      43.6655,
+      -79.4204
     ]
   },
   "159.65.230.186": {
@@ -679,6 +679,16 @@
       -0.02
     ]
   },
+  "174.102.195.91": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
+    ]
+  },
   "174.138.141.243": {
     "region": "North America",
     "country": "Canada",
@@ -723,10 +733,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Hommelvik",
+    "city": "Saksvik",
     "coordinates": [
-      63.4068,
-      10.7848
+      63.4417,
+      10.5927
     ]
   },
   "178.216.200.50": {
@@ -757,6 +767,16 @@
     "coordinates": [
       50.1109,
       8.68213
+    ]
+  },
+  "181.222.238.222": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
+    "coordinates": [
+      -19.0233,
+      -48.3348
     ]
   },
   "182.239.206.197": {
@@ -809,7 +829,7 @@
       37.6014
     ]
   },
-  "187.20.127.178": {
+  "187.20.127.240": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -859,7 +879,7 @@
       37.6171
     ]
   },
-  "188.36.132.48": {
+  "188.36.131.10": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -967,6 +987,16 @@
     "coordinates": [
       41.5908,
       -93.6208
+    ]
+  },
+  "20.125.113.83": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
     ]
   },
   "20.13.149.88": {
@@ -1093,10 +1123,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Leeds",
+    "city": "Worcestershire",
     "coordinates": [
-      53.7945,
-      -1.5524
+      52.1707,
+      -2.1676
     ]
   },
   "213.164.209.174": {
@@ -1195,8 +1225,8 @@
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -33.8688,
-      151.209
+      -33.8715,
+      151.2006
     ]
   },
   "223.165.64.141": {
@@ -1277,6 +1307,16 @@
     "coordinates": [
       37.783,
       -122.417
+    ]
+  },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "3.235.93.21": {
@@ -1529,16 +1569,6 @@
       -96.8021
     ]
   },
-  "45.77.197.170": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.8119,
-      -80.2318
-    ]
-  },
   "46.101.78.83": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1565,8 +1595,28 @@
     "cc": "NO",
     "city": "Trondheim",
     "coordinates": [
-      63.4282,
-      10.4209
+      63.4213,
+      10.3468
+    ]
+  },
+  "5.189.221.11": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2265,
+      21.0097
+    ]
+  },
+  "5.198.71.75": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Hull",
+    "coordinates": [
+      53.7606,
+      -0.3734
     ]
   },
   "5.9.62.13": {
@@ -1799,6 +1849,16 @@
       17.9155
     ]
   },
+  "72.18.132.133": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      39.7501,
+      -104.9957
+    ]
+  },
   "72.83.103.37": {
     "region": "North America",
     "country": "United States",
@@ -1817,16 +1877,6 @@
     "coordinates": [
       39.6249,
       -75.8351
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.136.10": {
@@ -1877,16 +1927,6 @@
     "coordinates": [
       26.6292,
       -81.968
-    ]
-  },
-  "76.174.246.217": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0757,
-      -118.3161
     ]
   },
   "78.45.9.248": {
@@ -1949,6 +1989,16 @@
       4.9479
     ]
   },
+  "82.37.57.73": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Bristol",
+    "coordinates": [
+      51.4351,
+      -2.5419
+    ]
+  },
   "83.95.185.41": {
     "region": "Europe",
     "country": "Denmark",
@@ -1995,18 +2045,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.4643,
-      -0.0119
-    ]
-  },
-  "87.189.62.126": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
+      51.4805,
+      -0.0113
     ]
   },
   "88.198.221.98": {
@@ -2049,7 +2089,7 @@
       14.4479
     ]
   },
-  "89.44.10.24": {
+  "89.44.10.21": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -2063,10 +2103,10 @@
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Tarn\u00f3w",
+    "city": "D\u0105browa G\u00f3rnicza",
     "coordinates": [
-      50.0196,
-      20.9853
+      50.3491,
+      19.253
     ]
   },
   "91.102.91.59": {
@@ -2097,6 +2137,16 @@
     "coordinates": [
       59.9311,
       30.3609
+    ]
+  },
+  "91.55.65.27": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "91.66.4.41": {
@@ -2185,8 +2235,8 @@
     "cc": "US",
     "city": "Madison",
     "coordinates": [
-      43.0725,
-      -89.4491
+      43.0628,
+      -89.3171
     ]
   }
 }
