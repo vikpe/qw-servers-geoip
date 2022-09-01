@@ -459,6 +459,16 @@
       -46.6333
     ]
   },
+  "151.60.37.72": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
+    ]
+  },
   "155.138.193.35": {
     "region": "North America",
     "country": "United States",
@@ -499,6 +509,16 @@
       4.9392
     ]
   },
+  "158.101.2.215": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
+    ]
+  },
   "158.140.207.138": {
     "region": "Oceania",
     "country": "Australia",
@@ -507,6 +527,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "158.174.105.9": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Upplands Vasby",
+    "coordinates": [
+      59.5174,
+      17.9217
     ]
   },
   "158.174.255.11": {
@@ -557,6 +587,16 @@
     "coordinates": [
       37.3417,
       -121.9753
+    ]
+  },
+  "16.171.43.116": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
     ]
   },
   "161.97.106.241": {
@@ -879,7 +919,7 @@
       37.6171
     ]
   },
-  "188.36.131.10": {
+  "188.36.135.32": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -989,16 +1029,6 @@
       -93.6208
     ]
   },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1007,16 +1037,6 @@
     "coordinates": [
       53.3478,
       -6.2597
-    ]
-  },
-  "20.245.213.126": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
     ]
   },
   "20.38.33.59": {
@@ -1229,6 +1249,16 @@
       11.9332
     ]
   },
+  "217.74.2.199": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Lappersdorf",
+    "coordinates": [
+      49.0492,
+      12.0939
+    ]
+  },
   "221.121.157.22": {
     "region": "Oceania",
     "country": "Australia",
@@ -1437,16 +1467,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "37.24.231.94": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Rheinfelden",
-    "coordinates": [
-      47.5739,
-      7.7867
     ]
   },
   "39.106.228.43": {
@@ -1859,6 +1879,16 @@
       -77.35
     ]
   },
+  "73.107.66.37": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fort Myers",
+    "coordinates": [
+      26.6681,
+      -81.7646
+    ]
+  },
   "73.132.25.92": {
     "region": "North America",
     "country": "United States",
@@ -1877,16 +1907,6 @@
     "coordinates": [
       26.3771,
       -81.7334
-    ]
-  },
-  "73.43.26.183": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Canton",
-    "coordinates": [
-      34.2497,
-      -84.4894
     ]
   },
   "73.88.59.191": {
@@ -1909,16 +1929,6 @@
       -87.6298
     ]
   },
-  "76.101.98.61": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cape Coral",
-    "coordinates": [
-      26.6292,
-      -81.968
-    ]
-  },
   "78.45.9.248": {
     "region": "Europe",
     "country": "Czechia",
@@ -1927,16 +1937,6 @@
     "coordinates": [
       50.0761,
       14.4479
-    ]
-  },
-  "78.72.217.85": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Astorp",
-    "coordinates": [
-      56.1349,
-      12.9349
     ]
   },
   "79.139.57.116": {
@@ -2079,6 +2079,16 @@
       14.4479
     ]
   },
+  "89.44.10.21": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.808,
+      151.002
+    ]
+  },
   "89.66.15.99": {
     "region": "Europe",
     "country": "Poland",
@@ -2159,6 +2169,16 @@
       7.5556
     ]
   },
+  "94.254.2.158": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Limhamn",
+    "coordinates": [
+      55.5811,
+      12.9553
+    ]
+  },
   "95.165.130.151": {
     "region": "Europe",
     "country": "Russia",
@@ -2207,16 +2227,6 @@
     "coordinates": [
       37.5428,
       -122.2971
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Frisco",
-    "coordinates": [
-      33.1494,
-      -96.828
     ]
   },
   "99.72.255.45": {
