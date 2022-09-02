@@ -289,6 +289,16 @@
       12.365
     ]
   },
+  "136.244.67.152": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "City of London",
+    "coordinates": [
+      51.5204,
+      -0.0727822
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -457,6 +467,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "151.32.99.31": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
     ]
   },
   "151.60.37.72": {
@@ -729,6 +749,16 @@
       73.4001
     ]
   },
+  "176.215.13.160": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Yekaterinburg",
+    "coordinates": [
+      56.8439,
+      60.6524
+    ]
+  },
   "176.57.189.225": {
     "region": "Europe",
     "country": "Germany",
@@ -989,6 +1019,16 @@
       30.2496
     ]
   },
+  "194.38.96.52": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Recsk",
+    "coordinates": [
+      47.9351,
+      20.1221
+    ]
+  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1247,16 +1287,6 @@
     "coordinates": [
       57.6442,
       11.9332
-    ]
-  },
-  "217.74.2.199": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Lappersdorf",
-    "coordinates": [
-      49.0492,
-      12.0939
     ]
   },
   "221.121.157.22": {
@@ -1639,14 +1669,14 @@
       12.365
     ]
   },
-  "50.47.190.39": {
+  "50.47.147.169": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Everett",
     "coordinates": [
-      47.979,
-      -122.202
+      47.9425,
+      -122.2139
     ]
   },
   "51.210.10.181": {
@@ -1889,7 +1919,7 @@
       -81.7646
     ]
   },
-  "73.132.25.92": {
+  "73.200.253.55": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -2079,7 +2109,7 @@
       14.4479
     ]
   },
-  "89.44.10.21": {
+  "89.44.10.20": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
