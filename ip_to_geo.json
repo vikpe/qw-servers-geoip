@@ -119,6 +119,16 @@
       -122.3838
     ]
   },
+  "107.2.98.142": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -479,16 +489,6 @@
       7.6639
     ]
   },
-  "151.60.37.72": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
-    ]
-  },
   "155.138.193.35": {
     "region": "North America",
     "country": "United States",
@@ -827,16 +827,6 @@
     "coordinates": [
       50.1109,
       8.68213
-    ]
-  },
-  "181.222.238.222": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
     ]
   },
   "182.239.206.197": {
@@ -1289,6 +1279,16 @@
       11.9332
     ]
   },
+  "217.74.2.199": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Lappersdorf",
+    "coordinates": [
+      49.0492,
+      12.0939
+    ]
+  },
   "221.121.157.22": {
     "region": "Oceania",
     "country": "Australia",
@@ -1497,6 +1497,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "37.103.172.118": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
     ]
   },
   "39.106.228.43": {
@@ -2107,16 +2117,6 @@
     "coordinates": [
       50.0761,
       14.4479
-    ]
-  },
-  "89.44.10.20": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.808,
-      151.002
     ]
   },
   "89.66.15.99": {
