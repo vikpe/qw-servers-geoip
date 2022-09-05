@@ -119,16 +119,6 @@
       -122.3838
     ]
   },
-  "107.2.98.142": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -477,16 +467,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "151.32.99.31": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
     ]
   },
   "155.138.193.35": {
@@ -1059,6 +1039,16 @@
       -93.6208
     ]
   },
+  "20.125.113.83": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
+    ]
+  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1067,6 +1057,16 @@
     "coordinates": [
       53.3478,
       -6.2597
+    ]
+  },
+  "20.245.213.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": [
+      37.783,
+      -122.417
     ]
   },
   "20.38.33.59": {
@@ -1219,7 +1219,7 @@
       -3.66479
     ]
   },
-  "213.94.54.40": {
+  "213.94.55.45": {
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
@@ -1277,16 +1277,6 @@
     "coordinates": [
       57.6442,
       11.9332
-    ]
-  },
-  "217.74.2.199": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Lappersdorf",
-    "coordinates": [
-      49.0492,
-      12.0939
     ]
   },
   "221.121.157.22": {
@@ -1377,6 +1367,16 @@
     "coordinates": [
       37.783,
       -122.417
+    ]
+  },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "3.235.93.21": {
@@ -1679,14 +1679,14 @@
       12.365
     ]
   },
-  "50.47.147.169": {
+  "50.47.188.210": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Everett",
     "coordinates": [
-      47.9425,
-      -122.2139
+      47.979,
+      -122.202
     ]
   },
   "51.210.10.181": {
@@ -1939,6 +1939,16 @@
       -75.8351
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.136.10": {
     "region": "North America",
     "country": "United States",
@@ -2067,6 +2077,16 @@
     "coordinates": [
       52.5234,
       13.3224
+    ]
+  },
+  "85.24.203.30": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Trollh\u00e4ttan",
+    "coordinates": [
+      58.2854,
+      12.2816
     ]
   },
   "86.3.237.198": {
@@ -2237,6 +2257,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "95.94.59.73": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Coimbra",
+    "coordinates": [
+      40.2057,
+      -8.4213
     ]
   },
   "99.242.149.60": {
