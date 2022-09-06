@@ -199,6 +199,16 @@
       11.0767
     ]
   },
+  "122.57.67.210": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": [
+      -36.8506,
+      174.7679
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -859,16 +869,6 @@
       37.6014
     ]
   },
-  "187.20.127.240": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
-    ]
-  },
   "188.113.111.129": {
     "region": "Europe",
     "country": "Norway",
@@ -1037,16 +1037,6 @@
     "coordinates": [
       41.5908,
       -93.6208
-    ]
-  },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
     ]
   },
   "20.13.149.88": {
@@ -1279,6 +1269,16 @@
       11.9332
     ]
   },
+  "217.74.2.199": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Lappersdorf",
+    "coordinates": [
+      49.0492,
+      12.0939
+    ]
+  },
   "221.121.157.22": {
     "region": "Oceania",
     "country": "Australia",
@@ -1367,16 +1367,6 @@
     "coordinates": [
       37.783,
       -122.417
-    ]
-  },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
     ]
   },
   "3.235.93.21": {
@@ -1679,14 +1669,14 @@
       12.365
     ]
   },
-  "50.47.188.210": {
+  "50.54.159.215": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Everett",
+    "city": "Lynnwood",
     "coordinates": [
-      47.979,
-      -122.202
+      47.8534,
+      -122.2438
     ]
   },
   "51.210.10.181": {
@@ -1929,26 +1919,6 @@
       -81.7646
     ]
   },
-  "73.200.253.55": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elkton",
-    "coordinates": [
-      39.6249,
-      -75.8351
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.136.10": {
     "region": "North America",
     "country": "United States",
@@ -2027,16 +1997,6 @@
     "coordinates": [
       52.3006,
       4.9479
-    ]
-  },
-  "82.37.57.73": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Bristol",
-    "coordinates": [
-      51.4351,
-      -2.5419
     ]
   },
   "83.95.185.41": {
@@ -2167,6 +2127,16 @@
     "coordinates": [
       55.6596,
       12.3571
+    ]
+  },
+  "91.152.201.65": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Nurmij\u00e4rvi",
+    "coordinates": [
+      60.4666,
+      24.8233
     ]
   },
   "91.206.14.17": {
