@@ -9,16 +9,6 @@
       -75.296
     ]
   },
-  "100.36.1.151": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Arlington",
-    "coordinates": [
-      38.8865,
-      -77.0911
-    ]
-  },
   "102.37.98.187": {
     "region": "Africa",
     "country": "South Africa",
@@ -197,16 +187,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "122.57.67.210": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8506,
-      174.7679
     ]
   },
   "128.199.52.100": {
@@ -477,6 +457,26 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "151.32.204.162": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
+    ]
+  },
+  "151.60.50.11": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
     ]
   },
   "155.138.193.35": {
@@ -789,6 +789,16 @@
       16.874
     ]
   },
+  "178.66.157.61": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "St Petersburg",
+    "coordinates": [
+      59.8983,
+      30.2618
+    ]
+  },
   "179.228.138.121": {
     "region": "South America",
     "country": "Brazil",
@@ -817,6 +827,16 @@
     "coordinates": [
       50.1109,
       8.68213
+    ]
+  },
+  "181.222.238.222": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
+    "coordinates": [
+      -19.0233,
+      -48.3348
     ]
   },
   "182.239.206.197": {
@@ -869,6 +889,16 @@
       37.6014
     ]
   },
+  "187.20.105.76": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
+    ]
+  },
   "188.113.111.129": {
     "region": "Europe",
     "country": "Norway",
@@ -919,7 +949,7 @@
       37.6171
     ]
   },
-  "188.36.135.32": {
+  "188.36.134.155": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1047,16 +1077,6 @@
     "coordinates": [
       53.3478,
       -6.2597
-    ]
-  },
-  "20.245.213.126": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
     ]
   },
   "20.38.33.59": {
@@ -1489,16 +1509,6 @@
       -80.013
     ]
   },
-  "37.103.172.118": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
-    ]
-  },
   "39.106.228.43": {
     "region": "Asia",
     "country": "China",
@@ -1667,16 +1677,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "50.54.159.215": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lynnwood",
-    "coordinates": [
-      47.8534,
-      -122.2438
     ]
   },
   "51.210.10.181": {
@@ -1919,6 +1919,16 @@
       -81.7646
     ]
   },
+  "73.200.253.55": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elkton",
+    "coordinates": [
+      39.6249,
+      -75.8351
+    ]
+  },
   "73.23.136.10": {
     "region": "North America",
     "country": "United States",
@@ -2039,16 +2049,6 @@
       13.3224
     ]
   },
-  "85.24.203.30": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Trollh\u00e4ttan",
-    "coordinates": [
-      58.2854,
-      12.2816
-    ]
-  },
   "86.3.237.198": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -2097,6 +2097,16 @@
     "coordinates": [
       50.0761,
       14.4479
+    ]
+  },
+  "89.44.10.74": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8679,
+      151.207
     ]
   },
   "89.66.15.99": {
