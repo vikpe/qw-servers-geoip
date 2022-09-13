@@ -229,16 +229,6 @@
       -77.539
     ]
   },
-  "13.51.107.238": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
-    ]
-  },
   "13.53.75.0": {
     "region": "Europe",
     "country": "Sweden",
@@ -729,16 +719,6 @@
       60.6524
     ]
   },
-  "176.57.189.225": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "D\u00fcsseldorf",
-    "coordinates": [
-      51.1878,
-      6.8607
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -1039,16 +1019,6 @@
       -93.6208
     ]
   },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1057,16 +1027,6 @@
     "coordinates": [
       53.3478,
       -6.2597
-    ]
-  },
-  "20.245.213.126": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
     ]
   },
   "20.38.33.59": {
@@ -1929,16 +1889,6 @@
       -81.7334
     ]
   },
-  "73.250.214.166": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Frederick",
-    "coordinates": [
-      39.3641,
-      -77.4622
-    ]
-  },
   "73.88.59.191": {
     "region": "North America",
     "country": "United States",
@@ -2029,6 +1979,16 @@
       10.0274
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Orenburg",
+    "coordinates": [
+      51.7898,
+      55.0984
+    ]
+  },
   "84.83.171.254": {
     "region": "Europe",
     "country": "Netherlands",
@@ -2057,6 +2017,16 @@
     "coordinates": [
       51.4647,
       -0.0509
+    ]
+  },
+  "87.189.56.148": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "88.198.221.98": {
@@ -2139,6 +2109,16 @@
       12.3571
     ]
   },
+  "91.152.201.65": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Nurmij\u00e4rvi",
+    "coordinates": [
+      60.4666,
+      24.8233
+    ]
+  },
   "91.206.14.17": {
     "region": "Europe",
     "country": "Russia",
@@ -2147,16 +2127,6 @@
     "coordinates": [
       59.9311,
       30.3609
-    ]
-  },
-  "91.55.65.27": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "91.66.4.41": {
