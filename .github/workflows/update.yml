@@ -16,10 +16,10 @@ jobs:
         with:
           python-version: '3.8'
           cache: 'pip'
-      - run: pip install -r requirements.txt
+      - run: pip install requests
 
       - name: Update geo data
-        run: python3 scripts/update.py
+        run: python3 update.py
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
