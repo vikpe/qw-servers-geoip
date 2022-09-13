@@ -3,7 +3,7 @@
 > IP to geo location for QuakeWorld servers
 
 The file [`ip_to_geo.json`](./ip_to_geo.json) is a mapping of QuakeWorld server IPs (collected from master servers) to
-geographical information.
+geographical information. Updated automatically on a daily basis at `06:00`.
 
 ## Sample content
 
