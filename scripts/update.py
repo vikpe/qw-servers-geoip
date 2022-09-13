@@ -1,19 +1,18 @@
 import json
-import os
-import subprocess
-import requests
-
 from typing import List
+
+import requests
 
 
 def get_ips_from_masters(masters: List[str]) -> List[str]:
-    cmd = f"./masterstat {' '.join(masters)} > servers.txt"
-    subprocess.call(cmd, shell=True)
+    server_addresses = []
 
-    with open("servers.txt", "r") as fp:
-        server_addresses = fp.read().strip().splitlines()
+    for master in masters:
+        api_url = f"https://hubapi.quakeworld.nu/v2/masters/{master}"
+        res = requests.get(api_url)
 
-    os.remove("servers.txt")
+        if res.ok:
+            server_addresses += res.json()
 
     server_ips = []
 
@@ -51,7 +50,7 @@ def get_ip_to_geo_map(ips: List[str]) -> dict:
 
 if __name__ == '__main__':
     masters = [
-        "master.quakeworld.nu:27000",
+        "master:27000",  # master.quakeworld.nu:27000
         "master.quakeservers.net:27000",
         "qwmaster.ocrana.de:27000",
         "qwmaster.fodquake.net:27000",
