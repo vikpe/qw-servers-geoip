@@ -229,6 +229,16 @@
       -77.539
     ]
   },
+  "13.51.107.238": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
+    ]
+  },
   "13.53.75.0": {
     "region": "Europe",
     "country": "Sweden",
@@ -677,6 +687,16 @@
     "coordinates": [
       33.0468,
       -96.7109
+    ]
+  },
+  "173.75.50.99": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Monroeville",
+    "coordinates": [
+      40.4242,
+      -79.7658
     ]
   },
   "174.102.195.91": {
@@ -2107,16 +2127,6 @@
     "coordinates": [
       55.6596,
       12.3571
-    ]
-  },
-  "91.152.201.65": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Nurmij\u00e4rvi",
-    "coordinates": [
-      60.4666,
-      24.8233
     ]
   },
   "91.206.14.17": {
