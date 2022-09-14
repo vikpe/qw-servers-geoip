@@ -16,7 +16,6 @@ jobs:
         with:
           python-version: '3.8'
           cache: 'pip'
-      - run: pip install requests
 
       - name: Update geo data
         run: python3 update.py
