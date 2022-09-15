@@ -1,5 +1,5 @@
 {
-  "100.11.123.208": {
+  "100.11.100.96": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -109,6 +109,16 @@
       -74.4606
     ]
   },
+  "104.215.103.222": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Antonio",
+    "coordinates": [
+      29.4167,
+      -98.5
+    ]
+  },
   "104.236.169.23": {
     "region": "North America",
     "country": "United States",
@@ -159,16 +169,6 @@
       -96.8336
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -197,16 +197,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "122.57.67.210": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8867,
-      174.769
     ]
   },
   "128.199.52.100": {
@@ -919,14 +909,14 @@
       37.6171
     ]
   },
-  "188.36.134.155": {
+  "188.36.129.211": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Csurgo",
+    "city": "Balatonlelle",
     "coordinates": [
-      46.2539,
-      17.0955
+      46.7841,
+      17.6892
     ]
   },
   "188.40.103.81": {
@@ -1277,16 +1267,6 @@
     "coordinates": [
       57.6442,
       11.9332
-    ]
-  },
-  "217.74.2.199": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Lappersdorf",
-    "coordinates": [
-      49.0492,
-      12.0939
     ]
   },
   "221.121.157.22": {
@@ -2017,16 +1997,6 @@
     "coordinates": [
       56.4565,
       10.0274
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Orenburg",
-    "coordinates": [
-      51.7898,
-      55.0984
     ]
   },
   "84.83.171.254": {
