@@ -169,6 +169,16 @@
       -96.8336
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -207,16 +217,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "129.213.49.75": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.018,
-      -77.539
     ]
   },
   "13.51.107.238": {
@@ -1049,6 +1049,16 @@
       -6.2597
     ]
   },
+  "20.243.122.16": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": [
+      35.68,
+      139.77
+    ]
+  },
   "20.245.213.126": {
     "region": "North America",
     "country": "United States",
@@ -1087,6 +1097,16 @@
     "coordinates": [
       41.5908,
       -93.6208
+    ]
+  },
+  "202.138.72.104": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "203.29.242.112": {
@@ -1899,16 +1919,6 @@
       -75.8351
     ]
   },
-  "73.23.136.10": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.88.59.191": {
     "region": "North America",
     "country": "United States",
@@ -2117,6 +2127,16 @@
     "coordinates": [
       55.6596,
       12.3571
+    ]
+  },
+  "91.152.201.65": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Nurmij\u00e4rvi",
+    "coordinates": [
+      60.4666,
+      24.8233
     ]
   },
   "91.206.14.17": {
