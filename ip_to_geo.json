@@ -535,8 +535,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "158.174.255.214": {
@@ -545,8 +545,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "159.203.25.195": {
@@ -743,10 +743,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Hommelvik",
+    "city": "Saksvik",
     "coordinates": [
-      63.4068,
-      10.7848
+      63.4417,
+      10.5927
     ]
   },
   "178.216.200.50": {
@@ -803,10 +803,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Darley",
+    "city": "Bacchus Marsh",
     "coordinates": [
-      -37.6517,
-      144.4296
+      -37.6709,
+      144.4278
     ]
   },
   "185.11.166.90": {
@@ -1009,6 +1009,16 @@
       18.8893
     ]
   },
+  "195.93.181.253": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7483,
+      37.6373
+    ]
+  },
   "198.58.125.152": {
     "region": "North America",
     "country": "United States",
@@ -1060,6 +1070,16 @@
     ]
   },
   "20.245.213.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": [
+      37.783,
+      -122.417
+    ]
+  },
+  "20.245.6.70": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1529,16 +1549,6 @@
       73.864235
     ]
   },
-  "40.81.199.58": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.68,
-      139.77
-    ]
-  },
   "40.84.144.27": {
     "region": "North America",
     "country": "United States",
@@ -1845,8 +1855,8 @@
     "cc": "NL",
     "city": "Rotterdam",
     "coordinates": [
-      51.9179,
-      4.4901
+      51.9281,
+      4.5052
     ]
   },
   "64.227.18.147": {
@@ -2009,6 +2019,16 @@
       10.0274
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Orenburg",
+    "coordinates": [
+      51.7898,
+      55.0984
+    ]
+  },
   "84.83.171.254": {
     "region": "Europe",
     "country": "Netherlands",
@@ -2035,8 +2055,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.4647,
-      -0.0509
+      51.4402,
+      -0.0259
     ]
   },
   "87.189.56.148": {
@@ -2129,16 +2149,6 @@
       12.3571
     ]
   },
-  "91.152.201.65": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Nurmij\u00e4rvi",
-    "coordinates": [
-      60.4666,
-      24.8233
-    ]
-  },
   "91.206.14.17": {
     "region": "Europe",
     "country": "Russia",
@@ -2177,16 +2187,6 @@
     "coordinates": [
       47.5053,
       7.5477
-    ]
-  },
-  "94.254.2.158": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "95.165.130.151": {
