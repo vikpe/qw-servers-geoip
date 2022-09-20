@@ -109,16 +109,6 @@
       -74.4606
     ]
   },
-  "104.215.103.222": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Antonio",
-    "coordinates": [
-      29.4167,
-      -98.5
-    ]
-  },
   "104.236.169.23": {
     "region": "North America",
     "country": "United States",
@@ -247,6 +237,16 @@
     "coordinates": [
       53.3478,
       -6.2597
+    ]
+  },
+  "13.89.226.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
     ]
   },
   "130.242.114.28": {
@@ -429,14 +429,14 @@
       -46.6333
     ]
   },
-  "151.33.146.35": {
+  "151.60.33.82": {
     "region": "Europe",
     "country": "Italy",
     "cc": "IT",
-    "city": "Turin",
+    "city": "Aosta",
     "coordinates": [
-      45.0914,
-      7.6639
+      45.7355,
+      7.322
     ]
   },
   "152.67.46.27": {
@@ -839,16 +839,6 @@
       37.6014
     ]
   },
-  "187.20.130.60": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
-    ]
-  },
   "188.113.111.129": {
     "region": "Europe",
     "country": "Norway",
@@ -917,16 +907,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "192.166.218.37": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2297,
-      21.0122
     ]
   },
   "193.168.147.138": {
@@ -1019,6 +999,16 @@
       -96.7028
     ]
   },
+  "199.247.1.190": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1103,
+      8.7147
+    ]
+  },
   "20.106.48.249": {
     "region": "North America",
     "country": "United States",
@@ -1049,26 +1039,6 @@
       -6.2597
     ]
   },
-  "20.236.88.72": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8819,
-      -87.6278
-    ]
-  },
-  "20.243.122.16": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.68,
-      139.77
-    ]
-  },
   "20.245.213.126": {
     "region": "North America",
     "country": "United States",
@@ -1089,16 +1059,6 @@
       -122.417
     ]
   },
-  "20.38.33.59": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
   "20.51.107.74": {
     "region": "North America",
     "country": "United States",
@@ -1109,16 +1069,6 @@
       -119.852
     ]
   },
-  "20.83.56.153": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "202.138.72.104": {
     "region": "Oceania",
     "country": "Australia",
@@ -1127,16 +1077,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "203.29.242.112": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.8575,
-      115.8913
     ]
   },
   "203.29.243.177": {
@@ -1329,16 +1269,6 @@
       174.794
     ]
   },
-  "23.101.194.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
-    ]
-  },
   "23.122.104.118": {
     "region": "North America",
     "country": "United States",
@@ -1387,16 +1317,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "23.99.68.109": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
     ]
   },
   "3.235.93.21": {
@@ -1719,16 +1639,6 @@
       7.75211
     ]
   },
-  "52.119.113.217": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.7958,
-      -122.4203
-    ]
-  },
   "52.159.114.44": {
     "region": "North America",
     "country": "United States",
@@ -1929,16 +1839,6 @@
       -75.8351
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.136.10": {
     "region": "North America",
     "country": "United States",
@@ -2079,7 +1979,7 @@
       -0.0259
     ]
   },
-  "87.189.56.148": {
+  "87.189.56.226": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2127,6 +2027,16 @@
     "coordinates": [
       50.2385,
       14.3263
+    ]
+  },
+  "89.44.10.70": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8679,
+      151.207
     ]
   },
   "89.66.15.99": {
