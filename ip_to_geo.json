@@ -15,8 +15,8 @@
     "cc": "US",
     "city": "Arlington",
     "coordinates": [
-      38.8865,
-      -77.0911
+      38.9064,
+      -77.1278
     ]
   },
   "102.37.98.187": {
@@ -137,6 +137,16 @@
     "coordinates": [
       40.5569,
       -74.4847
+    ]
+  },
+  "108.61.178.207": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.117,
+      8.72785
     ]
   },
   "108.61.204.55": {
@@ -373,10 +383,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Craigavon",
+    "city": "Hereford",
     "coordinates": [
-      54.4539,
-      -6.383
+      52.1811,
+      -2.8001
     ]
   },
   "149.28.240.2": {
@@ -427,16 +437,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "151.33.128.138": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
     ]
   },
   "155.138.193.35": {
@@ -673,10 +673,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Monroeville",
+    "city": "Pittsburgh",
     "coordinates": [
-      40.4242,
-      -79.7658
+      40.476,
+      -79.7355
     ]
   },
   "174.102.195.91": {
@@ -837,6 +837,16 @@
     "coordinates": [
       55.795,
       37.6014
+    ]
+  },
+  "187.20.127.5": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
     ]
   },
   "188.113.111.129": {
@@ -1017,6 +1027,16 @@
     "coordinates": [
       41.5908,
       -93.6208
+    ]
+  },
+  "20.125.113.83": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
     ]
   },
   "20.13.149.88": {
@@ -1407,6 +1427,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "37.103.136.133": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
     ]
   },
   "39.106.228.43": {
@@ -1853,10 +1883,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Burnsville",
+    "city": "Saint Paul",
     "coordinates": [
-      44.7601,
-      -93.2748
+      44.7843,
+      -93.2201
     ]
   },
   "75.102.17.203": {
@@ -1925,8 +1955,8 @@
     "cc": "DK",
     "city": "Randers",
     "coordinates": [
-      56.4565,
-      10.0274
+      56.4488,
+      10.1155
     ]
   },
   "84.39.252.192": {
@@ -1959,14 +1989,24 @@
       13.3224
     ]
   },
+  "85.243.210.41": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Canico",
+    "coordinates": [
+      32.6803,
+      -16.8195
+    ]
+  },
   "86.3.237.198": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.4402,
-      -0.0259
+      51.4643,
+      -0.0119
     ]
   },
   "87.189.56.226": {
@@ -2013,10 +2053,10 @@
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "Kralupy nad Vltavou",
+    "city": "Prague",
     "coordinates": [
-      50.2385,
-      14.3263
+      50.0761,
+      14.4479
     ]
   },
   "89.44.10.70": {
@@ -2083,20 +2123,20 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Chester",
+    "city": "Buckley",
     "coordinates": [
-      53.2402,
-      -2.9088
+      53.1971,
+      -3.031
     ]
   },
   "94.16.128.193": {
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Therwil",
+    "city": "Oberwil",
     "coordinates": [
-      47.5053,
-      7.5477
+      47.5119,
+      7.5579
     ]
   },
   "95.165.130.151": {
