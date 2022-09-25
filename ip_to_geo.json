@@ -159,6 +159,16 @@
       -96.8336
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -427,6 +437,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "152.67.46.27": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
     ]
   },
   "155.138.193.35": {
@@ -1619,6 +1639,16 @@
       12.365
     ]
   },
+  "50.47.174.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lynnwood",
+    "coordinates": [
+      47.8534,
+      -122.2438
+    ]
+  },
   "51.210.10.181": {
     "region": "Europe",
     "country": "France",
@@ -1837,16 +1867,6 @@
     "coordinates": [
       59.3779,
       17.9155
-    ]
-  },
-  "72.18.132.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.7501,
-      -104.9957
     ]
   },
   "72.83.103.37": {
