@@ -949,6 +949,16 @@
       12.365
     ]
   },
+  "192.166.218.37": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2297,
+      21.0122
+    ]
+  },
   "193.168.147.138": {
     "region": "Europe",
     "country": "France",
@@ -1049,16 +1059,6 @@
       -93.6208
     ]
   },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1097,16 +1097,6 @@
     "coordinates": [
       47.233,
       -119.852
-    ]
-  },
-  "202.138.72.104": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
     ]
   },
   "203.29.243.177": {
@@ -1267,6 +1257,16 @@
     "coordinates": [
       57.6442,
       11.9332
+    ]
+  },
+  "217.74.2.199": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Lappersdorf",
+    "coordinates": [
+      49.0492,
+      12.0939
     ]
   },
   "221.121.157.22": {
@@ -1887,16 +1887,6 @@
     "coordinates": [
       39.6249,
       -75.8351
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.136.10": {
