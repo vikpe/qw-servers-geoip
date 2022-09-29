@@ -119,6 +119,16 @@
       -122.3838
     ]
   },
+  "107.2.98.142": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -197,16 +207,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "119.12.229.154": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Santiago de Compostela",
-    "coordinates": [
-      42.8769,
-      -8.5471
     ]
   },
   "128.199.52.100": {
@@ -449,14 +449,14 @@
       -46.6333
     ]
   },
-  "151.32.52.19": {
+  "151.32.110.207": {
     "region": "Europe",
     "country": "Italy",
     "cc": "IT",
-    "city": "Turin",
+    "city": "Grugliasco",
     "coordinates": [
-      45.0914,
-      7.6639
+      45.0662,
+      7.5756
     ]
   },
   "152.67.46.27": {
@@ -929,14 +929,14 @@
       4.9392
     ]
   },
-  "188.36.132.154": {
+  "188.36.135.48": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Balatonboglar",
+    "city": "Csurgo",
     "coordinates": [
-      46.7783,
-      17.6405
+      46.2539,
+      17.0955
     ]
   },
   "188.40.103.81": {
@@ -1179,6 +1179,16 @@
       174.764
     ]
   },
+  "212.14.114.174": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Ames",
+    "coordinates": [
+      42.9,
+      -8.6333
+    ]
+  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1357,6 +1367,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.24.133.238": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
     ]
   },
   "3.235.93.21": {
@@ -1649,14 +1669,14 @@
       12.365
     ]
   },
-  "50.47.174.19": {
+  "50.47.180.71": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lynnwood",
+    "city": "Everett",
     "coordinates": [
-      47.8534,
-      -122.2438
+      47.9005,
+      -122.2472
     ]
   },
   "51.210.10.181": {
@@ -1889,16 +1909,6 @@
       -77.35
     ]
   },
-  "73.107.66.37": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fort Myers",
-    "coordinates": [
-      26.6681,
-      -81.7646
-    ]
-  },
   "73.200.253.55": {
     "region": "North America",
     "country": "United States",
@@ -1907,16 +1917,6 @@
     "coordinates": [
       39.6249,
       -75.8351
-    ]
-  },
-  "73.23.136.10": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.88.59.191": {
@@ -1999,6 +1999,16 @@
       10.1155
     ]
   },
+  "84.187.47.90": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -2047,16 +2057,6 @@
     "coordinates": [
       51.4643,
       -0.0119
-    ]
-  },
-  "87.189.56.226": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "88.198.221.98": {
@@ -2217,16 +2217,6 @@
     "coordinates": [
       37.5428,
       -122.2971
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7889,
-      -96.8021
     ]
   },
   "99.72.255.45": {
