@@ -549,6 +549,16 @@
       10.4814
     ]
   },
+  "158.51.98.215": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Schaumburg",
+    "coordinates": [
+      42.0128,
+      -88.0967
+    ]
+  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -1029,16 +1039,6 @@
       -96.7028
     ]
   },
-  "199.168.232.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
-    ]
-  },
   "199.247.1.190": {
     "region": "Europe",
     "country": "Germany",
@@ -1239,6 +1239,16 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.5167,
+      -3.66479
+    ]
+  },
   "216.128.134.224": {
     "region": "North America",
     "country": "United States",
@@ -1367,6 +1377,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.24.133.238": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
     ]
   },
   "3.235.93.21": {
@@ -1657,6 +1677,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "50.47.180.71": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Everett",
+    "coordinates": [
+      47.9856,
+      -122.2002
     ]
   },
   "51.210.10.181": {
@@ -2077,6 +2107,16 @@
     "coordinates": [
       50.2385,
       14.3263
+    ]
+  },
+  "89.44.10.76": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8679,
+      151.207
     ]
   },
   "91.102.91.59": {
