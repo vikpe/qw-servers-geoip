@@ -369,6 +369,16 @@
       -46.6361
     ]
   },
+  "146.59.13.133": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2251,
+      21.0477
+    ]
+  },
   "146.90.114.135": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -909,14 +919,14 @@
       8.6843
     ]
   },
-  "188.36.135.48": {
+  "188.36.129.27": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Csurgo",
+    "city": "Balatonlelle",
     "coordinates": [
-      46.2539,
-      17.0955
+      46.7841,
+      17.6892
     ]
   },
   "188.40.103.81": {
@@ -1349,16 +1359,6 @@
       -96.797
     ]
   },
-  "24.24.133.238": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
-    ]
-  },
   "3.235.93.21": {
     "region": "North America",
     "country": "United States",
@@ -1429,6 +1429,16 @@
       -6.26031
     ]
   },
+  "34.68.81.125": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.184.4.200": {
     "region": "North America",
     "country": "United States",
@@ -1457,26 +1467,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.226.32.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
-  "37.103.168.70": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
     ]
   },
   "39.106.228.43": {
@@ -1909,16 +1899,6 @@
       -75.8351
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.88.59.191": {
     "region": "North America",
     "country": "United States",
@@ -2057,6 +2037,16 @@
     "coordinates": [
       51.4402,
       -0.0259
+    ]
+  },
+  "88.133.233.238": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Straubing",
+    "coordinates": [
+      48.8859,
+      12.5724
     ]
   },
   "88.198.221.98": {
