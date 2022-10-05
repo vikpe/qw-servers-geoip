@@ -919,16 +919,6 @@
       8.6843
     ]
   },
-  "188.36.129.27": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Balatonlelle",
-    "coordinates": [
-      46.7841,
-      17.6892
-    ]
-  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -1199,16 +1189,6 @@
       15.2838
     ]
   },
-  "213.146.131.233": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Birmingham",
-    "coordinates": [
-      52.506,
-      -1.8846
-    ]
-  },
   "213.164.209.174": {
     "region": "Europe",
     "country": "Sweden",
@@ -1277,16 +1257,6 @@
     "coordinates": [
       52.4875,
       13.3992
-    ]
-  },
-  "217.215.138.225": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Vaestra Froelunda",
-    "coordinates": [
-      57.6442,
-      11.9332
     ]
   },
   "221.121.157.22": {
@@ -1609,6 +1579,16 @@
       17.9612
     ]
   },
+  "47.184.33.160": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Carrollton",
+    "coordinates": [
+      33.0036,
+      -96.8834
+    ]
+  },
   "5.189.221.11": {
     "region": "Europe",
     "country": "Poland",
@@ -1929,6 +1909,16 @@
       14.4479
     ]
   },
+  "78.92.236.187": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Mosonmagyar\u00f3v\u00e1r",
+    "coordinates": [
+      47.8702,
+      17.2816
+    ]
+  },
   "79.139.57.116": {
     "region": "Europe",
     "country": "Hungary",
@@ -1977,16 +1967,6 @@
     "coordinates": [
       56.4565,
       10.0274
-    ]
-  },
-  "84.187.47.90": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "84.39.252.192": {
@@ -2039,14 +2019,14 @@
       -0.0259
     ]
   },
-  "88.133.233.238": {
+  "87.189.54.13": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Straubing",
+    "city": "Calw",
     "coordinates": [
-      48.8859,
-      12.5724
+      48.709,
+      8.7399
     ]
   },
   "88.198.221.98": {
