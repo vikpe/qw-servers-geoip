@@ -1329,6 +1329,16 @@
       -96.797
     ]
   },
+  "24.24.133.238": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
+    ]
+  },
   "3.235.93.21": {
     "region": "North America",
     "country": "United States",
@@ -1699,16 +1709,6 @@
       -87.6278
     ]
   },
-  "52.172.208.182": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Pune",
-    "coordinates": [
-      18.5144,
-      73.864235
-    ]
-  },
   "52.240.58.168": {
     "region": "North America",
     "country": "United States",
@@ -1839,6 +1839,16 @@
       -87.6386
     ]
   },
+  "68.183.127.4": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Bergen",
+    "coordinates": [
+      40.793,
+      -74.0247
+    ]
+  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1959,6 +1969,16 @@
       4.9479
     ]
   },
+  "83.233.65.26": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "V\u00e4ster\u00e5s",
+    "coordinates": [
+      59.6146,
+      16.5528
+    ]
+  },
   "83.95.185.41": {
     "region": "Europe",
     "country": "Denmark",
@@ -2047,6 +2067,16 @@
     "coordinates": [
       58.151,
       7.9882
+    ]
+  },
+  "89.151.207.164": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Overhalla",
+    "coordinates": [
+      64.4853,
+      11.9687
     ]
   },
   "89.239.25.13": {
@@ -2177,6 +2207,16 @@
     "coordinates": [
       37.5428,
       -122.2971
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
     ]
   },
   "99.72.255.45": {
