@@ -439,6 +439,16 @@
       -46.6333
     ]
   },
+  "151.60.186.70": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
+    ]
+  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -657,6 +667,16 @@
     "coordinates": [
       40.8364,
       -74.1403
+    ]
+  },
+  "165.227.198.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Bergen",
+    "coordinates": [
+      40.793,
+      -74.0247
     ]
   },
   "167.71.142.56": {
@@ -1019,6 +1039,16 @@
       -96.7028
     ]
   },
+  "199.168.232.14": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.871,
+      -87.6289
+    ]
+  },
   "199.247.1.190": {
     "region": "Europe",
     "country": "Germany",
@@ -1327,16 +1357,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.24.133.238": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
     ]
   },
   "3.235.93.21": {
@@ -1967,16 +1987,6 @@
     "coordinates": [
       52.3006,
       4.9479
-    ]
-  },
-  "83.233.65.26": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "V\u00e4ster\u00e5s",
-    "coordinates": [
-      59.6146,
-      16.5528
     ]
   },
   "83.95.185.41": {
