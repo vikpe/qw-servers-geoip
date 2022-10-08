@@ -159,16 +159,6 @@
       -96.8021
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1359,6 +1349,16 @@
       -96.797
     ]
   },
+  "24.24.133.238": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
+    ]
+  },
   "3.235.93.21": {
     "region": "North America",
     "country": "United States",
@@ -1939,7 +1939,7 @@
       14.4479
     ]
   },
-  "78.92.236.187": {
+  "78.92.236.247": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
