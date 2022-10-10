@@ -50,7 +50,7 @@ def get_ip_to_geo_map(ips: List[str]) -> dict:
 
 if __name__ == '__main__':
     masters = [
-        "master:27000",  # master.quakeworld.nu:27000
+        "master.quakeworld.nu:27000",
         "master.quakeservers.net:27000",
         "qwmaster.ocrana.de:27000",
         "qwmaster.fodquake.net:27000",
