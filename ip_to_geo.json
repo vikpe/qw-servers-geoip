@@ -109,6 +109,16 @@
       -74.4606
     ]
   },
+  "104.207.143.24": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elk Grove Village",
+    "coordinates": [
+      42.0048,
+      -87.9954
+    ]
+  },
   "104.236.169.23": {
     "region": "North America",
     "country": "United States",
@@ -437,16 +447,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "151.60.186.70": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
     ]
   },
   "152.67.46.27": {
@@ -1899,14 +1899,14 @@
       -75.8351
     ]
   },
-  "73.202.0.3": {
+  "73.23.130.187": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Petaluma",
+    "city": "Bonita Springs",
     "coordinates": [
-      38.2478,
-      -122.6192
+      26.3771,
+      -81.7334
     ]
   },
   "73.88.59.191": {
