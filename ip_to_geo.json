@@ -355,8 +355,8 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.8159,
-      144.9669
+      -37.8411,
+      144.9799
     ]
   },
   "144.202.59.41": {
@@ -523,10 +523,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Upplands Vasby",
+    "city": "Taby",
     "coordinates": [
-      59.5174,
-      17.9217
+      59.4417,
+      18.0637
     ]
   },
   "158.174.255.11": {
@@ -575,8 +575,8 @@
     "cc": "CA",
     "city": "Toronto",
     "coordinates": [
-      43.6655,
-      -79.4204
+      43.6547,
+      -79.3623
     ]
   },
   "159.65.230.186": {
@@ -695,8 +695,8 @@
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
-      52.3716,
-      4.8883
+      52.3759,
+      4.8975
     ]
   },
   "168.61.175.143": {
@@ -863,13 +863,13 @@
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
-    "city": "Palermo",
+    "city": "Buenos Aires",
     "coordinates": [
-      -34.5751,
-      -58.4359
+      -36,
+      -59.9964
     ]
   },
-  "187.20.127.5": {
+  "187.20.171.204": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -885,8 +885,8 @@
     "cc": "NO",
     "city": "Trondheim",
     "coordinates": [
-      63.4285,
-      10.4197
+      63.373,
+      10.4128
     ]
   },
   "188.166.0.137": {
@@ -923,10 +923,10 @@
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Warsaw",
+    "city": "Lodz",
     "coordinates": [
-      52.2297,
-      21.0122
+      51.775,
+      19.456
     ]
   },
   "193.168.147.138": {
@@ -1007,16 +1007,6 @@
     "coordinates": [
       32.9473,
       -96.7028
-    ]
-  },
-  "199.168.232.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
     ]
   },
   "199.247.1.190": {
@@ -1329,16 +1319,6 @@
       -96.797
     ]
   },
-  "24.24.133.238": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
-    ]
-  },
   "3.235.93.21": {
     "region": "North America",
     "country": "United States",
@@ -1595,8 +1575,8 @@
     "cc": "US",
     "city": "Carrollton",
     "coordinates": [
-      33.0036,
-      -96.8834
+      33.0286,
+      -96.8736
     ]
   },
   "5.189.221.11": {
@@ -1933,10 +1913,10 @@
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "Prague",
+    "city": "Slatinany",
     "coordinates": [
-      50.0761,
-      14.4479
+      49.9163,
+      15.8118
     ]
   },
   "78.92.236.247": {
@@ -1995,8 +1975,18 @@
     "cc": "DK",
     "city": "Randers",
     "coordinates": [
-      56.4565,
-      10.0274
+      56.4584,
+      10.0421
+    ]
+  },
+  "84.187.45.48": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Aidlingen",
+    "coordinates": [
+      48.6852,
+      8.898
     ]
   },
   "84.39.252.192": {
@@ -2013,10 +2003,10 @@
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
-    "city": "Houten",
+    "city": "Almere Stad",
     "coordinates": [
-      52.0215,
-      5.1638
+      52.3535,
+      5.2755
     ]
   },
   "85.214.82.181": {
@@ -2045,18 +2035,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.4402,
-      -0.0259
-    ]
-  },
-  "87.189.54.13": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
+      51.4647,
+      -0.0509
     ]
   },
   "88.198.221.98": {
@@ -2093,10 +2073,10 @@
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "Kralupy nad Vltavou",
+    "city": "Prague",
     "coordinates": [
-      50.2385,
-      14.3263
+      50.0761,
+      14.4479
     ]
   },
   "91.102.91.59": {
@@ -2135,8 +2115,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.5078,
-      13.4326
+      52.4982,
+      13.4755
     ]
   },
   "92.2.92.129": {
@@ -2205,8 +2185,8 @@
     "cc": "CA",
     "city": "London",
     "coordinates": [
-      42.9926,
-      -81.3322
+      43.0461,
+      -81.2436
     ]
   },
   "99.47.21.158": {
