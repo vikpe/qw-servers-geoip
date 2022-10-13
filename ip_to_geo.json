@@ -109,16 +109,6 @@
       -74.4606
     ]
   },
-  "104.207.143.24": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elk Grove Village",
-    "coordinates": [
-      42.0048,
-      -87.9954
-    ]
-  },
   "104.236.169.23": {
     "region": "North America",
     "country": "United States",
@@ -449,6 +439,16 @@
       -46.6333
     ]
   },
+  "151.60.186.70": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
+    ]
+  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -717,6 +717,16 @@
     "coordinates": [
       33.0468,
       -96.7109
+    ]
+  },
+  "173.218.141.207": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
     ]
   },
   "174.102.195.91": {
@@ -1149,16 +1159,6 @@
       174.764
     ]
   },
-  "212.14.114.174": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Ames",
-    "coordinates": [
-      42.9,
-      -8.6333
-    ]
-  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1197,6 +1197,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.94.55.7": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "A Coru\u00f1a",
+    "coordinates": [
+      43.3675,
+      -8.3969
     ]
   },
   "216.128.134.224": {
@@ -2019,14 +2029,14 @@
       13.3224
     ]
   },
-  "85.243.210.41": {
+  "85.247.106.92": {
     "region": "Europe",
     "country": "Portugal",
     "cc": "PT",
-    "city": "Canico",
+    "city": "Funchal",
     "coordinates": [
-      32.6803,
-      -16.8195
+      32.6333,
+      -16.9
     ]
   },
   "86.3.237.198": {
