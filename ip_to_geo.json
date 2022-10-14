@@ -719,16 +719,6 @@
       -96.7109
     ]
   },
-  "173.218.141.207": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.102.195.91": {
     "region": "North America",
     "country": "United States",
@@ -1327,6 +1317,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.24.133.238": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
     ]
   },
   "3.235.93.21": {
