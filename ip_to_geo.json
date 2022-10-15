@@ -439,16 +439,6 @@
       -46.6333
     ]
   },
-  "151.60.186.70": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
-    ]
-  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -909,6 +899,16 @@
       8.6843
     ]
   },
+  "188.36.209.0": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5636,
+      19.0947
+    ]
+  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -1187,6 +1187,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Sant Cugat del Vall\u00e8s",
+    "coordinates": [
+      41.4706,
+      2.08611
     ]
   },
   "213.94.55.7": {
@@ -1889,16 +1899,6 @@
       -75.8351
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.88.59.191": {
     "region": "North America",
     "country": "United States",
@@ -1927,16 +1927,6 @@
     "coordinates": [
       49.9163,
       15.8118
-    ]
-  },
-  "78.92.236.247": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Mosonmagyar\u00f3v\u00e1r",
-    "coordinates": [
-      47.8702,
-      17.2816
     ]
   },
   "79.139.57.116": {
