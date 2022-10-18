@@ -119,6 +119,16 @@
       -122.3838
     ]
   },
+  "107.2.98.142": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -449,6 +459,16 @@
       -46.6333
     ]
   },
+  "151.60.186.70": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
+    ]
+  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -709,6 +729,16 @@
       -96.7109
     ]
   },
+  "173.75.50.99": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Pittsburgh",
+    "coordinates": [
+      40.476,
+      -79.7355
+    ]
+  },
   "174.102.195.91": {
     "region": "North America",
     "country": "United States",
@@ -857,16 +887,6 @@
     "coordinates": [
       -36,
       -59.9964
-    ]
-  },
-  "187.20.171.204": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
     ]
   },
   "188.113.111.129": {
@@ -1887,16 +1907,6 @@
     "coordinates": [
       39.6249,
       -75.8351
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.88.59.191": {
