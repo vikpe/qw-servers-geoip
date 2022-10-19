@@ -119,16 +119,6 @@
       -122.3838
     ]
   },
-  "107.2.98.142": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -359,6 +349,16 @@
       103.82
     ]
   },
+  "14.2.193.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Adelaide",
+    "coordinates": [
+      -34.9281,
+      138.5999
+    ]
+  },
   "144.138.101.141": {
     "region": "Oceania",
     "country": "Australia",
@@ -457,16 +457,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "151.60.186.70": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
     ]
   },
   "152.67.46.27": {
@@ -699,16 +689,6 @@
       -0.6718
     ]
   },
-  "168.100.9.156": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
-    ]
-  },
   "168.61.175.143": {
     "region": "North America",
     "country": "United States",
@@ -727,16 +707,6 @@
     "coordinates": [
       33.0468,
       -96.7109
-    ]
-  },
-  "173.75.50.99": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pittsburgh",
-    "coordinates": [
-      40.476,
-      -79.7355
     ]
   },
   "174.102.195.91": {
@@ -1909,6 +1879,16 @@
       -75.8351
     ]
   },
+  "73.238.171.167": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Guilford",
+    "coordinates": [
+      41.3148,
+      -72.6994
+    ]
+  },
   "73.88.59.191": {
     "region": "North America",
     "country": "United States",
@@ -1977,16 +1957,6 @@
     "coordinates": [
       52.3006,
       4.9479
-    ]
-  },
-  "83.95.185.41": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Randers",
-    "coordinates": [
-      56.4584,
-      10.0421
     ]
   },
   "84.187.45.48": {
