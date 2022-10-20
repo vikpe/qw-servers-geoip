@@ -199,16 +199,6 @@
       11.0767
     ]
   },
-  "121.214.81.47": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sunshine Coast",
-    "coordinates": [
-      -26.6565,
-      153.0841
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -347,16 +337,6 @@
     "coordinates": [
       1.35208,
       103.82
-    ]
-  },
-  "14.2.193.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Adelaide",
-    "coordinates": [
-      -34.9281,
-      138.5999
     ]
   },
   "144.138.101.141": {
@@ -659,6 +639,16 @@
       174.7679
     ]
   },
+  "164.152.143.82": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Maynard",
+    "coordinates": [
+      42.4335,
+      -71.4495
+    ]
+  },
   "165.227.101.81": {
     "region": "North America",
     "country": "United States",
@@ -707,6 +697,26 @@
     "coordinates": [
       33.0468,
       -96.7109
+    ]
+  },
+  "173.218.132.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
+  "173.75.50.99": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Pittsburgh",
+    "coordinates": [
+      40.476,
+      -79.7355
     ]
   },
   "174.102.195.91": {
@@ -857,6 +867,16 @@
     "coordinates": [
       -36,
       -59.9964
+    ]
+  },
+  "187.20.128.237": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
     ]
   },
   "188.113.111.129": {
@@ -1659,26 +1679,6 @@
       21.0067
     ]
   },
-  "51.91.103.142": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Strasbourg",
-    "coordinates": [
-      48.5734,
-      7.75211
-    ]
-  },
-  "52.119.113.217": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.7958,
-      -122.4203
-    ]
-  },
   "52.159.114.44": {
     "region": "North America",
     "country": "United States",
@@ -1789,6 +1789,16 @@
       -46.6333
     ]
   },
+  "60.230.145.20": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
+    ]
+  },
   "62.195.93.97": {
     "region": "Europe",
     "country": "Netherlands",
@@ -1879,16 +1889,6 @@
       -75.8351
     ]
   },
-  "73.238.171.167": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Guilford",
-    "coordinates": [
-      41.3148,
-      -72.6994
-    ]
-  },
   "73.88.59.191": {
     "region": "North America",
     "country": "United States",
@@ -1909,14 +1909,14 @@
       -87.6318
     ]
   },
-  "78.45.9.248": {
+  "78.45.8.253": {
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "Slatinany",
+    "city": "Nova Vcelnice",
     "coordinates": [
-      49.9163,
-      15.8118
+      49.2404,
+      15.0749
     ]
   },
   "79.139.57.116": {
