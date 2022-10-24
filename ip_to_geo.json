@@ -19,16 +19,6 @@
       -77.0911
     ]
   },
-  "101.118.196.18": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9764,
-      115.861
-    ]
-  },
   "102.37.98.187": {
     "region": "Africa",
     "country": "South Africa",
@@ -209,6 +199,16 @@
       11.0767
     ]
   },
+  "120.21.205.184": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -257,6 +257,16 @@
     "coordinates": [
       53.3478,
       -6.2597
+    ]
+  },
+  "13.89.226.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
     ]
   },
   "130.242.114.28": {
@@ -477,6 +487,16 @@
     "coordinates": [
       33.7838,
       -84.4455
+    ]
+  },
+  "155.138.252.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
     ]
   },
   "157.230.152.128": {
@@ -739,6 +759,16 @@
       -46.6333
     ]
   },
+  "178.164.110.107": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Saksvik",
+    "coordinates": [
+      63.4417,
+      10.5927
+    ]
+  },
   "178.216.200.50": {
     "region": "Europe",
     "country": "Poland",
@@ -747,6 +777,16 @@
     "coordinates": [
       52.3929,
       16.874
+    ]
+  },
+  "179.228.138.121": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.6283,
+      -46.6409
     ]
   },
   "18.183.225.216": {
@@ -777,6 +817,16 @@
     "coordinates": [
       -19.0233,
       -48.3348
+    ]
+  },
+  "182.239.212.207": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Magpie",
+    "coordinates": [
+      -37.6284,
+      143.8441
     ]
   },
   "185.11.166.90": {
@@ -827,16 +877,6 @@
     "coordinates": [
       -36,
       -59.9964
-    ]
-  },
-  "188.113.111.129": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Trondheim",
-    "coordinates": [
-      63.373,
-      10.4128
     ]
   },
   "188.166.0.137": {
@@ -1729,16 +1769,6 @@
       -46.6333
     ]
   },
-  "60.230.145.20": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
-    ]
-  },
   "62.195.93.97": {
     "region": "Europe",
     "country": "Netherlands",
@@ -1829,6 +1859,16 @@
       -75.8351
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.88.59.191": {
     "region": "North America",
     "country": "United States",
@@ -1847,6 +1887,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "78.156.8.93": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Trondheim",
+    "coordinates": [
+      63.4388,
+      10.4106
     ]
   },
   "78.45.8.253": {
@@ -1929,6 +1979,16 @@
       5.2755
     ]
   },
+  "85.164.39.13": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Kristiansand",
+    "coordinates": [
+      58.157,
+      8.0184
+    ]
+  },
   "85.214.82.181": {
     "region": "Europe",
     "country": "Germany",
@@ -1969,6 +2029,16 @@
       8.7399
     ]
   },
+  "88.111.6.205": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Buckley",
+    "coordinates": [
+      53.1148,
+      -3.12
+    ]
+  },
   "88.198.221.98": {
     "region": "Europe",
     "country": "Germany",
@@ -1977,16 +2047,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "88.90.185.28": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Kristiansand",
-    "coordinates": [
-      58.151,
-      7.9882
     ]
   },
   "89.151.207.164": {
@@ -2047,16 +2107,6 @@
     "coordinates": [
       52.4982,
       13.4755
-    ]
-  },
-  "92.2.92.129": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Buckley",
-    "coordinates": [
-      53.1971,
-      -3.031
     ]
   },
   "94.16.128.193": {
