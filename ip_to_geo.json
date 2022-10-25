@@ -183,10 +183,10 @@
     "region": "Asia",
     "country": "Taiwan",
     "cc": "TW",
-    "city": "New Taipei",
+    "city": "Taipei City",
     "coordinates": [
-      24.9466,
-      121.586
+      25.0759,
+      121.5516
     ]
   },
   "116.203.97.160": {
@@ -197,16 +197,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "120.21.205.184": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
     ]
   },
   "128.199.52.100": {
@@ -449,16 +439,6 @@
       -46.6333
     ]
   },
-  "151.60.186.70": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
-    ]
-  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -545,8 +525,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "158.174.255.214": {
@@ -555,18 +535,18 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "158.248.75.205": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Rykkin",
+    "city": "Fornebu",
     "coordinates": [
-      59.9319,
-      10.4814
+      59.8904,
+      10.6124
     ]
   },
   "159.203.25.195": {
@@ -623,10 +603,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Santa Fe",
+    "city": "San Francisco",
     "coordinates": [
-      35.6756,
-      -105.951
+      37.7771,
+      -122.406
     ]
   },
   "162.248.92.183": {
@@ -823,10 +803,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Magpie",
+    "city": "Sunbury",
     "coordinates": [
-      -37.6284,
-      143.8441
+      -37.5749,
+      144.7197
     ]
   },
   "185.11.166.90": {
@@ -873,10 +853,10 @@
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
-    "city": "Buenos Aires",
+    "city": "Palermo",
     "coordinates": [
-      -36,
-      -59.9964
+      -34.5751,
+      -58.4359
     ]
   },
   "188.166.0.137": {
@@ -963,10 +943,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Recsk",
+    "city": "Budapest",
     "coordinates": [
-      47.9351,
-      20.1221
+      47.5636,
+      19.0947
     ]
   },
   "195.201.133.22": {
@@ -997,6 +977,16 @@
     "coordinates": [
       32.9473,
       -96.7028
+    ]
+  },
+  "199.168.232.14": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.871,
+      -87.6289
     ]
   },
   "199.247.1.190": {
@@ -1273,10 +1263,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Little Rock",
+    "city": "North Little Rock",
     "coordinates": [
-      34.6848,
-      -92.2813
+      34.7734,
+      -92.2573
     ]
   },
   "23.22.56.152": {
@@ -1429,6 +1419,16 @@
       -80.013
     ]
   },
+  "37.103.132.155": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Settime",
+    "coordinates": [
+      44.9618,
+      8.11433
+    ]
+  },
   "39.106.228.43": {
     "region": "Asia",
     "country": "China",
@@ -1529,6 +1529,16 @@
       -87.9954
     ]
   },
+  "45.76.23.250": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elk Grove Village",
+    "coordinates": [
+      42.0048,
+      -87.9954
+    ]
+  },
   "45.76.56.39": {
     "region": "North America",
     "country": "United States",
@@ -1603,10 +1613,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Everett",
+    "city": "Lynnwood",
     "coordinates": [
-      47.9856,
-      -122.2002
+      47.8534,
+      -122.2438
     ]
   },
   "50.65.151.18": {
@@ -1643,10 +1653,10 @@
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Beauharnois",
+    "city": "Victoria",
     "coordinates": [
-      45.3151,
-      -73.8779
+      48.4574,
+      -123.3436
     ]
   },
   "51.83.128.107": {
@@ -1815,8 +1825,8 @@
     "cc": "US",
     "city": "Cape Coral",
     "coordinates": [
-      26.6284,
-      -82.0197
+      26.6909,
+      -81.9483
     ]
   },
   "70.34.202.147": {
@@ -1859,14 +1869,14 @@
       -75.8351
     ]
   },
-  "73.202.0.3": {
+  "73.23.130.187": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Petaluma",
+    "city": "Bonita Springs",
     "coordinates": [
-      38.2478,
-      -122.6192
+      26.3771,
+      -81.7334
     ]
   },
   "73.88.59.191": {
@@ -1903,10 +1913,10 @@
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "Nova Vcelnice",
+    "city": "Prague",
     "coordinates": [
-      49.2404,
-      15.0749
+      50.0804,
+      14.5045
     ]
   },
   "78.92.238.100": {
@@ -1923,10 +1933,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Osku",
+    "city": "Salgotarjan",
     "coordinates": [
-      47.16,
-      18.0761
+      48.0987,
+      19.803
     ]
   },
   "80.241.209.47": {
@@ -1973,10 +1983,10 @@
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
-    "city": "Almere Stad",
+    "city": "Utrecht",
     "coordinates": [
-      52.3535,
-      5.2755
+      52.1216,
+      5.1045
     ]
   },
   "85.164.39.13": {
@@ -1995,8 +2005,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.5234,
-      13.3224
+      52.5201,
+      13.4425
     ]
   },
   "85.247.106.92": {
@@ -2023,20 +2033,20 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Calw",
+    "city": "Althengstett",
     "coordinates": [
-      48.709,
-      8.7399
+      48.7241,
+      8.7919
     ]
   },
   "88.111.6.205": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Buckley",
+    "city": "Chester",
     "coordinates": [
-      53.1148,
-      -3.12
+      53.2078,
+      -2.9699
     ]
   },
   "88.198.221.98": {
@@ -2063,10 +2073,10 @@
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "Prague",
+    "city": "Kralupy nad Vltavou",
     "coordinates": [
-      50.0761,
-      14.4479
+      50.2385,
+      14.3263
     ]
   },
   "91.102.91.59": {
@@ -2093,10 +2103,10 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "St Petersburg",
+    "city": "Moscow",
     "coordinates": [
-      59.9311,
-      30.3609
+      55.7483,
+      37.6171
     ]
   },
   "91.66.4.41": {
@@ -2183,10 +2193,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Dallas",
+    "city": "Garland",
     "coordinates": [
-      32.7889,
-      -96.8021
+      32.9219,
+      -96.6214
     ]
   },
   "99.72.255.45": {
