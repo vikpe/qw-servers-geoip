@@ -439,6 +439,26 @@
       -46.6333
     ]
   },
+  "150.136.221.18": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.018,
+      -77.539
+    ]
+  },
+  "151.60.54.61": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
+    ]
+  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -727,6 +747,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0761,
+      14.4479
     ]
   },
   "177.71.158.196": {
@@ -1309,6 +1339,16 @@
       -96.797
     ]
   },
+  "24.24.133.238": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
+    ]
+  },
   "3.235.93.21": {
     "region": "North America",
     "country": "United States",
@@ -1419,16 +1459,6 @@
       -80.013
     ]
   },
-  "37.103.132.155": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Settime",
-    "coordinates": [
-      44.9618,
-      8.11433
-    ]
-  },
   "39.106.228.43": {
     "region": "Asia",
     "country": "China",
@@ -1529,16 +1559,6 @@
       -87.9954
     ]
   },
-  "45.76.23.250": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elk Grove Village",
-    "coordinates": [
-      42.0048,
-      -87.9954
-    ]
-  },
   "45.76.56.39": {
     "region": "North America",
     "country": "United States",
@@ -1617,16 +1637,6 @@
     "coordinates": [
       47.8534,
       -122.2438
-    ]
-  },
-  "50.65.151.18": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Sherwood Park",
-    "coordinates": [
-      53.5546,
-      -113.3014
     ]
   },
   "51.210.10.181": {
@@ -1757,16 +1767,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "54.252.33.154": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
     ]
   },
   "54.94.165.196": {
@@ -1967,6 +1967,16 @@
     "coordinates": [
       52.3006,
       4.9479
+    ]
+  },
+  "83.95.185.41": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Randers",
+    "coordinates": [
+      56.4565,
+      10.0274
     ]
   },
   "84.39.252.192": {
