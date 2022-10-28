@@ -699,26 +699,6 @@
       -96.7109
     ]
   },
-  "173.75.50.99": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pittsburgh",
-    "coordinates": [
-      40.476,
-      -79.7355
-    ]
-  },
-  "174.102.195.91": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0874,
-      -87.6697
-    ]
-  },
   "174.138.141.243": {
     "region": "North America",
     "country": "Canada",
@@ -1057,6 +1037,16 @@
     "coordinates": [
       29.4167,
       -98.5
+    ]
+  },
+  "20.243.122.16": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": [
+      35.68,
+      139.77
     ]
   },
   "20.245.213.126": {
@@ -1749,6 +1739,16 @@
       -46.6333
     ]
   },
+  "54.252.33.154": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
+    ]
+  },
   "54.94.165.196": {
     "region": "South America",
     "country": "Brazil",
@@ -2037,16 +2037,6 @@
     "coordinates": [
       53.2078,
       -2.9699
-    ]
-  },
-  "88.133.233.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Pettendorf",
-    "coordinates": [
-      49.0644,
-      12.0095
     ]
   },
   "88.198.221.98": {
