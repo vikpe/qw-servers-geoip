@@ -15,8 +15,18 @@
     "cc": "US",
     "city": "Arlington",
     "coordinates": [
-      38.8865,
-      -77.0911
+      38.9064,
+      -77.1278
+    ]
+  },
+  "101.118.196.139": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9764,
+      115.861
     ]
   },
   "102.37.98.187": {
@@ -373,10 +383,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Hereford",
+    "city": "Bristol",
     "coordinates": [
-      52.1811,
-      -2.8001
+      51.4474,
+      -2.4647
     ]
   },
   "149.28.240.2": {
@@ -553,10 +563,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Fornebu",
+    "city": "Rykkin",
     "coordinates": [
-      59.8904,
-      10.6124
+      59.9319,
+      10.4814
     ]
   },
   "159.203.25.195": {
@@ -829,6 +839,16 @@
       16.2162
     ]
   },
+  "185.73.44.100": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5074,
+      -0.127758
+    ]
+  },
   "185.87.193.39": {
     "region": "Europe",
     "country": "Russia",
@@ -933,10 +953,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Budapest",
+    "city": "Recsk",
     "coordinates": [
-      47.5636,
-      19.0947
+      47.9351,
+      20.1221
     ]
   },
   "195.201.133.22": {
@@ -1633,10 +1653,10 @@
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Victoria",
+    "city": "Beauharnois",
     "coordinates": [
-      48.4574,
-      -123.3436
+      45.3151,
+      -73.8779
     ]
   },
   "51.83.128.107": {
@@ -1885,18 +1905,18 @@
     "cc": "NO",
     "city": "Trondheim",
     "coordinates": [
-      63.4388,
-      10.4106
+      63.446,
+      10.4491
     ]
   },
   "78.45.8.253": {
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "Prague",
+    "city": "Nova Vcelnice",
     "coordinates": [
-      50.0804,
-      14.5045
+      49.2404,
+      15.0749
     ]
   },
   "78.92.238.100": {
@@ -1985,8 +2005,8 @@
     "cc": "NO",
     "city": "Kristiansand",
     "coordinates": [
-      58.157,
-      8.0184
+      58.1631,
+      7.9896
     ]
   },
   "85.214.82.181": {
@@ -2033,10 +2053,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Chester",
+    "city": "Buckley",
     "coordinates": [
-      53.2078,
-      -2.9699
+      53.1148,
+      -3.12
     ]
   },
   "88.198.221.98": {
@@ -2053,10 +2073,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Overhalla",
+    "city": "Beitstad",
     "coordinates": [
-      64.4853,
-      11.9687
+      63.4761,
+      10.9986
     ]
   },
   "89.239.25.13": {
