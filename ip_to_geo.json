@@ -19,16 +19,6 @@
       -77.1278
     ]
   },
-  "101.118.196.139": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9764,
-      115.861
-    ]
-  },
   "102.37.98.187": {
     "region": "Africa",
     "country": "South Africa",
@@ -269,6 +259,16 @@
       18.0623
     ]
   },
+  "135.181.96.161": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1719,
+      24.9347
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -447,16 +447,6 @@
     "coordinates": [
       39.018,
       -77.539
-    ]
-  },
-  "151.60.54.61": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
     ]
   },
   "152.67.46.27": {
@@ -709,6 +699,16 @@
       -96.7109
     ]
   },
+  "174.102.195.91": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
+    ]
+  },
   "174.138.141.243": {
     "region": "North America",
     "country": "Canada",
@@ -937,6 +937,16 @@
     "coordinates": [
       55.7731,
       37.8294
+    ]
+  },
+  "194.132.173.156": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Norsjoe",
+    "coordinates": [
+      64.9081,
+      19.4647
     ]
   },
   "194.158.215.192": {
@@ -2027,16 +2037,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "86.3.237.198": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.4647,
-      -0.0509
     ]
   },
   "87.189.61.132": {
