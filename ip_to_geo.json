@@ -1,14 +1,4 @@
 {
-  "100.11.106.34": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lansdale",
-    "coordinates": [
-      40.2363,
-      -75.296
-    ]
-  },
   "100.36.1.151": {
     "region": "North America",
     "country": "United States",
@@ -939,16 +929,6 @@
       37.8294
     ]
   },
-  "194.132.173.156": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Norsjoe",
-    "coordinates": [
-      64.9081,
-      19.4647
-    ]
-  },
   "194.158.215.192": {
     "region": "Europe",
     "country": "Belarus",
@@ -1877,6 +1857,16 @@
     "coordinates": [
       39.6249,
       -75.8351
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
