@@ -79,16 +79,6 @@
       151.2006
     ]
   },
-  "104.205.71.211": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Airdrie",
-    "coordinates": [
-      51.3062,
-      -114.0394
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -687,6 +677,16 @@
     "coordinates": [
       33.0468,
       -96.7109
+    ]
+  },
+  "173.218.132.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
     ]
   },
   "174.102.195.91": {
@@ -1849,26 +1849,6 @@
       -77.35
     ]
   },
-  "73.200.253.55": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elkton",
-    "coordinates": [
-      39.6249,
-      -75.8351
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1897,6 +1877,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.215.193.221": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lebanon",
+    "coordinates": [
+      40.3226,
+      -76.4042
     ]
   },
   "78.156.8.93": {
@@ -1947,6 +1937,16 @@
     "coordinates": [
       48.1077,
       11.6091
+    ]
+  },
+  "81.150.9.57": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5897,
+      -0.249103
     ]
   },
   "82.141.152.3": {
