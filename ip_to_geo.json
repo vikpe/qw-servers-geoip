@@ -79,6 +79,16 @@
       151.2006
     ]
   },
+  "104.205.71.211": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Airdrie",
+    "coordinates": [
+      51.3062,
+      -114.0394
+    ]
+  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -679,16 +689,6 @@
       -96.7109
     ]
   },
-  "173.218.132.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.102.195.91": {
     "region": "North America",
     "country": "United States",
@@ -779,16 +779,6 @@
       8.68213
     ]
   },
-  "181.222.238.222": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
-    ]
-  },
   "182.239.212.207": {
     "region": "Oceania",
     "country": "Australia",
@@ -857,6 +847,16 @@
     "coordinates": [
       -34.5751,
       -58.4359
+    ]
+  },
+  "187.20.232.85": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1609,16 +1609,6 @@
       12.365
     ]
   },
-  "50.47.180.71": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lynnwood",
-    "coordinates": [
-      47.8534,
-      -122.2438
-    ]
-  },
   "51.210.10.181": {
     "region": "Europe",
     "country": "France",
@@ -1909,7 +1899,7 @@
       15.0749
     ]
   },
-  "78.92.238.100": {
+  "78.92.236.11": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1979,14 +1969,14 @@
       10.0274
     ]
   },
-  "84.39.252.192": {
+  "84.187.37.25": {
     "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Orenburg",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Neubulach",
     "coordinates": [
-      51.7898,
-      55.0984
+      48.6649,
+      8.6905
     ]
   },
   "84.83.171.254": {
@@ -2027,16 +2017,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "87.189.61.132": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Althengstett",
-    "coordinates": [
-      48.7241,
-      8.7919
     ]
   },
   "88.111.6.205": {
@@ -2127,16 +2107,6 @@
     "coordinates": [
       47.5053,
       7.5477
-    ]
-  },
-  "94.254.2.158": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "95.165.130.151": {
