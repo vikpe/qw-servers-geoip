@@ -429,16 +429,6 @@
       -77.539
     ]
   },
-  "151.60.36.161": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
-    ]
-  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -450,16 +440,6 @@
     ]
   },
   "155.138.193.35": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Atlanta",
-    "coordinates": [
-      33.7838,
-      -84.4455
-    ]
-  },
-  "155.138.235.219": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1949,16 +1929,6 @@
       4.9479
     ]
   },
-  "83.95.185.41": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Randers",
-    "coordinates": [
-      56.4565,
-      10.0274
-    ]
-  },
   "84.187.37.25": {
     "region": "Europe",
     "country": "Germany",
@@ -2027,16 +1997,6 @@
     "coordinates": [
       53.1148,
       -3.12
-    ]
-  },
-  "88.133.233.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Pettendorf",
-    "coordinates": [
-      49.0644,
-      12.0095
     ]
   },
   "88.198.221.98": {
