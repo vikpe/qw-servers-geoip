@@ -939,16 +939,6 @@
       18.8893
     ]
   },
-  "198.58.125.152": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Richardson",
-    "coordinates": [
-      32.9473,
-      -96.7028
-    ]
-  },
   "199.168.232.14": {
     "region": "North America",
     "country": "United States",
@@ -1287,6 +1277,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "24.24.133.238": {
@@ -1729,6 +1729,16 @@
       -46.6333
     ]
   },
+  "60.230.145.20": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
+    ]
+  },
   "62.195.93.97": {
     "region": "Europe",
     "country": "Netherlands",
@@ -1807,6 +1817,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.151.3.148": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Clovis",
+    "coordinates": [
+      36.842,
+      -119.6578
     ]
   },
   "73.23.130.187": {
@@ -1929,16 +1949,6 @@
       4.9479
     ]
   },
-  "84.187.37.25": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Neubulach",
-    "coordinates": [
-      48.6649,
-      8.6905
-    ]
-  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1987,6 +1997,16 @@
     "coordinates": [
       32.6333,
       -16.9
+    ]
+  },
+  "87.189.55.3": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Bad Teinach-Zavelstein",
+    "coordinates": [
+      48.6888,
+      8.6919
     ]
   },
   "88.111.6.205": {
