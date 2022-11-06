@@ -1,4 +1,14 @@
 {
+  "100.11.106.34": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lansdale",
+    "coordinates": [
+      40.2363,
+      -75.296
+    ]
+  },
   "100.36.1.151": {
     "region": "North America",
     "country": "United States",
@@ -657,6 +667,16 @@
     "coordinates": [
       33.0468,
       -96.7109
+    ]
+  },
+  "173.218.132.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
     ]
   },
   "174.102.195.91": {
@@ -1819,16 +1839,6 @@
       -77.35
     ]
   },
-  "73.151.3.148": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Clovis",
-    "coordinates": [
-      36.842,
-      -119.6578
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1917,16 +1927,6 @@
     "coordinates": [
       48.1077,
       11.6091
-    ]
-  },
-  "81.150.9.57": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5897,
-      -0.249103
     ]
   },
   "82.141.152.3": {
