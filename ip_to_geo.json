@@ -1299,16 +1299,6 @@
       -96.797
     ]
   },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
   "24.24.133.238": {
     "region": "North America",
     "country": "United States",
@@ -1389,16 +1379,6 @@
       -6.26031
     ]
   },
-  "34.68.81.125": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "35.184.4.200": {
     "region": "North America",
     "country": "United States",
@@ -1427,6 +1407,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.232.38.132": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "39.106.228.43": {
@@ -1839,6 +1829,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1877,16 +1877,6 @@
     "coordinates": [
       40.0305,
       -76.2833
-    ]
-  },
-  "78.156.8.93": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Trondheim",
-    "coordinates": [
-      63.446,
-      10.4491
     ]
   },
   "78.45.8.253": {
@@ -1949,6 +1939,16 @@
       4.9479
     ]
   },
+  "83.45.40.208": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.5167,
+      -3.66479
+    ]
+  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1997,16 +1997,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "87.189.55.3": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Bad Teinach-Zavelstein",
-    "coordinates": [
-      48.6888,
-      8.6919
     ]
   },
   "88.111.6.205": {
@@ -2077,6 +2067,16 @@
     "coordinates": [
       55.7483,
       37.6171
+    ]
+  },
+  "91.55.76.99": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "91.66.4.41": {
