@@ -669,16 +669,6 @@
       -96.7109
     ]
   },
-  "173.218.132.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.102.195.91": {
     "region": "North America",
     "country": "United States",
@@ -1829,14 +1819,14 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
+  "73.200.253.55": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Petaluma",
+    "city": "Elkton",
     "coordinates": [
-      38.2478,
-      -122.6192
+      39.6249,
+      -75.8351
     ]
   },
   "73.23.130.187": {
@@ -1937,16 +1927,6 @@
     "coordinates": [
       52.3006,
       4.9479
-    ]
-  },
-  "83.45.40.208": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
-    "coordinates": [
-      40.5167,
-      -3.66479
     ]
   },
   "84.39.252.192": {
