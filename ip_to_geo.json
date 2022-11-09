@@ -859,6 +859,16 @@
       8.6843
     ]
   },
+  "188.255.55.114": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7483,
+      37.6171
+    ]
+  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -1087,6 +1097,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "207.148.5.167": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
     ]
   },
   "209.182.236.77": {
@@ -1769,6 +1789,16 @@
       -87.6386
     ]
   },
+  "67.181.3.248": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Clovis",
+    "coordinates": [
+      36.842,
+      -119.6578
+    ]
+  },
   "68.183.127.4": {
     "region": "North America",
     "country": "United States",
@@ -1857,16 +1887,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.215.228.33": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lancaster",
-    "coordinates": [
-      40.0305,
-      -76.2833
     ]
   },
   "78.45.8.253": {
@@ -2137,16 +2157,6 @@
     "coordinates": [
       43.0461,
       -81.2436
-    ]
-  },
-  "99.47.21.158": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Mateo",
-    "coordinates": [
-      37.5428,
-      -122.2971
     ]
   },
   "99.48.163.106": {
