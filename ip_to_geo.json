@@ -89,16 +89,6 @@
       151.2006
     ]
   },
-  "104.205.71.211": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Airdrie",
-    "coordinates": [
-      51.3062,
-      -114.0394
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -959,16 +949,6 @@
       18.8893
     ]
   },
-  "199.168.232.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
-    ]
-  },
   "199.247.1.190": {
     "region": "Europe",
     "country": "Germany",
@@ -1177,6 +1157,16 @@
     "coordinates": [
       41.4706,
       2.08611
+    ]
+  },
+  "213.76.101.30": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Lodz",
+    "coordinates": [
+      51.7592,
+      19.456
     ]
   },
   "213.94.55.7": {
@@ -1889,6 +1879,16 @@
       -87.6318
     ]
   },
+  "75.158.30.31": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Airdrie",
+    "coordinates": [
+      51.3062,
+      -114.0394
+    ]
+  },
   "78.45.8.253": {
     "region": "Europe",
     "country": "Czechia",
@@ -2157,6 +2157,16 @@
     "coordinates": [
       43.0461,
       -81.2436
+    ]
+  },
+  "99.47.21.158": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Mateo",
+    "coordinates": [
+      37.5428,
+      -122.2971
     ]
   },
   "99.48.163.106": {
