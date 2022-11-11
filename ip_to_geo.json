@@ -19,6 +19,16 @@
       -77.1278
     ]
   },
+  "101.118.174.163": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9764,
+      115.861
+    ]
+  },
   "102.37.98.187": {
     "region": "Africa",
     "country": "South Africa",
@@ -607,16 +617,6 @@
     "coordinates": [
       -36.8506,
       174.7679
-    ]
-  },
-  "165.227.101.81": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Clifton",
-    "coordinates": [
-      40.8364,
-      -74.1403
     ]
   },
   "165.227.198.13": {
@@ -1509,6 +1509,16 @@
       -96.7028
     ]
   },
+  "45.76.177.172": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.32123,
+      103.695
+    ]
+  },
   "45.76.23.209": {
     "region": "North America",
     "country": "United States",
@@ -1779,16 +1789,6 @@
       -87.6386
     ]
   },
-  "67.181.3.248": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Clovis",
-    "coordinates": [
-      36.842,
-      -119.6578
-    ]
-  },
   "68.183.127.4": {
     "region": "North America",
     "country": "United States",
@@ -1847,16 +1847,6 @@
     "coordinates": [
       39.6249,
       -75.8351
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.88.59.191": {
