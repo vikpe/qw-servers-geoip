@@ -19,16 +19,6 @@
       -77.1278
     ]
   },
-  "101.118.174.163": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9764,
-      115.861
-    ]
-  },
   "102.37.98.187": {
     "region": "Africa",
     "country": "South Africa",
@@ -117,6 +107,16 @@
     "coordinates": [
       37.7308,
       -122.3838
+    ]
+  },
+  "107.2.98.142": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
     ]
   },
   "108.61.117.210": {
@@ -477,16 +477,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "158.101.2.215": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.4656,
-      -111.9956
     ]
   },
   "158.140.207.138": {
@@ -1149,16 +1139,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Sant Cugat del Vall\u00e8s",
-    "coordinates": [
-      41.4706,
-      2.08611
-    ]
-  },
   "213.76.101.30": {
     "region": "Europe",
     "country": "Poland",
@@ -1509,16 +1489,6 @@
       -96.7028
     ]
   },
-  "45.76.177.172": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.32123,
-      103.695
-    ]
-  },
   "45.76.23.209": {
     "region": "North America",
     "country": "United States",
@@ -1597,6 +1567,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "50.34.35.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Everett",
+    "coordinates": [
+      47.9856,
+      -122.2002
     ]
   },
   "51.210.10.181": {
