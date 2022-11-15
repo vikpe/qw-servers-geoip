@@ -689,16 +689,6 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0761,
-      14.4479
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -1809,6 +1799,16 @@
       -87.6386
     ]
   },
+  "67.181.3.248": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Clovis",
+    "coordinates": [
+      36.842,
+      -119.6578
+    ]
+  },
   "67.219.103.150": {
     "region": "Oceania",
     "country": "Australia",
@@ -1877,16 +1877,6 @@
     "coordinates": [
       39.6249,
       -75.8351
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -2039,16 +2029,6 @@
       -16.9
     ]
   },
-  "88.111.6.205": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Buckley",
-    "coordinates": [
-      53.1148,
-      -3.12
-    ]
-  },
   "88.198.221.98": {
     "region": "Europe",
     "country": "Germany",
@@ -2077,26 +2057,6 @@
     "coordinates": [
       50.2385,
       14.3263
-    ]
-  },
-  "91.102.91.59": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Albertslund Municipality",
-    "coordinates": [
-      55.6596,
-      12.3571
-    ]
-  },
-  "91.102.91.61": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Albertslund Municipality",
-    "coordinates": [
-      55.6596,
-      12.3571
     ]
   },
   "91.206.14.17": {
