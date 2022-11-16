@@ -649,16 +649,6 @@
       -96.7109
     ]
   },
-  "173.218.132.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.102.195.91": {
     "region": "North America",
     "country": "United States",
@@ -667,16 +657,6 @@
     "coordinates": [
       45.0874,
       -87.6697
-    ]
-  },
-  "174.138.141.243": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Edmonton",
-    "coordinates": [
-      53.5461,
-      -113.494
     ]
   },
   "176.210.100.6": {
@@ -1207,16 +1187,6 @@
     "coordinates": [
       50.1109,
       8.68213
-    ]
-  },
-  "217.182.204.42": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Gravelines",
-    "coordinates": [
-      50.9871,
-      2.12554
     ]
   },
   "217.197.83.173": {
