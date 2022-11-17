@@ -359,6 +359,16 @@
       -46.6361
     ]
   },
+  "145.239.94.156": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
+    ]
+  },
   "146.59.13.133": {
     "region": "Europe",
     "country": "Poland",
@@ -547,16 +557,6 @@
     "coordinates": [
       37.3417,
       -121.9753
-    ]
-  },
-  "16.171.43.116": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
     ]
   },
   "161.97.106.241": {
@@ -1319,6 +1319,16 @@
       5.4625
     ]
   },
+  "31.211.200.70": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1769,16 +1779,6 @@
       -87.6386
     ]
   },
-  "67.181.3.248": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Clovis",
-    "coordinates": [
-      36.842,
-      -119.6578
-    ]
-  },
   "67.219.103.150": {
     "region": "Oceania",
     "country": "Australia",
@@ -1839,16 +1839,6 @@
       -77.35
     ]
   },
-  "73.200.253.55": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elkton",
-    "coordinates": [
-      39.6249,
-      -75.8351
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1887,6 +1877,16 @@
     "coordinates": [
       51.3062,
       -114.0394
+    ]
+  },
+  "75.215.228.33": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lancaster",
+    "coordinates": [
+      40.0305,
+      -76.2833
     ]
   },
   "78.45.8.253": {
