@@ -15,8 +15,8 @@
     "cc": "US",
     "city": "Arlington",
     "coordinates": [
-      38.9064,
-      -77.1278
+      38.8865,
+      -77.0911
     ]
   },
   "102.37.98.187": {
@@ -383,10 +383,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Bristol",
+    "city": "Kenilworth",
     "coordinates": [
-      51.4474,
-      -2.4647
+      52.3275,
+      -1.5526
     ]
   },
   "149.28.240.2": {
@@ -505,8 +505,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3293,
+      18.0686
     ]
   },
   "158.174.255.214": {
@@ -515,18 +515,18 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3293,
+      18.0686
     ]
   },
   "158.248.75.205": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Rykkin",
+    "city": "Oslo",
     "coordinates": [
-      59.9319,
-      10.4814
+      59.8636,
+      10.7961
     ]
   },
   "159.203.25.195": {
@@ -653,10 +653,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Marinette",
+    "city": "Menominee",
     "coordinates": [
-      45.0874,
-      -87.6697
+      45.1302,
+      -87.6262
     ]
   },
   "176.210.100.6": {
@@ -743,10 +743,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Romsey",
+    "city": "Ballarat",
     "coordinates": [
-      -37.3526,
-      144.7479
+      -37.5691,
+      143.8561
     ]
   },
   "185.11.166.90": {
@@ -959,6 +959,16 @@
       -93.6208
     ]
   },
+  "20.125.113.83": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
+    ]
+  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1083,10 +1093,10 @@
     "region": "Oceania",
     "country": "New Zealand",
     "cc": "NZ",
-    "city": "Auckland",
+    "city": "Hamilton",
     "coordinates": [
-      -36.8597,
-      174.764
+      -37.7837,
+      175.2824
     ]
   },
   "212.42.38.88": {
@@ -1103,20 +1113,20 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Borensberg",
+    "city": "Link\u00f6ping",
     "coordinates": [
-      58.57,
-      15.2838
+      58.4016,
+      15.6462
     ]
   },
   "213.164.209.174": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Malmo",
+    "city": "G\u00e4vle",
     "coordinates": [
-      55.6078,
-      12.9982
+      60.6749,
+      17.1413
     ]
   },
   "213.239.216.253": {
@@ -1173,10 +1183,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Frankfurt am Main",
+    "city": "Karlsruhe",
     "coordinates": [
-      50.1109,
-      8.68213
+      48.9997,
+      8.38571
     ]
   },
   "217.197.83.173": {
@@ -1185,8 +1195,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.4875,
-      13.3992
+      52.5521,
+      13.4103
     ]
   },
   "221.121.157.22": {
@@ -1195,8 +1205,8 @@
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -33.8688,
-      151.209
+      -33.8715,
+      151.2006
     ]
   },
   "223.165.64.141": {
@@ -1213,10 +1223,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "North Little Rock",
+    "city": "Little Rock",
     "coordinates": [
-      34.7734,
-      -92.2573
+      34.6848,
+      -92.2813
     ]
   },
   "23.22.56.152": {
@@ -1387,6 +1397,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "37.123.190.226": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
     ]
   },
   "39.106.228.43": {
@@ -1573,10 +1593,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Everett",
+    "city": "Lynnwood",
     "coordinates": [
-      47.9856,
-      -122.2002
+      47.8534,
+      -122.2438
     ]
   },
   "51.210.10.181": {
@@ -1603,10 +1623,10 @@
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Beauharnois",
+    "city": "Victoria",
     "coordinates": [
-      45.3151,
-      -73.8779
+      48.4574,
+      -123.3436
     ]
   },
   "51.83.128.107": {
@@ -1845,8 +1865,8 @@
     "cc": "US",
     "city": "Saint Paul",
     "coordinates": [
-      44.7843,
-      -93.2201
+      44.8101,
+      -93.1519
     ]
   },
   "75.102.17.203": {
@@ -1875,8 +1895,8 @@
     "cc": "US",
     "city": "Lancaster",
     "coordinates": [
-      40.0305,
-      -76.2833
+      40.009,
+      -76.3631
     ]
   },
   "78.45.8.253": {
@@ -1955,8 +1975,8 @@
     "cc": "NO",
     "city": "Kristiansand",
     "coordinates": [
-      58.1631,
-      7.9896
+      58.157,
+      8.0184
     ]
   },
   "85.214.82.181": {
@@ -1983,10 +2003,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Althengstett",
+    "city": "Calw",
     "coordinates": [
-      48.7241,
-      8.7919
+      48.709,
+      8.7399
     ]
   },
   "88.198.221.98": {
@@ -2003,10 +2023,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Beitstad",
+    "city": "Steinkjer",
     "coordinates": [
-      63.4761,
-      10.9986
+      64.1652,
+      12.4851
     ]
   },
   "89.239.25.13": {
@@ -2055,8 +2075,8 @@
     "cc": "SE",
     "city": "Malmo",
     "coordinates": [
-      55.6078,
-      12.9982
+      55.605,
+      13.0038
     ]
   },
   "95.165.130.151": {
@@ -2119,24 +2139,14 @@
       -122.2971
     ]
   },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Garland",
-    "coordinates": [
-      32.9219,
-      -96.6214
-    ]
-  },
   "99.72.255.45": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Memphis",
+    "city": "Horn Lake",
     "coordinates": [
-      35.1431,
-      -90.0492
+      34.9469,
+      -90.0485
     ]
   }
 }
