@@ -669,6 +669,16 @@
       73.4001
     ]
   },
+  "176.69.46.65": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.4024,
+      17.9465
+    ]
+  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -837,6 +847,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "190.245.131.98": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6142,
+      -58.3811
     ]
   },
   "192.166.218.37": {
@@ -1309,16 +1329,6 @@
       5.4625
     ]
   },
-  "31.211.200.70": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1487,6 +1497,16 @@
     "coordinates": [
       32.9473,
       -96.7028
+    ]
+  },
+  "45.76.118.33": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8979,
+      151.1897
     ]
   },
   "45.76.177.172": {
@@ -1827,6 +1847,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
