@@ -389,6 +389,16 @@
       -1.5526
     ]
   },
+  "149.28.138.80": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.32123,
+      103.695
+    ]
+  },
   "149.28.240.2": {
     "region": "North America",
     "country": "United States",
@@ -1109,6 +1119,16 @@
       175.2824
     ]
   },
+  "212.106.123.32": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Champs-sur-Marne",
+    "coordinates": [
+      48.8354,
+      2.58774
+    ]
+  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1197,16 +1217,6 @@
     "coordinates": [
       48.9997,
       8.38571
-    ]
-  },
-  "217.197.83.173": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.5521,
-      13.4103
     ]
   },
   "221.121.157.22": {
@@ -1609,16 +1619,6 @@
       -122.2438
     ]
   },
-  "51.210.10.181": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Strasbourg",
-    "coordinates": [
-      48.5734,
-      7.75211
-    ]
-  },
   "51.75.53.205": {
     "region": "Europe",
     "country": "Poland",
@@ -1849,16 +1849,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -2047,6 +2037,26 @@
     "coordinates": [
       50.2385,
       14.3263
+    ]
+  },
+  "89.66.241.225": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
+    ]
+  },
+  "91.102.91.59": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Albertslund Municipality",
+    "coordinates": [
+      55.6596,
+      12.3571
     ]
   },
   "91.206.14.17": {
