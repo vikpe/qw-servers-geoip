@@ -389,16 +389,6 @@
       -1.5526
     ]
   },
-  "149.28.138.80": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.32123,
-      103.695
-    ]
-  },
   "149.28.240.2": {
     "region": "North America",
     "country": "United States",
@@ -679,16 +669,6 @@
       73.4001
     ]
   },
-  "176.69.46.65": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.4024,
-      17.9465
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -717,6 +697,16 @@
     "coordinates": [
       52.3929,
       16.874
+    ]
+  },
+  "18.100.155.145": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Zaragoza",
+    "coordinates": [
+      41.6405,
+      -0.8814
     ]
   },
   "18.183.225.216": {
@@ -837,16 +827,6 @@
     "coordinates": [
       55.7483,
       37.6171
-    ]
-  },
-  "188.36.208.41": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5636,
-      19.0947
     ]
   },
   "188.40.103.81": {
@@ -1209,14 +1189,14 @@
       -118.425
     ]
   },
-  "217.160.44.209": {
+  "217.182.204.42": {
     "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Karlsruhe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Gravelines",
     "coordinates": [
-      48.9997,
-      8.38571
+      50.9871,
+      2.12554
     ]
   },
   "221.121.157.22": {
@@ -1909,6 +1889,16 @@
       15.0749
     ]
   },
+  "78.92.237.204": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Mosonmagyar\u00f3v\u00e1r",
+    "coordinates": [
+      47.8702,
+      17.2816
+    ]
+  },
   "79.139.57.116": {
     "region": "Europe",
     "country": "Hungary",
@@ -1999,7 +1989,7 @@
       -16.9
     ]
   },
-  "87.189.61.182": {
+  "87.189.56.245": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2050,6 +2040,16 @@
     ]
   },
   "91.102.91.59": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Albertslund Municipality",
+    "coordinates": [
+      55.6596,
+      12.3571
+    ]
+  },
+  "91.102.91.61": {
     "region": "Europe",
     "country": "Denmark",
     "cc": "DK",
