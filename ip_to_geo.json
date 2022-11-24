@@ -259,6 +259,16 @@
       24.9347
     ]
   },
+  "135.23.251.12": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Markham",
+    "coordinates": [
+      43.879,
+      -79.2638
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -669,6 +679,16 @@
       73.4001
     ]
   },
+  "176.69.46.65": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.4024,
+      17.9465
+    ]
+  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -727,16 +747,6 @@
     "coordinates": [
       50.1109,
       8.68213
-    ]
-  },
-  "181.222.238.222": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
     ]
   },
   "182.239.199.214": {
@@ -1147,16 +1157,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Sant Cugat del Vall\u00e8s",
-    "coordinates": [
-      41.4706,
-      2.08611
     ]
   },
   "213.94.55.7": {
@@ -1879,17 +1879,7 @@
       -76.3631
     ]
   },
-  "78.45.8.253": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Nova Vcelnice",
-    "coordinates": [
-      49.2404,
-      15.0749
-    ]
-  },
-  "78.92.237.204": {
+  "78.92.236.215": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
