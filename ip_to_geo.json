@@ -179,16 +179,6 @@
       11.0767
     ]
   },
-  "120.21.156.29": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8411,
-      144.9799
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -387,16 +377,6 @@
     "coordinates": [
       52.2251,
       21.0477
-    ]
-  },
-  "146.90.114.221": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Kenilworth",
-    "coordinates": [
-      52.3275,
-      -1.5526
     ]
   },
   "149.28.240.2": {
@@ -759,6 +739,16 @@
       8.68213
     ]
   },
+  "181.222.238.222": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
+    "coordinates": [
+      -19.0233,
+      -48.3348
+    ]
+  },
   "182.239.199.214": {
     "region": "Oceania",
     "country": "Australia",
@@ -957,6 +947,16 @@
     "coordinates": [
       49.1156,
       10.7511
+    ]
+  },
+  "195.213.17.24": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Wembley",
+    "coordinates": [
+      51.5538,
+      -0.3102
     ]
   },
   "195.56.148.203": {
@@ -1177,16 +1177,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Sant Cugat del Vall\u00e8s",
-    "coordinates": [
-      41.4706,
-      2.08611
     ]
   },
   "213.94.55.7": {
