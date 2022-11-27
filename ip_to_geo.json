@@ -179,6 +179,16 @@
       11.0767
     ]
   },
+  "121.212.216.237": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -363,10 +373,10 @@
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Warsaw",
+    "city": "Wroclaw",
     "coordinates": [
-      52.2296,
-      21.0067
+      51.1043,
+      17.0335
     ]
   },
   "146.59.13.133": {
@@ -655,8 +665,8 @@
     "cc": "CA",
     "city": "Edmonton",
     "coordinates": [
-      53.5185,
-      -113.6579
+      53.4609,
+      -113.3714
     ]
   },
   "176.210.100.6": {
@@ -693,10 +703,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Saksvik",
+    "city": "Trondheim",
     "coordinates": [
-      63.4417,
-      10.5927
+      63.4277,
+      10.4012
     ]
   },
   "178.216.200.50": {
@@ -707,16 +717,6 @@
     "coordinates": [
       52.3929,
       16.874
-    ]
-  },
-  "18.100.155.145": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Zaragoza",
-    "coordinates": [
-      41.6405,
-      -0.8814
     ]
   },
   "18.183.225.216": {
@@ -753,10 +753,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Ballarat",
+    "city": "Melton West",
     "coordinates": [
-      -37.5691,
-      143.8561
+      -37.6758,
+      144.5527
     ]
   },
   "185.11.166.90": {
@@ -863,10 +863,10 @@
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
-    "city": "Buenos Aires",
+    "city": "Palermo",
     "coordinates": [
-      -34.6142,
-      -58.3811
+      -34.5751,
+      -58.4359
     ]
   },
   "192.166.218.37": {
@@ -1153,10 +1153,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Link\u00f6ping",
+    "city": "Borensberg",
     "coordinates": [
-      58.4016,
-      15.6462
+      58.57,
+      15.2838
     ]
   },
   "213.164.209.174": {
@@ -1179,14 +1179,24 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Sant Cugat del Vall\u00e8s",
+    "coordinates": [
+      41.4706,
+      2.08611
+    ]
+  },
   "213.94.55.7": {
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "A Coru\u00f1a",
+    "city": "Culleredo",
     "coordinates": [
-      43.3675,
-      -8.3969
+      43.3199,
+      -8.3689
     ]
   },
   "216.128.134.224": {
@@ -1333,10 +1343,10 @@
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
-    "city": "Eindhoven",
+    "city": "Teteringen",
     "coordinates": [
-      51.4549,
-      5.4625
+      51.608,
+      4.8274
     ]
   },
   "34.148.103.12": {
@@ -1633,10 +1643,10 @@
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Victoria",
+    "city": "Beauharnois",
     "coordinates": [
-      48.4574,
-      -123.3436
+      45.3151,
+      -73.8779
     ]
   },
   "51.83.128.107": {
@@ -1897,16 +1907,6 @@
     "coordinates": [
       40.009,
       -76.3631
-    ]
-  },
-  "78.45.8.253": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Nova Vcelnice",
-    "coordinates": [
-      49.2404,
-      15.0749
     ]
   },
   "78.92.236.215": {
