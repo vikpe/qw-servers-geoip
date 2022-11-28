@@ -749,14 +749,14 @@
       -48.3348
     ]
   },
-  "182.239.199.214": {
+  "182.239.206.122": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Melton West",
+    "city": "Sunbury",
     "coordinates": [
-      -37.6758,
-      144.5527
+      -37.5749,
+      144.7197
     ]
   },
   "185.11.166.90": {
@@ -809,16 +809,6 @@
       37.6014
     ]
   },
-  "187.20.169.194": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -847,6 +837,16 @@
     "coordinates": [
       55.7483,
       37.6171
+    ]
+  },
+  "188.36.209.229": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5636,
+      19.0947
     ]
   },
   "188.40.103.81": {
@@ -1179,16 +1179,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Sant Cugat del Vall\u00e8s",
-    "coordinates": [
-      41.4706,
-      2.08611
-    ]
-  },
   "213.94.55.7": {
     "region": "Europe",
     "country": "Spain",
@@ -1357,16 +1347,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.151.68.224": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.2092
     ]
   },
   "34.245.26.73": {
@@ -1859,14 +1839,14 @@
       -77.35
     ]
   },
-  "73.23.130.187": {
+  "73.202.0.3": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Bonita Springs",
+    "city": "Petaluma",
     "coordinates": [
-      26.3771,
-      -81.7334
+      38.2478,
+      -122.6192
     ]
   },
   "73.88.59.191": {
@@ -1909,14 +1889,14 @@
       -76.3631
     ]
   },
-  "78.92.236.215": {
+  "78.45.88.52": {
     "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Mosonmagyar\u00f3v\u00e1r",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
     "coordinates": [
-      47.8702,
-      17.2816
+      50.0761,
+      14.4479
     ]
   },
   "79.139.57.116": {
