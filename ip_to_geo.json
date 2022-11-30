@@ -499,16 +499,6 @@
       144.9504
     ]
   },
-  "158.174.255.11": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
-    ]
-  },
   "158.174.255.214": {
     "region": "Europe",
     "country": "Sweden",
@@ -689,16 +679,6 @@
       17.9465
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Ricany",
-    "coordinates": [
-      49.9831,
-      14.6436
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -867,16 +847,6 @@
     "coordinates": [
       -34.5751,
       -58.4359
-    ]
-  },
-  "191.9.105.254": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
     ]
   },
   "192.166.218.37": {
@@ -1887,16 +1857,6 @@
     "coordinates": [
       40.009,
       -76.3631
-    ]
-  },
-  "75.68.186.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Brunswick",
-    "coordinates": [
-      43.8971,
-      -69.9817
     ]
   },
   "78.45.88.52": {
