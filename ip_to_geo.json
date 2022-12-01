@@ -179,16 +179,6 @@
       11.0767
     ]
   },
-  "121.212.216.237": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -377,16 +367,6 @@
     "coordinates": [
       51.1043,
       17.0335
-    ]
-  },
-  "146.59.13.133": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2251,
-      21.0477
     ]
   },
   "149.28.240.2": {
@@ -667,16 +647,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.69.46.65": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.4024,
-      17.9465
     ]
   },
   "177.71.158.196": {
@@ -1269,6 +1239,16 @@
       -96.797
     ]
   },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
+    ]
+  },
   "3.235.93.21": {
     "region": "North America",
     "country": "United States",
@@ -1579,14 +1559,14 @@
       12.365
     ]
   },
-  "50.34.35.195": {
+  "50.34.46.144": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lynnwood",
+    "city": "Everett",
     "coordinates": [
-      47.8534,
-      -122.2438
+      47.9425,
+      -122.2139
     ]
   },
   "51.75.53.205": {
@@ -1857,16 +1837,6 @@
     "coordinates": [
       40.009,
       -76.3631
-    ]
-  },
-  "78.45.88.52": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0761,
-      14.4479
     ]
   },
   "79.139.57.116": {
