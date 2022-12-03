@@ -479,6 +479,16 @@
       144.9504
     ]
   },
+  "158.174.105.9": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "J\u00e4rf\u00e4lla Municipality",
+    "coordinates": [
+      59.384,
+      17.8355
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -689,16 +699,6 @@
       16.874
     ]
   },
-  "18.183.225.216": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.6895,
-      139.692
-    ]
-  },
   "181.222.238.222": {
     "region": "South America",
     "country": "Brazil",
@@ -827,6 +827,16 @@
     "coordinates": [
       -34.5751,
       -58.4359
+    ]
+  },
+  "191.9.110.85": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
     ]
   },
   "192.166.218.37": {
@@ -1247,26 +1257,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
-  "24.24.133.136": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
     ]
   },
   "3.235.93.21": {
@@ -1727,6 +1717,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "62.195.93.97": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Rotterdam",
+    "coordinates": [
+      51.9281,
+      4.5052
     ]
   },
   "64.227.18.147": {
