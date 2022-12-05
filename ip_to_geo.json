@@ -229,6 +229,16 @@
       -6.2597
     ]
   },
+  "13.89.226.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
+    ]
+  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -759,6 +769,16 @@
       37.6014
     ]
   },
+  "187.20.129.87": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
+    ]
+  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -789,7 +809,7 @@
       37.6171
     ]
   },
-  "188.36.209.229": {
+  "188.36.209.218": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1149,16 +1169,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Sant Cugat del Vall\u00e8s",
-    "coordinates": [
-      41.4706,
-      2.08611
-    ]
-  },
   "216.128.134.224": {
     "region": "North America",
     "country": "United States",
@@ -1257,16 +1267,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
     ]
   },
   "3.235.93.21": {
@@ -1817,6 +1817,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
