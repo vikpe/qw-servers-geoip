@@ -769,16 +769,6 @@
       37.6014
     ]
   },
-  "187.20.129.87": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -1089,6 +1079,16 @@
       -96.8021
     ]
   },
+  "207.188.180.191": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Salamanca",
+    "coordinates": [
+      40.9701,
+      -5.6634
+    ]
+  },
   "209.182.236.77": {
     "region": "North America",
     "country": "United States",
@@ -1149,16 +1149,6 @@
       12.9982
     ]
   },
-  "213.177.214.249": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Vigo",
-    "coordinates": [
-      42.2393,
-      -8.7224
-    ]
-  },
   "213.239.216.253": {
     "region": "Europe",
     "country": "Germany",
@@ -1187,6 +1177,16 @@
     "coordinates": [
       34.4255,
       -118.425
+    ]
+  },
+  "217.160.44.209": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Essen",
+    "coordinates": [
+      51.4556,
+      7.01156
     ]
   },
   "217.182.204.42": {
@@ -1287,6 +1287,16 @@
     "coordinates": [
       19.076,
       72.8777
+    ]
+  },
+  "3.76.38.12": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1109,
+      8.68213
     ]
   },
   "3.84.74.69": {
@@ -1639,16 +1649,6 @@
       -78.37471
     ]
   },
-  "52.59.193.229": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1109,
-      8.68213
-    ]
-  },
   "52.63.245.209": {
     "region": "Oceania",
     "country": "Australia",
@@ -1819,16 +1819,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1869,14 +1859,24 @@
       -114.0394
     ]
   },
-  "75.215.228.33": {
+  "75.215.198.66": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elizabethtown",
+    "coordinates": [
+      40.1551,
+      -76.6021
+    ]
+  },
+  "75.215.201.214": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "York",
     "coordinates": [
-      39.9552,
-      -76.6653
+      40.0008,
+      -76.7697
     ]
   },
   "79.139.57.116": {
