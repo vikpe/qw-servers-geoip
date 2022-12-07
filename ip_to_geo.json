@@ -639,16 +639,6 @@
       -96.7109
     ]
   },
-  "174.102.195.91": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Menominee",
-    "coordinates": [
-      45.1302,
-      -87.6262
-    ]
-  },
   "174.138.128.38": {
     "region": "North America",
     "country": "Canada",
@@ -667,6 +657,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.69.46.65": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.4024,
+      17.9465
     ]
   },
   "177.71.158.196": {
@@ -1867,16 +1867,6 @@
     "coordinates": [
       40.1551,
       -76.6021
-    ]
-  },
-  "75.215.201.214": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "York",
-    "coordinates": [
-      40.0008,
-      -76.7697
     ]
   },
   "79.139.57.116": {
