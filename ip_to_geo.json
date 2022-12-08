@@ -369,6 +369,16 @@
       17.0335
     ]
   },
+  "146.59.13.133": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2251,
+      21.0477
+    ]
+  },
   "149.28.240.2": {
     "region": "North America",
     "country": "United States",
@@ -799,7 +809,7 @@
       37.6171
     ]
   },
-  "188.36.209.218": {
+  "188.36.209.37": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1267,6 +1277,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.24.133.136": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
     ]
   },
   "3.235.93.21": {
