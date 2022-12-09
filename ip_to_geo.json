@@ -15,8 +15,8 @@
     "cc": "US",
     "city": "Arlington",
     "coordinates": [
-      38.8865,
-      -77.0911
+      38.9064,
+      -77.1278
     ]
   },
   "102.37.98.187": {
@@ -243,10 +243,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Taby",
     "coordinates": [
-      59.342,
-      18.0623
+      59.4417,
+      18.0637
     ]
   },
   "135.181.96.161": {
@@ -335,8 +335,8 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.8159,
-      144.9669
+      -37.8411,
+      144.9799
     ]
   },
   "144.202.59.41": {
@@ -523,10 +523,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Oslo",
+    "city": "Fornebu",
     "coordinates": [
-      59.8636,
-      10.7961
+      59.8904,
+      10.6124
     ]
   },
   "159.203.25.195": {
@@ -649,6 +649,16 @@
       -96.7109
     ]
   },
+  "174.102.195.91": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
+    ]
+  },
   "174.138.128.38": {
     "region": "North America",
     "country": "Canada",
@@ -673,10 +683,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Hallstahammar",
     "coordinates": [
-      59.4024,
-      17.9465
+      59.6129,
+      16.2162
     ]
   },
   "177.71.158.196": {
@@ -693,10 +703,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Trondheim",
+    "city": "Saksvik",
     "coordinates": [
-      63.4277,
-      10.4012
+      63.4417,
+      10.5927
     ]
   },
   "178.216.200.50": {
@@ -833,10 +843,10 @@
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
-    "city": "Palermo",
+    "city": "Buenos Aires",
     "coordinates": [
-      -34.5751,
-      -58.4359
+      -34.6142,
+      -58.3811
     ]
   },
   "191.9.110.85": {
@@ -933,10 +943,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Wembley",
+    "city": "London",
     "coordinates": [
-      51.5538,
-      -0.3102
+      51.5213,
+      -0.2715
     ]
   },
   "195.56.148.203": {
@@ -1059,6 +1069,16 @@
       -119.852
     ]
   },
+  "202.138.72.104": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "203.29.243.177": {
     "region": "Oceania",
     "country": "Australia",
@@ -1093,10 +1113,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "Salamanca",
+    "city": "Alcobendas",
     "coordinates": [
-      40.9701,
-      -5.6634
+      40.5339,
+      -3.6312
     ]
   },
   "209.182.236.77": {
@@ -1113,10 +1133,10 @@
     "region": "Oceania",
     "country": "New Zealand",
     "cc": "NZ",
-    "city": "Hamilton",
+    "city": "Auckland",
     "coordinates": [
-      -37.7837,
-      175.2824
+      -36.8542,
+      174.764
     ]
   },
   "212.106.123.32": {
@@ -1307,6 +1327,16 @@
     "coordinates": [
       19.076,
       72.8777
+    ]
+  },
+  "3.75.76.121": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1109,
+      8.68213
     ]
   },
   "3.76.38.12": {
@@ -1585,8 +1615,8 @@
     "cc": "US",
     "city": "Carrollton",
     "coordinates": [
-      33.0286,
-      -96.8736
+      33.0036,
+      -96.8834
     ]
   },
   "5.189.221.11": {
@@ -1597,6 +1627,16 @@
     "coordinates": [
       52.2265,
       21.0097
+    ]
+  },
+  "5.198.71.75": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Hull",
+    "coordinates": [
+      53.7606,
+      -0.3734
     ]
   },
   "5.9.82.79": {
@@ -1633,20 +1673,10 @@
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Victoria",
+    "city": "Beauharnois",
     "coordinates": [
-      48.4574,
-      -123.3436
-    ]
-  },
-  "51.83.128.107": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0067
+      45.3151,
+      -73.8779
     ]
   },
   "52.159.114.44": {
@@ -1853,10 +1883,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Saint Paul",
+    "city": "Burnsville",
     "coordinates": [
-      44.8101,
-      -93.1519
+      44.7601,
+      -93.2748
     ]
   },
   "75.102.17.203": {
@@ -1887,6 +1917,16 @@
     "coordinates": [
       40.1551,
       -76.6021
+    ]
+  },
+  "78.45.88.52": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0761,
+      14.4479
     ]
   },
   "79.139.57.116": {
@@ -1993,10 +2033,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Steinkjer",
+    "city": "Namsos",
     "coordinates": [
-      64.1652,
-      12.4851
+      64.4654,
+      11.5261
     ]
   },
   "89.239.25.13": {
@@ -2143,10 +2183,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Horn Lake",
+    "city": "Memphis",
     "coordinates": [
-      34.9469,
-      -90.0485
+      35.1431,
+      -90.0492
     ]
   }
 }
