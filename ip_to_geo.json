@@ -709,16 +709,6 @@
       10.5927
     ]
   },
-  "178.216.200.50": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Poznan",
-    "coordinates": [
-      52.3929,
-      16.874
-    ]
-  },
   "181.222.238.222": {
     "region": "South America",
     "country": "Brazil",
@@ -817,6 +807,16 @@
     "coordinates": [
       55.7483,
       37.6171
+    ]
+  },
+  "188.28.124.133": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Birmingham",
+    "coordinates": [
+      52.455,
+      -1.8641
     ]
   },
   "188.36.209.37": {
@@ -1299,16 +1299,6 @@
       -96.797
     ]
   },
-  "24.24.133.136": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
-    ]
-  },
   "3.235.93.21": {
     "region": "North America",
     "country": "United States",
@@ -1627,16 +1617,6 @@
     "coordinates": [
       52.2265,
       21.0097
-    ]
-  },
-  "5.198.71.75": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Hull",
-    "coordinates": [
-      53.7606,
-      -0.3734
     ]
   },
   "5.9.82.79": {
@@ -2007,6 +1987,16 @@
     "coordinates": [
       32.6333,
       -16.9
+    ]
+  },
+  "85.76.142.172": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1797,
+      24.9344
     ]
   },
   "87.189.56.245": {
