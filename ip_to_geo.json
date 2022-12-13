@@ -609,16 +609,6 @@
       174.7679
     ]
   },
-  "165.227.198.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Bergen",
-    "coordinates": [
-      40.793,
-      -74.0247
-    ]
-  },
   "167.71.142.56": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -679,6 +669,16 @@
       16.2162
     ]
   },
+  "177.144.184.169": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
+    ]
+  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -699,7 +699,17 @@
       10.5927
     ]
   },
-  "181.222.238.222": {
+  "178.216.200.50": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Poznan",
+    "coordinates": [
+      52.3929,
+      16.874
+    ]
+  },
+  "181.222.250.98": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -769,16 +779,6 @@
       37.6014
     ]
   },
-  "187.20.106.191": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -809,16 +809,6 @@
       37.6171
     ]
   },
-  "188.28.124.133": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Birmingham",
-    "coordinates": [
-      52.455,
-      -1.8641
-    ]
-  },
   "188.36.209.37": {
     "region": "Europe",
     "country": "Hungary",
@@ -847,16 +837,6 @@
     "coordinates": [
       -34.6142,
       -58.3811
-    ]
-  },
-  "191.9.107.73": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
     ]
   },
   "192.166.218.37": {
@@ -1499,16 +1479,6 @@
       2.347322
     ]
   },
-  "45.225.92.11": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Santiago",
-    "coordinates": [
-      -33.4513,
-      -70.6653
-    ]
-  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1667,6 +1637,16 @@
     "coordinates": [
       45.3151,
       -73.8779
+    ]
+  },
+  "51.83.128.107": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
     ]
   },
   "52.159.114.44": {
@@ -1857,16 +1837,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
