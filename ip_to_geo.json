@@ -9,16 +9,6 @@
       -75.296
     ]
   },
-  "100.36.1.151": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Arlington",
-    "coordinates": [
-      38.9064,
-      -77.1278
-    ]
-  },
   "102.37.98.187": {
     "region": "Africa",
     "country": "South Africa",
@@ -1289,6 +1279,16 @@
       -96.797
     ]
   },
+  "24.24.133.136": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
+    ]
+  },
   "3.235.93.21": {
     "region": "North America",
     "country": "United States",
@@ -1627,16 +1627,6 @@
     "coordinates": [
       52.2251,
       21.0477
-    ]
-  },
-  "51.79.51.110": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Beauharnois",
-    "coordinates": [
-      45.3151,
-      -73.8779
     ]
   },
   "51.83.128.107": {
