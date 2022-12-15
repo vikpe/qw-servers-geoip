@@ -639,6 +639,16 @@
       -113.5785
     ]
   },
+  "174.53.169.69": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.1184,
+      -93.3461
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -797,16 +807,6 @@
     "coordinates": [
       55.7483,
       37.6171
-    ]
-  },
-  "188.36.209.37": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5636,
-      19.0947
     ]
   },
   "188.40.103.81": {
@@ -1089,16 +1089,6 @@
       -3.6312
     ]
   },
-  "208.77.22.94": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
-    ]
-  },
   "209.182.236.77": {
     "region": "North America",
     "country": "United States",
@@ -1277,16 +1267,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.24.133.136": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
     ]
   },
   "3.235.93.21": {
@@ -1809,6 +1789,16 @@
       17.9155
     ]
   },
+  "72.109.22.21": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lancaster",
+    "coordinates": [
+      40.009,
+      -76.3631
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1839,16 +1829,6 @@
       -81.7334
     ]
   },
-  "73.88.59.191": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Burnsville",
-    "coordinates": [
-      44.7601,
-      -93.2748
-    ]
-  },
   "75.102.17.203": {
     "region": "North America",
     "country": "United States",
@@ -1869,16 +1849,6 @@
       -114.0394
     ]
   },
-  "75.215.198.66": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elizabethtown",
-    "coordinates": [
-      40.1551,
-      -76.6021
-    ]
-  },
   "78.45.88.52": {
     "region": "Europe",
     "country": "Czechia",
@@ -1887,6 +1857,16 @@
     "coordinates": [
       50.0761,
       14.4479
+    ]
+  },
+  "78.92.238.228": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Mosonmagyar\u00f3v\u00e1r",
+    "coordinates": [
+      47.8702,
+      17.2816
     ]
   },
   "79.139.57.116": {
@@ -1977,6 +1957,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "88.133.233.238": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Pettendorf",
+    "coordinates": [
+      49.0644,
+      12.0095
     ]
   },
   "88.198.221.98": {
