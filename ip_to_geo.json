@@ -473,20 +473,20 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Melbourne",
+    "city": "Mascot",
     "coordinates": [
-      -37.7995,
-      144.9504
+      -33.9166,
+      151.193
     ]
   },
   "158.174.105.9": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "J\u00e4rf\u00e4lla Municipality",
+    "city": "Taby",
     "coordinates": [
-      59.384,
-      17.8355
+      59.4417,
+      18.0637
     ]
   },
   "158.174.255.11": {
@@ -495,8 +495,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "158.174.255.214": {
@@ -505,18 +505,18 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "158.248.75.205": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Fornebu",
+    "city": "Rykkin",
     "coordinates": [
-      59.8904,
-      10.6124
+      59.9319,
+      10.4814
     ]
   },
   "159.203.25.195": {
@@ -639,6 +639,16 @@
       -113.5785
     ]
   },
+  "174.138.43.249": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Bergen",
+    "coordinates": [
+      40.793,
+      -74.0247
+    ]
+  },
   "174.53.169.69": {
     "region": "North America",
     "country": "United States",
@@ -663,10 +673,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Hallstahammar",
+    "city": "Saltsjoe-Boo",
     "coordinates": [
-      59.6129,
-      16.2162
+      59.3141,
+      18.2517
     ]
   },
   "177.144.184.169": {
@@ -913,10 +923,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "London",
+    "city": "Sudbury",
     "coordinates": [
-      51.5213,
-      -0.2715
+      51.5309,
+      -0.32
     ]
   },
   "195.56.148.203": {
@@ -1103,10 +1113,10 @@
     "region": "Oceania",
     "country": "New Zealand",
     "cc": "NZ",
-    "city": "Auckland",
+    "city": "Hamilton",
     "coordinates": [
-      -36.8542,
-      174.764
+      -37.7837,
+      175.2824
     ]
   },
   "212.106.123.32": {
@@ -1405,8 +1415,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "39.106.228.43": {
@@ -1565,8 +1575,8 @@
     "cc": "US",
     "city": "Carrollton",
     "coordinates": [
-      33.0036,
-      -96.8834
+      33.0286,
+      -96.8736
     ]
   },
   "5.189.221.11": {
@@ -1593,10 +1603,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Everett",
+    "city": "Lynnwood",
     "coordinates": [
-      47.9005,
-      -122.2472
+      47.8534,
+      -122.2438
     ]
   },
   "51.75.53.205": {
@@ -1793,10 +1803,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lancaster",
+    "city": "York",
     "coordinates": [
-      40.009,
-      -76.3631
+      40.0048,
+      -76.5938
     ]
   },
   "72.18.132.133": {
@@ -1827,6 +1837,16 @@
     "coordinates": [
       26.3771,
       -81.7334
+    ]
+  },
+  "73.238.171.167": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Canton",
+    "coordinates": [
+      41.8409,
+      -72.8978
     ]
   },
   "75.102.17.203": {
@@ -1863,10 +1883,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Mosonmagyar\u00f3v\u00e1r",
+    "city": "Fonyod",
     "coordinates": [
-      47.8702,
-      17.2816
+      46.7583,
+      17.5777
     ]
   },
   "79.139.57.116": {
@@ -1947,26 +1967,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "87.189.56.245": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
-  "88.133.233.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Pettendorf",
-    "coordinates": [
-      49.0644,
-      12.0095
     ]
   },
   "88.198.221.98": {
