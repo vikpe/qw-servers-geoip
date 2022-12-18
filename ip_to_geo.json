@@ -419,16 +419,6 @@
       -77.539
     ]
   },
-  "151.32.106.197": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Casale Monferrato",
-    "coordinates": [
-      45.1393,
-      8.4449
-    ]
-  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -649,16 +639,6 @@
       -93.3461
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0123,
-      -93.3447
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -777,6 +757,16 @@
     "coordinates": [
       55.795,
       37.6014
+    ]
+  },
+  "187.20.126.201": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1089,6 +1079,16 @@
       -3.6312
     ]
   },
+  "208.77.22.94": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.871,
+      -87.6289
+    ]
+  },
   "209.182.236.77": {
     "region": "North America",
     "country": "United States",
@@ -1157,6 +1157,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Sant Cugat del Vall\u00e8s",
+    "coordinates": [
+      41.4706,
+      2.08611
     ]
   },
   "216.128.134.224": {
@@ -1267,16 +1277,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.24.133.136": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
     ]
   },
   "3.235.93.21": {
@@ -1829,14 +1829,14 @@
       -77.35
     ]
   },
-  "73.238.171.167": {
+  "73.23.130.187": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Canton",
+    "city": "Bonita Springs",
     "coordinates": [
-      41.8409,
-      -72.8978
+      26.3771,
+      -81.7334
     ]
   },
   "75.102.17.203": {
@@ -1917,16 +1917,6 @@
     "coordinates": [
       52.3006,
       4.9479
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Orenburg",
-    "coordinates": [
-      51.7898,
-      55.0984
     ]
   },
   "84.83.171.254": {
@@ -2049,7 +2039,7 @@
       13.4755
     ]
   },
-  "92.32.170.58": {
+  "92.32.173.187": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
