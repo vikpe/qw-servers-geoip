@@ -469,16 +469,6 @@
       151.193
     ]
   },
-  "158.174.105.9": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Taby",
-    "coordinates": [
-      59.4417,
-      18.0637
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -499,14 +489,14 @@
       18.0653
     ]
   },
-  "158.248.75.205": {
+  "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Rykkin",
+    "city": "Raholt",
     "coordinates": [
-      59.9319,
-      10.4814
+      60.2763,
+      11.1796
     ]
   },
   "159.203.25.195": {
@@ -649,6 +639,16 @@
       -93.3461
     ]
   },
+  "174.83.56.54": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicopee",
+    "coordinates": [
+      42.1763,
+      -72.5771
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -657,16 +657,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Ricany",
-    "coordinates": [
-      49.9831,
-      14.6436
     ]
   },
   "177.144.184.169": {
@@ -1047,16 +1037,6 @@
     "coordinates": [
       47.233,
       -119.852
-    ]
-  },
-  "202.138.72.104": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
     ]
   },
   "203.29.243.177": {
@@ -1847,16 +1827,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
