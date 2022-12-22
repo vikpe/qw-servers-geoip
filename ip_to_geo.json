@@ -529,16 +529,6 @@
       -121.9753
     ]
   },
-  "161.97.106.241": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Nuremberg",
-    "coordinates": [
-      49.405,
-      11.1617
-    ]
-  },
   "162.248.92.183": {
     "region": "North America",
     "country": "United States",
@@ -607,6 +597,16 @@
     "coordinates": [
       33.0468,
       -96.7109
+    ]
+  },
+  "170.187.240.186": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "174.102.195.91": {
@@ -939,16 +939,6 @@
       -93.6208
     ]
   },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1067,16 +1057,6 @@
     "coordinates": [
       40.5339,
       -3.6312
-    ]
-  },
-  "208.77.22.94": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
     ]
   },
   "209.182.236.77": {
@@ -1267,16 +1247,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.24.133.136": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
     ]
   },
   "3.235.93.21": {
@@ -1977,6 +1947,16 @@
     "coordinates": [
       64.4654,
       11.5261
+    ]
+  },
+  "89.164.199.65": {
+    "region": "Europe",
+    "country": "Croatia",
+    "cc": "HR",
+    "city": "Zagreb",
+    "coordinates": [
+      45.8293,
+      15.9793
     ]
   },
   "89.239.25.13": {
