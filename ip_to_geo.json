@@ -209,16 +209,6 @@
       -6.2597
     ]
   },
-  "13.89.226.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -307,6 +297,16 @@
     "coordinates": [
       1.35208,
       103.82
+    ]
+  },
+  "141.136.226.157": {
+    "region": "Europe",
+    "country": "Croatia",
+    "cc": "HR",
+    "city": "Zagreb",
+    "coordinates": [
+      45.8045,
+      15.9987
     ]
   },
   "144.138.101.141": {
@@ -599,16 +599,6 @@
       -96.7109
     ]
   },
-  "170.187.240.186": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "174.102.195.91": {
     "region": "North America",
     "country": "United States",
@@ -647,6 +637,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Ricany",
+    "coordinates": [
+      49.9831,
+      14.6436
     ]
   },
   "177.144.184.169": {
@@ -939,6 +939,16 @@
       -93.6208
     ]
   },
+  "20.125.113.83": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
+    ]
+  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1057,6 +1067,16 @@
     "coordinates": [
       40.5339,
       -3.6312
+    ]
+  },
+  "208.77.22.94": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.871,
+      -87.6289
     ]
   },
   "209.182.236.77": {
@@ -1699,16 +1719,6 @@
       -46.6333
     ]
   },
-  "62.195.93.97": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Rotterdam",
-    "coordinates": [
-      51.9281,
-      4.5052
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1929,6 +1939,16 @@
       9.0232
     ]
   },
+  "88.133.233.238": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Pettendorf",
+    "coordinates": [
+      49.0644,
+      12.0095
+    ]
+  },
   "88.198.221.98": {
     "region": "Europe",
     "country": "Germany",
@@ -1949,14 +1969,14 @@
       11.5261
     ]
   },
-  "89.164.199.65": {
+  "89.220.154.19": {
     "region": "Europe",
-    "country": "Croatia",
-    "cc": "HR",
-    "city": "Zagreb",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Heerhugowaard",
     "coordinates": [
-      45.8293,
-      15.9793
+      52.6614,
+      4.8267
     ]
   },
   "89.239.25.13": {
