@@ -299,16 +299,6 @@
       103.82
     ]
   },
-  "141.136.226.157": {
-    "region": "Europe",
-    "country": "Croatia",
-    "cc": "HR",
-    "city": "Zagreb",
-    "coordinates": [
-      45.8045,
-      15.9987
-    ]
-  },
   "144.138.101.141": {
     "region": "Oceania",
     "country": "Australia",
@@ -475,8 +465,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "158.174.255.214": {
@@ -493,10 +483,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Raholt",
+    "city": "Jessheim",
     "coordinates": [
-      60.2763,
-      11.1796
+      60.1591,
+      11.1403
     ]
   },
   "159.203.25.195": {
@@ -639,16 +629,6 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Ricany",
-    "coordinates": [
-      49.9831,
-      14.6436
-    ]
-  },
   "177.144.184.169": {
     "region": "South America",
     "country": "Brazil",
@@ -687,16 +667,6 @@
     "coordinates": [
       52.3929,
       16.874
-    ]
-  },
-  "181.222.250.98": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
     ]
   },
   "182.239.206.122": {
@@ -1093,10 +1063,10 @@
     "region": "Oceania",
     "country": "New Zealand",
     "cc": "NZ",
-    "city": "Hamilton",
+    "city": "Auckland",
     "coordinates": [
-      -37.7837,
-      175.2824
+      -36.8542,
+      174.764
     ]
   },
   "212.106.123.32": {
@@ -1405,8 +1375,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "39.106.228.43": {
@@ -1783,10 +1753,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "York",
+    "city": "Harrisburg",
     "coordinates": [
-      40.0048,
-      -76.5938
+      40.2697,
+      -76.8999
     ]
   },
   "72.18.132.133": {
@@ -1923,10 +1893,10 @@
     "region": "Europe",
     "country": "Portugal",
     "cc": "PT",
-    "city": "Funchal",
+    "city": "Canico",
     "coordinates": [
-      32.6333,
-      -16.9
+      32.6803,
+      -16.8195
     ]
   },
   "87.189.56.245": {
@@ -1937,16 +1907,6 @@
     "coordinates": [
       48.7045,
       9.0232
-    ]
-  },
-  "88.133.233.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Pettendorf",
-    "coordinates": [
-      49.0644,
-      12.0095
     ]
   },
   "88.198.221.98": {
@@ -1969,14 +1929,24 @@
       11.5261
     ]
   },
+  "89.164.14.167": {
+    "region": "Europe",
+    "country": "Croatia",
+    "cc": "HR",
+    "city": "Zagreb",
+    "coordinates": [
+      45.8293,
+      15.9793
+    ]
+  },
   "89.220.154.19": {
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
     "city": "Heerhugowaard",
     "coordinates": [
-      52.6614,
-      4.8267
+      52.6763,
+      4.8219
     ]
   },
   "89.239.25.13": {
@@ -2135,8 +2105,8 @@
     "cc": "US",
     "city": "Memphis",
     "coordinates": [
-      35.1431,
-      -90.0492
+      35.1495,
+      -90.049
     ]
   }
 }
