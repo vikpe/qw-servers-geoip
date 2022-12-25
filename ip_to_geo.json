@@ -299,6 +299,16 @@
       103.82
     ]
   },
+  "140.238.135.175": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Toronto",
+    "coordinates": [
+      43.8072,
+      -79.5946
+    ]
+  },
   "144.138.101.141": {
     "region": "Oceania",
     "country": "Australia",
@@ -517,6 +527,16 @@
     "coordinates": [
       37.3417,
       -121.9753
+    ]
+  },
+  "162.218.224.242": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": [
+      37.7958,
+      -122.4203
     ]
   },
   "162.248.92.183": {
@@ -1127,6 +1147,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Sant Cugat del Vall\u00e8s",
+    "coordinates": [
+      41.4706,
+      2.08611
     ]
   },
   "216.128.134.224": {
@@ -1929,7 +1959,7 @@
       11.5261
     ]
   },
-  "89.164.14.167": {
+  "89.164.18.143": {
     "region": "Europe",
     "country": "Croatia",
     "cc": "HR",
@@ -1937,16 +1967,6 @@
     "coordinates": [
       45.8293,
       15.9793
-    ]
-  },
-  "89.220.154.19": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Heerhugowaard",
-    "coordinates": [
-      52.6763,
-      4.8219
     ]
   },
   "89.239.25.13": {
