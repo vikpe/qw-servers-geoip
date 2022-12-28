@@ -79,16 +79,6 @@
       -74.4606
     ]
   },
-  "104.236.169.23": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.7308,
-      -122.3838
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -209,6 +199,16 @@
       -6.2597
     ]
   },
+  "13.89.226.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
+    ]
+  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -307,16 +307,6 @@
     "coordinates": [
       43.8072,
       -79.5946
-    ]
-  },
-  "141.136.195.138": {
-    "region": "Europe",
-    "country": "Croatia",
-    "cc": "HR",
-    "city": "Zagreb",
-    "coordinates": [
-      45.8293,
-      15.9793
     ]
   },
   "144.138.101.141": {
@@ -429,16 +419,6 @@
       -77.539
     ]
   },
-  "151.32.195.150": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
-    ]
-  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -549,16 +529,6 @@
       -121.9753
     ]
   },
-  "162.218.224.242": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.7958,
-      -122.4203
-    ]
-  },
   "162.248.92.183": {
     "region": "North America",
     "country": "United States",
@@ -657,16 +627,6 @@
     "coordinates": [
       45.1184,
       -93.3461
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0123,
-      -93.3447
     ]
   },
   "176.210.100.6": {
@@ -1287,6 +1247,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.24.133.136": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.2003,
+      -118.4045
     ]
   },
   "3.235.93.21": {
@@ -1949,6 +1919,26 @@
       -16.8195
     ]
   },
+  "87.189.49.252": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
+  "88.133.233.238": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Pettendorf",
+    "coordinates": [
+      49.0644,
+      12.0095
+    ]
+  },
   "88.198.221.98": {
     "region": "Europe",
     "country": "Germany",
@@ -1967,6 +1957,16 @@
     "coordinates": [
       64.4654,
       11.5261
+    ]
+  },
+  "89.164.144.225": {
+    "region": "Europe",
+    "country": "Croatia",
+    "cc": "HR",
+    "city": "Zagreb",
+    "coordinates": [
+      45.8293,
+      15.9793
     ]
   },
   "89.239.25.13": {
