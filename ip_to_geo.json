@@ -493,10 +493,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Jessheim",
+    "city": "Oslo",
     "coordinates": [
-      60.1591,
-      11.1403
+      59.955,
+      10.859
     ]
   },
   "159.203.25.195": {
@@ -663,10 +663,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Saksvik",
+    "city": "Trondheim",
     "coordinates": [
-      63.4417,
-      10.5927
+      63.4277,
+      10.4012
     ]
   },
   "178.216.200.50": {
@@ -1073,10 +1073,10 @@
     "region": "Oceania",
     "country": "New Zealand",
     "cc": "NZ",
-    "city": "Auckland",
+    "city": "Hamilton",
     "coordinates": [
-      -36.8542,
-      174.764
+      -37.7837,
+      175.2824
     ]
   },
   "212.106.123.32": {
@@ -1185,8 +1185,8 @@
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -33.8715,
-      151.2006
+      -33.8688,
+      151.209
     ]
   },
   "223.165.64.141": {
@@ -1255,8 +1255,8 @@
     "cc": "US",
     "city": "North Hollywood",
     "coordinates": [
-      34.2003,
-      -118.4045
+      34.1867,
+      -118.3878
     ]
   },
   "3.235.93.21": {
@@ -1407,16 +1407,6 @@
     "coordinates": [
       39.9143,
       116.3861
-    ]
-  },
-  "4.15.251.248": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Broomfield",
-    "coordinates": [
-      39.9209,
-      -105.144
     ]
   },
   "40.80.91.10": {
@@ -1773,10 +1763,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Harrisburg",
+    "city": "York",
     "coordinates": [
-      40.2697,
-      -76.8999
+      39.9552,
+      -76.6653
     ]
   },
   "72.18.132.133": {
@@ -1913,10 +1903,10 @@
     "region": "Europe",
     "country": "Portugal",
     "cc": "PT",
-    "city": "Canico",
+    "city": "Funchal",
     "coordinates": [
-      32.6803,
-      -16.8195
+      32.6333,
+      -16.9
     ]
   },
   "87.189.49.252": {
@@ -1959,7 +1949,7 @@
       11.5261
     ]
   },
-  "89.164.144.225": {
+  "89.164.120.231": {
     "region": "Europe",
     "country": "Croatia",
     "cc": "HR",
@@ -2027,6 +2017,16 @@
     "coordinates": [
       52.4982,
       13.4755
+    ]
+  },
+  "92.237.69.193": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Bristol",
+    "coordinates": [
+      51.4534,
+      -2.5077
     ]
   },
   "92.32.167.51": {
