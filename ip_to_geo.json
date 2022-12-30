@@ -309,6 +309,16 @@
       -79.5946
     ]
   },
+  "141.136.164.24": {
+    "region": "Europe",
+    "country": "Croatia",
+    "cc": "HR",
+    "city": "Dubrovnik",
+    "coordinates": [
+      42.6413,
+      18.1091
+    ]
+  },
   "144.138.101.141": {
     "region": "Oceania",
     "country": "Australia",
@@ -1579,6 +1589,16 @@
       -122.2438
     ]
   },
+  "50.92.88.162": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Courtenay",
+    "coordinates": [
+      49.6585,
+      -124.9835
+    ]
+  },
   "51.75.53.205": {
     "region": "Europe",
     "country": "Poland",
@@ -1919,16 +1939,6 @@
       8.7399
     ]
   },
-  "88.133.233.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Pettendorf",
-    "coordinates": [
-      49.0644,
-      12.0095
-    ]
-  },
   "88.198.221.98": {
     "region": "Europe",
     "country": "Germany",
@@ -1947,16 +1957,6 @@
     "coordinates": [
       64.4654,
       11.5261
-    ]
-  },
-  "89.164.120.231": {
-    "region": "Europe",
-    "country": "Croatia",
-    "cc": "HR",
-    "city": "Zagreb",
-    "coordinates": [
-      45.8293,
-      15.9793
     ]
   },
   "89.239.25.13": {
@@ -2117,6 +2117,16 @@
     "coordinates": [
       37.5428,
       -122.2971
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Frisco",
+    "coordinates": [
+      33.1371,
+      -96.7488
     ]
   },
   "99.72.255.45": {
