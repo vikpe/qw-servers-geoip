@@ -239,6 +239,16 @@
       12.365
     ]
   },
+  "136.37.132.192": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Olathe",
+    "coordinates": [
+      38.8715,
+      -94.7713
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -307,16 +317,6 @@
     "coordinates": [
       43.8072,
       -79.5946
-    ]
-  },
-  "141.136.164.8": {
-    "region": "Europe",
-    "country": "Croatia",
-    "cc": "HR",
-    "city": "Dubrovnik",
-    "coordinates": [
-      42.6413,
-      18.1091
     ]
   },
   "144.138.101.141": {
@@ -677,6 +677,16 @@
     "coordinates": [
       52.3929,
       16.874
+    ]
+  },
+  "179.155.82.177": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
+    "coordinates": [
+      -19.0233,
+      -48.3348
     ]
   },
   "185.11.166.90": {
@@ -1129,6 +1139,16 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Sant Cugat del Vall\u00e8s",
+    "coordinates": [
+      41.4706,
+      2.08611
+    ]
+  },
   "216.128.134.224": {
     "region": "North America",
     "country": "United States",
@@ -1237,6 +1257,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.24.133.136": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
     ]
   },
   "3.235.93.21": {
@@ -1559,16 +1589,6 @@
       -122.2438
     ]
   },
-  "50.92.88.162": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Courtenay",
-    "coordinates": [
-      49.6585,
-      -124.9835
-    ]
-  },
   "51.75.53.205": {
     "region": "Europe",
     "country": "Poland",
@@ -1809,6 +1829,16 @@
       -114.0394
     ]
   },
+  "76.23.136.181": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
+    ]
+  },
   "78.45.88.52": {
     "region": "Europe",
     "country": "Czechia",
@@ -1939,6 +1969,16 @@
       11.5261
     ]
   },
+  "89.164.120.39": {
+    "region": "Europe",
+    "country": "Croatia",
+    "cc": "HR",
+    "city": "Zagreb",
+    "coordinates": [
+      45.8293,
+      15.9793
+    ]
+  },
   "89.239.25.13": {
     "region": "Europe",
     "country": "Czechia",
@@ -1997,16 +2037,6 @@
     "coordinates": [
       52.4982,
       13.4755
-    ]
-  },
-  "92.237.69.193": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Bristol",
-    "coordinates": [
-      51.4534,
-      -2.5077
     ]
   },
   "92.32.167.51": {
@@ -2089,14 +2119,14 @@
       -81.2436
     ]
   },
-  "99.47.21.158": {
+  "99.48.163.106": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "San Mateo",
+    "city": "Frisco",
     "coordinates": [
-      37.5428,
-      -122.2971
+      33.1371,
+      -96.7488
     ]
   },
   "99.72.255.45": {
