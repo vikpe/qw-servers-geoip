@@ -309,6 +309,16 @@
       -79.5946
     ]
   },
+  "141.136.146.191": {
+    "region": "Europe",
+    "country": "Croatia",
+    "cc": "HR",
+    "city": "Zagreb",
+    "coordinates": [
+      45.8293,
+      15.9793
+    ]
+  },
   "144.138.101.141": {
     "region": "Oceania",
     "country": "Australia",
@@ -799,6 +809,16 @@
       -58.3811
     ]
   },
+  "191.101.78.127": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5335,
+      -46.6359
+    ]
+  },
   "192.166.218.37": {
     "region": "Europe",
     "country": "Poland",
@@ -1209,6 +1229,16 @@
       174.794
     ]
   },
+  "23.122.104.118": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Little Rock",
+    "coordinates": [
+      34.6848,
+      -92.2813
+    ]
+  },
   "23.22.56.152": {
     "region": "North America",
     "country": "United States",
@@ -1247,6 +1277,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.24.133.136": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.2003,
+      -118.4045
     ]
   },
   "3.235.93.21": {
@@ -1569,16 +1609,6 @@
       12.365
     ]
   },
-  "50.34.46.144": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lynnwood",
-    "coordinates": [
-      47.8534,
-      -122.2438
-    ]
-  },
   "51.75.53.205": {
     "region": "Europe",
     "country": "Poland",
@@ -1697,6 +1727,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "61.245.153.149": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Adelaide",
+    "coordinates": [
+      -34.9281,
+      138.5999
     ]
   },
   "64.227.18.147": {
@@ -1819,16 +1859,6 @@
       -114.0394
     ]
   },
-  "76.23.136.181": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
-    ]
-  },
   "78.45.88.52": {
     "region": "Europe",
     "country": "Czechia",
@@ -1939,6 +1969,16 @@
       8.7399
     ]
   },
+  "88.133.233.238": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Pettendorf",
+    "coordinates": [
+      49.0644,
+      12.0095
+    ]
+  },
   "88.198.221.98": {
     "region": "Europe",
     "country": "Germany",
@@ -1957,16 +1997,6 @@
     "coordinates": [
       64.4654,
       11.5261
-    ]
-  },
-  "89.164.109.127": {
-    "region": "Europe",
-    "country": "Croatia",
-    "cc": "HR",
-    "city": "Zagreb",
-    "coordinates": [
-      45.8293,
-      15.9793
     ]
   },
   "89.239.25.13": {
