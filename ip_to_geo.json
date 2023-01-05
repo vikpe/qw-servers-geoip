@@ -309,16 +309,6 @@
       -79.5946
     ]
   },
-  "141.136.146.191": {
-    "region": "Europe",
-    "country": "Croatia",
-    "cc": "HR",
-    "city": "Zagreb",
-    "coordinates": [
-      45.8293,
-      15.9793
-    ]
-  },
   "144.138.101.141": {
     "region": "Oceania",
     "country": "Australia",
@@ -637,6 +627,16 @@
     "coordinates": [
       45.1184,
       -93.3461
+    ]
+  },
+  "174.83.56.54": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicopee",
+    "coordinates": [
+      42.1502,
+      -72.6078
     ]
   },
   "176.210.100.6": {
@@ -1929,6 +1929,16 @@
       4.9479
     ]
   },
+  "84.187.45.120": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Bad Teinach-Zavelstein",
+    "coordinates": [
+      48.6888,
+      8.6919
+    ]
+  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1959,26 +1969,6 @@
       -16.9
     ]
   },
-  "87.189.49.252": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
-  "88.133.233.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Pettendorf",
-    "coordinates": [
-      49.0644,
-      12.0095
-    ]
-  },
   "88.198.221.98": {
     "region": "Europe",
     "country": "Germany",
@@ -1997,6 +1987,16 @@
     "coordinates": [
       64.4654,
       11.5261
+    ]
+  },
+  "89.164.56.123": {
+    "region": "Europe",
+    "country": "Croatia",
+    "cc": "HR",
+    "city": "Zagreb",
+    "coordinates": [
+      45.8293,
+      15.9793
     ]
   },
   "89.239.25.13": {
@@ -2049,14 +2049,14 @@
       37.6171
     ]
   },
-  "91.66.4.41": {
+  "91.66.6.138": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.4982,
-      13.4755
+      52.5221,
+      13.4814
     ]
   },
   "92.32.167.51": {
