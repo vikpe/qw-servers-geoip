@@ -569,6 +569,16 @@
       174.7679
     ]
   },
+  "165.73.55.78": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Midrand",
+    "coordinates": [
+      -25.9766,
+      28.1144
+    ]
+  },
   "167.71.142.56": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -689,7 +699,7 @@
       16.874
     ]
   },
-  "179.155.82.177": {
+  "179.155.82.229": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1277,16 +1287,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.24.133.136": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.2003,
-      -118.4045
     ]
   },
   "3.235.93.21": {
@@ -1989,7 +1989,7 @@
       11.5261
     ]
   },
-  "89.164.56.123": {
+  "89.164.136.34": {
     "region": "Europe",
     "country": "Croatia",
     "cc": "HR",
