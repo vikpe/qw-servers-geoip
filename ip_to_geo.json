@@ -309,6 +309,16 @@
       -79.5946
     ]
   },
+  "141.136.152.177": {
+    "region": "Europe",
+    "country": "Croatia",
+    "cc": "HR",
+    "city": "Split",
+    "coordinates": [
+      43.5098,
+      16.4411
+    ]
+  },
   "144.138.101.141": {
     "region": "Oceania",
     "country": "Australia",
@@ -639,14 +649,14 @@
       -93.3461
     ]
   },
-  "174.83.56.54": {
+  "174.53.235.234": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Chicopee",
+    "city": "Minneapolis",
     "coordinates": [
-      42.1502,
-      -72.6078
+      45.0123,
+      -93.3447
     ]
   },
   "176.210.100.6": {
@@ -707,6 +717,16 @@
     "coordinates": [
       -19.0233,
       -48.3348
+    ]
+  },
+  "18.177.140.83": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": [
+      35.6895,
+      139.692
     ]
   },
   "185.11.166.90": {
@@ -1989,16 +2009,6 @@
       11.5261
     ]
   },
-  "89.164.136.34": {
-    "region": "Europe",
-    "country": "Croatia",
-    "cc": "HR",
-    "city": "Zagreb",
-    "coordinates": [
-      45.8293,
-      15.9793
-    ]
-  },
   "89.239.25.13": {
     "region": "Europe",
     "country": "Czechia",
@@ -2057,16 +2067,6 @@
     "coordinates": [
       52.5221,
       13.4814
-    ]
-  },
-  "92.32.167.51": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3772,
-      17.3203
     ]
   },
   "94.16.128.193": {
@@ -2137,16 +2137,6 @@
     "coordinates": [
       43.0461,
       -81.2436
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Frisco",
-    "coordinates": [
-      33.1371,
-      -96.7488
     ]
   },
   "99.72.255.45": {
