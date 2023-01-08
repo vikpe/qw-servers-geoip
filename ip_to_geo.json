@@ -309,7 +309,7 @@
       -79.5946
     ]
   },
-  "141.136.152.177": {
+  "141.136.152.228": {
     "region": "Europe",
     "country": "Croatia",
     "cc": "HR",
@@ -839,16 +839,6 @@
       -58.3811
     ]
   },
-  "191.101.78.127": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5335,
-      -46.6359
-    ]
-  },
   "192.166.218.37": {
     "region": "Europe",
     "country": "Poland",
@@ -1369,6 +1359,16 @@
       4.8274
     ]
   },
+  "31.51.130.64": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Rye",
+    "coordinates": [
+      50.989,
+      0.6467
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1879,16 +1879,6 @@
       -114.0394
     ]
   },
-  "78.45.88.52": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0761,
-      14.4479
-    ]
-  },
   "78.92.238.228": {
     "region": "Europe",
     "country": "Hungary",
@@ -1917,16 +1907,6 @@
     "coordinates": [
       48.1077,
       11.6091
-    ]
-  },
-  "81.155.159.239": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Ashford",
-    "coordinates": [
-      51.141,
-      0.8238
     ]
   },
   "82.141.152.3": {
