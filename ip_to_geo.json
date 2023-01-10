@@ -599,6 +599,16 @@
       -96.7109
     ]
   },
+  "174.102.195.91": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -727,16 +737,6 @@
     "coordinates": [
       55.795,
       37.6014
-    ]
-  },
-  "187.20.104.4": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1127,16 +1127,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Sant Cugat del Vall\u00e8s",
-    "coordinates": [
-      41.4706,
-      2.08611
     ]
   },
   "216.128.134.224": {
@@ -1589,6 +1579,16 @@
       12.365
     ]
   },
+  "50.34.46.144": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lynnwood",
+    "coordinates": [
+      47.8534,
+      -122.2438
+    ]
+  },
   "51.75.53.205": {
     "region": "Europe",
     "country": "Poland",
@@ -1809,16 +1809,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Penngrove",
-    "coordinates": [
-      38.3129,
-      -122.6441
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1919,16 +1909,6 @@
       4.9479
     ]
   },
-  "84.187.45.120": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Bad Teinach-Zavelstein",
-    "coordinates": [
-      48.6888,
-      8.6919
-    ]
-  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1959,6 +1939,16 @@
       -16.9
     ]
   },
+  "87.189.60.106": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Althengstett",
+    "coordinates": [
+      48.7241,
+      8.7919
+    ]
+  },
   "88.198.221.98": {
     "region": "Europe",
     "country": "Germany",
@@ -1977,16 +1967,6 @@
     "coordinates": [
       64.4654,
       11.5261
-    ]
-  },
-  "89.164.18.139": {
-    "region": "Europe",
-    "country": "Croatia",
-    "cc": "HR",
-    "city": "Zagreb",
-    "coordinates": [
-      45.8293,
-      15.9793
     ]
   },
   "89.239.25.13": {
@@ -2047,6 +2027,16 @@
     "coordinates": [
       52.5221,
       13.4814
+    ]
+  },
+  "92.32.168.25": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sundsvall",
+    "coordinates": [
+      62.3772,
+      17.3203
     ]
   },
   "94.16.128.193": {
