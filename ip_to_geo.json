@@ -409,6 +409,16 @@
       -77.539
     ]
   },
+  "151.32.115.5": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Turin",
+    "coordinates": [
+      45.0914,
+      7.6639
+    ]
+  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -629,6 +639,16 @@
       -93.3461
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -689,6 +709,16 @@
       -48.3348
     ]
   },
+  "179.34.67.54": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.6391,
+      -49.2622
+    ]
+  },
   "18.177.140.83": {
     "region": "Asia",
     "country": "Japan",
@@ -727,16 +757,6 @@
     "coordinates": [
       51.5074,
       -0.127758
-    ]
-  },
-  "185.87.193.39": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.795,
-      37.6014
     ]
   },
   "188.166.0.137": {
@@ -1819,6 +1839,16 @@
       -81.7334
     ]
   },
+  "74.109.14.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Wayne",
+    "coordinates": [
+      40.0574,
+      -75.4017
+    ]
+  },
   "75.102.17.203": {
     "region": "North America",
     "country": "United States",
@@ -1909,6 +1939,16 @@
       4.9479
     ]
   },
+  "84.187.41.249": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1109,
+      8.68213
+    ]
+  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1937,16 +1977,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "87.189.60.106": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Althengstett",
-    "coordinates": [
-      48.7241,
-      8.7919
     ]
   },
   "88.198.221.98": {
