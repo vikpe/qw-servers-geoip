@@ -639,14 +639,14 @@
       -93.3461
     ]
   },
-  "174.53.235.234": {
+  "174.83.56.54": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Minneapolis",
+    "city": "Chicopee",
     "coordinates": [
-      45.0646,
-      -93.3836
+      42.1763,
+      -72.5771
     ]
   },
   "176.210.100.6": {
@@ -1499,16 +1499,6 @@
       151.1897
     ]
   },
-  "45.76.177.172": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.32123,
-      103.695
-    ]
-  },
   "45.76.23.209": {
     "region": "North America",
     "country": "United States",
@@ -1827,16 +1817,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "74.109.14.130": {
