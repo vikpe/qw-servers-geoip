@@ -199,16 +199,6 @@
       -6.2597
     ]
   },
-  "13.89.226.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -639,16 +629,6 @@
       -93.3461
     ]
   },
-  "174.83.56.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicopee",
-    "coordinates": [
-      42.1763,
-      -72.5771
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -709,16 +689,6 @@
       -48.3348
     ]
   },
-  "179.34.67.54": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.6391,
-      -49.2622
-    ]
-  },
   "18.177.140.83": {
     "region": "Asia",
     "country": "Japan",
@@ -757,6 +727,36 @@
     "coordinates": [
       51.5074,
       -0.127758
+    ]
+  },
+  "185.87.193.39": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.795,
+      37.6014
+    ]
+  },
+  "187.20.96.10": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
+    ]
+  },
+  "187.99.67.179": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.6391,
+      -49.2622
     ]
   },
   "188.166.0.137": {
@@ -1499,6 +1499,16 @@
       151.1897
     ]
   },
+  "45.76.177.172": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.32123,
+      103.695
+    ]
+  },
   "45.76.23.209": {
     "region": "North America",
     "country": "United States",
@@ -1819,6 +1829,16 @@
       -77.35
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "74.109.14.130": {
     "region": "North America",
     "country": "United States",
@@ -1957,6 +1977,16 @@
     "coordinates": [
       32.6333,
       -16.9
+    ]
+  },
+  "88.133.233.238": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Pettendorf",
+    "coordinates": [
+      49.0644,
+      12.0095
     ]
   },
   "88.198.221.98": {
