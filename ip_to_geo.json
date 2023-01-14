@@ -275,8 +275,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.5164,
-      -0.093
+      51.5095,
+      -0.0955
     ]
   },
   "139.162.45.192": {
@@ -453,10 +453,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Mascot",
+    "city": "Melbourne",
     "coordinates": [
-      -33.9166,
-      151.193
+      -37.7995,
+      144.9504
     ]
   },
   "158.174.255.11": {
@@ -559,16 +559,6 @@
       174.7679
     ]
   },
-  "165.73.55.78": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Midrand",
-    "coordinates": [
-      -25.9766,
-      28.1144
-    ]
-  },
   "167.71.142.56": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -623,10 +613,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Minneapolis",
+    "city": "Burnsville",
     "coordinates": [
-      45.1184,
-      -93.3461
+      44.7601,
+      -93.2748
     ]
   },
   "176.210.100.6": {
@@ -663,10 +653,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Saksvik",
+    "city": "Trondheim",
     "coordinates": [
-      63.4417,
-      10.5927
+      63.4277,
+      10.4012
     ]
   },
   "178.216.200.50": {
@@ -687,6 +677,16 @@
     "coordinates": [
       -19.0233,
       -48.3348
+    ]
+  },
+  "179.34.74.74": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.6391,
+      -49.2622
     ]
   },
   "18.177.140.83": {
@@ -749,16 +749,6 @@
       -43.9572
     ]
   },
-  "187.99.67.179": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.6391,
-      -49.2622
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -803,10 +793,10 @@
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
-    "city": "Buenos Aires",
+    "city": "Palermo",
     "coordinates": [
-      -34.6142,
-      -58.3811
+      -34.5751,
+      -58.4359
     ]
   },
   "192.166.218.37": {
@@ -893,10 +883,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Sudbury",
+    "city": "Ealing",
     "coordinates": [
-      51.5309,
-      -0.32
+      51.5213,
+      -0.2715
     ]
   },
   "195.56.148.203": {
@@ -1083,10 +1073,10 @@
     "region": "Oceania",
     "country": "New Zealand",
     "cc": "NZ",
-    "city": "Hamilton",
+    "city": "Auckland",
     "coordinates": [
-      -37.7837,
-      175.2824
+      -36.8597,
+      174.764
     ]
   },
   "212.106.123.32": {
@@ -1113,10 +1103,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Borensberg",
+    "city": "Link\u00f6ping",
     "coordinates": [
-      58.57,
-      15.2838
+      58.4016,
+      15.6462
     ]
   },
   "213.164.209.174": {
@@ -1545,8 +1535,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.5164,
-      -0.093
+      51.5095,
+      -0.0955
     ]
   },
   "46.101.78.83": {
@@ -1803,10 +1793,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Harrisburg",
+    "city": "York",
     "coordinates": [
-      40.2927,
-      -76.817
+      39.9517,
+      -76.7064
     ]
   },
   "72.18.132.133": {
@@ -1827,6 +1817,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "72.94.12.251": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Feasterville-Trevose",
+    "coordinates": [
+      40.1533,
+      -74.9937
     ]
   },
   "73.23.130.187": {
@@ -1893,20 +1893,20 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Fonyod",
+    "city": "Balatonlelle",
     "coordinates": [
-      46.7583,
-      17.5777
+      46.7841,
+      17.6892
     ]
   },
   "79.139.57.116": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Salgotarjan",
+    "city": "Budapest",
     "coordinates": [
-      48.0987,
-      19.803
+      47.5636,
+      19.0947
     ]
   },
   "80.241.209.47": {
@@ -1943,10 +1943,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Frankfurt am Main",
+    "city": "Oberreichenbach",
     "coordinates": [
-      50.1109,
-      8.68213
+      48.7318,
+      8.6702
     ]
   },
   "84.39.252.192": {
@@ -1977,16 +1977,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "88.133.233.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Pettendorf",
-    "coordinates": [
-      49.0644,
-      12.0095
     ]
   },
   "88.198.221.98": {
@@ -2069,24 +2059,14 @@
       13.4814
     ]
   },
-  "92.32.168.25": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3772,
-      17.3203
-    ]
-  },
   "94.16.128.193": {
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Therwil",
+    "city": "Basel",
     "coordinates": [
-      47.5053,
-      7.5477
+      47.5577,
+      7.5936
     ]
   },
   "94.254.2.158": {
