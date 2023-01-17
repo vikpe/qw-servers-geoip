@@ -139,16 +139,6 @@
       11.0767
     ]
   },
-  "124.187.70.137": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4437,
-      153.0244
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -439,16 +429,6 @@
       -84.4455
     ]
   },
-  "157.230.152.128": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Santa Clara",
-    "coordinates": [
-      37.3417,
-      -121.9753
-    ]
-  },
   "158.101.195.75": {
     "region": "Europe",
     "country": "Netherlands",
@@ -475,8 +455,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "158.174.255.214": {
@@ -495,8 +475,8 @@
     "cc": "NO",
     "city": "Oslo",
     "coordinates": [
-      59.955,
-      10.859
+      59.8636,
+      10.7961
     ]
   },
   "159.203.25.195": {
@@ -639,16 +619,6 @@
       -93.2748
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0646,
-      -93.3836
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -657,16 +627,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "177.144.184.169": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
     ]
   },
   "177.71.158.196": {
@@ -939,16 +899,6 @@
       18.8893
     ]
   },
-  "199.247.1.190": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1103,
-      8.7147
-    ]
-  },
   "20.106.48.249": {
     "region": "North America",
     "country": "United States",
@@ -1083,10 +1033,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "Alcobendas",
+    "city": "A Coru\u00f1a",
     "coordinates": [
-      40.5339,
-      -3.6312
+      43.3675,
+      -8.3969
     ]
   },
   "208.77.22.94": {
@@ -1177,6 +1127,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1287,16 +1247,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.226.154.224": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Drummondville",
-    "coordinates": [
-      45.9061,
-      -72.5929
     ]
   },
   "3.235.93.21": {
@@ -1435,8 +1385,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "39.106.228.43": {
@@ -1879,16 +1829,6 @@
       -74.9937
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Penngrove",
-    "coordinates": [
-      38.3129,
-      -122.6441
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -2029,16 +1969,6 @@
       13.4425
     ]
   },
-  "85.247.106.92": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
-    ]
-  },
   "88.198.221.98": {
     "region": "Europe",
     "country": "Germany",
@@ -2055,8 +1985,8 @@
     "cc": "NO",
     "city": "Namsos",
     "coordinates": [
-      64.4654,
-      11.5261
+      64.4753,
+      11.4994
     ]
   },
   "89.239.25.13": {
@@ -2125,8 +2055,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.5221,
-      13.4814
+      52.5196,
+      13.4603
     ]
   },
   "94.16.128.193": {
@@ -2195,8 +2125,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "99.199.186.188": {
