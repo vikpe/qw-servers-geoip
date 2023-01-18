@@ -189,16 +189,6 @@
       -6.2597
     ]
   },
-  "13.89.226.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -547,16 +537,6 @@
     "coordinates": [
       -36.8506,
       174.7679
-    ]
-  },
-  "165.73.55.78": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Midrand",
-    "coordinates": [
-      -25.9766,
-      28.1144
     ]
   },
   "167.71.142.56": {
@@ -1877,6 +1857,16 @@
     "coordinates": [
       41.3908,
       -73.4483
+    ]
+  },
+  "77.205.153.45": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Bassens",
+    "coordinates": [
+      44.9035,
+      -0.517
     ]
   },
   "78.45.88.52": {
