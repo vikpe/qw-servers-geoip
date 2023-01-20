@@ -619,6 +619,16 @@
       -93.2748
     ]
   },
+  "176.138.32.71": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Nanterre",
+    "coordinates": [
+      48.8924,
+      2.21533
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -739,16 +749,6 @@
       -43.9572
     ]
   },
-  "187.99.73.8": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.6391,
-      -49.2622
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -767,16 +767,6 @@
     "coordinates": [
       50.1188,
       8.6843
-    ]
-  },
-  "188.255.55.114": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7483,
-      37.6171
     ]
   },
   "188.40.103.81": {
@@ -1299,16 +1289,6 @@
       4.8274
     ]
   },
-  "31.51.130.64": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Rye",
-    "coordinates": [
-      50.989,
-      0.6467
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1387,6 +1367,16 @@
     "coordinates": [
       59.3274,
       18.0653
+    ]
+  },
+  "38.140.16.188": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      39.9664,
+      -75.1685
     ]
   },
   "39.106.228.43": {
@@ -1839,16 +1829,6 @@
       -81.7334
     ]
   },
-  "74.109.14.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Wayne",
-    "coordinates": [
-      40.0574,
-      -75.4017
-    ]
-  },
   "75.102.17.203": {
     "region": "North America",
     "country": "United States",
@@ -1877,16 +1857,6 @@
     "coordinates": [
       41.3908,
       -73.4483
-    ]
-  },
-  "77.205.41.97": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Saint-Cyr-sur-Loire",
-    "coordinates": [
-      47.4,
-      0.66667
     ]
   },
   "78.45.88.52": {
