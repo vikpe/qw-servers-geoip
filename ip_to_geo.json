@@ -99,16 +99,6 @@
       -96.8021
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -679,6 +669,16 @@
       16.874
     ]
   },
+  "179.34.75.244": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.6391,
+      -49.2622
+    ]
+  },
   "18.177.140.83": {
     "region": "Asia",
     "country": "Japan",
@@ -707,6 +707,16 @@
     "coordinates": [
       38.7223,
       -9.13934
+    ]
+  },
+  "185.186.79.77": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6802,
+      12.5892
     ]
   },
   "185.189.48.45": {
@@ -1429,6 +1439,16 @@
       -77.4874
     ]
   },
+  "45.136.50.118": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
+    ]
+  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1869,16 +1889,6 @@
       14.4479
     ]
   },
-  "78.92.238.228": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Balatonlelle",
-    "coordinates": [
-      46.7841,
-      17.6892
-    ]
-  },
   "79.139.57.116": {
     "region": "Europe",
     "country": "Hungary",
@@ -2087,16 +2097,6 @@
     "coordinates": [
       59.3274,
       18.0653
-    ]
-  },
-  "99.199.186.188": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Salmon Arm",
-    "coordinates": [
-      50.7033,
-      -119.2683
     ]
   },
   "99.242.149.60": {
