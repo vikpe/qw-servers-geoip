@@ -409,16 +409,6 @@
       -77.539
     ]
   },
-  "151.32.115.5": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Turin",
-    "coordinates": [
-      45.0914,
-      7.6639
-    ]
-  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -777,16 +767,6 @@
     "coordinates": [
       55.795,
       37.6014
-    ]
-  },
-  "187.20.96.10": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1267,16 +1247,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.24.133.136": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.2003,
-      -118.4045
     ]
   },
   "3.235.93.21": {
@@ -1869,16 +1839,6 @@
       -122.3723
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Penngrove",
-    "coordinates": [
-      38.3129,
-      -122.6441
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1997,16 +1957,6 @@
     "coordinates": [
       52.5201,
       13.4425
-    ]
-  },
-  "88.133.233.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Pettendorf",
-    "coordinates": [
-      49.0644,
-      12.0095
     ]
   },
   "88.198.221.98": {
@@ -2167,26 +2117,6 @@
     "coordinates": [
       43.0461,
       -81.2436
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Frisco",
-    "coordinates": [
-      33.1371,
-      -96.7488
-    ]
-  },
-  "99.72.255.45": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Memphis",
-    "coordinates": [
-      35.1495,
-      -90.049
     ]
   }
 }
