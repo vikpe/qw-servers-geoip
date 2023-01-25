@@ -199,16 +199,6 @@
       -6.2597
     ]
   },
-  "13.89.226.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -437,16 +427,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "158.140.207.138": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7995,
-      144.9504
     ]
   },
   "158.174.255.11": {
@@ -679,7 +659,7 @@
       16.874
     ]
   },
-  "179.34.75.244": {
+  "179.251.160.230": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -767,6 +747,16 @@
     "coordinates": [
       55.795,
       37.6014
+    ]
+  },
+  "187.20.88.6": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1019,6 +1009,16 @@
       -119.852
     ]
   },
+  "202.169.124.178": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8024,
+      144.9659
+    ]
+  },
   "203.29.243.177": {
     "region": "Oceania",
     "country": "Australia",
@@ -1247,6 +1247,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.226.154.224": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Drummondville",
+    "coordinates": [
+      45.9061,
+      -72.5929
     ]
   },
   "3.235.93.21": {
@@ -1669,7 +1679,7 @@
       -122.676
     ]
   },
-  "54.177.109.4": {
+  "54.176.114.20": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -2099,16 +2109,6 @@
       18.0653
     ]
   },
-  "99.199.186.188": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Salmon Arm",
-    "coordinates": [
-      50.7033,
-      -119.2683
-    ]
-  },
   "99.242.149.60": {
     "region": "North America",
     "country": "Canada",
@@ -2117,6 +2117,16 @@
     "coordinates": [
       43.0461,
       -81.2436
+    ]
+  },
+  "99.72.255.45": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Memphis",
+    "coordinates": [
+      35.1495,
+      -90.049
     ]
   }
 }
