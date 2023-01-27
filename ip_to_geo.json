@@ -99,16 +99,6 @@
       -96.8021
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -435,8 +425,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "158.174.255.214": {
@@ -445,8 +435,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "158.248.75.93": {
@@ -659,7 +649,7 @@
       16.874
     ]
   },
-  "179.251.160.230": {
+  "179.34.65.1": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -909,6 +899,16 @@
       8.7147
     ]
   },
+  "2.24.92.102": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Milton Keynes",
+    "coordinates": [
+      52.0625,
+      -0.8166
+    ]
+  },
   "20.106.48.249": {
     "region": "North America",
     "country": "United States",
@@ -917,16 +917,6 @@
     "coordinates": [
       41.5908,
       -93.6208
-    ]
-  },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
     ]
   },
   "20.13.149.88": {
@@ -1249,6 +1239,16 @@
       -96.797
     ]
   },
+  "24.24.133.136": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
+    ]
+  },
   "3.235.93.21": {
     "region": "North America",
     "country": "United States",
@@ -1375,8 +1375,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "39.106.228.43": {
@@ -1427,16 +1427,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.136.50.118": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
     ]
   },
   "45.32.196.50": {
@@ -1793,10 +1783,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "York",
+    "city": "Harrisburg",
     "coordinates": [
-      39.9517,
-      -76.7064
+      40.2697,
+      -76.8999
     ]
   },
   "72.18.132.133": {
@@ -1823,20 +1813,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Feasterville-Trevose",
+    "city": "Southampton",
     "coordinates": [
-      40.1533,
-      -74.9937
-    ]
-  },
-  "73.109.29.238": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seattle",
-    "coordinates": [
-      47.5461,
-      -122.3723
+      40.185,
+      -75.0041
     ]
   },
   "73.23.130.187": {
@@ -1957,16 +1937,6 @@
     "coordinates": [
       52.5201,
       13.4425
-    ]
-  },
-  "87.62.96.29": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Ikast",
-    "coordinates": [
-      56.1379,
-      9.1555
     ]
   },
   "88.198.221.98": {
@@ -2095,8 +2065,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "99.242.149.60": {
