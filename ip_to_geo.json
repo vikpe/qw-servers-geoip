@@ -99,6 +99,16 @@
       -96.8021
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -187,6 +197,16 @@
     "coordinates": [
       53.3478,
       -6.2597
+    ]
+  },
+  "13.89.226.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
     ]
   },
   "130.242.114.28": {
@@ -449,6 +469,16 @@
       10.7961
     ]
   },
+  "159.196.52.31": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Adelaide",
+    "coordinates": [
+      -34.9281,
+      138.5999
+    ]
+  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -587,16 +617,6 @@
     "coordinates": [
       44.7601,
       -93.2748
-    ]
-  },
-  "176.138.32.71": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Nanterre",
-    "coordinates": [
-      48.8924,
-      2.21533
     ]
   },
   "176.210.100.6": {
@@ -899,16 +919,6 @@
       8.7147
     ]
   },
-  "2.24.92.102": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Milton Keynes",
-    "coordinates": [
-      52.0625,
-      -0.8166
-    ]
-  },
   "20.106.48.249": {
     "region": "North America",
     "country": "United States",
@@ -917,6 +927,16 @@
     "coordinates": [
       41.5908,
       -93.6208
+    ]
+  },
+  "20.125.113.83": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
     ]
   },
   "20.13.149.88": {
@@ -1579,16 +1599,6 @@
       -122.2438
     ]
   },
-  "51.255.46.81": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Gravelines",
-    "coordinates": [
-      50.9871,
-      2.12554
-    ]
-  },
   "51.75.53.205": {
     "region": "Europe",
     "country": "Poland",
@@ -2017,6 +2027,16 @@
     "coordinates": [
       47.5577,
       7.5936
+    ]
+  },
+  "94.254.2.158": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "95.165.130.151": {
