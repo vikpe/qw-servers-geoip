@@ -139,16 +139,6 @@
       11.0767
     ]
   },
-  "120.21.191.81": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "124.187.70.137": {
     "region": "Oceania",
     "country": "Australia",
@@ -217,6 +207,16 @@
     "coordinates": [
       53.3478,
       -6.2597
+    ]
+  },
+  "13.89.226.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
     ]
   },
   "130.242.114.28": {
@@ -347,16 +347,6 @@
     "coordinates": [
       51.1043,
       17.0335
-    ]
-  },
-  "146.59.13.133": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2251,
-      21.0477
     ]
   },
   "149.28.240.2": {
@@ -629,16 +619,6 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0761,
-      14.4479
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -677,6 +657,16 @@
     "coordinates": [
       52.3929,
       16.874
+    ]
+  },
+  "179.34.74.40": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.6391,
+      -49.2622
     ]
   },
   "18.177.140.83": {
@@ -1449,16 +1439,6 @@
       -77.4874
     ]
   },
-  "45.136.50.118": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
-    ]
-  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1827,16 +1807,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Penngrove",
-    "coordinates": [
-      38.3129,
-      -122.6441
     ]
   },
   "73.23.130.187": {
