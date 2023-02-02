@@ -249,6 +249,16 @@
       12.365
     ]
   },
+  "136.37.112.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Overland Park",
+    "coordinates": [
+      38.8939,
+      -94.7067
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -463,10 +473,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Huddinge",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.241,
+      17.9808
     ]
   },
   "158.248.75.93": {
@@ -557,6 +567,16 @@
     "coordinates": [
       -36.8506,
       174.7679
+    ]
+  },
+  "165.73.55.78": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Midrand",
+    "coordinates": [
+      -25.9766,
+      28.1144
     ]
   },
   "167.71.142.56": {
@@ -733,10 +753,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Hallstahammar",
+    "city": "Taellberg",
     "coordinates": [
-      59.6129,
-      16.2162
+      60.8211,
+      14.9942
     ]
   },
   "185.73.44.100": {
@@ -863,10 +883,10 @@
     "region": "Europe",
     "country": "Belarus",
     "cc": "BY",
-    "city": "Minsk",
+    "city": "Novo-Pashkovo",
     "coordinates": [
-      53.9007,
-      27.5709
+      53.9567,
+      30.2496
     ]
   },
   "194.38.96.52": {
@@ -1595,8 +1615,8 @@
     "cc": "US",
     "city": "Everett",
     "coordinates": [
-      47.9005,
-      -122.2472
+      47.9856,
+      -122.2002
     ]
   },
   "51.75.53.205": {
@@ -1899,14 +1919,24 @@
       11.6091
     ]
   },
+  "81.169.182.221": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.5234,
+      13.3224
+    ]
+  },
   "82.141.152.3": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Budaors",
+    "city": "Szenna",
     "coordinates": [
-      47.4571,
-      18.9356
+      46.3106,
+      17.7282
     ]
   },
   "82.196.2.206": {
@@ -2015,8 +2045,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.4982,
-      13.4755
+      52.5221,
+      13.4814
     ]
   },
   "94.16.128.193": {
@@ -2085,8 +2115,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "99.242.149.60": {
