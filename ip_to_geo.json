@@ -69,6 +69,16 @@
       -74.4606
     ]
   },
+  "104.237.11.179": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      33.956,
+      -118.3887
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -97,16 +107,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
     ]
   },
   "109.200.20.152": {
@@ -247,16 +247,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "136.37.112.176": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Overland Park",
-    "coordinates": [
-      38.8939,
-      -94.7067
     ]
   },
   "137.74.7.185": {
@@ -489,16 +479,6 @@
       10.7961
     ]
   },
-  "159.196.169.99": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -609,6 +589,16 @@
       -96.7109
     ]
   },
+  "173.218.132.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.102.195.91": {
     "region": "North America",
     "country": "United States",
@@ -647,6 +637,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0761,
+      14.4479
     ]
   },
   "177.202.33.156": {
@@ -879,6 +879,16 @@
       37.8294
     ]
   },
+  "194.132.173.193": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Norsjoe",
+    "coordinates": [
+      64.9081,
+      19.4647
+    ]
+  },
   "194.158.215.192": {
     "region": "Europe",
     "country": "Belarus",
@@ -967,6 +977,16 @@
     "coordinates": [
       53.3478,
       -6.2597
+    ]
+  },
+  "20.165.128.43": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cheyenne",
+    "coordinates": [
+      41.13925,
+      -104.816154
     ]
   },
   "20.221.217.52": {
