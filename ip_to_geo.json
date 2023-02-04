@@ -1,4 +1,14 @@
 {
+  "101.118.233.113": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9474,
+      115.8648
+    ]
+  },
   "103.121.34.138": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -589,16 +599,6 @@
       -96.7109
     ]
   },
-  "173.218.132.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.102.195.91": {
     "region": "North America",
     "country": "United States",
@@ -629,6 +629,16 @@
       -93.2748
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -637,16 +647,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0761,
-      14.4479
     ]
   },
   "177.202.33.156": {
@@ -707,16 +707,6 @@
     "coordinates": [
       35.6895,
       139.692
-    ]
-  },
-  "181.222.237.79": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
     ]
   },
   "185.107.195.215": {
@@ -837,16 +827,6 @@
     "coordinates": [
       52.2297,
       21.0122
-    ]
-  },
-  "192.99.32.215": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Beauharnois",
-    "coordinates": [
-      45.3151,
-      -73.8779
     ]
   },
   "193.168.147.138": {
@@ -1299,16 +1279,6 @@
       -96.797
     ]
   },
-  "24.24.133.136": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
-    ]
-  },
   "3.235.93.21": {
     "region": "North America",
     "country": "United States",
@@ -1327,16 +1297,6 @@
     "coordinates": [
       19.076,
       72.8777
-    ]
-  },
-  "3.75.76.121": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1109,
-      8.68213
     ]
   },
   "3.76.38.12": {
@@ -1829,6 +1789,16 @@
       -76.6653
     ]
   },
+  "72.18.132.113": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      39.7501,
+      -104.9957
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -2147,6 +2117,16 @@
     "coordinates": [
       43.0461,
       -81.2436
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Frisco",
+    "coordinates": [
+      33.1371,
+      -96.7488
     ]
   },
   "99.72.255.45": {
