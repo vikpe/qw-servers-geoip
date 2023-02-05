@@ -1,14 +1,4 @@
 {
-  "101.118.233.113": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9474,
-      115.8648
-    ]
-  },
   "103.121.34.138": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -117,6 +107,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
     ]
   },
   "109.200.20.152": {
@@ -599,6 +599,16 @@
       -96.7109
     ]
   },
+  "173.218.132.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.102.195.91": {
     "region": "North America",
     "country": "United States",
@@ -707,6 +717,16 @@
     "coordinates": [
       35.6895,
       139.692
+    ]
+  },
+  "181.222.227.90": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
+    "coordinates": [
+      -19.0233,
+      -48.3348
     ]
   },
   "185.107.195.215": {
@@ -1039,16 +1059,6 @@
       -119.852
     ]
   },
-  "202.169.124.178": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8024,
-      144.9659
-    ]
-  },
   "203.29.243.177": {
     "region": "Oceania",
     "country": "Australia",
@@ -1169,6 +1179,16 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
+    ]
+  },
   "216.128.134.224": {
     "region": "North America",
     "country": "United States",
@@ -1277,6 +1297,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "3.235.93.21": {
@@ -1587,16 +1617,6 @@
     "coordinates": [
       32.9473,
       -96.7028
-    ]
-  },
-  "50.47.191.67": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Everett",
-    "coordinates": [
-      47.9856,
-      -122.2002
     ]
   },
   "51.75.53.205": {
@@ -1939,16 +1959,6 @@
       4.9479
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Orenburg",
-    "coordinates": [
-      51.7898,
-      55.0984
-    ]
-  },
   "85.214.82.181": {
     "region": "Europe",
     "country": "Germany",
@@ -2107,6 +2117,16 @@
     "coordinates": [
       59.3274,
       18.0653
+    ]
+  },
+  "98.45.219.58": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Mateo",
+    "coordinates": [
+      37.5549,
+      -122.2708
     ]
   },
   "99.242.149.60": {
