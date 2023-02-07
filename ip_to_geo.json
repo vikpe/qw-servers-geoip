@@ -419,16 +419,6 @@
       -46.6333
     ]
   },
-  "150.136.221.18": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.018,
-      -77.539
-    ]
-  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -779,16 +769,6 @@
       37.6014
     ]
   },
-  "187.20.88.6": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -987,16 +967,6 @@
     "coordinates": [
       41.8819,
       -87.6278
-    ]
-  },
-  "20.225.240.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Antonio",
-    "coordinates": [
-      29.4167,
-      -98.5
     ]
   },
   "20.243.122.16": {
@@ -1287,16 +1257,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
     ]
   },
   "3.235.93.21": {
@@ -1599,16 +1559,6 @@
       -96.7028
     ]
   },
-  "50.47.191.67": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Everett",
-    "coordinates": [
-      47.9856,
-      -122.2002
-    ]
-  },
   "51.75.53.205": {
     "region": "Europe",
     "country": "Poland",
@@ -1837,16 +1787,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Penngrove",
-    "coordinates": [
-      38.3129,
-      -122.6441
     ]
   },
   "73.23.130.187": {
