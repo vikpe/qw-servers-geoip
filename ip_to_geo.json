@@ -289,16 +289,6 @@
       -121.9753
     ]
   },
-  "139.162.151.209": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1188,
-      8.6843
-    ]
-  },
   "139.162.245.4": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -499,16 +489,6 @@
       -74.0247
     ]
   },
-  "159.65.65.221": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Santa Clara",
-    "coordinates": [
-      37.3417,
-      -121.9753
-    ]
-  },
   "162.248.92.183": {
     "region": "North America",
     "country": "United States",
@@ -587,16 +567,6 @@
     "coordinates": [
       33.0468,
       -96.7109
-    ]
-  },
-  "173.218.132.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
     ]
   },
   "174.102.195.91": {
@@ -697,16 +667,6 @@
     "coordinates": [
       35.6895,
       139.692
-    ]
-  },
-  "181.222.227.90": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
     ]
   },
   "185.107.195.215": {
@@ -1179,16 +1139,6 @@
       2.12554
     ]
   },
-  "220.233.28.228": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "221.121.157.22": {
     "region": "Oceania",
     "country": "Australia",
@@ -1257,6 +1207,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "3.235.93.21": {
@@ -1557,6 +1517,16 @@
     "coordinates": [
       32.9473,
       -96.7028
+    ]
+  },
+  "50.47.191.67": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Everett",
+    "coordinates": [
+      47.9856,
+      -122.2002
     ]
   },
   "51.75.53.205": {
