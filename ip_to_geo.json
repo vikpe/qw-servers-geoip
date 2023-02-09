@@ -529,16 +529,6 @@
       174.7679
     ]
   },
-  "165.73.55.78": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Midrand",
-    "coordinates": [
-      -25.9766,
-      28.1144
-    ]
-  },
   "167.71.142.56": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -669,6 +659,16 @@
       139.692
     ]
   },
+  "181.222.249.31": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
+    "coordinates": [
+      -19.0233,
+      -48.3348
+    ]
+  },
   "185.107.195.215": {
     "region": "Europe",
     "country": "Germany",
@@ -727,6 +727,16 @@
     "coordinates": [
       55.795,
       37.6014
+    ]
+  },
+  "187.20.97.87": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
     ]
   },
   "188.166.0.137": {
