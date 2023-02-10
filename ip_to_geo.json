@@ -449,16 +449,6 @@
       18.0717
     ]
   },
-  "158.174.255.214": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Huddinge",
-    "coordinates": [
-      59.241,
-      17.9808
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -529,6 +519,16 @@
       174.7679
     ]
   },
+  "165.73.55.78": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Midrand",
+    "coordinates": [
+      -25.9766,
+      28.1144
+    ]
+  },
   "167.71.142.56": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -557,6 +557,16 @@
     "coordinates": [
       33.0468,
       -96.7109
+    ]
+  },
+  "173.218.132.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
     ]
   },
   "174.102.195.91": {
@@ -1039,16 +1049,6 @@
       -87.6289
     ]
   },
-  "209.182.236.77": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0544,
-      -118.2441
-    ]
-  },
   "210.54.39.19": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1147,16 +1147,6 @@
     "coordinates": [
       50.9871,
       2.12554
-    ]
-  },
-  "221.121.157.22": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.209
     ]
   },
   "223.165.64.141": {
@@ -1537,6 +1527,16 @@
     "coordinates": [
       47.9856,
       -122.2002
+    ]
+  },
+  "51.210.10.181": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Strasbourg",
+    "coordinates": [
+      48.5734,
+      7.75211
     ]
   },
   "51.75.53.205": {
