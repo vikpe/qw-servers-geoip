@@ -579,6 +579,26 @@
       -96.7109
     ]
   },
+  "173.218.132.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
+  "174.102.195.91": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Menominee",
+    "coordinates": [
+      45.1302,
+      -87.6262
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -747,16 +767,6 @@
     "coordinates": [
       51.5074,
       -0.127758
-    ]
-  },
-  "185.87.193.39": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.795,
-      37.6014
     ]
   },
   "187.20.97.87": {
@@ -1229,6 +1239,16 @@
       -96.797
     ]
   },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
+    ]
+  },
   "24.24.133.136": {
     "region": "North America",
     "country": "United States",
@@ -1407,16 +1427,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.136.50.118": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
     ]
   },
   "45.32.196.50": {
@@ -1639,6 +1649,16 @@
       -121.895
     ]
   },
+  "54.176.80.14": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
+    ]
+  },
   "54.232.250.209": {
     "region": "South America",
     "country": "Brazil",
@@ -1777,16 +1797,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -2069,6 +2079,16 @@
       -8.4213
     ]
   },
+  "98.128.186.18": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "99.242.149.60": {
     "region": "North America",
     "country": "Canada",
@@ -2077,6 +2097,16 @@
     "coordinates": [
       43.0461,
       -81.2436
+    ]
+  },
+  "99.47.21.158": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Mateo",
+    "coordinates": [
+      37.5428,
+      -122.2971
     ]
   },
   "99.48.163.106": {
