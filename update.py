@@ -38,11 +38,11 @@ def get_ip_to_geo_map(ips: List[str]) -> dict:
 
         for entry in geodata:
             ip_to_geo_map[entry["query"]] = {
-                "region": entry["continent"],
-                "country": entry["country"],
-                "cc": entry["countryCode"],
-                "city": entry["city"],
-                "coordinates": [entry["lat"], entry["lon"]]
+                "region": entry.get("continent", "unknown"),
+                "country": entry.get("country", "unknown"),
+                "cc": entry.get("countryCode", "unknown"),
+                "city": entry.get("city", "unknown"),
+                "coordinates": [entry.get("lat", 0), entry.get("lon", 0)]
             }
 
     return ip_to_geo_map
