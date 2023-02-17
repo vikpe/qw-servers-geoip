@@ -189,16 +189,6 @@
       18.0686
     ]
   },
-  "13.54.145.53": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
-    ]
-  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -399,16 +389,6 @@
       50.5833
     ]
   },
-  "15.228.227.198": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5505,
-      -46.6333
-    ]
-  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -559,16 +539,6 @@
       -0.6718
     ]
   },
-  "168.61.175.143": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "169.197.182.39": {
     "region": "North America",
     "country": "United States",
@@ -577,16 +547,6 @@
     "coordinates": [
       33.0468,
       -96.7109
-    ]
-  },
-  "173.218.132.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
     ]
   },
   "174.102.195.91": {
@@ -707,16 +667,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "181.222.249.31": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Ituiutaba",
-    "coordinates": [
-      -19.0137,
-      -49.5496
     ]
   },
   "185.107.195.215": {
@@ -1239,24 +1189,14 @@
       -96.797
     ]
   },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
+  "255.255.255.255": {
+    "region": "unknown",
+    "country": "unknown",
+    "cc": "unknown",
+    "city": "unknown",
     "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
-  "24.24.133.136": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
+      0,
+      0
     ]
   },
   "3.235.93.21": {
@@ -1399,26 +1339,6 @@
       73.864235
     ]
   },
-  "40.84.144.27": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Antonio",
-    "coordinates": [
-      29.4167,
-      -98.5
-    ]
-  },
-  "40.89.135.153": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Paris",
-    "coordinates": [
-      48.856567,
-      2.347322
-    ]
-  },
   "44.210.138.174": {
     "region": "North America",
     "country": "United States",
@@ -1427,6 +1347,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.136.50.118": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "45.32.196.50": {
@@ -1589,16 +1519,6 @@
       21.0067
     ]
   },
-  "52.159.114.44": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8819,
-      -87.6278
-    ]
-  },
   "52.240.58.168": {
     "region": "North America",
     "country": "United States",
@@ -1607,6 +1527,16 @@
     "coordinates": [
       36.677696,
       -78.37471
+    ]
+  },
+  "52.62.131.24": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
     ]
   },
   "52.63.245.209": {
@@ -1660,6 +1590,16 @@
     ]
   },
   "54.232.250.209": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5505,
+      -46.6333
+    ]
+  },
+  "54.233.220.37": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1799,14 +1739,14 @@
       -75.0041
     ]
   },
-  "73.23.130.187": {
+  "73.249.159.65": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Bonita Springs",
+    "city": "Danbury",
     "coordinates": [
-      26.3771,
-      -81.7334
+      41.3908,
+      -73.4483
     ]
   },
   "74.208.190.247": {
@@ -1837,16 +1777,6 @@
     "coordinates": [
       51.3062,
       -114.0394
-    ]
-  },
-  "76.23.136.181": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
     ]
   },
   "78.45.88.52": {
@@ -1919,6 +1849,16 @@
       18.9356
     ]
   },
+  "82.146.55.23": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7483,
+      37.6171
+    ]
+  },
   "82.196.2.206": {
     "region": "Europe",
     "country": "Netherlands",
@@ -1939,14 +1879,14 @@
       55.0984
     ]
   },
-  "85.214.82.181": {
+  "86.159.14.229": {
     "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Rugby",
     "coordinates": [
-      52.5201,
-      13.4425
+      52.3907,
+      -1.2911
     ]
   },
   "87.128.111.190": {
@@ -2097,16 +2037,6 @@
     "coordinates": [
       43.0461,
       -81.2436
-    ]
-  },
-  "99.47.21.158": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Mateo",
-    "coordinates": [
-      37.5428,
-      -122.2971
     ]
   },
   "99.48.163.106": {
