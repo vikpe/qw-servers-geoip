@@ -159,16 +159,6 @@
       4.9392
     ]
   },
-  "13.210.66.73": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
-    ]
-  },
   "13.51.107.238": {
     "region": "Europe",
     "country": "Sweden",
@@ -539,6 +529,16 @@
       -0.6718
     ]
   },
+  "168.61.175.143": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
+    ]
+  },
   "169.197.182.39": {
     "region": "North America",
     "country": "United States",
@@ -577,6 +577,16 @@
     "coordinates": [
       44.7601,
       -93.2748
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
     ]
   },
   "176.210.100.6": {
@@ -1029,6 +1039,16 @@
       -87.6289
     ]
   },
+  "209.182.236.77": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0544,
+      -118.2441
+    ]
+  },
   "210.54.39.19": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1339,6 +1359,16 @@
       73.864235
     ]
   },
+  "40.84.144.27": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Antonio",
+    "coordinates": [
+      29.4167,
+      -98.5
+    ]
+  },
   "44.210.138.174": {
     "region": "North America",
     "country": "United States",
@@ -1519,6 +1549,16 @@
       21.0067
     ]
   },
+  "52.159.114.44": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8819,
+      -87.6278
+    ]
+  },
   "52.240.58.168": {
     "region": "North America",
     "country": "United States",
@@ -1530,6 +1570,16 @@
     ]
   },
   "52.62.131.24": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
+    ]
+  },
+  "52.62.45.20": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -1739,16 +1789,6 @@
       -75.0041
     ]
   },
-  "73.249.159.65": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
-    ]
-  },
   "74.208.190.247": {
     "region": "North America",
     "country": "United States",
@@ -1829,16 +1869,6 @@
       13.3224
     ]
   },
-  "81.193.60.126": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
-    ]
-  },
   "82.141.152.3": {
     "region": "Europe",
     "country": "Hungary",
@@ -1877,16 +1907,6 @@
     "coordinates": [
       51.7898,
       55.0984
-    ]
-  },
-  "86.159.14.229": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Rugby",
-    "coordinates": [
-      52.3907,
-      -1.2911
     ]
   },
   "87.128.111.190": {
