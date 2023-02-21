@@ -109,16 +109,6 @@
       -96.8021
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -167,16 +157,6 @@
     "coordinates": [
       -33.8591,
       151.2002
-    ]
-  },
-  "13.51.107.238": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
     ]
   },
   "13.53.75.0": {
@@ -549,16 +529,6 @@
       -96.7109
     ]
   },
-  "173.218.132.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -667,6 +637,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "18.234.66.115": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
     ]
   },
   "181.222.249.31": {
@@ -919,16 +899,6 @@
       -112.074036
     ]
   },
-  "20.13.149.88": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3478,
-      -6.2597
-    ]
-  },
   "20.165.128.43": {
     "region": "North America",
     "country": "United States",
@@ -1159,16 +1129,6 @@
       2.12554
     ]
   },
-  "217.211.31.197": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1229,6 +1189,26 @@
       -96.797
     ]
   },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
+    ]
+  },
+  "24.24.133.136": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Hollywood",
+    "coordinates": [
+      34.1867,
+      -118.3878
+    ]
+  },
   "255.255.255.255": {
     "region": "unknown",
     "country": "unknown",
@@ -1237,16 +1217,6 @@
     "coordinates": [
       0,
       0
-    ]
-  },
-  "3.211.118.17": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "3.235.93.21": {
@@ -1759,14 +1729,24 @@
       17.9155
     ]
   },
-  "72.104.12.243": {
+  "72.104.10.44": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Abbottstown",
+    "city": "York",
     "coordinates": [
-      39.8882,
-      -76.9953
+      39.9617,
+      -76.7329
+    ]
+  },
+  "72.135.62.44": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
     ]
   },
   "72.18.132.113": {
@@ -1807,16 +1787,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
