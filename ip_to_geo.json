@@ -109,6 +109,16 @@
       -96.8021
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -157,6 +167,16 @@
     "coordinates": [
       -33.8591,
       151.2002
+    ]
+  },
+  "13.49.80.4": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
     ]
   },
   "13.53.75.0": {
@@ -403,10 +423,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Huddinge",
+    "city": "Gothenburg",
     "coordinates": [
-      59.241,
-      17.9808
+      57.7065,
+      11.967
     ]
   },
   "158.248.75.93": {
@@ -529,6 +549,16 @@
       -96.7109
     ]
   },
+  "173.218.132.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -557,6 +587,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0761,
+      14.4479
     ]
   },
   "177.202.33.156": {
@@ -1003,10 +1043,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "Alcobendas",
+    "city": "A Coru\u00f1a",
     "coordinates": [
-      40.5339,
-      -3.6312
+      43.3675,
+      -8.3969
     ]
   },
   "208.77.22.94": {
@@ -1035,8 +1075,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8597,
-      174.764
+      -36.8506,
+      174.7679
     ]
   },
   "212.42.38.88": {
@@ -1197,16 +1237,6 @@
     "coordinates": [
       39.8864,
       -79.7249
-    ]
-  },
-  "24.24.133.136": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Hollywood",
-    "coordinates": [
-      34.1867,
-      -118.3878
     ]
   },
   "255.255.255.255": {
@@ -1733,10 +1763,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "York",
+    "city": "Ephrata",
     "coordinates": [
-      39.9617,
-      -76.7329
+      40.175,
+      -76.1817
     ]
   },
   "72.135.62.44": {
@@ -1747,16 +1777,6 @@
     "coordinates": [
       45.0874,
       -87.6697
-    ]
-  },
-  "72.18.132.113": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.7501,
-      -104.9957
     ]
   },
   "72.18.132.133": {
@@ -1805,8 +1825,8 @@
     "cc": "US",
     "city": "Danbury",
     "coordinates": [
-      41.3908,
-      -73.4483
+      41.4235,
+      -73.4724
     ]
   },
   "74.208.190.247": {
@@ -2015,8 +2035,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.4982,
-      13.4755
+      52.5221,
+      13.4814
     ]
   },
   "94.16.128.193": {
@@ -2027,6 +2047,16 @@
     "coordinates": [
       47.5577,
       7.5936
+    ]
+  },
+  "94.254.2.158": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "95.165.130.151": {
