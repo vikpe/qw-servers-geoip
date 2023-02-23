@@ -199,6 +199,16 @@
       -6.2597
     ]
   },
+  "13.89.226.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
+    ]
+  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -579,6 +589,16 @@
       -93.2748
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -587,16 +607,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0761,
-      14.4479
     ]
   },
   "177.202.33.156": {
@@ -909,16 +919,6 @@
       18.8893
     ]
   },
-  "199.247.1.190": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1103,
-      8.7147
-    ]
-  },
   "20.106.48.249": {
     "region": "North America",
     "country": "United States",
@@ -1229,16 +1229,6 @@
       -96.797
     ]
   },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
   "255.255.255.255": {
     "region": "unknown",
     "country": "unknown",
@@ -1407,16 +1397,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.136.50.118": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
     ]
   },
   "45.32.196.50": {
@@ -1729,6 +1709,16 @@
       144.9354
     ]
   },
+  "67.6.23.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Columbia",
+    "coordinates": [
+      38.9933,
+      -92.3078
+    ]
+  },
   "68.183.127.4": {
     "region": "North America",
     "country": "United States",
@@ -1857,6 +1847,16 @@
     "coordinates": [
       51.3062,
       -114.0394
+    ]
+  },
+  "77.22.157.52": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Nuremberg",
+    "coordinates": [
+      49.4622,
+      11.072
     ]
   },
   "78.45.88.52": {
@@ -2017,6 +2017,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "91.157.90.86": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Joensuu",
+    "coordinates": [
+      62.6069,
+      29.7823
     ]
   },
   "91.206.14.17": {
