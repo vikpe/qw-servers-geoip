@@ -559,16 +559,6 @@
       -96.7109
     ]
   },
-  "173.218.132.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -759,7 +749,7 @@
       -0.127758
     ]
   },
-  "187.20.97.87": {
+  "187.20.95.172": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1229,6 +1219,16 @@
       -96.797
     ]
   },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
+    ]
+  },
   "255.255.255.255": {
     "region": "unknown",
     "country": "unknown",
@@ -1499,6 +1499,16 @@
       21.0047
     ]
   },
+  "5.198.71.75": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Hull",
+    "coordinates": [
+      53.7606,
+      -0.3734
+    ]
+  },
   "5.9.82.79": {
     "region": "Europe",
     "country": "Germany",
@@ -1707,16 +1717,6 @@
     "coordinates": [
       -37.8372,
       144.9354
-    ]
-  },
-  "67.6.23.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Columbia",
-    "coordinates": [
-      38.9933,
-      -92.3078
     ]
   },
   "68.183.127.4": {
