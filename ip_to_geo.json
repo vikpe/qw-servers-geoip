@@ -559,6 +559,16 @@
       -96.7109
     ]
   },
+  "173.218.132.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -847,16 +857,6 @@
     "coordinates": [
       55.7731,
       37.8294
-    ]
-  },
-  "194.132.173.193": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Norsjoe",
-    "coordinates": [
-      64.9081,
-      19.4647
     ]
   },
   "194.158.215.192": {
@@ -1219,16 +1219,6 @@
       -96.797
     ]
   },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
   "255.255.255.255": {
     "region": "unknown",
     "country": "unknown",
@@ -1399,6 +1389,16 @@
       -77.4874
     ]
   },
+  "45.136.50.118": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
+    ]
+  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1499,16 +1499,6 @@
       21.0047
     ]
   },
-  "5.198.71.75": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Hull",
-    "coordinates": [
-      53.7606,
-      -0.3734
-    ]
-  },
   "5.9.82.79": {
     "region": "Europe",
     "country": "Germany",
@@ -1587,16 +1577,6 @@
     "coordinates": [
       36.677696,
       -78.37471
-    ]
-  },
-  "52.62.131.24": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
     ]
   },
   "52.63.245.209": {
@@ -1749,16 +1729,6 @@
       17.9155
     ]
   },
-  "72.104.10.44": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ephrata",
-    "coordinates": [
-      40.175,
-      -76.1817
-    ]
-  },
   "72.135.62.44": {
     "region": "North America",
     "country": "United States",
@@ -1849,14 +1819,14 @@
       -114.0394
     ]
   },
-  "77.22.157.52": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Nuremberg",
+  "75.215.223.136": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lancaster",
     "coordinates": [
-      49.4622,
-      11.072
+      40.009,
+      -76.3631
     ]
   },
   "78.45.88.52": {
@@ -2107,16 +2077,6 @@
     "coordinates": [
       40.2057,
       -8.4213
-    ]
-  },
-  "98.128.186.18": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
     ]
   },
   "99.242.149.60": {
