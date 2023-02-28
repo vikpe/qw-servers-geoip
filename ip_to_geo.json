@@ -199,16 +199,6 @@
       -6.2597
     ]
   },
-  "13.89.226.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -307,6 +297,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "144.202.33.70": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.8119,
+      -80.2318
     ]
   },
   "144.202.59.41": {
@@ -559,16 +559,6 @@
       -96.7109
     ]
   },
-  "173.218.132.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -587,16 +577,6 @@
     "coordinates": [
       44.7601,
       -93.2748
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0646,
-      -93.3836
     ]
   },
   "176.210.100.6": {
@@ -1037,6 +1017,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "207.188.180.118": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "A Coru\u00f1a",
+    "coordinates": [
+      43.3675,
+      -8.3969
     ]
   },
   "208.77.22.94": {
@@ -1639,6 +1629,16 @@
       -46.6333
     ]
   },
+  "54.253.54.133": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
+    ]
+  },
   "54.94.165.196": {
     "region": "South America",
     "country": "Brazil",
@@ -1759,16 +1759,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1849,6 +1839,16 @@
       14.1389
     ]
   },
+  "80.211.249.173": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.1828,
+      20.9846
+    ]
+  },
   "80.241.209.47": {
     "region": "Europe",
     "country": "Germany",
@@ -1857,16 +1857,6 @@
     "coordinates": [
       48.1077,
       11.6091
-    ]
-  },
-  "81.145.253.39": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Alford",
-    "coordinates": [
-      53.282,
-      0.1029
     ]
   },
   "81.169.182.221": {
@@ -1899,16 +1889,6 @@
       18.9356
     ]
   },
-  "82.146.55.23": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7483,
-      37.6171
-    ]
-  },
   "82.196.2.206": {
     "region": "Europe",
     "country": "Netherlands",
@@ -1937,26 +1917,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "87.189.54.118": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Gechingen",
-    "coordinates": [
-      48.6931,
-      8.8244
-    ]
-  },
-  "88.198.221.98": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Falkenstein",
-    "coordinates": [
-      50.475,
-      12.365
     ]
   },
   "89.151.207.164": {
@@ -1997,6 +1957,16 @@
     "coordinates": [
       55.7483,
       37.6171
+    ]
+  },
+  "91.55.73.108": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Neubulach",
+    "coordinates": [
+      48.6649,
+      8.6905
     ]
   },
   "91.66.2.46": {
