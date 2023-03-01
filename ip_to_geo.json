@@ -265,8 +265,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.5095,
-      -0.0955
+      51.5164,
+      -0.093
     ]
   },
   "139.162.45.192": {
@@ -423,10 +423,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Gothenburg",
     "coordinates": [
-      59.3287,
-      18.0717
+      57.7065,
+      11.967
     ]
   },
   "158.174.255.214": {
@@ -445,8 +445,8 @@
     "cc": "NO",
     "city": "Oslo",
     "coordinates": [
-      59.8636,
-      10.7961
+      59.955,
+      10.859
     ]
   },
   "159.203.25.195": {
@@ -559,6 +559,16 @@
       -96.7109
     ]
   },
+  "173.218.132.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -573,10 +583,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Burnsville",
+    "city": "Eagan",
     "coordinates": [
-      44.7601,
-      -93.2748
+      44.7843,
+      -93.2201
     ]
   },
   "176.210.100.6": {
@@ -587,16 +597,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0761,
-      14.4479
     ]
   },
   "177.202.33.156": {
@@ -623,10 +623,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Trondheim",
+    "city": "Saksvik",
     "coordinates": [
-      63.4277,
-      10.4012
+      63.4417,
+      10.5927
     ]
   },
   "178.178.96.57": {
@@ -1023,10 +1023,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "A Coru\u00f1a",
+    "city": "Alcobendas",
     "coordinates": [
-      43.3675,
-      -8.3969
+      40.5339,
+      -3.6312
     ]
   },
   "208.77.22.94": {
@@ -1379,16 +1379,6 @@
       -77.4874
     ]
   },
-  "45.136.50.118": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
-    ]
-  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1455,8 +1445,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.5095,
-      -0.0955
+      51.5164,
+      -0.093
     ]
   },
   "46.101.78.83": {
@@ -1507,6 +1497,16 @@
     "coordinates": [
       32.9473,
       -96.7028
+    ]
+  },
+  "50.34.39.50": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Everett",
+    "coordinates": [
+      47.9425,
+      -122.2139
     ]
   },
   "51.210.10.181": {
@@ -1775,8 +1775,8 @@
     "cc": "US",
     "city": "Danbury",
     "coordinates": [
-      41.4235,
-      -73.4724
+      41.3908,
+      -73.4483
     ]
   },
   "75.102.17.203": {
@@ -1803,10 +1803,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Williamstown",
+    "city": "Ocean View",
     "coordinates": [
-      39.6659,
-      -74.9658
+      39.2156,
+      -74.7068
     ]
   },
   "78.45.88.52": {
@@ -1909,6 +1909,16 @@
       55.0984
     ]
   },
+  "85.229.4.176": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Enskede-Arsta-Vantoer",
+    "coordinates": [
+      59.2857,
+      18.0611
+    ]
+  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -1925,8 +1935,8 @@
     "cc": "NO",
     "city": "Steinkjer",
     "coordinates": [
-      64.1652,
-      12.4851
+      64.167,
+      12.482
     ]
   },
   "89.239.25.13": {
@@ -2045,8 +2055,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "99.242.149.60": {
@@ -2073,10 +2083,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Frisco",
+    "city": "Carrollton",
     "coordinates": [
-      33.1371,
-      -96.7488
+      32.9461,
+      -96.8924
     ]
   },
   "99.72.255.45": {
