@@ -139,16 +139,6 @@
       11.0767
     ]
   },
-  "120.21.236.173": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -349,6 +339,16 @@
       17.0335
     ]
   },
+  "146.199.126.178": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Kettering",
+    "coordinates": [
+      52.3636,
+      -0.6789
+    ]
+  },
   "146.59.13.133": {
     "region": "Europe",
     "country": "Poland",
@@ -447,16 +447,6 @@
     "coordinates": [
       57.7065,
       11.967
-    ]
-  },
-  "158.248.75.93": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.955,
-      10.859
     ]
   },
   "159.203.25.195": {
@@ -877,16 +867,6 @@
     "coordinates": [
       49.1156,
       10.7511
-    ]
-  },
-  "195.213.17.24": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Craigavon",
-    "coordinates": [
-      54.385,
-      -6.3282
     ]
   },
   "195.56.148.203": {
@@ -1819,14 +1799,14 @@
       -114.0394
     ]
   },
-  "75.192.130.7": {
+  "75.192.150.191": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Ocean View",
+    "city": "Thorofare",
     "coordinates": [
-      39.2156,
-      -74.7068
+      39.7513,
+      -74.9999
     ]
   },
   "78.45.88.52": {
@@ -2087,6 +2067,16 @@
     "coordinates": [
       37.5428,
       -122.2971
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Carrollton",
+    "coordinates": [
+      32.9461,
+      -96.8924
     ]
   },
   "99.72.255.45": {
