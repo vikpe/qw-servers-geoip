@@ -449,6 +449,16 @@
       11.967
     ]
   },
+  "158.248.75.93": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.955,
+      10.859
+    ]
+  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -519,16 +529,6 @@
       174.7679
     ]
   },
-  "165.73.55.78": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Midrand",
-    "coordinates": [
-      -25.9766,
-      28.1144
-    ]
-  },
   "167.71.142.56": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -559,16 +559,6 @@
       -96.7109
     ]
   },
-  "173.218.132.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -587,6 +577,16 @@
     "coordinates": [
       44.7843,
       -93.2201
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
     ]
   },
   "176.210.100.6": {
@@ -627,6 +627,16 @@
     "coordinates": [
       63.4417,
       10.5927
+    ]
+  },
+  "178.178.96.57": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Sochi",
+    "coordinates": [
+      43.5994,
+      39.7289
     ]
   },
   "178.216.200.50": {
@@ -1189,6 +1199,16 @@
       -96.797
     ]
   },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
+    ]
+  },
   "255.255.255.255": {
     "region": "unknown",
     "country": "unknown",
@@ -1659,6 +1679,26 @@
       -74.0247
     ]
   },
+  "66.186.208.107": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Longmont",
+    "coordinates": [
+      40.1773,
+      -105.1009
+    ]
+  },
+  "66.205.137.193": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Sacramento",
+    "coordinates": [
+      38.581,
+      -121.4939
+    ]
+  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1937,6 +1977,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "87.80.8.49": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Harrow",
+    "coordinates": [
+      51.5701,
+      -0.3309
     ]
   },
   "89.239.25.13": {
