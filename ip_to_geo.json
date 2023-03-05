@@ -189,16 +189,6 @@
       -6.2597
     ]
   },
-  "13.89.226.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -789,6 +779,16 @@
       12.365
     ]
   },
+  "188.93.140.190": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "190.245.131.98": {
     "region": "South America",
     "country": "Argentina",
@@ -907,6 +907,16 @@
     "coordinates": [
       33.448376,
       -112.074036
+    ]
+  },
+  "20.13.149.88": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": [
+      53.3478,
+      -6.2597
     ]
   },
   "20.165.128.43": {
@@ -1097,6 +1107,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1979,16 +1999,6 @@
       8.7399
     ]
   },
-  "87.80.8.49": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Harrow",
-    "coordinates": [
-      51.5701,
-      -0.3309
-    ]
-  },
   "89.239.25.13": {
     "region": "Europe",
     "country": "Czechia",
@@ -2087,6 +2097,16 @@
     "coordinates": [
       40.2057,
       -8.4213
+    ]
+  },
+  "98.128.174.153": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
     ]
   },
   "98.128.186.18": {
