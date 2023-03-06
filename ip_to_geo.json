@@ -59,16 +59,6 @@
       -74.4606
     ]
   },
-  "104.237.11.179": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      33.956,
-      -118.3887
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -187,6 +177,16 @@
     "coordinates": [
       53.3478,
       -6.2597
+    ]
+  },
+  "13.89.226.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
     ]
   },
   "130.242.114.28": {
@@ -1019,7 +1019,7 @@
       -96.8021
     ]
   },
-  "207.188.180.118": {
+  "207.188.180.151": {
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
@@ -1107,16 +1107,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Barcelona",
-    "coordinates": [
-      41.387,
-      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1819,6 +1809,16 @@
       -75.0041
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1847,6 +1847,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.142.154.118": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Central Point",
+    "coordinates": [
+      42.3902,
+      -122.9177
     ]
   },
   "75.158.30.31": {
@@ -1887,6 +1897,16 @@
     "coordinates": [
       47.5636,
       19.0947
+    ]
+  },
+  "8.34.176.7": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "State College",
+    "coordinates": [
+      40.7957,
+      -77.8618
     ]
   },
   "80.211.201.216": {
@@ -1997,6 +2017,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "87.80.8.49": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Harrow",
+    "coordinates": [
+      51.5701,
+      -0.3309
     ]
   },
   "89.239.25.13": {
