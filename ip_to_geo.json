@@ -1,14 +1,4 @@
 {
-  "103.121.34.138": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Dunedin",
-    "coordinates": [
-      -45.8788,
-      170.503
-    ]
-  },
   "103.151.65.11": {
     "region": "Oceania",
     "country": "Australia",
@@ -567,16 +557,6 @@
     "coordinates": [
       44.7843,
       -93.2201
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0646,
-      -93.3836
     ]
   },
   "176.210.100.6": {
@@ -1209,16 +1189,6 @@
       -96.797
     ]
   },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
   "255.255.255.255": {
     "region": "unknown",
     "country": "unknown",
@@ -1729,16 +1699,6 @@
       144.9354
     ]
   },
-  "67.6.23.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Columbia",
-    "coordinates": [
-      38.9933,
-      -92.3078
-    ]
-  },
   "68.183.127.4": {
     "region": "North America",
     "country": "United States",
@@ -1809,16 +1769,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1847,16 +1797,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.142.154.118": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Central Point",
-    "coordinates": [
-      42.3902,
-      -122.9177
     ]
   },
   "75.158.30.31": {
