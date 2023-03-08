@@ -569,6 +569,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0761,
+      14.4479
+    ]
+  },
   "177.202.33.156": {
     "region": "South America",
     "country": "Brazil",
@@ -667,6 +677,16 @@
     "coordinates": [
       -19.0137,
       -49.5496
+    ]
+  },
+  "184.57.2.142": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Columbus",
+    "coordinates": [
+      39.9587,
+      -82.9987
     ]
   },
   "185.107.195.215": {
@@ -1187,6 +1207,16 @@
     "coordinates": [
       32.7767,
       -96.797
+    ]
+  },
+  "24.145.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "255.255.255.255": {
@@ -1919,16 +1949,6 @@
       4.9479
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Orenburg",
-    "coordinates": [
-      51.7898,
-      55.0984
-    ]
-  },
   "85.229.4.176": {
     "region": "Europe",
     "country": "Sweden",
@@ -1967,6 +1987,16 @@
     "coordinates": [
       51.5701,
       -0.3309
+    ]
+  },
+  "89.151.207.164": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Steinkjer",
+    "coordinates": [
+      64.167,
+      12.482
     ]
   },
   "89.239.25.13": {
@@ -2107,16 +2137,6 @@
     "coordinates": [
       37.5428,
       -122.2971
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Carrollton",
-    "coordinates": [
-      32.9461,
-      -96.8924
     ]
   },
   "99.72.255.45": {
