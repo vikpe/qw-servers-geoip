@@ -1,4 +1,14 @@
 {
+  "102.37.98.187": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": [
+      -26.20229,
+      28.034195
+    ]
+  },
   "103.151.65.11": {
     "region": "Oceania",
     "country": "Australia",
@@ -509,6 +519,16 @@
       174.7679
     ]
   },
+  "165.73.55.78": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Midrand",
+    "coordinates": [
+      -25.9766,
+      28.1144
+    ]
+  },
   "167.71.142.56": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -567,16 +587,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0761,
-      14.4479
     ]
   },
   "177.202.33.156": {
@@ -1907,16 +1917,6 @@
     "coordinates": [
       48.1077,
       11.6091
-    ]
-  },
-  "81.169.182.221": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.5234,
-      13.3224
     ]
   },
   "81.193.60.126": {
