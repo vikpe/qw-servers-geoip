@@ -179,6 +179,16 @@
       -6.2597
     ]
   },
+  "13.89.226.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
+    ]
+  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -557,6 +567,16 @@
     "coordinates": [
       44.7843,
       -93.2201
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
     ]
   },
   "176.210.100.6": {
@@ -1149,16 +1169,6 @@
       2.12554
     ]
   },
-  "220.233.28.228": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1267,16 +1277,6 @@
     "coordinates": [
       50.1109,
       8.68213
-    ]
-  },
-  "31.201.90.81": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Eindhoven",
-    "coordinates": [
-      51.4549,
-      5.4625
     ]
   },
   "34.148.103.12": {
@@ -1397,6 +1397,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.136.50.118": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3716,
+      4.8883
     ]
   },
   "45.32.196.50": {
@@ -1829,6 +1839,16 @@
       -87.6318
     ]
   },
+  "75.158.30.31": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Airdrie",
+    "coordinates": [
+      51.3062,
+      -114.0394
+    ]
+  },
   "75.192.150.191": {
     "region": "North America",
     "country": "United States",
@@ -1927,6 +1947,16 @@
     "coordinates": [
       52.3006,
       4.9479
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Orenburg",
+    "coordinates": [
+      51.7898,
+      55.0984
     ]
   },
   "85.229.4.176": {
