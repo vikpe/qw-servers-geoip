@@ -9,6 +9,16 @@
       28.034195
     ]
   },
+  "103.121.34.138": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Dunedin",
+    "coordinates": [
+      -45.8788,
+      170.503
+    ]
+  },
   "103.151.65.11": {
     "region": "Oceania",
     "country": "Australia",
@@ -47,16 +57,6 @@
     "coordinates": [
       -33.8715,
       151.2006
-    ]
-  },
-  "104.205.70.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Airdrie",
-    "coordinates": [
-      51.3062,
-      -114.0394
     ]
   },
   "104.207.135.230": {
@@ -559,6 +559,26 @@
       -96.7109
     ]
   },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
+  "173.183.243.94": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Airdrie",
+    "coordinates": [
+      51.3062,
+      -114.0394
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -579,16 +599,6 @@
       -93.2748
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0646,
-      -93.3836
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -597,16 +607,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0761,
-      14.4479
     ]
   },
   "177.202.33.156": {
@@ -697,16 +697,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "181.222.249.31": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
     ]
   },
   "184.57.2.142": {
@@ -1269,16 +1259,6 @@
       0
     ]
   },
-  "3.235.93.21": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
   "3.6.38.8": {
     "region": "Asia",
     "country": "India",
@@ -1297,6 +1277,16 @@
     "coordinates": [
       50.1109,
       8.68213
+    ]
+  },
+  "31.201.90.81": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Breda",
+    "coordinates": [
+      51.5905,
+      4.7731
     ]
   },
   "34.148.103.12": {
@@ -1427,6 +1417,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.136.50.118": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3716,
+      4.8883
     ]
   },
   "45.32.196.50": {
@@ -1799,16 +1799,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1927,16 +1917,6 @@
     "coordinates": [
       52.3006,
       4.9479
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Orenburg",
-    "coordinates": [
-      51.7898,
-      55.0984
     ]
   },
   "85.229.4.176": {
