@@ -599,6 +599,16 @@
       -93.2748
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -929,6 +939,16 @@
       -112.074036
     ]
   },
+  "20.126.247.97": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3667,
+      4.9
+    ]
+  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1177,6 +1197,16 @@
     "coordinates": [
       50.9871,
       2.12554
+    ]
+  },
+  "220.233.28.228": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "223.165.64.141": {
@@ -1919,6 +1949,16 @@
       4.9479
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Orenburg",
+    "coordinates": [
+      51.7898,
+      55.0984
+    ]
+  },
   "85.229.4.176": {
     "region": "Europe",
     "country": "Sweden",
@@ -1937,16 +1977,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "87.189.52.218": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "87.80.8.49": {
@@ -1997,6 +2027,16 @@
     "coordinates": [
       55.7483,
       37.6171
+    ]
+  },
+  "91.55.87.116": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1109,
+      8.68213
     ]
   },
   "91.66.2.46": {
@@ -2057,16 +2097,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "95.94.59.73": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Coimbra",
-    "coordinates": [
-      40.2057,
-      -8.4213
     ]
   },
   "98.128.174.153": {
