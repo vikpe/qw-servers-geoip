@@ -89,16 +89,6 @@
       8.7147
     ]
   },
-  "108.61.204.55": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7889,
-      -96.8021
-    ]
-  },
   "109.194.67.44": {
     "region": "Europe",
     "country": "Russia",
@@ -189,14 +179,14 @@
       -6.2597
     ]
   },
-  "13.89.226.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
+  "130.204.92.64": {
+    "region": "Europe",
+    "country": "Bulgaria",
+    "cc": "BG",
+    "city": "Sofia",
     "coordinates": [
-      41.5908,
-      -93.6208
+      42.6951,
+      23.325
     ]
   },
   "130.242.114.28": {
@@ -1699,6 +1689,16 @@
       -74.0247
     ]
   },
+  "65.109.55.167": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1797,
+      24.9344
+    ]
+  },
   "66.186.208.107": {
     "region": "North America",
     "country": "United States",
@@ -1797,16 +1797,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.249.159.65": {
@@ -2107,6 +2097,16 @@
     "coordinates": [
       43.0461,
       -81.2436
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
     ]
   },
   "99.72.255.45": {
