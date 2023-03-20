@@ -189,16 +189,6 @@
       -6.2597
     ]
   },
-  "13.89.226.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -589,6 +579,16 @@
       -93.2748
     ]
   },
+  "174.83.56.54": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicopee",
+    "coordinates": [
+      42.1502,
+      -72.6078
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -949,6 +949,26 @@
       -87.6278
     ]
   },
+  "20.221.237.152": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8819,
+      -87.6278
+    ]
+  },
+  "20.228.95.70": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": [
+      37.783,
+      -122.417
+    ]
+  },
   "20.243.122.16": {
     "region": "Asia",
     "country": "Japan",
@@ -977,6 +997,16 @@
     "coordinates": [
       37.783,
       -122.417
+    ]
+  },
+  "20.25.66.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Boydton",
+    "coordinates": [
+      36.677696,
+      -78.37471
     ]
   },
   "20.38.33.59": {
@@ -1127,16 +1157,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Barcelona",
-    "coordinates": [
-      41.387,
-      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1799,6 +1819,16 @@
       -75.0041
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1809,16 +1839,6 @@
       -81.7334
     ]
   },
-  "73.249.159.65": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
-    ]
-  },
   "75.102.17.203": {
     "region": "North America",
     "country": "United States",
@@ -1827,6 +1847,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "76.119.112.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
     ]
   },
   "78.45.88.52": {
@@ -1959,16 +1989,6 @@
       13.405
     ]
   },
-  "87.189.49.15": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "87.80.8.49": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -2019,14 +2039,14 @@
       37.6171
     ]
   },
-  "91.55.71.170": {
+  "91.55.78.120": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Calw",
+    "city": "Oberreichenbach",
     "coordinates": [
-      48.709,
-      8.7399
+      48.7318,
+      8.6702
     ]
   },
   "91.66.2.46": {
