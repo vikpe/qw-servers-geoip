@@ -139,6 +139,16 @@
       11.0767
     ]
   },
+  "124.187.70.137": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.475,
+      153.0042
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -579,16 +589,6 @@
       -93.2748
     ]
   },
-  "174.83.56.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicopee",
-    "coordinates": [
-      42.1502,
-      -72.6078
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -747,16 +747,6 @@
     "coordinates": [
       51.5074,
       -0.127758
-    ]
-  },
-  "187.20.95.172": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -959,16 +949,6 @@
       -87.6278
     ]
   },
-  "20.228.95.70": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
-    ]
-  },
   "20.243.122.16": {
     "region": "Asia",
     "country": "Japan",
@@ -997,16 +977,6 @@
     "coordinates": [
       37.783,
       -122.417
-    ]
-  },
-  "20.25.66.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Boydton",
-    "coordinates": [
-      36.677696,
-      -78.37471
     ]
   },
   "20.38.33.59": {
@@ -1189,16 +1159,6 @@
       8.38571
     ]
   },
-  "217.182.204.42": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Gravelines",
-    "coordinates": [
-      50.9871,
-      2.12554
-    ]
-  },
   "220.233.28.228": {
     "region": "Oceania",
     "country": "Australia",
@@ -1307,6 +1267,16 @@
     "coordinates": [
       50.1109,
       8.68213
+    ]
+  },
+  "31.201.90.81": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Breda",
+    "coordinates": [
+      51.5905,
+      4.7731
     ]
   },
   "34.148.103.12": {
@@ -1477,16 +1447,6 @@
     "coordinates": [
       32.9473,
       -96.7028
-    ]
-  },
-  "45.76.118.33": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8979,
-      151.1897
     ]
   },
   "45.76.23.209": {
@@ -1819,16 +1779,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1859,7 +1809,7 @@
       -73.4483
     ]
   },
-  "78.45.88.52": {
+  "78.45.5.144": {
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
