@@ -99,14 +99,14 @@
       -96.8021
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
+  "108.61.242.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elk Grove Village",
     "coordinates": [
-      56.8651,
-      35.8938
+      42.0048,
+      -87.9954
     ]
   },
   "109.200.20.152": {
@@ -419,6 +419,16 @@
       -84.4455
     ]
   },
+  "156.247.189.2": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.35208,
+      103.82
+    ]
+  },
   "158.101.195.75": {
     "region": "Europe",
     "country": "Netherlands",
@@ -559,16 +569,6 @@
       -96.7109
     ]
   },
-  "173.183.243.94": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Airdrie",
-    "coordinates": [
-      51.3062,
-      -114.0394
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -617,16 +617,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "178.164.110.107": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Hommelvik",
-    "coordinates": [
-      63.4068,
-      10.7848
     ]
   },
   "178.178.96.57": {
@@ -907,6 +897,16 @@
     "coordinates": [
       33.448376,
       -112.074036
+    ]
+  },
+  "20.126.247.97": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3667,
+      4.9
     ]
   },
   "20.13.149.88": {
@@ -1797,6 +1797,26 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.158.28.121": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Airdrie",
+    "coordinates": [
+      51.3062,
+      -114.0394
+    ]
+  },
+  "75.86.253.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
     ]
   },
   "76.119.112.36": {
