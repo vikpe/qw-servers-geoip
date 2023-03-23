@@ -109,6 +109,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -739,6 +749,16 @@
       -0.127758
     ]
   },
+  "187.20.89.190": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
+    ]
+  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -899,16 +919,6 @@
       -112.074036
     ]
   },
-  "20.126.247.97": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3667,
-      4.9
-    ]
-  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -949,6 +959,16 @@
       -87.6278
     ]
   },
+  "20.228.95.70": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": [
+      37.783,
+      -122.417
+    ]
+  },
   "20.243.122.16": {
     "region": "Asia",
     "country": "Japan",
@@ -977,6 +997,16 @@
     "coordinates": [
       37.783,
       -122.417
+    ]
+  },
+  "20.25.66.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Boydton",
+    "coordinates": [
+      36.677696,
+      -78.37471
     ]
   },
   "20.38.33.59": {
@@ -1809,16 +1839,6 @@
       -114.0394
     ]
   },
-  "75.86.253.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0874,
-      -87.6697
-    ]
-  },
   "76.119.112.36": {
     "region": "North America",
     "country": "United States",
@@ -1967,6 +1987,16 @@
     "coordinates": [
       51.5538,
       -0.3102
+    ]
+  },
+  "88.133.233.238": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Pettendorf",
+    "coordinates": [
+      49.0644,
+      12.0095
     ]
   },
   "89.151.207.164": {
