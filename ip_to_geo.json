@@ -629,6 +629,16 @@
       -46.6333
     ]
   },
+  "178.164.126.139": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Trondheim",
+    "coordinates": [
+      63.4277,
+      10.4012
+    ]
+  },
   "178.178.96.57": {
     "region": "Europe",
     "country": "Russia",
@@ -1419,16 +1429,6 @@
       -98.5
     ]
   },
-  "44.203.141.185": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
   "44.210.138.174": {
     "region": "North America",
     "country": "United States",
@@ -1739,16 +1739,6 @@
       -87.6386
     ]
   },
-  "67.219.103.150": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8372,
-      144.9354
-    ]
-  },
   "68.183.127.4": {
     "region": "North America",
     "country": "United States",
@@ -1989,16 +1979,6 @@
       -0.3102
     ]
   },
-  "88.133.233.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Pettendorf",
-    "coordinates": [
-      49.0644,
-      12.0095
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2147,6 +2127,16 @@
     "coordinates": [
       43.0461,
       -81.2436
+    ]
+  },
+  "99.47.21.158": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Mateo",
+    "coordinates": [
+      37.5428,
+      -122.2971
     ]
   },
   "99.48.163.106": {
