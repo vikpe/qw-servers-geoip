@@ -639,6 +639,16 @@
       10.4012
     ]
   },
+  "178.174.184.243": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Solna",
+    "coordinates": [
+      59.3591,
+      17.9948
+    ]
+  },
   "178.178.96.57": {
     "region": "Europe",
     "country": "Russia",
@@ -1827,6 +1837,16 @@
     "coordinates": [
       51.3062,
       -114.0394
+    ]
+  },
+  "75.86.253.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
     ]
   },
   "76.119.112.36": {
