@@ -155,8 +155,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.475,
-      153.0042
+      -27.4679,
+      153.0325
     ]
   },
   "128.199.52.100": {
@@ -297,6 +297,16 @@
     "coordinates": [
       -37.8372,
       144.9354
+    ]
+  },
+  "141.105.67.104": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7856,
+      37.7092
     ]
   },
   "144.138.101.141": {
@@ -463,10 +473,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Gothenburg",
+    "city": "Vaermdoe",
     "coordinates": [
-      57.7065,
-      11.967
+      59.3513,
+      18.4956
     ]
   },
   "158.248.75.93": {
@@ -577,6 +587,16 @@
     "coordinates": [
       33.0468,
       -96.7109
+    ]
+  },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "174.138.43.249": {
@@ -1109,16 +1129,6 @@
       -87.6289
     ]
   },
-  "209.182.236.77": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0544,
-      -118.2441
-    ]
-  },
   "210.54.39.19": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1177,6 +1187,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1329,6 +1349,16 @@
       4.7731
     ]
   },
+  "34.118.250.57": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Charleston",
+    "coordinates": [
+      32.8771,
+      -80.013
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1389,16 +1419,6 @@
       -80.013
     ]
   },
-  "35.185.84.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Charleston",
-    "coordinates": [
-      32.8771,
-      -80.013
-    ]
-  },
   "37.123.190.226": {
     "region": "Europe",
     "country": "Sweden",
@@ -1447,16 +1467,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.136.50.118": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3716,
-      4.8883
     ]
   },
   "45.32.196.50": {
@@ -2063,10 +2073,10 @@
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Therwil",
+    "city": "Basel",
     "coordinates": [
-      47.5053,
-      7.5477
+      47.5577,
+      7.5936
     ]
   },
   "94.254.2.158": {
@@ -2133,10 +2143,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "V\u00e4ster\u00e5s",
+    "city": "Stockholm",
     "coordinates": [
-      59.6146,
-      16.5528
+      59.3287,
+      18.0717
     ]
   },
   "99.242.149.60": {
