@@ -579,16 +579,6 @@
       -96.7109
     ]
   },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -1449,16 +1439,6 @@
       -77.4874
     ]
   },
-  "45.136.50.118": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
-    ]
-  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1597,6 +1577,16 @@
     "coordinates": [
       52.2251,
       21.0477
+    ]
+  },
+  "51.83.128.107": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
     ]
   },
   "52.159.114.44": {
@@ -1807,16 +1797,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -2087,16 +2067,6 @@
     "coordinates": [
       55.5811,
       12.9553
-    ]
-  },
-  "95.165.130.151": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7483,
-      37.6171
     ]
   },
   "95.216.18.118": {
