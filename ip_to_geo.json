@@ -89,6 +89,16 @@
       8.7147
     ]
   },
+  "108.61.242.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elk Grove Village",
+    "coordinates": [
+      42.0048,
+      -87.9954
+    ]
+  },
   "109.194.67.44": {
     "region": "Europe",
     "country": "Russia",
@@ -649,16 +659,6 @@
       17.9948
     ]
   },
-  "178.178.96.57": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Sochi",
-    "coordinates": [
-      43.5994,
-      39.7289
-    ]
-  },
   "178.216.200.50": {
     "region": "Europe",
     "country": "Poland",
@@ -837,16 +837,6 @@
     "coordinates": [
       52.2297,
       21.0122
-    ]
-  },
-  "193.108.113.153": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7696,
-      37.6177
     ]
   },
   "193.168.147.138": {
@@ -1389,16 +1379,6 @@
       -80.013
     ]
   },
-  "37.123.190.226": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "39.106.228.43": {
     "region": "Asia",
     "country": "China",
@@ -1437,6 +1417,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.136.50.118": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "45.32.196.50": {
@@ -1669,6 +1659,16 @@
       -46.6333
     ]
   },
+  "54.236.149.181": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
+    ]
+  },
   "54.94.165.196": {
     "region": "South America",
     "country": "Brazil",
@@ -1869,16 +1869,6 @@
       18.0761
     ]
   },
-  "8.34.176.7": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Norwalk",
-    "coordinates": [
-      41.1513,
-      -73.4256
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1939,6 +1929,16 @@
       4.9479
     ]
   },
+  "83.95.185.41": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Randers",
+    "coordinates": [
+      56.4565,
+      10.0274
+    ]
+  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1957,16 +1957,6 @@
     "coordinates": [
       59.241,
       17.9808
-    ]
-  },
-  "86.131.83.133": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Ashford",
-    "coordinates": [
-      51.1469,
-      0.8773
     ]
   },
   "87.128.111.190": {
@@ -2029,14 +2019,14 @@
       37.6171
     ]
   },
-  "91.55.78.120": {
+  "91.55.68.94": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Oberreichenbach",
+    "city": "Calw",
     "coordinates": [
-      48.7318,
-      8.6702
+      48.709,
+      8.7399
     ]
   },
   "91.66.2.46": {
@@ -2067,6 +2057,16 @@
     "coordinates": [
       55.5811,
       12.9553
+    ]
+  },
+  "95.165.130.151": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7483,
+      37.6171
     ]
   },
   "95.216.18.118": {
