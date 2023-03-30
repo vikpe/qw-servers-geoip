@@ -609,6 +609,16 @@
       -93.2748
     ]
   },
+  "176.126.85.53": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1187,16 +1197,6 @@
     "coordinates": [
       48.9997,
       8.38571
-    ]
-  },
-  "220.233.28.228": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
     ]
   },
   "223.165.64.141": {
@@ -1827,16 +1827,6 @@
     "coordinates": [
       51.3062,
       -114.0394
-    ]
-  },
-  "75.86.253.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0874,
-      -87.6697
     ]
   },
   "76.119.112.36": {
