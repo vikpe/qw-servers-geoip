@@ -669,6 +669,16 @@
       17.9948
     ]
   },
+  "178.178.96.57": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Sochi",
+    "coordinates": [
+      43.5994,
+      39.7289
+    ]
+  },
   "178.216.200.50": {
     "region": "Europe",
     "country": "Poland",
@@ -849,6 +859,16 @@
       21.0122
     ]
   },
+  "193.108.113.153": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7696,
+      37.6177
+    ]
+  },
   "193.168.147.138": {
     "region": "Europe",
     "country": "France",
@@ -979,16 +999,6 @@
       -87.6278
     ]
   },
-  "20.228.95.70": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
-    ]
-  },
   "20.243.122.16": {
     "region": "Asia",
     "country": "Japan",
@@ -1017,16 +1027,6 @@
     "coordinates": [
       37.783,
       -122.417
-    ]
-  },
-  "20.25.66.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Boydton",
-    "coordinates": [
-      36.677696,
-      -78.37471
     ]
   },
   "20.38.33.59": {
