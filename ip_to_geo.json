@@ -609,6 +609,16 @@
       -93.2748
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
+    ]
+  },
   "176.126.85.53": {
     "region": "Europe",
     "country": "Netherlands",
@@ -647,16 +657,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "178.164.126.139": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Trondheim",
-    "coordinates": [
-      63.4277,
-      10.4012
     ]
   },
   "178.174.184.243": {
@@ -1027,6 +1027,16 @@
     "coordinates": [
       37.783,
       -122.417
+    ]
+  },
+  "20.25.66.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Boydton",
+    "coordinates": [
+      36.677696,
+      -78.37471
     ]
   },
   "20.38.33.59": {
