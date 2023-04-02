@@ -739,6 +739,16 @@
       -77.4874
     ]
   },
+  "182.239.221.75": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sunbury",
+    "coordinates": [
+      -37.5749,
+      144.7197
+    ]
+  },
   "185.107.195.215": {
     "region": "Europe",
     "country": "Germany",
@@ -997,6 +1007,16 @@
     "coordinates": [
       41.8819,
       -87.6278
+    ]
+  },
+  "20.228.95.70": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": [
+      37.783,
+      -122.417
     ]
   },
   "20.243.122.16": {
@@ -1819,6 +1839,16 @@
       -81.7334
     ]
   },
+  "73.234.72.199": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
+    ]
+  },
   "75.102.17.203": {
     "region": "North America",
     "country": "United States",
@@ -1837,16 +1867,6 @@
     "coordinates": [
       51.3062,
       -114.0394
-    ]
-  },
-  "76.119.112.36": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
     ]
   },
   "78.45.5.144": {
