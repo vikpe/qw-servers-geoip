@@ -145,8 +145,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.4679,
-      153.0325
+      -27.4485,
+      153.0007
     ]
   },
   "128.199.52.100": {
@@ -293,10 +293,10 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "Moscow",
+    "city": "Murom",
     "coordinates": [
-      55.7856,
-      37.7092
+      55.5604,
+      42.0347
     ]
   },
   "144.138.101.141": {
@@ -473,10 +473,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Vaermdoe",
+    "city": "Falkenberg",
     "coordinates": [
-      59.3513,
-      18.4956
+      56.9066,
+      12.503
     ]
   },
   "158.248.75.93": {
@@ -609,16 +609,6 @@
       -93.2748
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0646,
-      -93.3836
-    ]
-  },
   "176.126.85.53": {
     "region": "Europe",
     "country": "Netherlands",
@@ -739,14 +729,14 @@
       -77.4874
     ]
   },
-  "182.239.221.75": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sunbury",
+  "181.222.229.124": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
     "coordinates": [
-      -37.5749,
-      144.7197
+      -19.0233,
+      -48.3348
     ]
   },
   "185.107.195.215": {
@@ -1309,16 +1299,6 @@
       0
     ]
   },
-  "3.6.38.8": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.076,
-      72.8777
-    ]
-  },
   "3.76.38.12": {
     "region": "Europe",
     "country": "Germany",
@@ -1447,16 +1427,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.136.50.118": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
     ]
   },
   "45.32.196.50": {
@@ -1609,6 +1579,16 @@
       21.0067
     ]
   },
+  "51.83.98.161": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Gravelines",
+    "coordinates": [
+      50.9871,
+      2.12554
+    ]
+  },
   "52.159.114.44": {
     "region": "North America",
     "country": "United States",
@@ -1637,6 +1617,16 @@
     "coordinates": [
       -33.8591,
       151.2002
+    ]
+  },
+  "52.66.199.9": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.076,
+      72.8777
     ]
   },
   "52.67.74.216": {
@@ -1827,6 +1817,16 @@
     "coordinates": [
       40.185,
       -75.0041
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -2139,14 +2139,14 @@
       18.0717
     ]
   },
-  "99.242.149.60": {
+  "98.149.250.69": {
     "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "London",
+    "country": "United States",
+    "cc": "US",
+    "city": "Coachella",
     "coordinates": [
-      43.0461,
-      -81.2436
+      33.6742,
+      -116.1735
     ]
   },
   "99.47.21.158": {
