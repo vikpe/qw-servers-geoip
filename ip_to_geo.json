@@ -99,16 +99,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -489,6 +479,16 @@
       10.859
     ]
   },
+  "159.196.169.99": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
+    ]
+  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -739,6 +739,16 @@
       -48.3348
     ]
   },
+  "182.239.221.75": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sunbury",
+    "coordinates": [
+      -37.5749,
+      144.7197
+    ]
+  },
   "185.107.195.215": {
     "region": "Europe",
     "country": "Germany",
@@ -787,16 +797,6 @@
     "coordinates": [
       51.5074,
       -0.127758
-    ]
-  },
-  "187.20.89.190": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1389,6 +1389,16 @@
       -80.013
     ]
   },
+  "35.204.184.88": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Groningen",
+    "coordinates": [
+      53.2193,
+      6.5665
+    ]
+  },
   "39.106.228.43": {
     "region": "Asia",
     "country": "China",
@@ -1427,6 +1437,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.136.50.118": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "45.32.196.50": {
@@ -1819,16 +1839,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1949,16 +1959,6 @@
       4.9479
     ]
   },
-  "83.95.185.41": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Randers",
-    "coordinates": [
-      56.4565,
-      10.0274
-    ]
-  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -2069,16 +2069,6 @@
       7.5936
     ]
   },
-  "94.254.2.158": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Limhamn",
-    "coordinates": [
-      55.5811,
-      12.9553
-    ]
-  },
   "95.165.130.151": {
     "region": "Europe",
     "country": "Russia",
@@ -2137,16 +2127,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "98.149.250.69": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Coachella",
-    "coordinates": [
-      33.6742,
-      -116.1735
     ]
   },
   "99.47.21.158": {
