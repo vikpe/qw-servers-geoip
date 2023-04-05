@@ -479,16 +479,6 @@
       10.859
     ]
   },
-  "159.196.169.99": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -627,6 +617,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0883,
+      14.4124
     ]
   },
   "177.202.33.156": {
@@ -1349,16 +1349,6 @@
       -6.26031
     ]
   },
-  "34.71.196.246": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1367,6 +1357,16 @@
     "coordinates": [
       50.1109,
       8.68213
+    ]
+  },
+  "35.184.168.129": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "35.184.4.200": {
