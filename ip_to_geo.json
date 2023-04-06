@@ -969,16 +969,6 @@
       -93.6208
     ]
   },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1037,16 +1027,6 @@
     "coordinates": [
       35.68,
       139.77
-    ]
-  },
-  "20.245.213.126": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
     ]
   },
   "20.245.6.70": {
@@ -1969,6 +1949,16 @@
       -16.9
     ]
   },
+  "82.102.20.226": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Christianshavn",
+    "coordinates": [
+      55.6738,
+      12.5954
+    ]
+  },
   "82.141.152.3": {
     "region": "Europe",
     "country": "Hungary",
@@ -1989,6 +1979,16 @@
       4.9479
     ]
   },
+  "83.245.190.207": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Nurmij\u00e4rvi",
+    "coordinates": [
+      60.4666,
+      24.8233
+    ]
+  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -2007,6 +2007,16 @@
     "coordinates": [
       59.241,
       17.9808
+    ]
+  },
+  "85.28.131.207": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Tarn\u00f3w",
+    "coordinates": [
+      50.0196,
+      20.9853
     ]
   },
   "87.128.111.190": {
@@ -2167,6 +2177,16 @@
     "coordinates": [
       37.5428,
       -122.2971
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
     ]
   },
   "99.72.255.45": {
