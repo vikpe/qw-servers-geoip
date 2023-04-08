@@ -639,6 +639,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0883,
+      14.4124
+    ]
+  },
   "177.202.33.156": {
     "region": "South America",
     "country": "Brazil",
@@ -1887,6 +1897,16 @@
     "coordinates": [
       51.3062,
       -114.0394
+    ]
+  },
+  "75.26.197.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lakewood",
+    "coordinates": [
+      41.4866,
+      -81.8037
     ]
   },
   "75.86.253.195": {
