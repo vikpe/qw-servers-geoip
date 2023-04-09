@@ -619,6 +619,16 @@
       -93.2748
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
+    ]
+  },
   "176.126.85.53": {
     "region": "Europe",
     "country": "Netherlands",
@@ -949,16 +959,6 @@
       -93.6208
     ]
   },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1017,16 +1017,6 @@
     "coordinates": [
       35.68,
       139.77
-    ]
-  },
-  "20.245.213.126": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
     ]
   },
   "20.245.6.70": {
@@ -1819,6 +1809,16 @@
       -75.0041
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1987,6 +1987,16 @@
     "coordinates": [
       59.241,
       17.9808
+    ]
+  },
+  "85.242.135.177": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Ponta do Sol",
+    "coordinates": [
+      32.6907,
+      -17.094
     ]
   },
   "85.28.131.207": {
