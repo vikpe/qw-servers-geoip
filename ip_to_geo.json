@@ -639,16 +639,6 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0883,
-      14.4124
-    ]
-  },
   "177.202.33.156": {
     "region": "South America",
     "country": "Brazil",
@@ -769,16 +759,6 @@
       144.7197
     ]
   },
-  "185.107.195.215": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1208,
-      8.67632
-    ]
-  },
   "185.11.166.90": {
     "region": "Europe",
     "country": "Portugal",
@@ -787,16 +767,6 @@
     "coordinates": [
       38.7223,
       -9.13934
-    ]
-  },
-  "185.186.79.77": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6802,
-      12.5892
     ]
   },
   "185.189.48.45": {
@@ -1779,16 +1749,6 @@
       -105.1009
     ]
   },
-  "66.205.137.193": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Sacramento",
-    "coordinates": [
-      38.581,
-      -121.4939
-    ]
-  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -2049,6 +2009,16 @@
       13.405
     ]
   },
+  "87.189.63.72": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "87.80.8.49": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -2097,16 +2067,6 @@
     "coordinates": [
       55.7483,
       37.6171
-    ]
-  },
-  "91.55.68.94": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "91.66.2.46": {
