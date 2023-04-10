@@ -599,6 +599,16 @@
       -96.7109
     ]
   },
+  "172.56.209.248": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Las Vegas",
+    "coordinates": [
+      36.1685,
+      -115.1164
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -617,16 +627,6 @@
     "coordinates": [
       44.7601,
       -93.2748
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0646,
-      -93.3836
     ]
   },
   "176.126.85.53": {
@@ -959,6 +959,16 @@
       -93.6208
     ]
   },
+  "20.125.113.83": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
+    ]
+  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1017,6 +1027,16 @@
     "coordinates": [
       35.68,
       139.77
+    ]
+  },
+  "20.245.213.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": [
+      37.783,
+      -122.417
     ]
   },
   "20.245.6.70": {
@@ -1819,6 +1839,16 @@
       -122.6192
     ]
   },
+  "73.218.251.101": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1827,16 +1857,6 @@
     "coordinates": [
       26.3771,
       -81.7334
-    ]
-  },
-  "73.234.72.199": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
     ]
   },
   "75.102.17.203": {
@@ -1897,6 +1917,16 @@
     "coordinates": [
       47.16,
       18.0761
+    ]
+  },
+  "79.255.33.59": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Weisendorf",
+    "coordinates": [
+      49.6237,
+      10.8313
     ]
   },
   "80.211.201.216": {
@@ -2017,6 +2047,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "87.159.99.79": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Bubenreuth",
+    "coordinates": [
+      49.6262,
+      11.0171
     ]
   },
   "87.189.63.72": {
