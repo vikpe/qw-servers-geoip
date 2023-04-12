@@ -169,7 +169,7 @@
       151.2002
     ]
   },
-  "13.246.196.112": {
+  "13.245.119.116": {
     "region": "Africa",
     "country": "South Africa",
     "cc": "ZA",
@@ -459,16 +459,6 @@
       103.82
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -607,16 +597,6 @@
     "coordinates": [
       33.0468,
       -96.7109
-    ]
-  },
-  "172.58.89.37": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.7183,
-      -122.4103
     ]
   },
   "174.138.43.249": {
@@ -1609,6 +1589,16 @@
       21.0477
     ]
   },
+  "51.83.128.107": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
+    ]
+  },
   "51.83.98.161": {
     "region": "Europe",
     "country": "France",
@@ -1689,16 +1679,6 @@
       -121.895
     ]
   },
-  "54.176.80.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
-    ]
-  },
   "54.232.250.209": {
     "region": "South America",
     "country": "Brazil",
@@ -1767,16 +1747,6 @@
     "coordinates": [
       40.1773,
       -105.1009
-    ]
-  },
-  "66.205.137.193": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Sacramento",
-    "coordinates": [
-      38.581,
-      -121.4939
     ]
   },
   "66.85.80.160": {
@@ -1997,6 +1967,16 @@
     "coordinates": [
       52.3006,
       4.9479
+    ]
+  },
+  "83.245.190.207": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Nurmij\u00e4rvi",
+    "coordinates": [
+      60.4666,
+      24.8233
     ]
   },
   "84.39.252.192": {
