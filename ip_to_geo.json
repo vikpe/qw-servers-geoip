@@ -639,6 +639,16 @@
       73.4001
     ]
   },
+  "177.202.33.156": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.6391,
+      -49.2622
+    ]
+  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -1349,16 +1359,6 @@
       8.68213
     ]
   },
-  "35.184.168.129": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "35.184.4.200": {
     "region": "North America",
     "country": "United States",
@@ -1387,6 +1387,16 @@
     "coordinates": [
       53.2193,
       6.5665
+    ]
+  },
+  "35.238.50.153": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "39.106.228.43": {
@@ -1737,6 +1747,16 @@
     "coordinates": [
       40.1773,
       -105.1009
+    ]
+  },
+  "66.205.137.193": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Sacramento",
+    "coordinates": [
+      38.581,
+      -121.4939
     ]
   },
   "66.85.80.160": {
@@ -2167,16 +2187,6 @@
     "coordinates": [
       59.3274,
       18.0653
-    ]
-  },
-  "99.47.21.158": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Mateo",
-    "coordinates": [
-      37.5428,
-      -122.2971
     ]
   },
   "99.48.163.106": {
