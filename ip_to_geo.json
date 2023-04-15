@@ -199,6 +199,16 @@
       -6.2597
     ]
   },
+  "130.136.3.163": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Bologna",
+    "coordinates": [
+      44.497,
+      11.3565
+    ]
+  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -597,6 +607,16 @@
     "coordinates": [
       33.0468,
       -96.7109
+    ]
+  },
+  "170.239.85.110": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Curic\u00f3",
+    "coordinates": [
+      -34.982,
+      -71.232
     ]
   },
   "174.138.43.249": {
@@ -1847,16 +1867,6 @@
     "coordinates": [
       26.3771,
       -81.7334
-    ]
-  },
-  "74.91.117.235": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seattle",
-    "coordinates": [
-      47.6144,
-      -122.3447
     ]
   },
   "75.102.17.203": {
