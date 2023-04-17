@@ -689,16 +689,6 @@
       -46.6333
     ]
   },
-  "178.174.184.243": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Solna",
-    "coordinates": [
-      59.3591,
-      17.9948
-    ]
-  },
   "178.178.96.57": {
     "region": "Europe",
     "country": "Russia",
@@ -1209,16 +1199,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Barcelona",
-    "coordinates": [
-      41.387,
-      2.1701
-    ]
-  },
   "216.128.134.224": {
     "region": "North America",
     "country": "United States",
@@ -1297,16 +1277,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
     ]
   },
   "255.255.255.255": {
@@ -1507,6 +1477,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "45.91.93.180": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5095,
+      -0.0955
     ]
   },
   "46.101.78.83": {
@@ -1827,6 +1807,16 @@
     "coordinates": [
       40.185,
       -75.0041
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.218.251.101": {
