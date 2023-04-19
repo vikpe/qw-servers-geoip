@@ -99,16 +99,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -469,16 +459,6 @@
       103.82
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -677,16 +657,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0628,
-      14.4216
     ]
   },
   "177.202.33.156": {
@@ -1039,16 +1009,6 @@
       -87.6278
     ]
   },
-  "20.228.95.70": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
-    ]
-  },
   "20.243.122.16": {
     "region": "Asia",
     "country": "Japan",
@@ -1077,16 +1037,6 @@
     "coordinates": [
       37.783,
       -122.417
-    ]
-  },
-  "20.25.66.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Boydton",
-    "coordinates": [
-      36.677696,
-      -78.37471
     ]
   },
   "20.38.33.59": {
@@ -1729,16 +1679,6 @@
       138.5999
     ]
   },
-  "61.68.217.218": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1949,16 +1889,6 @@
       14.1389
     ]
   },
-  "80.211.249.173": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.1828,
-      20.9846
-    ]
-  },
   "80.241.209.47": {
     "region": "Europe",
     "country": "Germany",
@@ -1970,6 +1900,16 @@
     ]
   },
   "81.169.182.221": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.5234,
+      13.3224
+    ]
+  },
+  "81.169.214.196": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2069,16 +2009,6 @@
       13.405
     ]
   },
-  "87.189.63.72": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Renningen",
-    "coordinates": [
-      48.7663,
-      8.9444
-    ]
-  },
   "87.80.8.49": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -2129,6 +2059,16 @@
       37.6171
     ]
   },
+  "91.55.80.129": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "91.66.2.46": {
     "region": "Europe",
     "country": "Germany",
@@ -2147,6 +2087,16 @@
     "coordinates": [
       47.5577,
       7.5936
+    ]
+  },
+  "94.197.206.225": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Birmingham",
+    "coordinates": [
+      52.4606,
+      -1.9238
     ]
   },
   "95.165.130.151": {
