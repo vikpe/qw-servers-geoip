@@ -99,6 +99,16 @@
       -87.9954
     ]
   },
+  "109.154.7.85": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Evesham",
+    "coordinates": [
+      52.1294,
+      -1.9048
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -607,16 +617,6 @@
     "coordinates": [
       -34.982,
       -71.232
-    ]
-  },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.7188,
-      -118.0033
     ]
   },
   "174.138.43.249": {
@@ -1329,6 +1329,16 @@
       8.68213
     ]
   },
+  "35.184.168.129": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.184.4.200": {
     "region": "North America",
     "country": "United States",
@@ -1357,16 +1367,6 @@
     "coordinates": [
       53.2193,
       6.5665
-    ]
-  },
-  "35.238.50.153": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "37.221.215.47": {
@@ -1419,6 +1419,16 @@
       -77.4874
     ]
   },
+  "45.136.50.118": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
+    ]
+  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1440,6 +1450,16 @@
     ]
   },
   "45.33.29.156": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Richardson",
+    "coordinates": [
+      32.9473,
+      -96.7028
+    ]
+  },
+  "45.56.70.87": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1869,16 +1889,6 @@
       18.0761
     ]
   },
-  "79.160.188.22": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Drammen",
-    "coordinates": [
-      59.7577,
-      10.1699
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -2089,16 +2099,6 @@
       7.5936
     ]
   },
-  "94.197.206.225": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Birmingham",
-    "coordinates": [
-      52.4606,
-      -1.9238
-    ]
-  },
   "95.165.130.151": {
     "region": "Europe",
     "country": "Russia",
@@ -2157,16 +2157,6 @@
     "coordinates": [
       59.3274,
       18.0653
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7797,
-      -96.8022
     ]
   },
   "99.72.255.45": {
