@@ -99,14 +99,14 @@
       -87.9954
     ]
   },
-  "109.154.7.85": {
+  "109.194.67.44": {
     "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Evesham",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
     "coordinates": [
-      52.1294,
-      -1.9048
+      56.8651,
+      35.8938
     ]
   },
   "109.200.20.152": {
@@ -469,6 +469,16 @@
       103.82
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -619,6 +629,16 @@
       -71.232
     ]
   },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.7188,
+      -118.0033
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -637,6 +657,16 @@
     "coordinates": [
       44.7601,
       -93.2748
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
     ]
   },
   "176.126.85.53": {
@@ -797,6 +827,16 @@
     "coordinates": [
       51.5074,
       -0.127758
+    ]
+  },
+  "187.20.88.158": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1649,6 +1689,16 @@
       -122.676
     ]
   },
+  "54.176.112.122": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
+    ]
+  },
   "54.176.114.20": {
     "region": "North America",
     "country": "United States",
@@ -1887,6 +1937,16 @@
     "coordinates": [
       47.16,
       18.0761
+    ]
+  },
+  "79.160.188.22": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Drammen",
+    "coordinates": [
+      59.7577,
+      10.1699
     ]
   },
   "80.211.201.216": {
