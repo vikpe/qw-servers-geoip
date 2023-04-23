@@ -209,6 +209,16 @@
       11.3565
     ]
   },
+  "130.162.236.198": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1049,
+      8.6295
+    ]
+  },
   "130.185.249.247": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -267,16 +277,6 @@
     "coordinates": [
       40.8364,
       -74.1403
-    ]
-  },
-  "138.2.181.13": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1049,
-      8.6295
     ]
   },
   "138.68.21.116": {
@@ -629,16 +629,6 @@
       -71.232
     ]
   },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.7188,
-      -118.0033
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -657,6 +647,26 @@
     "coordinates": [
       44.7601,
       -93.2748
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
+    ]
+  },
+  "176.119.147.156": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "St Petersburg",
+    "coordinates": [
+      59.99,
+      30.2571
     ]
   },
   "176.126.85.53": {
@@ -777,16 +787,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "181.222.229.124": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
     ]
   },
   "182.239.221.75": {
@@ -1207,6 +1207,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1857,6 +1867,16 @@
     "coordinates": [
       40.185,
       -75.0041
+    ]
+  },
+  "73.210.168.166": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "New Lenox",
+    "coordinates": [
+      41.5067,
+      -87.9631
     ]
   },
   "73.218.251.101": {
