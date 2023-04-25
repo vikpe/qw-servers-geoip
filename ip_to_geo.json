@@ -99,16 +99,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -709,26 +699,6 @@
       -46.6333
     ]
   },
-  "178.174.184.243": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Solna",
-    "coordinates": [
-      59.3591,
-      17.9948
-    ]
-  },
-  "178.178.96.57": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Sochi",
-    "coordinates": [
-      43.5994,
-      39.7289
-    ]
-  },
   "178.216.200.50": {
     "region": "Europe",
     "country": "Poland",
@@ -787,6 +757,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "181.222.229.124": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
+    "coordinates": [
+      -19.0233,
+      -48.3348
     ]
   },
   "182.239.221.75": {
@@ -1459,16 +1439,6 @@
       -77.4874
     ]
   },
-  "45.136.50.118": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
-    ]
-  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1597,16 +1567,6 @@
     "coordinates": [
       48.5734,
       7.75211
-    ]
-  },
-  "51.75.53.205": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2251,
-      21.0477
     ]
   },
   "51.83.128.107": {
@@ -1849,16 +1809,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.218.251.101": {
     "region": "North America",
     "country": "United States",
@@ -2079,16 +2029,6 @@
       13.405
     ]
   },
-  "87.80.8.49": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Wembley",
-    "coordinates": [
-      51.5538,
-      -0.3102
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2197,16 +2137,6 @@
     "coordinates": [
       40.2057,
       -8.4213
-    ]
-  },
-  "98.128.174.153": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "99.48.163.106": {
