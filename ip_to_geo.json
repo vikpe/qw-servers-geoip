@@ -699,16 +699,6 @@
       -46.6333
     ]
   },
-  "178.178.96.57": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Sochi",
-    "coordinates": [
-      43.5994,
-      39.7289
-    ]
-  },
   "178.216.200.50": {
     "region": "Europe",
     "country": "Poland",
@@ -717,6 +707,16 @@
     "coordinates": [
       52.3929,
       16.874
+    ]
+  },
+  "179.155.76.86": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
+    "coordinates": [
+      -19.0233,
+      -48.3348
     ]
   },
   "18.177.140.83": {
@@ -767,16 +767,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "181.222.229.124": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
     ]
   },
   "182.239.221.75": {
@@ -1449,6 +1439,16 @@
       -77.4874
     ]
   },
+  "45.234.92.104": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Fortaleza",
+    "coordinates": [
+      -3.7139,
+      -38.5409
+    ]
+  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1749,6 +1749,16 @@
       -105.1009
     ]
   },
+  "66.205.137.193": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Sacramento",
+    "coordinates": [
+      38.581,
+      -121.4939
+    ]
+  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1819,7 +1829,7 @@
       -75.0041
     ]
   },
-  "73.218.251.101": {
+  "73.219.45.33": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -2147,16 +2157,6 @@
     "coordinates": [
       40.2057,
       -8.4213
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7797,
-      -96.8022
     ]
   },
   "99.72.255.45": {
