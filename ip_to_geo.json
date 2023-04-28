@@ -469,16 +469,6 @@
       103.82
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -697,6 +687,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "178.178.96.57": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Sochi",
+    "coordinates": [
+      43.5994,
+      39.7289
     ]
   },
   "178.216.200.50": {
@@ -1339,6 +1339,16 @@
       -6.26031
     ]
   },
+  "34.68.111.188": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1347,16 +1357,6 @@
     "coordinates": [
       50.1109,
       8.68213
-    ]
-  },
-  "35.184.168.129": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.184.4.200": {
@@ -1689,16 +1689,6 @@
       -46.6333
     ]
   },
-  "54.236.149.181": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
   "54.94.165.196": {
     "region": "South America",
     "country": "Brazil",
@@ -1837,16 +1827,6 @@
     "coordinates": [
       41.3908,
       -73.4483
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "75.102.17.203": {
