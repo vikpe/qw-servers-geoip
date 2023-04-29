@@ -99,6 +99,16 @@
       -87.9954
     ]
   },
+  "109.154.7.85": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Evesham",
+    "coordinates": [
+      52.1294,
+      -1.9048
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -469,6 +479,16 @@
       103.82
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -807,6 +827,16 @@
     "coordinates": [
       51.5074,
       -0.127758
+    ]
+  },
+  "187.112.3.114": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
     ]
   },
   "187.20.88.158": {
@@ -1339,7 +1369,7 @@
       -6.26031
     ]
   },
-  "34.68.111.188": {
+  "34.67.254.53": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1689,16 +1719,6 @@
       -46.6333
     ]
   },
-  "54.94.165.196": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5505,
-      -46.6333
-    ]
-  },
   "61.245.153.149": {
     "region": "Oceania",
     "country": "Australia",
@@ -1827,6 +1847,16 @@
     "coordinates": [
       41.3908,
       -73.4483
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "75.102.17.203": {
@@ -2017,6 +2047,16 @@
     "coordinates": [
       50.0196,
       20.9853
+    ]
+  },
+  "85.76.3.125": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1797,
+      24.9344
     ]
   },
   "87.128.111.190": {
