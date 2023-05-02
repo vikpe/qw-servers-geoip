@@ -709,6 +709,16 @@
       39.7289
     ]
   },
+  "179.155.76.86": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
+    "coordinates": [
+      -19.0233,
+      -48.3348
+    ]
+  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -1839,16 +1849,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.219.45.33": {
     "region": "North America",
     "country": "United States",
@@ -1979,16 +1979,6 @@
       13.3224
     ]
   },
-  "81.193.60.126": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
-    ]
-  },
   "82.102.20.226": {
     "region": "Europe",
     "country": "Denmark",
@@ -2047,6 +2037,16 @@
     "coordinates": [
       32.6907,
       -17.094
+    ]
+  },
+  "85.247.7.162": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Funchal",
+    "coordinates": [
+      32.6333,
+      -16.9
     ]
   },
   "85.28.131.207": {
