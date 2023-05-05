@@ -669,6 +669,16 @@
       -93.2201
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
+    ]
+  },
   "176.119.147.156": {
     "region": "Europe",
     "country": "Russia",
@@ -737,6 +747,16 @@
     "coordinates": [
       -23.6283,
       -46.6409
+    ]
+  },
+  "179.214.233.123": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Uberl\u00e2ndia",
+    "coordinates": [
+      -19.0233,
+      -48.3348
     ]
   },
   "18.177.140.83": {
@@ -809,6 +829,16 @@
       -9.13934
     ]
   },
+  "185.177.149.65": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5095,
+      -0.0955
+    ]
+  },
   "185.189.48.45": {
     "region": "Europe",
     "country": "Sweden",
@@ -827,6 +857,16 @@
     "coordinates": [
       51.5074,
       -0.127758
+    ]
+  },
+  "187.20.88.66": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -879,7 +919,7 @@
       -58.4359
     ]
   },
-  "191.251.147.26": {
+  "191.34.129.82": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1859,16 +1899,6 @@
       -73.4483
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "75.102.17.203": {
     "region": "North America",
     "country": "United States",
@@ -2019,6 +2049,16 @@
       18.0755
     ]
   },
+  "85.241.202.69": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Funchal",
+    "coordinates": [
+      32.6333,
+      -16.9
+    ]
+  },
   "85.242.135.177": {
     "region": "Europe",
     "country": "Portugal",
@@ -2027,16 +2067,6 @@
     "coordinates": [
       32.6907,
       -17.094
-    ]
-  },
-  "85.247.7.162": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
     ]
   },
   "85.28.131.207": {
