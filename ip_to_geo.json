@@ -49,6 +49,16 @@
       138.5999
     ]
   },
+  "103.216.220.29": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
+    ]
+  },
   "103.25.59.27": {
     "region": "Oceania",
     "country": "Australia",
@@ -639,14 +649,14 @@
       -71.232
     ]
   },
-  "172.117.114.60": {
+  "172.92.242.150": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Huntington Beach",
+    "city": "Stanwood",
     "coordinates": [
-      33.675,
-      -118.0027
+      48.2011,
+      -122.378
     ]
   },
   "174.138.43.249": {
@@ -667,16 +677,6 @@
     "coordinates": [
       44.7843,
       -93.2201
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0646,
-      -93.3836
     ]
   },
   "176.119.147.156": {
@@ -717,16 +717,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "178.174.184.243": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Solna",
-    "coordinates": [
-      59.3591,
-      17.9948
     ]
   },
   "178.178.96.57": {
@@ -859,6 +849,16 @@
       -0.127758
     ]
   },
+  "187.113.116.44": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
+    ]
+  },
   "187.20.88.66": {
     "region": "South America",
     "country": "Brazil",
@@ -917,16 +917,6 @@
     "coordinates": [
       -34.5751,
       -58.4359
-    ]
-  },
-  "191.34.129.82": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Rio de Janeiro",
-    "coordinates": [
-      -22.9201,
-      -43.0811
     ]
   },
   "192.166.218.37": {
@@ -1379,6 +1369,16 @@
       4.7731
     ]
   },
+  "31.21.97.108": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Apeldoorn",
+    "coordinates": [
+      52.2146,
+      5.9693
+    ]
+  },
   "34.118.250.57": {
     "region": "North America",
     "country": "United States",
@@ -1407,16 +1407,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "34.67.254.53": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.158.239.193": {
@@ -1457,6 +1447,16 @@
     "coordinates": [
       53.2193,
       6.5665
+    ]
+  },
+  "35.239.45.171": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "37.221.215.47": {
@@ -1507,6 +1507,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.147.98.159": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Paris",
+    "coordinates": [
+      48.8323,
+      2.4075
     ]
   },
   "45.234.92.104": {
