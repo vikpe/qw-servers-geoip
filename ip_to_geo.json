@@ -49,7 +49,7 @@
       138.5999
     ]
   },
-  "103.216.220.29": {
+  "103.216.220.20": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -649,16 +649,6 @@
       -71.232
     ]
   },
-  "172.92.242.150": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2011,
-      -122.378
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -1237,6 +1227,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1929,16 +1929,6 @@
       -114.0394
     ]
   },
-  "75.86.253.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0874,
-      -87.6697
-    ]
-  },
   "78.45.5.144": {
     "region": "Europe",
     "country": "Czechia",
@@ -2227,6 +2217,16 @@
     "coordinates": [
       57.7065,
       11.967
+    ]
+  },
+  "98.149.250.69": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Coachella",
+    "coordinates": [
+      33.6742,
+      -116.1735
     ]
   },
   "99.48.163.106": {
