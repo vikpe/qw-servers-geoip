@@ -109,16 +109,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -489,16 +479,6 @@
       103.82
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -523,10 +503,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Oslo",
+    "city": "Fetsund",
     "coordinates": [
-      59.955,
-      10.859
+      59.9315,
+      11.1728
     ]
   },
   "159.203.25.195": {
@@ -649,14 +629,14 @@
       -71.232
     ]
   },
-  "172.58.89.164": {
+  "172.117.114.60": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "San Francisco",
+    "city": "Huntington Beach",
     "coordinates": [
-      37.7797,
-      -122.4159
+      33.675,
+      -118.0027
     ]
   },
   "174.138.43.249": {
@@ -1173,10 +1153,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "Alcobendas",
+    "city": "A Coru\u00f1a",
     "coordinates": [
-      40.5339,
-      -3.6312
+      43.3675,
+      -8.3969
     ]
   },
   "208.77.22.94": {
@@ -1195,8 +1175,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8506,
-      174.7679
+      -36.8542,
+      174.764
     ]
   },
   "212.42.38.88": {
@@ -1273,10 +1253,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Karlsruhe",
+    "city": "Essen",
     "coordinates": [
-      48.9997,
-      8.38571
+      51.4556,
+      7.01156
     ]
   },
   "223.165.64.141": {
@@ -1377,16 +1357,6 @@
     "coordinates": [
       51.5905,
       4.7731
-    ]
-  },
-  "31.21.97.108": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Apeldoorn",
-    "coordinates": [
-      52.2146,
-      5.9693
     ]
   },
   "34.118.250.57": {
@@ -1665,8 +1635,8 @@
     "cc": "CA",
     "city": "Sherwood Park",
     "coordinates": [
-      53.5546,
-      -113.3014
+      53.5294,
+      -113.2555
     ]
   },
   "51.210.10.181": {
@@ -1875,8 +1845,8 @@
     "cc": "US",
     "city": "Cape Coral",
     "coordinates": [
-      26.6067,
-      -81.9507
+      26.6284,
+      -82.0197
     ]
   },
   "70.34.202.147": {
@@ -1919,16 +1889,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.219.45.33": {
     "region": "North America",
     "country": "United States",
@@ -1937,6 +1897,16 @@
     "coordinates": [
       41.3908,
       -73.4483
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "75.102.17.203": {
@@ -2023,10 +1993,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Berlin",
+    "city": "Neuhaus",
     "coordinates": [
-      52.5234,
-      13.3224
+      50.6833,
+      10.9333
     ]
   },
   "82.102.20.226": {
@@ -2133,10 +2103,20 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Steinkjer",
+    "city": "Overhalla",
     "coordinates": [
-      64.167,
-      12.482
+      64.4853,
+      11.9687
+    ]
+  },
+  "89.233.205.44": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
     ]
   },
   "89.239.25.13": {
@@ -2255,8 +2235,8 @@
     "cc": "US",
     "city": "Dallas",
     "coordinates": [
-      32.7797,
-      -96.8022
+      32.7767,
+      -96.805
     ]
   },
   "99.72.255.45": {
