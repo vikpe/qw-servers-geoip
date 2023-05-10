@@ -109,6 +109,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -627,16 +637,6 @@
     "coordinates": [
       -34.982,
       -71.232
-    ]
-  },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "174.138.43.249": {
@@ -1329,6 +1329,16 @@
       0
     ]
   },
+  "3.6.87.140": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.076,
+      72.8777
+    ]
+  },
   "3.76.38.12": {
     "region": "Europe",
     "country": "Germany",
@@ -1699,16 +1709,6 @@
       151.2002
     ]
   },
-  "52.66.199.9": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.076,
-      72.8777
-    ]
-  },
   "52.67.74.216": {
     "region": "South America",
     "country": "Brazil",
@@ -1949,16 +1949,6 @@
       18.0761
     ]
   },
-  "79.160.188.22": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Drammen",
-    "coordinates": [
-      59.7577,
-      10.1699
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -2027,6 +2017,16 @@
     "coordinates": [
       52.3006,
       4.9479
+    ]
+  },
+  "84.247.50.116": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9138,
+      10.7522
     ]
   },
   "84.39.252.192": {
