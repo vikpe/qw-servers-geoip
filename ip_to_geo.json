@@ -109,16 +109,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -449,6 +439,16 @@
       50.5833
     ]
   },
+  "152.171.139.53": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Palermo",
+    "coordinates": [
+      -34.5751,
+      -58.4359
+    ]
+  },
   "152.67.46.27": {
     "region": "South America",
     "country": "Brazil",
@@ -477,16 +477,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "156.247.189.2": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.35208,
-      103.82
     ]
   },
   "158.174.255.11": {
@@ -667,16 +657,6 @@
     "coordinates": [
       59.99,
       30.2571
-    ]
-  },
-  "176.210.100.6": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Omsk",
-    "coordinates": [
-      54.9978,
-      73.4001
     ]
   },
   "177.202.33.156": {
@@ -897,16 +877,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "190.245.131.98": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Palermo",
-    "coordinates": [
-      -34.5751,
-      -58.4359
     ]
   },
   "192.166.218.37": {
@@ -1809,16 +1779,6 @@
       -105.1009
     ]
   },
-  "66.205.137.193": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Sacramento",
-    "coordinates": [
-      38.581,
-      -121.4939
-    ]
-  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1929,6 +1889,16 @@
       -114.0394
     ]
   },
+  "75.86.253.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
+    ]
+  },
   "78.45.5.144": {
     "region": "Europe",
     "country": "Czechia",
@@ -1947,6 +1917,16 @@
     "coordinates": [
       47.16,
       18.0761
+    ]
+  },
+  "79.160.188.22": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Drammen",
+    "coordinates": [
+      59.7577,
+      10.1699
     ]
   },
   "80.211.201.216": {
@@ -2017,16 +1997,6 @@
     "coordinates": [
       52.3006,
       4.9479
-    ]
-  },
-  "84.247.50.116": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9138,
-      10.7522
     ]
   },
   "84.39.252.192": {
