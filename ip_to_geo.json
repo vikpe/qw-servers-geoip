@@ -109,6 +109,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -479,6 +489,16 @@
       -96.8021
     ]
   },
+  "156.247.189.2": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.35208,
+      103.82
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -659,6 +679,16 @@
       30.2571
     ]
   },
+  "176.210.100.6": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Omsk",
+    "coordinates": [
+      54.9978,
+      73.4001
+    ]
+  },
   "177.202.33.156": {
     "region": "South America",
     "country": "Brazil",
@@ -789,16 +819,6 @@
       -9.13934
     ]
   },
-  "185.177.149.65": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5095,
-      -0.0955
-    ]
-  },
   "185.189.48.45": {
     "region": "Europe",
     "country": "Sweden",
@@ -897,26 +917,6 @@
     "coordinates": [
       55.7696,
       37.6177
-    ]
-  },
-  "193.168.147.138": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Nanterre",
-    "coordinates": [
-      48.8909,
-      2.2093
-    ]
-  },
-  "193.168.147.161": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Nanterre",
-    "coordinates": [
-      48.8909,
-      2.2093
     ]
   },
   "193.227.134.114": {
@@ -1329,16 +1329,6 @@
       -77.4874
     ]
   },
-  "31.201.90.81": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Breda",
-    "coordinates": [
-      51.5905,
-      4.7731
-    ]
-  },
   "34.118.250.57": {
     "region": "North America",
     "country": "United States",
@@ -1569,16 +1559,6 @@
       17.9612
     ]
   },
-  "5.189.221.11": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2265,
-      21.0097
-    ]
-  },
   "5.9.82.79": {
     "region": "Europe",
     "country": "Germany",
@@ -1607,16 +1587,6 @@
     "coordinates": [
       47.9856,
       -122.2002
-    ]
-  },
-  "50.65.138.48": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Sherwood Park",
-    "coordinates": [
-      53.5294,
-      -113.2555
     ]
   },
   "51.210.10.181": {
@@ -1949,16 +1919,6 @@
       11.6091
     ]
   },
-  "81.169.182.221": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.5234,
-      13.3224
-    ]
-  },
   "81.169.214.196": {
     "region": "Europe",
     "country": "Germany",
@@ -2147,6 +2107,16 @@
     "coordinates": [
       47.5577,
       7.5936
+    ]
+  },
+  "95.105.209.230": {
+    "region": "Europe",
+    "country": "Slovakia",
+    "cc": "SK",
+    "city": "Bratislava",
+    "coordinates": [
+      48.1833,
+      17.0379
     ]
   },
   "95.165.130.151": {
