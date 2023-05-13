@@ -109,16 +109,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -649,6 +639,16 @@
       -71.232
     ]
   },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -707,16 +707,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "178.178.96.57": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Sochi",
-    "coordinates": [
-      43.5994,
-      39.7289
     ]
   },
   "178.216.200.50": {
@@ -799,14 +789,14 @@
       -77.4874
     ]
   },
-  "182.239.221.75": {
+  "182.239.207.237": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Melton West",
+    "city": "Sunbury",
     "coordinates": [
-      -37.6758,
-      144.5527
+      -37.5749,
+      144.7197
     ]
   },
   "185.11.166.90": {
@@ -1329,6 +1319,16 @@
       -77.4874
     ]
   },
+  "31.201.90.81": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Breda",
+    "coordinates": [
+      51.5905,
+      4.7731
+    ]
+  },
   "34.118.250.57": {
     "region": "North America",
     "country": "United States",
@@ -1749,6 +1749,16 @@
       -105.1009
     ]
   },
+  "66.205.137.193": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Sacramento",
+    "coordinates": [
+      38.581,
+      -121.4939
+    ]
+  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1827,16 +1837,6 @@
     "coordinates": [
       41.3908,
       -73.4483
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "75.102.17.203": {
@@ -2107,16 +2107,6 @@
     "coordinates": [
       47.5577,
       7.5936
-    ]
-  },
-  "95.105.209.230": {
-    "region": "Europe",
-    "country": "Slovakia",
-    "cc": "SK",
-    "city": "Bratislava",
-    "coordinates": [
-      48.1833,
-      17.0379
     ]
   },
   "95.165.130.151": {
