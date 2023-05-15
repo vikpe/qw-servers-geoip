@@ -49,16 +49,6 @@
       138.5999
     ]
   },
-  "103.216.220.20": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.209
-    ]
-  },
   "103.25.59.27": {
     "region": "Oceania",
     "country": "Australia",
@@ -659,6 +649,16 @@
       -71.232
     ]
   },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -847,16 +847,6 @@
     "coordinates": [
       -22.9201,
       -43.0811
-    ]
-  },
-  "187.20.88.66": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1559,6 +1549,16 @@
       -0.6718
     ]
   },
+  "46.162.122.170": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Borl\u00e4nge",
+    "coordinates": [
+      60.4843,
+      15.434
+    ]
+  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1839,6 +1839,16 @@
       -75.0041
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.219.45.33": {
     "region": "North America",
     "country": "United States",
@@ -1897,16 +1907,6 @@
     "coordinates": [
       47.16,
       18.0761
-    ]
-  },
-  "79.160.188.22": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Drammen",
-    "coordinates": [
-      59.7577,
-      10.1699
     ]
   },
   "80.211.201.216": {
@@ -2057,16 +2057,6 @@
     "coordinates": [
       64.4853,
       11.9687
-    ]
-  },
-  "89.233.205.44": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
     ]
   },
   "89.239.25.13": {
