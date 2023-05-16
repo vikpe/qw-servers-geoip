@@ -1839,26 +1839,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
-  "73.219.45.33": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1867,6 +1847,16 @@
     "coordinates": [
       26.3771,
       -81.7334
+    ]
+  },
+  "73.60.182.125": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.4235,
+      -73.4724
     ]
   },
   "75.102.17.203": {
@@ -1897,6 +1887,16 @@
     "coordinates": [
       45.0874,
       -87.6697
+    ]
+  },
+  "78.102.228.227": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0761,
+      14.4479
     ]
   },
   "79.139.57.116": {
@@ -2039,6 +2039,16 @@
       13.405
     ]
   },
+  "87.189.62.33": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "89.135.73.112": {
     "region": "Europe",
     "country": "Hungary",
@@ -2097,16 +2107,6 @@
     "coordinates": [
       55.7483,
       37.6171
-    ]
-  },
-  "91.55.90.169": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Bad Liebenzell",
-    "coordinates": [
-      48.7737,
-      8.7303
     ]
   },
   "91.66.2.46": {
