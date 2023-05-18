@@ -49,6 +49,16 @@
       138.5999
     ]
   },
+  "103.216.220.20": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
+    ]
+  },
   "103.25.59.27": {
     "region": "Oceania",
     "country": "Australia",
@@ -217,16 +227,6 @@
     "coordinates": [
       50.1049,
       8.6295
-    ]
-  },
-  "130.185.249.247": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5095,
-      -0.0955
     ]
   },
   "130.242.114.28": {
@@ -489,16 +489,6 @@
       103.82
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -717,6 +707,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "178.178.96.57": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Sochi",
+    "coordinates": [
+      43.5994,
+      39.7289
     ]
   },
   "178.216.200.50": {
@@ -2177,16 +2177,6 @@
     "coordinates": [
       57.7065,
       11.967
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7767,
-      -96.805
     ]
   },
   "99.72.255.45": {
