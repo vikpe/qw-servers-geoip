@@ -489,6 +489,16 @@
       103.82
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -669,6 +679,16 @@
       -93.2201
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0646,
+      -93.3836
+    ]
+  },
   "176.119.147.156": {
     "region": "Europe",
     "country": "Russia",
@@ -747,6 +767,16 @@
     "coordinates": [
       -19.0233,
       -48.3348
+    ]
+  },
+  "179.83.229.86": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
     ]
   },
   "18.177.140.83": {
@@ -1010,16 +1040,6 @@
     ]
   },
   "20.221.217.52": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8819,
-      -87.6278
-    ]
-  },
-  "20.221.237.152": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1539,6 +1559,16 @@
       -96.8021
     ]
   },
+  "45.77.91.71": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "City of London",
+    "coordinates": [
+      51.5128,
+      -0.0638
+    ]
+  },
   "46.101.78.83": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -2039,16 +2069,6 @@
       13.405
     ]
   },
-  "87.189.62.33": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "89.135.73.112": {
     "region": "Europe",
     "country": "Hungary",
@@ -2107,6 +2127,16 @@
     "coordinates": [
       55.7483,
       37.6171
+    ]
+  },
+  "91.55.64.122": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "91.66.2.46": {
@@ -2177,6 +2207,16 @@
     "coordinates": [
       57.7065,
       11.967
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7767,
+      -96.805
     ]
   },
   "99.72.255.45": {
