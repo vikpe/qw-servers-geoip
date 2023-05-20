@@ -729,6 +729,16 @@
       -46.6333
     ]
   },
+  "178.164.126.139": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Trondheim",
+    "coordinates": [
+      63.4277,
+      10.4012
+    ]
+  },
   "178.178.96.57": {
     "region": "Europe",
     "country": "Russia",
@@ -867,16 +877,6 @@
     "coordinates": [
       51.5074,
       -0.127758
-    ]
-  },
-  "187.114.117.231": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Rio de Janeiro",
-    "coordinates": [
-      -22.9201,
-      -43.0811
     ]
   },
   "188.166.0.137": {
@@ -1040,6 +1040,16 @@
     ]
   },
   "20.221.217.52": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8819,
+      -87.6278
+    ]
+  },
+  "20.221.237.152": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
