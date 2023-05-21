@@ -49,7 +49,7 @@
       138.5999
     ]
   },
-  "103.216.220.20": {
+  "103.216.220.24": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -489,16 +489,6 @@
       103.82
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -677,16 +667,6 @@
     "coordinates": [
       44.7843,
       -93.2201
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0646,
-      -93.3836
     ]
   },
   "176.119.147.156": {
@@ -877,6 +857,16 @@
     "coordinates": [
       51.5074,
       -0.127758
+    ]
+  },
+  "187.20.88.197": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1217,6 +1207,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1587,16 +1587,6 @@
     "coordinates": [
       51.5368,
       -0.6718
-    ]
-  },
-  "46.162.122.170": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Borl\u00e4nge",
-    "coordinates": [
-      60.4843,
-      15.434
     ]
   },
   "46.227.68.148": {
@@ -2039,16 +2029,6 @@
       18.0755
     ]
   },
-  "85.241.202.69": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
-    ]
-  },
   "85.242.135.177": {
     "region": "Europe",
     "country": "Portugal",
@@ -2057,6 +2037,16 @@
     "coordinates": [
       32.6907,
       -17.094
+    ]
+  },
+  "85.247.6.246": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Funchal",
+    "coordinates": [
+      32.6333,
+      -16.9
     ]
   },
   "85.28.131.207": {
@@ -2217,6 +2207,16 @@
     "coordinates": [
       57.7065,
       11.967
+    ]
+  },
+  "98.167.221.142": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4475,
+      -112.0866
     ]
   },
   "99.48.163.106": {
