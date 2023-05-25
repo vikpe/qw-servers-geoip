@@ -109,16 +109,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -220,6 +210,16 @@
     ]
   },
   "130.162.236.198": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1049,
+      8.6295
+    ]
+  },
+  "130.162.61.72": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -647,6 +647,16 @@
     "coordinates": [
       -34.982,
       -71.232
+    ]
+  },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "174.138.43.249": {
@@ -1599,6 +1609,16 @@
       17.9612
     ]
   },
+  "46.65.243.239": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Brighton",
+    "coordinates": [
+      50.8612,
+      -0.1194
+    ]
+  },
   "5.9.82.79": {
     "region": "Europe",
     "country": "Germany",
@@ -1737,16 +1757,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "58.96.49.12": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
     ]
   },
   "61.245.153.149": {
