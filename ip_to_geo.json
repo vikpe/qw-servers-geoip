@@ -53,10 +53,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Sydney",
+    "city": "Brisbane",
     "coordinates": [
-      -33.8688,
-      151.209
+      -27.4679,
+      153.0325
     ]
   },
   "103.25.59.27": {
@@ -383,10 +383,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Harlow",
+    "city": "Portadown",
     "coordinates": [
-      51.7784,
-      0.1057
+      54.423,
+      -6.44434
     ]
   },
   "146.59.13.133": {
@@ -449,16 +449,6 @@
       -58.4359
     ]
   },
-  "152.67.46.27": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
-    ]
-  },
   "155.138.193.35": {
     "region": "North America",
     "country": "United States",
@@ -503,10 +493,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Gothenburg",
+    "city": "Stockholm",
     "coordinates": [
-      57.7065,
-      11.967
+      59.3287,
+      18.0717
     ]
   },
   "158.174.255.214": {
@@ -693,10 +683,10 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "Omsk",
+    "city": "Novosibirsk",
     "coordinates": [
-      54.9978,
-      73.4001
+      55.0285,
+      82.9202
     ]
   },
   "177.202.33.156": {
@@ -723,10 +713,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Trondheim",
+    "city": "Ranheim",
     "coordinates": [
-      63.4277,
-      10.4012
+      63.4319,
+      10.5527
     ]
   },
   "178.178.96.57": {
@@ -863,20 +853,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "London",
+    "city": "Solihull",
     "coordinates": [
-      51.5074,
-      -0.127758
-    ]
-  },
-  "187.20.88.197": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
+      52.4012,
+      -1.6897
     ]
   },
   "188.166.0.137": {
@@ -1165,8 +1145,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8542,
-      174.764
+      -36.8506,
+      174.7679
     ]
   },
   "212.42.38.88": {
@@ -1353,10 +1333,10 @@
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
-    "city": "Breda",
+    "city": "Eindhoven",
     "coordinates": [
-      51.5905,
-      4.7731
+      51.4549,
+      5.4625
     ]
   },
   "34.118.250.57": {
@@ -1453,10 +1433,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Budapest",
+    "city": "Hatvan",
     "coordinates": [
-      47.5636,
-      19.0947
+      47.6666,
+      19.6781
     ]
   },
   "39.106.228.43": {
@@ -1643,10 +1623,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lynnwood",
+    "city": "Everett",
     "coordinates": [
-      47.8534,
-      -122.2438
+      47.8948,
+      -122.2031
     ]
   },
   "51.210.10.181": {
@@ -1759,6 +1739,16 @@
       -46.6333
     ]
   },
+  "58.96.49.12": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
+    ]
+  },
   "61.245.153.149": {
     "region": "Oceania",
     "country": "Australia",
@@ -1849,6 +1839,16 @@
       17.9155
     ]
   },
+  "72.104.12.193": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cementon",
+    "coordinates": [
+      40.6917,
+      -75.5064
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1933,10 +1933,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Osku",
+    "city": "Budapest",
     "coordinates": [
-      47.16,
-      18.0761
+      47.5636,
+      19.0947
     ]
   },
   "80.211.201.216": {
@@ -2013,10 +2013,10 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "Ufa",
+    "city": "Orenburg",
     "coordinates": [
-      54.7388,
-      55.9721
+      51.7898,
+      55.0984
     ]
   },
   "85.229.4.176": {
@@ -2153,10 +2153,10 @@
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Basel",
+    "city": "Therwil",
     "coordinates": [
-      47.5577,
-      7.5936
+      47.5053,
+      7.5477
     ]
   },
   "95.165.130.151": {
@@ -2233,10 +2233,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Madison",
+    "city": "Arlington",
     "coordinates": [
-      43.0725,
-      -89.4491
+      35.2752,
+      -89.7295
     ]
   }
 }
