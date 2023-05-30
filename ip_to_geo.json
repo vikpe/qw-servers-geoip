@@ -649,6 +649,16 @@
       -71.232
     ]
   },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -719,6 +729,16 @@
       10.5527
     ]
   },
+  "178.178.96.57": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Sochi",
+    "coordinates": [
+      43.5994,
+      39.7289
+    ]
+  },
   "178.216.200.50": {
     "region": "Europe",
     "country": "Poland",
@@ -747,6 +767,16 @@
     "coordinates": [
       -19.0233,
       -48.3348
+    ]
+  },
+  "179.83.249.172": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
     ]
   },
   "18.177.140.83": {
@@ -837,16 +867,6 @@
     "coordinates": [
       52.4012,
       -1.6897
-    ]
-  },
-  "187.112.2.110": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Rio de Janeiro",
-    "coordinates": [
-      -22.9201,
-      -43.0811
     ]
   },
   "188.166.0.137": {
@@ -1599,6 +1619,16 @@
       -122.2031
     ]
   },
+  "50.53.75.108": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Hillsboro",
+    "coordinates": [
+      45.5397,
+      -122.9638
+    ]
+  },
   "51.210.10.181": {
     "region": "Europe",
     "country": "France",
@@ -1849,16 +1879,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1867,16 +1887,6 @@
     "coordinates": [
       26.3771,
       -81.7334
-    ]
-  },
-  "73.60.182.125": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.4235,
-      -73.4724
     ]
   },
   "75.102.17.203": {
@@ -2127,6 +2137,16 @@
     "coordinates": [
       48.7663,
       8.9444
+    ]
+  },
+  "91.66.2.46": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.4982,
+      13.4755
     ]
   },
   "94.16.128.193": {
