@@ -769,14 +769,14 @@
       -48.3348
     ]
   },
-  "179.83.249.172": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Rio de Janeiro",
+  "18.144.19.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
     "coordinates": [
-      -22.9201,
-      -43.0811
+      37.3394,
+      -121.895
     ]
   },
   "18.177.140.83": {
@@ -867,6 +867,16 @@
     "coordinates": [
       52.4012,
       -1.6897
+    ]
+  },
+  "187.113.69.205": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
     ]
   },
   "188.166.0.137": {
@@ -1619,16 +1629,6 @@
       -122.2031
     ]
   },
-  "50.53.75.108": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Hillsboro",
-    "coordinates": [
-      45.5397,
-      -122.9638
-    ]
-  },
   "51.210.10.181": {
     "region": "Europe",
     "country": "France",
@@ -1837,16 +1837,6 @@
     "coordinates": [
       59.3779,
       17.9155
-    ]
-  },
-  "72.104.12.193": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cementon",
-    "coordinates": [
-      40.6917,
-      -75.5064
     ]
   },
   "72.18.132.133": {
