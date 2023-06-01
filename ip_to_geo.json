@@ -49,16 +49,6 @@
       138.5999
     ]
   },
-  "103.216.220.24": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
-    ]
-  },
   "103.25.59.27": {
     "region": "Oceania",
     "country": "Australia",
@@ -677,6 +667,16 @@
     "coordinates": [
       44.7843,
       -93.2201
+    ]
+  },
+  "174.73.34.53": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Roanoke",
+    "coordinates": [
+      37.2348,
+      -79.9464
     ]
   },
   "176.119.147.156": {
@@ -1499,16 +1499,6 @@
       2.4075
     ]
   },
-  "45.234.92.104": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Fortaleza",
-    "coordinates": [
-      -3.7139,
-      -38.5409
-    ]
-  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1997,16 +1987,6 @@
     "coordinates": [
       52.3006,
       4.9479
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Orenburg",
-    "coordinates": [
-      51.7898,
-      55.0984
     ]
   },
   "85.229.4.176": {
