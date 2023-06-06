@@ -509,6 +509,16 @@
       11.1728
     ]
   },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
+    ]
+  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -709,16 +719,6 @@
       10.5527
     ]
   },
-  "178.178.96.57": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Sochi",
-    "coordinates": [
-      43.5994,
-      39.7289
-    ]
-  },
   "178.216.200.50": {
     "region": "Europe",
     "country": "Poland",
@@ -809,7 +809,7 @@
       -77.4874
     ]
   },
-  "182.239.207.237": {
+  "182.239.217.245": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -1849,16 +1849,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -2160,6 +2150,16 @@
     ]
   },
   "98.128.174.153": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
+    ]
+  },
+  "98.128.186.18": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
