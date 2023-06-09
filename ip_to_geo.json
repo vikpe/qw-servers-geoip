@@ -69,6 +69,16 @@
       -74.4606
     ]
   },
+  "104.237.11.179": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      33.956,
+      -118.3887
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -439,6 +449,16 @@
       -58.4359
     ]
   },
+  "152.254.197.98": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Sao Jose do Rio Pardo",
+    "coordinates": [
+      -21.5999,
+      -46.9016
+    ]
+  },
   "155.138.193.35": {
     "region": "North America",
     "country": "United States",
@@ -619,6 +639,16 @@
       -71.232
     ]
   },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6647,
+      -117.9663
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -689,6 +719,16 @@
       -46.6333
     ]
   },
+  "177.98.108.108": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
+    ]
+  },
   "178.164.126.139": {
     "region": "Europe",
     "country": "Norway",
@@ -697,16 +737,6 @@
     "coordinates": [
       63.4319,
       10.5527
-    ]
-  },
-  "178.178.96.57": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Sochi",
-    "coordinates": [
-      43.5994,
-      39.7289
     ]
   },
   "178.216.200.50": {
@@ -839,16 +869,6 @@
       -1.6897
     ]
   },
-  "187.113.69.205": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Rio de Janeiro",
-    "coordinates": [
-      -22.9201,
-      -43.0811
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -957,16 +977,6 @@
     "coordinates": [
       47.518,
       19.0557
-    ]
-  },
-  "199.247.17.160": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1103,
-      8.7147
     ]
   },
   "20.106.48.249": {
@@ -1187,16 +1197,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Barcelona",
-    "coordinates": [
-      41.387,
-      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1877,6 +1877,16 @@
     "coordinates": [
       51.3062,
       -114.0394
+    ]
+  },
+  "75.86.253.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
     ]
   },
   "78.102.228.227": {
