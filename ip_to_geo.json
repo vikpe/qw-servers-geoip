@@ -99,16 +99,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -147,16 +137,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "13.239.6.89": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
     ]
   },
   "13.245.119.116": {
@@ -679,16 +659,6 @@
       82.9202
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0883,
-      14.4124
-    ]
-  },
   "177.202.33.156": {
     "region": "South America",
     "country": "Brazil",
@@ -727,6 +697,16 @@
     "coordinates": [
       63.4319,
       10.5527
+    ]
+  },
+  "178.178.96.57": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Sochi",
+    "coordinates": [
+      43.5994,
+      39.7289
     ]
   },
   "178.216.200.50": {
@@ -1207,6 +1187,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1749,6 +1739,16 @@
       24.9344
     ]
   },
+  "65.20.83.90": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.0748,
+      72.8856
+    ]
+  },
   "66.186.208.107": {
     "region": "North America",
     "country": "United States",
@@ -2039,6 +2039,16 @@
       13.405
     ]
   },
+  "87.189.50.205": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "89.135.73.112": {
     "region": "Europe",
     "country": "Hungary",
@@ -2089,16 +2099,6 @@
       37.6173
     ]
   },
-  "91.55.76.116": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "91.66.2.46": {
     "region": "Europe",
     "country": "Germany",
@@ -2109,7 +2109,7 @@
       13.4603
     ]
   },
-  "92.32.149.24": {
+  "92.32.162.70": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -2177,16 +2177,6 @@
     "coordinates": [
       57.7065,
       11.967
-    ]
-  },
-  "99.38.115.73": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Livonia",
-    "coordinates": [
-      42.3975,
-      -83.3733
     ]
   },
   "99.48.163.106": {
