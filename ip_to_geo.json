@@ -139,6 +139,16 @@
       11.0767
     ]
   },
+  "122.57.82.215": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": [
+      -36.8506,
+      174.7679
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -147,6 +157,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "13.239.6.89": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
     ]
   },
   "13.245.119.116": {
@@ -259,16 +279,6 @@
       21.0067
     ]
   },
-  "138.197.111.29": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Clifton",
-    "coordinates": [
-      40.8364,
-      -74.1403
-    ]
-  },
   "138.68.21.116": {
     "region": "North America",
     "country": "United States",
@@ -285,8 +295,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.5095,
-      -0.0955
+      51.5088,
+      -0.093
     ]
   },
   "139.162.45.192": {
@@ -369,16 +379,6 @@
       17.0335
     ]
   },
-  "146.199.126.178": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Wisbech",
-    "coordinates": [
-      52.5507,
-      0.1989
-    ]
-  },
   "146.59.13.133": {
     "region": "Europe",
     "country": "Poland",
@@ -387,6 +387,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "146.90.114.169": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Craigavon",
+    "coordinates": [
+      54.385,
+      -6.3282
     ]
   },
   "149.28.240.2": {
@@ -423,10 +433,10 @@
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
-    "city": "Palermo",
+    "city": "Buenos Aires",
     "coordinates": [
-      -34.5751,
-      -58.4359
+      -34.6142,
+      -58.3811
     ]
   },
   "155.138.193.35": {
@@ -469,7 +479,7 @@
       4.9392
     ]
   },
-  "158.174.255.11": {
+  "158.174.186.59": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -563,10 +573,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Enfield",
+    "city": "Llantwit Major",
     "coordinates": [
-      51.5368,
-      -0.6718
+      51.4107,
+      -3.48632
     ]
   },
   "168.119.172.182": {
@@ -683,10 +693,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Ranheim",
+    "city": "Saksvik",
     "coordinates": [
-      63.4319,
-      10.5527
+      63.4417,
+      10.5927
     ]
   },
   "178.178.96.57": {
@@ -715,8 +725,8 @@
     "cc": "BR",
     "city": "S\u00e3o Paulo",
     "coordinates": [
-      -23.6283,
-      -46.6409
+      -23.5558,
+      -46.6396
     ]
   },
   "179.214.233.123": {
@@ -793,10 +803,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Sunbury",
+    "city": "Bendigo",
     "coordinates": [
-      -37.5749,
-      144.7197
+      -36.7571,
+      144.2789
     ]
   },
   "185.11.166.90": {
@@ -827,16 +837,6 @@
     "coordinates": [
       52.4012,
       -1.6897
-    ]
-  },
-  "187.20.88.26": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1103,10 +1103,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "A Coru\u00f1a",
+    "city": "Alcobendas",
     "coordinates": [
-      43.3675,
-      -8.3969
+      40.5339,
+      -3.6312
     ]
   },
   "208.77.22.94": {
@@ -1153,7 +1153,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Borensberg",
+    "city": "Fornasa",
     "coordinates": [
       58.57,
       15.2838
@@ -1533,7 +1533,7 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "City of London",
+    "city": "London",
     "coordinates": [
       51.5128,
       -0.0638
@@ -1543,10 +1543,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Enfield",
+    "city": "Merthyr Tydfil",
     "coordinates": [
-      51.5368,
-      -0.6718
+      51.7479,
+      -3.37779
     ]
   },
   "46.227.68.148": {
@@ -1585,8 +1585,8 @@
     "cc": "US",
     "city": "Everett",
     "coordinates": [
-      47.8948,
-      -122.2031
+      47.9856,
+      -122.2002
     ]
   },
   "51.210.10.181": {
@@ -1793,20 +1793,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Feasterville",
+    "city": "Southampton",
     "coordinates": [
-      40.1533,
-      -74.9937
-    ]
-  },
-  "72.109.25.115": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lancaster",
-    "coordinates": [
-      40.0794,
-      -76.3141
+      40.185,
+      -75.0041
     ]
   },
   "72.18.132.133": {
@@ -1827,16 +1817,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1885,8 +1865,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0761,
-      14.4479
+      50.0804,
+      14.5045
     ]
   },
   "79.139.57.116": {
@@ -1993,10 +1973,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Varsta",
     "coordinates": [
-      59.2688,
-      18.1182
+      59.2491,
+      18.0755
     ]
   },
   "85.242.135.177": {
@@ -2093,10 +2073,10 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "Moscow",
+    "city": "St Petersburg",
     "coordinates": [
-      55.7558,
-      37.6173
+      59.9417,
+      30.3096
     ]
   },
   "91.66.2.46": {
@@ -2107,16 +2087,6 @@
     "coordinates": [
       52.5196,
       13.4603
-    ]
-  },
-  "92.32.162.70": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3772,
-      17.3203
     ]
   },
   "94.16.128.193": {
