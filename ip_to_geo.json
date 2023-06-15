@@ -249,6 +249,16 @@
       12.365
     ]
   },
+  "136.37.112.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Shawnee",
+    "coordinates": [
+      39.0452,
+      -94.7189
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -475,8 +485,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "158.248.75.93": {
@@ -669,16 +679,6 @@
       -46.6333
     ]
   },
-  "177.98.108.108": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Rio de Janeiro",
-    "coordinates": [
-      -22.9201,
-      -43.0811
-    ]
-  },
   "178.164.126.139": {
     "region": "Europe",
     "country": "Norway",
@@ -819,7 +819,7 @@
       -1.6897
     ]
   },
-  "188.162.145.72": {
+  "188.162.142.92": {
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
@@ -867,6 +867,16 @@
     "coordinates": [
       59.3287,
       18.0717
+    ]
+  },
+  "191.251.151.236": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
     ]
   },
   "192.166.218.37": {
@@ -1539,6 +1549,16 @@
       -3.37779
     ]
   },
+  "46.204.8.55": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.251,
+      19.0211
+    ]
+  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1575,8 +1595,8 @@
     "cc": "US",
     "city": "Everett",
     "coordinates": [
-      47.9856,
-      -122.2002
+      47.9425,
+      -122.2139
     ]
   },
   "51.210.10.181": {
@@ -1737,16 +1757,6 @@
     "coordinates": [
       40.1773,
       -105.1009
-    ]
-  },
-  "66.205.137.193": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Sacramento",
-    "coordinates": [
-      38.581,
-      -121.4939
     ]
   },
   "66.85.80.160": {
@@ -2079,7 +2089,7 @@
       30.3096
     ]
   },
-  "91.55.95.123": {
+  "91.55.68.180": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2097,16 +2107,6 @@
     "coordinates": [
       52.5196,
       13.4603
-    ]
-  },
-  "92.32.158.215": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3772,
-      17.3203
     ]
   },
   "94.16.128.193": {
