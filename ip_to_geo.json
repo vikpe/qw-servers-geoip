@@ -99,6 +99,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -249,16 +259,6 @@
       12.365
     ]
   },
-  "136.37.112.176": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Shawnee",
-    "coordinates": [
-      39.0452,
-      -94.7189
-    ]
-  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -337,16 +337,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "144.202.33.70": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.8119,
-      -80.2318
     ]
   },
   "144.202.59.41": {
@@ -429,6 +419,16 @@
       -118.244
     ]
   },
+  "152.169.35.220": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Punta Alta",
+    "coordinates": [
+      -38.8798,
+      -62.0647
+    ]
+  },
   "152.171.139.53": {
     "region": "South America",
     "country": "Argentina",
@@ -497,6 +497,16 @@
     "coordinates": [
       59.9315,
       11.1728
+    ]
+  },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "159.203.25.195": {
@@ -689,6 +699,16 @@
       10.5927
     ]
   },
+  "178.178.96.57": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Sochi",
+    "coordinates": [
+      43.5994,
+      39.7289
+    ]
+  },
   "178.216.200.50": {
     "region": "Europe",
     "country": "Poland",
@@ -819,14 +839,14 @@
       -1.6897
     ]
   },
-  "188.162.142.92": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Sochi",
+  "187.20.99.86": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
     "coordinates": [
-      43.5994,
-      39.7289
+      -19.9029,
+      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1549,16 +1569,6 @@
       -3.37779
     ]
   },
-  "46.204.8.55": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Katowice",
-    "coordinates": [
-      50.251,
-      19.0211
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1837,16 +1847,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "75.102.17.203": {
