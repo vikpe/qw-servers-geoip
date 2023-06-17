@@ -49,6 +49,16 @@
       138.5999
     ]
   },
+  "103.216.220.28": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
+    ]
+  },
   "103.25.59.27": {
     "region": "Oceania",
     "country": "Australia",
@@ -97,16 +107,6 @@
     "coordinates": [
       42.0048,
       -87.9954
-    ]
-  },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
     ]
   },
   "109.200.20.152": {
@@ -339,6 +339,16 @@
       144.9669
     ]
   },
+  "144.202.33.70": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.8119,
+      -80.2318
+    ]
+  },
   "144.202.59.41": {
     "region": "North America",
     "country": "United States",
@@ -499,16 +509,6 @@
       11.1728
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -627,16 +627,6 @@
     "coordinates": [
       -34.982,
       -71.232
-    ]
-  },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6647,
-      -117.9663
     ]
   },
   "174.138.43.249": {
@@ -907,16 +897,6 @@
     "coordinates": [
       52.2297,
       21.0122
-    ]
-  },
-  "193.108.113.153": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7696,
-      37.6177
     ]
   },
   "193.227.134.114": {
@@ -1249,6 +1229,16 @@
       174.794
     ]
   },
+  "23.122.104.118": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Little Rock",
+    "coordinates": [
+      34.7734,
+      -92.2573
+    ]
+  },
   "23.22.56.152": {
     "region": "North America",
     "country": "United States",
@@ -1387,6 +1377,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "35.132.109.29": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Turlock",
+    "coordinates": [
+      37.4912,
+      -120.8559
     ]
   },
   "35.158.239.193": {
