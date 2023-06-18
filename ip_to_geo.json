@@ -49,16 +49,6 @@
       138.5999
     ]
   },
-  "103.216.220.28": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
-    ]
-  },
   "103.25.59.27": {
     "region": "Oceania",
     "country": "Australia",
@@ -107,6 +97,16 @@
     "coordinates": [
       42.0048,
       -87.9954
+    ]
+  },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
     ]
   },
   "109.200.20.152": {
@@ -629,6 +629,16 @@
       -71.232
     ]
   },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6647,
+      -117.9663
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -899,6 +909,16 @@
       21.0122
     ]
   },
+  "193.108.113.153": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7696,
+      37.6177
+    ]
+  },
   "193.227.134.114": {
     "region": "Europe",
     "country": "Russia",
@@ -967,16 +987,6 @@
     "coordinates": [
       41.5908,
       -93.6208
-    ]
-  },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
     ]
   },
   "20.13.149.88": {
@@ -1189,6 +1199,16 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
+    ]
+  },
   "216.128.134.224": {
     "region": "North America",
     "country": "United States",
@@ -1277,16 +1297,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
     ]
   },
   "255.255.255.255": {
@@ -1867,16 +1877,6 @@
     "coordinates": [
       51.3062,
       -114.0394
-    ]
-  },
-  "75.86.253.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0874,
-      -87.6697
     ]
   },
   "78.102.228.227": {
