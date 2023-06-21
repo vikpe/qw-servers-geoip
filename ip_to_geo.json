@@ -39,6 +39,16 @@
       153.093
     ]
   },
+  "103.192.80.76": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -499,16 +509,6 @@
       11.1728
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -687,16 +687,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "178.164.126.139": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Saksvik",
-    "coordinates": [
-      63.4417,
-      10.5927
     ]
   },
   "178.178.96.57": {
@@ -1787,16 +1777,6 @@
     "coordinates": [
       19.0748,
       72.8856
-    ]
-  },
-  "66.186.208.107": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Longmont",
-    "coordinates": [
-      40.1773,
-      -105.1009
     ]
   },
   "66.85.80.160": {
