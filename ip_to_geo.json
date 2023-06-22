@@ -109,6 +109,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -309,6 +319,16 @@
       103.82
     ]
   },
+  "139.84.135.106": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Bengaluru",
+    "coordinates": [
+      12.9634,
+      77.5855
+    ]
+  },
   "139.84.193.13": {
     "region": "Oceania",
     "country": "Australia",
@@ -327,16 +347,6 @@
     "coordinates": [
       55.5604,
       42.0347
-    ]
-  },
-  "144.138.101.141": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
     ]
   },
   "144.202.33.70": {
@@ -509,6 +519,26 @@
       11.1728
     ]
   },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
+    ]
+  },
+  "159.196.248.221": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Burwood",
+    "coordinates": [
+      -37.8498,
+      145.119
+    ]
+  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -629,16 +659,6 @@
       -71.232
     ]
   },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6647,
-      -117.9663
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -697,16 +717,6 @@
     "coordinates": [
       43.5994,
       39.7289
-    ]
-  },
-  "178.216.200.50": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Poznan",
-    "coordinates": [
-      52.3929,
-      16.874
     ]
   },
   "179.190.61.52": {
@@ -879,16 +889,6 @@
       18.0717
     ]
   },
-  "189.46.22.64": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
-    ]
-  },
   "191.251.151.236": {
     "region": "South America",
     "country": "Brazil",
@@ -897,6 +897,16 @@
     "coordinates": [
       -22.9201,
       -43.0811
+    ]
+  },
+  "191.9.108.103": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
     ]
   },
   "192.166.218.37": {
@@ -1037,6 +1047,16 @@
     "coordinates": [
       41.8819,
       -87.6278
+    ]
+  },
+  "20.235.96.133": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Pune",
+    "coordinates": [
+      18.5144,
+      73.864235
     ]
   },
   "20.243.122.16": {
@@ -1469,16 +1489,6 @@
       116.3861
     ]
   },
-  "40.80.91.10": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Pune",
-    "coordinates": [
-      18.5144,
-      73.864235
-    ]
-  },
   "40.84.144.27": {
     "region": "North America",
     "country": "United States",
@@ -1767,16 +1777,6 @@
     "coordinates": [
       60.1797,
       24.9344
-    ]
-  },
-  "65.20.83.90": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.0748,
-      72.8856
     ]
   },
   "66.85.80.160": {
