@@ -519,16 +519,6 @@
       11.1728
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "159.196.248.221": {
     "region": "Oceania",
     "country": "Australia",
@@ -659,6 +649,16 @@
       -71.232
     ]
   },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6647,
+      -117.9663
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -727,16 +727,6 @@
     "coordinates": [
       -23.5558,
       -46.6396
-    ]
-  },
-  "179.214.233.123": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
     ]
   },
   "18.144.19.16": {
@@ -890,6 +880,16 @@
     ]
   },
   "191.251.151.236": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
+    ]
+  },
+  "191.34.8.144": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -2007,6 +2007,16 @@
     "coordinates": [
       59.2491,
       18.0755
+    ]
+  },
+  "85.242.107.149": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Funchal",
+    "coordinates": [
+      32.6333,
+      -16.9
     ]
   },
   "85.242.135.177": {
