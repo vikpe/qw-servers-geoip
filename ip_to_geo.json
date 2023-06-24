@@ -439,16 +439,6 @@
       -118.244
     ]
   },
-  "152.169.35.220": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Punta Alta",
-    "coordinates": [
-      -38.8798,
-      -62.0647
-    ]
-  },
   "152.171.139.53": {
     "region": "South America",
     "country": "Argentina",
@@ -647,16 +637,6 @@
     "coordinates": [
       -34.982,
       -71.232
-    ]
-  },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6647,
-      -117.9663
     ]
   },
   "174.138.43.249": {
@@ -877,16 +857,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "191.251.151.236": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Rio de Janeiro",
-    "coordinates": [
-      -22.9201,
-      -43.0811
     ]
   },
   "191.34.8.144": {
@@ -2017,16 +1987,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "85.242.135.177": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Ponta do Sol",
-    "coordinates": [
-      32.6907,
-      -17.094
     ]
   },
   "85.247.6.246": {
