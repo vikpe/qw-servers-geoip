@@ -479,24 +479,14 @@
       103.82
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "158.248.75.93": {
@@ -603,10 +593,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Llantwit Major",
+    "city": "Slough",
     "coordinates": [
-      51.4107,
-      -3.48632
+      51.5368,
+      -0.6718
     ]
   },
   "168.119.172.182": {
@@ -647,16 +637,6 @@
     "coordinates": [
       -34.982,
       -71.232
-    ]
-  },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6647,
-      -117.9663
     ]
   },
   "174.138.43.249": {
@@ -799,14 +779,14 @@
       -77.4874
     ]
   },
-  "182.239.217.245": {
+  "182.239.222.234": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Bendigo",
+    "city": "Ballarat",
     "coordinates": [
-      -36.7571,
-      144.2789
+      -37.5691,
+      143.8561
     ]
   },
   "185.11.166.90": {
@@ -1185,8 +1165,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8506,
-      174.7679
+      -36.8542,
+      174.764
     ]
   },
   "212.42.38.88": {
@@ -1203,7 +1183,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Fornasa",
+    "city": "Borensberg",
     "coordinates": [
       58.57,
       15.2838
@@ -1429,6 +1409,16 @@
       -95.8608
     ]
   },
+  "35.132.109.29": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Turlock",
+    "coordinates": [
+      37.4912,
+      -120.8559
+    ]
+  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1583,7 +1573,7 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "London",
+    "city": "Whitechapel",
     "coordinates": [
       51.5128,
       -0.0638
@@ -1593,10 +1583,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Merthyr Tydfil",
+    "city": "Slough",
     "coordinates": [
-      51.7479,
-      -3.37779
+      51.5368,
+      -0.6718
     ]
   },
   "46.227.68.148": {
@@ -1817,16 +1807,6 @@
     "coordinates": [
       26.6284,
       -82.0197
-    ]
-  },
-  "70.191.252.242": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pensacola",
-    "coordinates": [
-      30.4236,
-      -87.2261
     ]
   },
   "70.34.202.147": {
@@ -2155,8 +2135,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.5196,
-      13.4603
+      52.4982,
+      13.4755
     ]
   },
   "94.16.128.193": {
@@ -2213,20 +2193,20 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Gothenburg",
+    "city": "Bandhagen",
     "coordinates": [
-      57.7065,
-      11.967
+      59.275,
+      18.0435
     ]
   },
   "99.72.255.45": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Arlington",
+    "city": "Madison",
     "coordinates": [
-      35.2752,
-      -89.7295
+      43.0725,
+      -89.4491
     ]
   }
 }
