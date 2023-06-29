@@ -119,6 +119,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -147,16 +157,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "122.58.189.111": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8693,
-      174.811
     ]
   },
   "128.199.52.100": {
@@ -237,6 +237,16 @@
     "coordinates": [
       50.1049,
       8.6295
+    ]
+  },
+  "130.185.251.13": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Enfield",
+    "coordinates": [
+      51.6539,
+      -0.0888
     ]
   },
   "130.242.114.28": {
@@ -477,6 +487,16 @@
     "coordinates": [
       1.35208,
       103.82
+    ]
+  },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
     ]
   },
   "158.174.255.11": {
@@ -869,6 +889,16 @@
       18.0717
     ]
   },
+  "189.46.113.189": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
+    ]
+  },
   "191.251.152.76": {
     "region": "South America",
     "country": "Brazil",
@@ -877,16 +907,6 @@
     "coordinates": [
       -22.9201,
       -43.0811
-    ]
-  },
-  "191.9.108.103": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
     ]
   },
   "192.166.218.37": {
@@ -1569,16 +1589,6 @@
       -96.8021
     ]
   },
-  "45.77.91.71": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Whitechapel",
-    "coordinates": [
-      51.5128,
-      -0.0638
-    ]
-  },
   "46.101.78.83": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1817,16 +1827,6 @@
     "coordinates": [
       59.3779,
       17.9155
-    ]
-  },
-  "71.175.53.203": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Southampton",
-    "coordinates": [
-      40.185,
-      -75.0041
     ]
   },
   "72.104.13.2": {
