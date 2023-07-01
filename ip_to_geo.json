@@ -109,6 +109,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -669,6 +679,16 @@
       -93.2201
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -777,16 +797,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "18.234.66.115": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "182.239.222.234": {
@@ -1759,6 +1769,16 @@
       24.9344
     ]
   },
+  "66.205.137.193": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Sacramento",
+    "coordinates": [
+      38.581,
+      -121.4939
+    ]
+  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1787,6 +1807,16 @@
     "coordinates": [
       26.6284,
       -82.0197
+    ]
+  },
+  "70.191.252.242": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Pensacola",
+    "coordinates": [
+      30.4132,
+      -87.3138
     ]
   },
   "70.34.202.147": {
@@ -2019,7 +2049,7 @@
       -16.9
     ]
   },
-  "85.247.6.246": {
+  "85.247.0.33": {
     "region": "Europe",
     "country": "Portugal",
     "cc": "PT",
