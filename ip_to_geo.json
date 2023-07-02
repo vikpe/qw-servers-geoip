@@ -109,16 +109,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -459,6 +449,16 @@
       -58.3811
     ]
   },
+  "152.67.110.136": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
+    ]
+  },
   "155.138.193.35": {
     "region": "North America",
     "country": "United States",
@@ -659,6 +659,16 @@
       -71.232
     ]
   },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -679,16 +689,6 @@
       -93.2201
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -697,16 +697,6 @@
     "coordinates": [
       55.0285,
       82.9202
-    ]
-  },
-  "177.100.115.90": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
-    "coordinates": [
-      -19.0233,
-      -48.3348
     ]
   },
   "177.202.33.156": {
@@ -1239,6 +1229,16 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
+    ]
+  },
   "216.128.134.224": {
     "region": "North America",
     "country": "United States",
@@ -1379,16 +1379,6 @@
       5.4625
     ]
   },
-  "34.118.250.57": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Charleston",
-    "coordinates": [
-      32.8771,
-      -80.013
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1419,16 +1409,6 @@
       -95.8608
     ]
   },
-  "35.132.109.29": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Turlock",
-    "coordinates": [
-      37.4912,
-      -120.8559
-    ]
-  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1450,6 +1430,16 @@
     ]
   },
   "35.185.44.174": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Charleston",
+    "coordinates": [
+      32.8771,
+      -80.013
+    ]
+  },
+  "35.196.5.172": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1767,16 +1757,6 @@
     "coordinates": [
       60.1797,
       24.9344
-    ]
-  },
-  "66.205.137.193": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Sacramento",
-    "coordinates": [
-      38.581,
-      -121.4939
     ]
   },
   "66.85.80.160": {
@@ -2207,6 +2187,16 @@
     "coordinates": [
       59.275,
       18.0435
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7767,
+      -96.805
     ]
   },
   "99.72.255.45": {
