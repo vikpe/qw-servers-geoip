@@ -269,6 +269,16 @@
       18.0637
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.181.96.161": {
     "region": "Europe",
     "country": "Finland",
@@ -539,16 +549,6 @@
       11.1728
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "159.196.248.221": {
     "region": "Oceania",
     "country": "Australia",
@@ -719,6 +719,16 @@
       -93.2201
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -759,14 +769,14 @@
       39.7289
     ]
   },
-  "179.155.69.46": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Uberl\u00e2ndia",
+  "178.214.250.85": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
     "coordinates": [
-      -19.0233,
-      -48.3348
+      54.7505,
+      55.9457
     ]
   },
   "179.190.61.52": {
@@ -1309,6 +1319,16 @@
       174.794
     ]
   },
+  "23.122.104.118": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Little Rock",
+    "coordinates": [
+      34.7734,
+      -92.2573
+    ]
+  },
   "23.22.56.152": {
     "region": "North America",
     "country": "United States",
@@ -1357,6 +1377,16 @@
     "coordinates": [
       39.8864,
       -79.7249
+    ]
+  },
+  "24.87.1.123": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Vancouver",
+    "coordinates": [
+      49.2958,
+      -123.141
     ]
   },
   "255.255.255.255": {
@@ -1809,6 +1839,16 @@
       -74.0247
     ]
   },
+  "68.235.43.68": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.871,
+      -87.6289
+    ]
+  },
   "69.247.39.182": {
     "region": "North America",
     "country": "United States",
@@ -1817,16 +1857,6 @@
     "coordinates": [
       26.6284,
       -82.0197
-    ]
-  },
-  "70.191.252.242": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pensacola",
-    "coordinates": [
-      30.4132,
-      -87.3138
     ]
   },
   "70.34.202.147": {
@@ -1877,16 +1907,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -2049,14 +2069,14 @@
       55.0984
     ]
   },
-  "85.229.4.176": {
+  "85.229.4.82": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Varsta",
+    "city": "S\u00f6dert\u00e4lje",
     "coordinates": [
-      59.2491,
-      18.0755
+      59.1951,
+      17.6319
     ]
   },
   "85.242.107.149": {
@@ -2227,16 +2247,6 @@
     "coordinates": [
       59.275,
       18.0435
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7767,
-      -96.805
     ]
   },
   "99.72.255.45": {
