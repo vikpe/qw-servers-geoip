@@ -719,16 +719,6 @@
       -93.2201
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -757,26 +747,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "178.178.96.57": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Sochi",
-    "coordinates": [
-      43.5994,
-      39.7289
-    ]
-  },
-  "178.214.250.85": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.7505,
-      55.9457
     ]
   },
   "179.190.61.52": {
@@ -1379,16 +1349,6 @@
       -79.7249
     ]
   },
-  "24.87.1.123": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Vancouver",
-    "coordinates": [
-      49.2958,
-      -123.141
-    ]
-  },
   "255.255.255.255": {
     "region": "unknown",
     "country": "unknown",
@@ -1839,16 +1799,6 @@
       -74.0247
     ]
   },
-  "68.235.43.68": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
-    ]
-  },
   "69.247.39.182": {
     "region": "North America",
     "country": "United States",
@@ -1857,6 +1807,16 @@
     "coordinates": [
       26.6284,
       -82.0197
+    ]
+  },
+  "70.191.252.242": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Pensacola",
+    "coordinates": [
+      30.4132,
+      -87.3138
     ]
   },
   "70.34.202.147": {
