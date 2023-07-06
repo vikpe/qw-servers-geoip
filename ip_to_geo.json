@@ -49,16 +49,6 @@
       138.5999
     ]
   },
-  "103.216.220.30": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
-    ]
-  },
   "103.25.59.27": {
     "region": "Oceania",
     "country": "Australia",
@@ -165,8 +155,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8556,
-      174.8441
+      -36.8867,
+      174.769
     ]
   },
   "128.199.52.100": {
@@ -253,7 +243,7 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Enfield",
+    "city": "London",
     "coordinates": [
       51.6539,
       -0.0888
@@ -695,8 +685,8 @@
     "cc": "US",
     "city": "Huntington Beach",
     "coordinates": [
-      33.675,
-      -118.0027
+      33.6647,
+      -117.9663
     ]
   },
   "174.138.43.249": {
@@ -845,8 +835,8 @@
     "cc": "GB",
     "city": "Solihull",
     "coordinates": [
-      52.4012,
-      -1.6897
+      52.4145,
+      -1.7841
     ]
   },
   "187.20.99.86": {
@@ -887,16 +877,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "188.93.140.190": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
     ]
   },
   "189.46.113.189": {
@@ -1195,8 +1175,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8542,
-      174.764
+      -36.8506,
+      174.7679
     ]
   },
   "212.42.38.88": {
@@ -1807,16 +1787,6 @@
     "coordinates": [
       26.6284,
       -82.0197
-    ]
-  },
-  "70.191.252.242": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pensacola",
-    "coordinates": [
-      30.4132,
-      -87.3138
     ]
   },
   "70.34.202.147": {
