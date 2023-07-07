@@ -509,16 +509,6 @@
       103.82
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -737,6 +727,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "178.178.96.57": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Sochi",
+    "coordinates": [
+      43.5994,
+      39.7289
     ]
   },
   "179.190.61.52": {
@@ -989,16 +989,6 @@
       8.7147
     ]
   },
-  "20.106.48.249": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "20.125.113.83": {
     "region": "North America",
     "country": "United States",
@@ -1007,36 +997,6 @@
     "coordinates": [
       33.448376,
       -112.074036
-    ]
-  },
-  "20.13.149.88": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3478,
-      -6.2597
-    ]
-  },
-  "20.165.128.43": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cheyenne",
-    "coordinates": [
-      41.13925,
-      -104.816154
-    ]
-  },
-  "20.221.217.52": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8819,
-      -87.6278
     ]
   },
   "20.221.237.152": {
@@ -1059,16 +1019,6 @@
       73.864235
     ]
   },
-  "20.243.122.16": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.68,
-      139.77
-    ]
-  },
   "20.245.213.126": {
     "region": "North America",
     "country": "United States",
@@ -1077,36 +1027,6 @@
     "coordinates": [
       37.783,
       -122.417
-    ]
-  },
-  "20.245.6.70": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
-    ]
-  },
-  "20.38.33.59": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
-  "20.51.107.74": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Quincy",
-    "coordinates": [
-      47.233,
-      -119.852
     ]
   },
   "203.29.243.177": {
@@ -1399,16 +1319,6 @@
       -6.26031
     ]
   },
-  "34.67.94.239": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1437,6 +1347,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.188.203.84": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "35.196.5.172": {
