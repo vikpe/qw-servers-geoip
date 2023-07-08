@@ -59,6 +59,16 @@
       151.2006
     ]
   },
+  "104.196.213.216": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Charleston",
+    "coordinates": [
+      32.8771,
+      -80.013
+    ]
+  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -107,16 +117,6 @@
     "coordinates": [
       42.0048,
       -87.9954
-    ]
-  },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
     ]
   },
   "109.200.20.152": {
@@ -509,6 +509,16 @@
       103.82
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -709,6 +719,16 @@
       82.9202
     ]
   },
+  "176.72.155.218": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4911,
+      23.9055
+    ]
+  },
   "177.202.33.156": {
     "region": "South America",
     "country": "Brazil",
@@ -727,16 +747,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "178.178.96.57": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Sochi",
-    "coordinates": [
-      43.5994,
-      39.7289
     ]
   },
   "179.190.61.52": {
@@ -797,6 +807,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "181.168.151.33": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Bah\u00eda Blanca",
+    "coordinates": [
+      -38.723,
+      -62.285
     ]
   },
   "182.239.222.234": {
@@ -1319,6 +1339,16 @@
       -6.26031
     ]
   },
+  "35.132.109.29": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Turlock",
+    "coordinates": [
+      37.4912,
+      -120.8559
+    ]
+  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1357,16 +1387,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "35.196.5.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Charleston",
-    "coordinates": [
-      32.8771,
-      -80.013
     ]
   },
   "37.201.131.70": {
