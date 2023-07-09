@@ -89,6 +89,16 @@
       -74.4844
     ]
   },
+  "107.184.20.188": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -257,16 +267,6 @@
     "coordinates": [
       59.4417,
       18.0637
-    ]
-  },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
     ]
   },
   "135.181.96.161": {
@@ -459,14 +459,14 @@
       -118.244
     ]
   },
-  "152.171.139.53": {
+  "152.171.39.67": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
-    "city": "Buenos Aires",
+    "city": "Palermo",
     "coordinates": [
-      -34.6142,
-      -58.3811
+      -34.5751,
+      -58.4359
     ]
   },
   "152.67.110.136": {
@@ -689,6 +689,16 @@
       -117.9663
     ]
   },
+  "172.92.242.150": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -707,6 +717,16 @@
     "coordinates": [
       44.7843,
       -93.2201
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
     ]
   },
   "176.210.100.6": {
@@ -1169,6 +1189,16 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
+    ]
+  },
   "216.128.134.224": {
     "region": "North America",
     "country": "United States",
@@ -1337,16 +1367,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "35.132.109.29": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Turlock",
-    "coordinates": [
-      37.4912,
-      -120.8559
     ]
   },
   "35.158.239.193": {
@@ -1727,6 +1747,16 @@
     "coordinates": [
       26.6284,
       -82.0197
+    ]
+  },
+  "70.191.252.242": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Pensacola",
+    "coordinates": [
+      30.4132,
+      -87.3138
     ]
   },
   "70.34.202.147": {
