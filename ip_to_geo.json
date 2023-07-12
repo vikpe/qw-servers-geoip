@@ -89,16 +89,6 @@
       -74.4844
     ]
   },
-  "107.184.20.188": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -127,6 +117,16 @@
     "coordinates": [
       42.0048,
       -87.9954
+    ]
+  },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
     ]
   },
   "109.200.20.152": {
@@ -227,16 +227,6 @@
     "coordinates": [
       53.3478,
       -6.2597
-    ]
-  },
-  "130.136.3.163": {
-    "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "Bologna",
-    "coordinates": [
-      44.497,
-      11.3565
     ]
   },
   "130.162.236.198": {
@@ -467,16 +457,6 @@
     "coordinates": [
       34.0544,
       -118.244
-    ]
-  },
-  "152.171.174.147": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Palermo",
-    "coordinates": [
-      -34.5751,
-      -58.4359
     ]
   },
   "152.67.110.136": {
@@ -719,6 +699,16 @@
       -93.2201
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -737,6 +727,16 @@
     "coordinates": [
       -16.6391,
       -49.2622
+    ]
+  },
+  "177.41.48.37": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
     ]
   },
   "177.71.158.196": {
@@ -859,6 +859,16 @@
       -1.7841
     ]
   },
+  "186.137.54.176": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -36,
+      -59.9964
+    ]
+  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -899,16 +909,6 @@
       -47.0439
     ]
   },
-  "191.251.237.94": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Rio de Janeiro",
-    "coordinates": [
-      -22.9201,
-      -43.0811
-    ]
-  },
   "192.166.218.37": {
     "region": "Europe",
     "country": "Poland",
@@ -947,6 +947,16 @@
     "coordinates": [
       55.7731,
       37.8294
+    ]
+  },
+  "193.42.36.145": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0122
     ]
   },
   "194.158.215.192": {
@@ -1347,6 +1357,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "35.185.44.174": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Charleston",
+    "coordinates": [
+      32.8771,
+      -80.013
     ]
   },
   "35.188.203.84": {
@@ -1799,16 +1819,6 @@
       -114.0394
     ]
   },
-  "75.86.253.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0874,
-      -87.6697
-    ]
-  },
   "78.102.228.227": {
     "region": "Europe",
     "country": "Czechia",
@@ -1977,6 +1987,16 @@
     "coordinates": [
       48.7737,
       8.7303
+    ]
+  },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1043,
+      17.0335
     ]
   },
   "89.135.73.112": {
