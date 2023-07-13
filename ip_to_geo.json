@@ -679,6 +679,16 @@
       -117.9663
     ]
   },
+  "172.92.242.150": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -699,16 +709,6 @@
       -93.2201
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -717,16 +717,6 @@
     "coordinates": [
       55.0285,
       82.9202
-    ]
-  },
-  "177.202.33.156": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.6391,
-      -49.2622
     ]
   },
   "177.41.48.37": {
@@ -999,16 +989,6 @@
       19.0557
     ]
   },
-  "199.247.17.160": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1103,
-      8.7147
-    ]
-  },
   "20.125.113.83": {
     "region": "North America",
     "country": "United States",
@@ -1027,16 +1007,6 @@
     "coordinates": [
       41.8819,
       -87.6278
-    ]
-  },
-  "20.235.96.133": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Pune",
-    "coordinates": [
-      18.5144,
-      73.864235
     ]
   },
   "20.245.213.126": {
@@ -1749,16 +1719,6 @@
       -104.9957
     ]
   },
-  "72.23.229.232": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Butler",
-    "coordinates": [
-      40.8612,
-      -79.8953
-    ]
-  },
   "72.83.103.37": {
     "region": "North America",
     "country": "United States",
@@ -1979,14 +1939,14 @@
       13.405
     ]
   },
-  "87.189.60.65": {
+  "87.189.50.60": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Bad Liebenzell",
+    "city": "Calw",
     "coordinates": [
-      48.7737,
-      8.7303
+      48.709,
+      8.7399
     ]
   },
   "87.207.124.227": {
