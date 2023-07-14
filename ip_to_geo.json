@@ -119,16 +119,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -277,6 +267,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "135.23.134.38": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Markham",
+    "coordinates": [
+      43.879,
+      -79.2638
     ]
   },
   "136.243.174.101": {
@@ -679,16 +679,6 @@
       -117.9663
     ]
   },
-  "172.92.242.150": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -859,6 +849,16 @@
       -59.9964
     ]
   },
+  "187.20.90.150": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
+    ]
+  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -979,16 +979,6 @@
       10.7511
     ]
   },
-  "195.56.148.203": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.518,
-      19.0557
-    ]
-  },
   "20.125.113.83": {
     "region": "North America",
     "country": "United States",
@@ -1075,8 +1065,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1188,
-      8.6843
+      50.1169,
+      8.6837
     ]
   },
   "210.54.39.19": {
@@ -1183,10 +1173,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "North Little Rock",
+    "city": "Arkadelphia",
     "coordinates": [
-      34.7734,
-      -92.2573
+      34.1123,
+      -93.0713
     ]
   },
   "23.22.56.152": {
@@ -1375,8 +1365,8 @@
     "cc": "CN",
     "city": "Beijing",
     "coordinates": [
-      39.9143,
-      116.3861
+      39.911,
+      116.395
     ]
   },
   "40.84.144.27": {
@@ -1685,8 +1675,8 @@
     "cc": "US",
     "city": "Pensacola",
     "coordinates": [
-      30.4132,
-      -87.3138
+      30.3737,
+      -87.3126
     ]
   },
   "70.34.202.147": {
@@ -1703,10 +1693,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "York",
     "coordinates": [
-      39.9597,
-      -75.1995
+      40.0008,
+      -76.7697
     ]
   },
   "72.18.132.133": {
@@ -1853,10 +1843,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Budaors",
+    "city": "Orci",
     "coordinates": [
-      47.4571,
-      18.9356
+      46.4112,
+      17.8737
     ]
   },
   "82.196.112.57": {
@@ -1893,10 +1883,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "S\u00f6dert\u00e4lje",
+    "city": "Skarpnack",
     "coordinates": [
-      59.1951,
-      17.6319
+      59.2688,
+      18.1182
     ]
   },
   "85.242.107.149": {
