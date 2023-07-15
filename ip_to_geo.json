@@ -269,16 +269,6 @@
       24.9347
     ]
   },
-  "135.23.134.38": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Markham",
-    "coordinates": [
-      43.879,
-      -79.2638
-    ]
-  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -515,8 +505,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3274,
+      18.0653
     ]
   },
   "158.248.75.93": {
@@ -709,6 +699,16 @@
       82.9202
     ]
   },
+  "177.202.33.156": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.6391,
+      -49.2622
+    ]
+  },
   "177.41.48.37": {
     "region": "South America",
     "country": "Brazil",
@@ -793,10 +793,10 @@
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
-    "city": "Bah\u00eda Blanca",
+    "city": "Punta Alta",
     "coordinates": [
-      -38.723,
-      -62.285
+      -38.8798,
+      -62.0647
     ]
   },
   "182.239.222.234": {
@@ -875,8 +875,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1188,
-      8.6843
+      50.1169,
+      8.6837
     ]
   },
   "188.40.103.81": {
@@ -1669,16 +1669,6 @@
       -82.0197
     ]
   },
-  "70.191.252.242": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pensacola",
-    "coordinates": [
-      30.3737,
-      -87.3126
-    ]
-  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1727,16 +1717,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "74.91.120.206": {
@@ -1929,16 +1909,6 @@
       13.405
     ]
   },
-  "87.189.50.60": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "87.207.124.227": {
     "region": "Europe",
     "country": "Poland",
@@ -1947,16 +1917,6 @@
     "coordinates": [
       51.1043,
       17.0335
-    ]
-  },
-  "89.135.73.112": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
-    "coordinates": [
-      47.1882,
-      18.4089
     ]
   },
   "89.151.207.164": {
@@ -1997,6 +1957,16 @@
     "coordinates": [
       59.9417,
       30.3096
+    ]
+  },
+  "91.55.67.186": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "91.66.2.46": {
