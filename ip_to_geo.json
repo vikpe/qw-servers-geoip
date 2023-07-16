@@ -119,6 +119,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -639,16 +649,6 @@
       -93.6208
     ]
   },
-  "169.197.182.39": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Plano",
-    "coordinates": [
-      33.0468,
-      -96.7109
-    ]
-  },
   "170.239.85.110": {
     "region": "South America",
     "country": "Chile",
@@ -709,16 +709,6 @@
       -49.2622
     ]
   },
-  "177.41.48.37": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Rio de Janeiro",
-    "coordinates": [
-      -22.9201,
-      -43.0811
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -727,6 +717,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "177.98.71.240": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
     ]
   },
   "179.190.61.52": {
@@ -799,7 +799,7 @@
       -62.0647
     ]
   },
-  "182.239.222.234": {
+  "182.239.221.187": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -817,6 +817,16 @@
     "coordinates": [
       38.7223,
       -9.13934
+    ]
+  },
+  "185.189.139.18": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Konstancin-Jeziorna",
+    "coordinates": [
+      52.0936,
+      21.1244
     ]
   },
   "185.189.48.45": {
@@ -887,16 +897,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "189.46.113.189": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
     ]
   },
   "192.166.218.37": {
@@ -1127,6 +1127,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1669,6 +1679,16 @@
       -82.0197
     ]
   },
+  "70.191.252.242": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Pensacola",
+    "coordinates": [
+      30.3737,
+      -87.3126
+    ]
+  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1847,16 +1867,6 @@
     "coordinates": [
       52.3006,
       4.9479
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Orenburg",
-    "coordinates": [
-      51.7898,
-      55.0984
     ]
   },
   "85.229.4.82": {
