@@ -89,16 +89,6 @@
       -74.4844
     ]
   },
-  "107.184.20.188": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -127,16 +117,6 @@
     "coordinates": [
       42.0048,
       -87.9954
-    ]
-  },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
     ]
   },
   "109.200.20.152": {
@@ -509,6 +489,16 @@
       103.82
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -527,6 +517,16 @@
     "coordinates": [
       59.9315,
       11.1728
+    ]
+  },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "159.196.248.221": {
@@ -697,6 +697,16 @@
     "coordinates": [
       55.0285,
       82.9202
+    ]
+  },
+  "176.72.155.218": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4911,
+      23.9055
     ]
   },
   "177.71.158.196": {
@@ -887,6 +897,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "191.251.230.177": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Rio de Janeiro",
+    "coordinates": [
+      -22.9201,
+      -43.0811
     ]
   },
   "192.166.218.37": {
@@ -1289,16 +1309,6 @@
       -6.26031
     ]
   },
-  "35.132.109.29": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Turlock",
-    "coordinates": [
-      37.4912,
-      -120.8559
-    ]
-  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1699,16 +1709,6 @@
       -76.7697
     ]
   },
-  "72.18.132.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.7501,
-      -104.9957
-    ]
-  },
   "72.83.103.37": {
     "region": "North America",
     "country": "United States",
@@ -1727,16 +1727,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "74.91.120.206": {
@@ -1867,6 +1857,16 @@
     "coordinates": [
       52.3006,
       4.9479
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Orenburg",
+    "coordinates": [
+      51.7898,
+      55.0984
     ]
   },
   "85.229.4.82": {
