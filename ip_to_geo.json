@@ -379,6 +379,16 @@
       42.0347
     ]
   },
+  "141.148.227.175": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "144.202.33.70": {
     "region": "North America",
     "country": "United States",
@@ -537,16 +547,6 @@
     "coordinates": [
       59.9315,
       11.1728
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
     ]
   },
   "159.196.248.221": {
@@ -989,6 +989,16 @@
       10.7511
     ]
   },
+  "20.106.48.249": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
+    ]
+  },
   "20.125.113.83": {
     "region": "North America",
     "country": "United States",
@@ -997,6 +1007,16 @@
     "coordinates": [
       33.448376,
       -112.074036
+    ]
+  },
+  "20.13.149.88": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": [
+      53.3478,
+      -6.2597
     ]
   },
   "20.221.237.152": {
@@ -1017,6 +1037,26 @@
     "coordinates": [
       37.783,
       -122.417
+    ]
+  },
+  "20.51.107.74": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Quincy",
+    "coordinates": [
+      47.233,
+      -119.852
+    ]
+  },
+  "20.83.56.153": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
     ]
   },
   "203.29.243.177": {
@@ -1319,6 +1359,16 @@
       -6.26031
     ]
   },
+  "35.132.109.29": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Turlock",
+    "coordinates": [
+      37.4912,
+      -120.8559
+    ]
+  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1519,16 +1569,6 @@
       -96.7028
     ]
   },
-  "50.34.51.25": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Everett",
-    "coordinates": [
-      47.9425,
-      -122.2139
-    ]
-  },
   "51.210.10.181": {
     "region": "Europe",
     "country": "France",
@@ -1727,6 +1767,16 @@
     "coordinates": [
       39.7501,
       -104.9957
+    ]
+  },
+  "72.251.170.212": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Roseville",
+    "coordinates": [
+      38.768,
+      -121.3349
     ]
   },
   "72.83.103.37": {
@@ -2077,6 +2127,16 @@
     "coordinates": [
       59.275,
       18.0435
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7767,
+      -96.805
     ]
   },
   "99.72.255.45": {
