@@ -119,16 +119,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1329,16 +1319,6 @@
       -77.4874
     ]
   },
-  "31.201.90.81": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Eindhoven",
-    "coordinates": [
-      51.4549,
-      5.4625
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1357,16 +1337,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "35.132.109.29": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Turlock",
-    "coordinates": [
-      37.4912,
-      -120.8559
     ]
   },
   "35.158.239.193": {
@@ -1749,16 +1719,6 @@
       17.9155
     ]
   },
-  "72.104.13.2": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "York",
-    "coordinates": [
-      40.0008,
-      -76.7697
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1767,16 +1727,6 @@
     "coordinates": [
       39.7501,
       -104.9957
-    ]
-  },
-  "72.251.170.212": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Roseville",
-    "coordinates": [
-      38.768,
-      -121.3349
     ]
   },
   "72.83.103.37": {
@@ -1827,6 +1777,16 @@
     "coordinates": [
       51.3062,
       -114.0394
+    ]
+  },
+  "75.192.179.118": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Burlington",
+    "coordinates": [
+      40.0713,
+      -74.8449
     ]
   },
   "75.86.253.195": {
@@ -2127,16 +2087,6 @@
     "coordinates": [
       59.275,
       18.0435
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7767,
-      -96.805
     ]
   },
   "99.72.255.45": {
