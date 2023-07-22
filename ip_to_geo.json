@@ -419,16 +419,6 @@
       17.0335
     ]
   },
-  "146.59.13.133": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0067
-    ]
-  },
   "146.90.114.169": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -579,6 +569,16 @@
       144.9669
     ]
   },
+  "160.16.101.168": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": [
+      35.6893,
+      139.6899
+    ]
+  },
   "162.248.92.183": {
     "region": "North America",
     "country": "United States",
@@ -707,16 +707,6 @@
     "coordinates": [
       55.0285,
       82.9202
-    ]
-  },
-  "176.72.155.218": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4911,
-      23.9055
     ]
   },
   "177.71.158.196": {
@@ -1339,6 +1329,16 @@
       -6.26031
     ]
   },
+  "35.132.109.29": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Turlock",
+    "coordinates": [
+      37.4912,
+      -120.8559
+    ]
+  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1539,6 +1539,16 @@
       -96.7028
     ]
   },
+  "50.34.51.25": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Everett",
+    "coordinates": [
+      47.9425,
+      -122.2139
+    ]
+  },
   "51.210.10.181": {
     "region": "Europe",
     "country": "France",
@@ -1627,16 +1637,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "58.96.49.12": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
     ]
   },
   "61.245.153.149": {
@@ -2089,14 +2089,14 @@
       18.0435
     ]
   },
-  "99.72.255.45": {
+  "99.48.163.106": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Madison",
+    "city": "Dallas",
     "coordinates": [
-      43.0725,
-      -89.4491
+      32.7767,
+      -96.805
     ]
   }
 }
