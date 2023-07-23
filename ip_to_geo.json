@@ -119,6 +119,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -157,6 +167,16 @@
     "coordinates": [
       -36.8867,
       174.769
+    ]
+  },
+  "124.189.251.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8411,
+      144.9799
     ]
   },
   "128.199.52.100": {
@@ -1069,16 +1089,6 @@
       -96.8021
     ]
   },
-  "207.188.181.183": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Alcobendas",
-    "coordinates": [
-      40.5339,
-      -3.6312
-    ]
-  },
   "208.77.22.94": {
     "region": "North America",
     "country": "United States",
@@ -1157,6 +1167,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
     ]
   },
   "216.128.134.224": {
@@ -1327,16 +1347,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "35.132.109.29": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Turlock",
-    "coordinates": [
-      37.4912,
-      -120.8559
     ]
   },
   "35.158.239.193": {
@@ -1639,6 +1649,16 @@
       -46.6333
     ]
   },
+  "58.96.49.12": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
+    ]
+  },
   "61.245.153.149": {
     "region": "Oceania",
     "country": "Australia",
@@ -1697,16 +1717,6 @@
     "coordinates": [
       26.6284,
       -82.0197
-    ]
-  },
-  "70.191.252.242": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pensacola",
-    "coordinates": [
-      30.3737,
-      -87.3126
     ]
   },
   "70.34.202.147": {
@@ -2069,6 +2079,16 @@
       24.9347
     ]
   },
+  "95.94.59.73": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Coimbra",
+    "coordinates": [
+      40.2057,
+      -8.4213
+    ]
+  },
   "98.128.174.153": {
     "region": "Europe",
     "country": "Sweden",
@@ -2089,14 +2109,14 @@
       18.0435
     ]
   },
-  "99.48.163.106": {
+  "99.72.255.45": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Dallas",
+    "city": "Madison",
     "coordinates": [
-      32.7767,
-      -96.805
+      43.0725,
+      -89.4491
     ]
   }
 }
