@@ -199,6 +199,16 @@
       28.0473
     ]
   },
+  "13.40.120.41": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5074,
+      -0.127758
+    ]
+  },
   "13.49.80.4": {
     "region": "Europe",
     "country": "Sweden",
@@ -429,14 +439,14 @@
       17.0335
     ]
   },
-  "146.90.114.169": {
+  "146.199.126.142": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Craigavon",
+    "city": "Kettering",
     "coordinates": [
-      54.385,
-      -6.3282
+      52.3966,
+      -0.7212
     ]
   },
   "149.28.240.2": {
@@ -539,6 +549,16 @@
       11.1728
     ]
   },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
+    ]
+  },
   "159.196.248.221": {
     "region": "Oceania",
     "country": "Australia",
@@ -567,6 +587,16 @@
     "coordinates": [
       40.793,
       -74.0247
+    ]
+  },
+  "16.170.162.186": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
     ]
   },
   "16.50.174.37": {
@@ -1039,16 +1069,6 @@
       -119.852
     ]
   },
-  "20.83.56.153": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "20.93.3.182": {
     "region": "Europe",
     "country": "Ireland",
@@ -1297,6 +1317,16 @@
     "coordinates": [
       0,
       0
+    ]
+  },
+  "3.108.227.32": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.076,
+      72.8777
     ]
   },
   "3.6.87.140": {
@@ -1620,6 +1650,16 @@
     ]
   },
   "54.176.114.20": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
+    ]
+  },
+  "54.177.92.188": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1977,16 +2017,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "87.207.124.227": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.1043,
-      17.0335
     ]
   },
   "89.151.207.164": {
