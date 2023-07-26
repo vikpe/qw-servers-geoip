@@ -179,6 +179,16 @@
       4.9392
     ]
   },
+  "129.146.3.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
+    ]
+  },
   "13.239.6.89": {
     "region": "Oceania",
     "country": "Australia",
@@ -207,16 +217,6 @@
     "coordinates": [
       51.5074,
       -0.127758
-    ]
-  },
-  "13.49.80.4": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
     ]
   },
   "13.53.75.0": {
@@ -439,7 +439,7 @@
       17.0335
     ]
   },
-  "146.199.126.142": {
+  "146.199.126.200": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
@@ -547,16 +547,6 @@
     "coordinates": [
       59.9315,
       11.1728
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
     ]
   },
   "159.196.248.221": {
@@ -667,6 +657,16 @@
     "coordinates": [
       -36.8506,
       174.7679
+    ]
+  },
+  "164.152.30.149": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8486,
+      -87.6288
     ]
   },
   "167.71.142.56": {
@@ -1069,6 +1069,16 @@
       -119.852
     ]
   },
+  "20.69.57.161": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cheyenne",
+    "coordinates": [
+      41.13925,
+      -104.816154
+    ]
+  },
   "20.93.3.182": {
     "region": "Europe",
     "country": "Ireland",
@@ -1320,16 +1330,6 @@
     ]
   },
   "3.108.227.32": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.076,
-      72.8777
-    ]
-  },
-  "3.6.87.140": {
     "region": "Asia",
     "country": "India",
     "cc": "IN",
@@ -1649,16 +1649,6 @@
       -122.676
     ]
   },
-  "54.176.114.20": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
-    ]
-  },
   "54.177.92.188": {
     "region": "North America",
     "country": "United States",
@@ -1959,14 +1949,14 @@
       55.0984
     ]
   },
-  "85.160.22.154": {
+  "85.160.44.147": {
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0883,
-      14.4124
+      50.088,
+      14.4208
     ]
   },
   "85.229.4.82": {
@@ -2059,7 +2049,7 @@
       30.3096
     ]
   },
-  "91.55.94.207": {
+  "91.55.78.91": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2137,26 +2127,6 @@
     "coordinates": [
       57.7065,
       11.967
-    ]
-  },
-  "98.128.186.18": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bandhagen",
-    "coordinates": [
-      59.275,
-      18.0435
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7767,
-      -96.805
     ]
   },
   "99.72.255.45": {
