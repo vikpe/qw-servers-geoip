@@ -165,8 +165,18 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8867,
-      174.769
+      -36.8693,
+      174.811
+    ]
+  },
+  "124.189.251.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "128.199.52.100": {
@@ -179,7 +189,7 @@
       4.9392
     ]
   },
-  "129.146.3.79": {
+  "129.146.21.65": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -255,8 +265,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.6539,
-      -0.0888
+      51.5269,
+      -0.0991
     ]
   },
   "130.242.114.28": {
@@ -295,8 +305,8 @@
     "cc": "CA",
     "city": "Markham",
     "coordinates": [
-      43.879,
-      -79.2638
+      43.8978,
+      -79.2617
     ]
   },
   "136.243.174.101": {
@@ -919,7 +929,7 @@
       12.365
     ]
   },
-  "191.34.7.39": {
+  "191.251.230.98": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1027,16 +1037,6 @@
     "coordinates": [
       33.448376,
       -112.074036
-    ]
-  },
-  "20.221.237.152": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8819,
-      -87.6278
     ]
   },
   "20.245.213.126": {
@@ -1315,8 +1315,8 @@
     "cc": "CA",
     "city": "Vancouver",
     "coordinates": [
-      49.2958,
-      -123.141
+      49.2825,
+      -123.1291
     ]
   },
   "255.255.255.255": {
@@ -1823,10 +1823,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Burlington",
+    "city": "Lumberton",
     "coordinates": [
-      40.0713,
-      -74.8449
+      39.9663,
+      -74.8103
     ]
   },
   "75.86.253.195": {
@@ -1949,16 +1949,6 @@
       55.0984
     ]
   },
-  "85.160.44.147": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.088,
-      14.4208
-    ]
-  },
   "85.229.4.82": {
     "region": "Europe",
     "country": "Sweden",
@@ -2013,10 +2003,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Namdalseid",
+    "city": "Overhalla",
     "coordinates": [
-      64.2425,
-      11.2146
+      64.4853,
+      11.9687
     ]
   },
   "89.239.25.13": {
@@ -2127,6 +2117,16 @@
     "coordinates": [
       57.7065,
       11.967
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7767,
+      -96.805
     ]
   },
   "99.72.255.45": {
