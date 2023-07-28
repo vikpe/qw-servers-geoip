@@ -119,16 +119,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -279,16 +269,6 @@
       18.0637
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.181.96.161": {
     "region": "Europe",
     "country": "Finland",
@@ -297,16 +277,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "135.23.134.38": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Markham",
-    "coordinates": [
-      43.8978,
-      -79.2617
     ]
   },
   "136.243.174.101": {
@@ -557,6 +527,16 @@
     "coordinates": [
       59.9315,
       11.1728
+    ]
+  },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "159.196.248.221": {
@@ -1037,6 +1017,26 @@
     "coordinates": [
       33.448376,
       -112.074036
+    ]
+  },
+  "20.221.237.152": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8819,
+      -87.6278
+    ]
+  },
+  "20.243.122.16": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": [
+      35.68,
+      139.77
     ]
   },
   "20.245.213.126": {
@@ -1559,6 +1559,16 @@
       17.9612
     ]
   },
+  "5.198.71.75": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Beverley",
+    "coordinates": [
+      53.8862,
+      -0.424
+    ]
+  },
   "5.9.82.79": {
     "region": "Europe",
     "country": "Germany",
@@ -1909,16 +1919,6 @@
       12.5954
     ]
   },
-  "82.141.152.3": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Orci",
-    "coordinates": [
-      46.4112,
-      17.8737
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1997,6 +1997,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1043,
+      17.0335
     ]
   },
   "89.151.207.164": {
