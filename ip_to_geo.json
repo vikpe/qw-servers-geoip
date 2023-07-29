@@ -155,8 +155,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8693,
-      174.811
+      -36.8506,
+      174.7679
     ]
   },
   "124.189.251.43": {
@@ -499,24 +499,14 @@
       103.82
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3293,
+      18.0686
     ]
   },
   "158.248.75.93": {
@@ -527,16 +517,6 @@
     "coordinates": [
       59.9315,
       11.1728
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
     ]
   },
   "159.196.248.221": {
@@ -729,14 +709,24 @@
       -93.2201
     ]
   },
-  "176.210.100.6": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Novosibirsk",
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
     "coordinates": [
-      55.0285,
-      82.9202
+      44.9998,
+      -93.393
+    ]
+  },
+  "176.72.155.218": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.5102,
+      23.7985
     ]
   },
   "177.71.158.196": {
@@ -813,10 +803,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Ballarat",
+    "city": "Sunbury",
     "coordinates": [
-      -37.5691,
-      143.8561
+      -37.5749,
+      144.7197
     ]
   },
   "185.11.166.90": {
@@ -1185,8 +1175,8 @@
     "cc": "SE",
     "city": "Malmo",
     "coordinates": [
-      55.6078,
-      12.9982
+      55.605,
+      13.0038
     ]
   },
   "213.239.216.253": {
@@ -1563,10 +1553,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Beverley",
+    "city": "Hull",
     "coordinates": [
-      53.8862,
-      -0.424
+      53.7428,
+      -0.2672
     ]
   },
   "5.9.82.79": {
@@ -1829,6 +1819,16 @@
       -114.0394
     ]
   },
+  "75.170.235.245": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Hickory",
+    "coordinates": [
+      35.7532,
+      -81.3264
+    ]
+  },
   "75.192.179.118": {
     "region": "North America",
     "country": "United States",
@@ -1837,16 +1837,6 @@
     "coordinates": [
       39.9663,
       -74.8103
-    ]
-  },
-  "75.86.253.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0874,
-      -87.6697
     ]
   },
   "78.102.228.227": {
@@ -1925,8 +1915,8 @@
     "cc": "SE",
     "city": "Sundsvall",
     "coordinates": [
-      62.3772,
-      17.3203
+      62.3908,
+      17.3069
     ]
   },
   "82.196.2.206": {
@@ -1953,7 +1943,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Skarpnack",
+    "city": "Stockholm",
     "coordinates": [
       59.2688,
       18.1182
@@ -2013,10 +2003,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Overhalla",
+    "city": "Steinkjer",
     "coordinates": [
-      64.4853,
-      11.9687
+      64.014,
+      11.4678
     ]
   },
   "89.239.25.13": {
@@ -2123,10 +2113,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Gothenburg",
+    "city": "Uppsala",
     "coordinates": [
-      57.7065,
-      11.967
+      59.8586,
+      17.6389
     ]
   },
   "99.48.163.106": {
