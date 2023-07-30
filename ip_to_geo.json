@@ -269,6 +269,16 @@
       18.0637
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.181.96.161": {
     "region": "Europe",
     "country": "Finland",
@@ -709,24 +719,14 @@
       -93.2201
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
-    ]
-  },
-  "176.72.155.218": {
+  "176.210.100.6": {
     "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Novosibirsk",
     "coordinates": [
-      61.5102,
-      23.7985
+      55.0285,
+      82.9202
     ]
   },
   "177.71.158.196": {
@@ -1819,16 +1819,6 @@
       -114.0394
     ]
   },
-  "75.170.235.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Hickory",
-    "coordinates": [
-      35.7532,
-      -81.3264
-    ]
-  },
   "75.192.179.118": {
     "region": "North America",
     "country": "United States",
@@ -2119,14 +2109,14 @@
       17.6389
     ]
   },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
+  "98.128.186.18": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
     "coordinates": [
-      32.7767,
-      -96.805
+      59.3293,
+      18.0686
     ]
   },
   "99.72.255.45": {
