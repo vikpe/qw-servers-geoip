@@ -149,6 +149,16 @@
       11.0767
     ]
   },
+  "119.73.120.133": {
+    "region": "Asia",
+    "country": "Pakistan",
+    "cc": "PK",
+    "city": "Islamabad",
+    "coordinates": [
+      33.7185,
+      73.0534
+    ]
+  },
   "122.59.130.30": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -207,16 +217,6 @@
     "coordinates": [
       -26.2041,
       28.0473
-    ]
-  },
-  "13.40.120.41": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5074,
-      -0.127758
     ]
   },
   "13.53.75.0": {
@@ -467,6 +467,16 @@
     "coordinates": [
       34.0544,
       -118.244
+    ]
+  },
+  "150.136.70.158": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.018,
+      -77.539
     ]
   },
   "152.67.110.136": {
@@ -780,16 +790,6 @@
     ]
   },
   "18.228.238.254": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5505,
-      -46.6333
-    ]
-  },
-  "18.231.4.98": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1309,16 +1309,6 @@
       -123.1291
     ]
   },
-  "255.255.255.255": {
-    "region": "unknown",
-    "country": "unknown",
-    "cc": "unknown",
-    "city": "unknown",
-    "coordinates": [
-      0,
-      0
-    ]
-  },
   "3.108.227.32": {
     "region": "Asia",
     "country": "India",
@@ -1549,16 +1539,6 @@
       17.9612
     ]
   },
-  "5.198.71.75": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Hull",
-    "coordinates": [
-      53.7428,
-      -0.2672
-    ]
-  },
   "5.9.82.79": {
     "region": "Europe",
     "country": "Germany",
@@ -1660,6 +1640,16 @@
     ]
   },
   "54.232.250.209": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5505,
+      -46.6333
+    ]
+  },
+  "54.233.238.245": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1787,6 +1777,16 @@
     "coordinates": [
       40.185,
       -75.0041
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "74.91.120.206": {
@@ -1969,16 +1969,6 @@
       20.9853
     ]
   },
-  "87.128.111.190": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.52,
-      13.405
-    ]
-  },
   "87.207.124.227": {
     "region": "Europe",
     "country": "Poland",
@@ -2029,7 +2019,7 @@
       30.3096
     ]
   },
-  "91.55.78.91": {
+  "91.55.74.89": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
