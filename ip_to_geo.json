@@ -59,16 +59,6 @@
       151.2006
     ]
   },
-  "104.196.213.216": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Charleston",
-    "coordinates": [
-      32.8771,
-      -80.013
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -529,6 +519,16 @@
       103.82
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -749,16 +749,6 @@
       82.9202
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0804,
-      14.5045
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -929,16 +919,6 @@
       12.365
     ]
   },
-  "191.251.230.98": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Rio de Janeiro",
-    "coordinates": [
-      -22.9201,
-      -43.0811
-    ]
-  },
   "192.166.218.37": {
     "region": "Europe",
     "country": "Poland",
@@ -1040,6 +1020,16 @@
     ]
   },
   "20.221.237.152": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8819,
+      -87.6278
+    ]
+  },
+  "20.241.104.145": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1267,16 +1257,6 @@
     "coordinates": [
       -36.8906,
       174.794
-    ]
-  },
-  "23.122.104.118": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Arkadelphia",
-    "coordinates": [
-      34.1123,
-      -93.0713
     ]
   },
   "23.22.56.152": {
@@ -2007,16 +1987,6 @@
     "coordinates": [
       50.2385,
       14.3263
-    ]
-  },
-  "89.66.241.225": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0067
     ]
   },
   "91.206.14.17": {
