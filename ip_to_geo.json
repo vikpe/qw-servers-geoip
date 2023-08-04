@@ -109,16 +109,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -269,6 +259,16 @@
       18.0637
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.181.96.161": {
     "region": "Europe",
     "country": "Finland",
@@ -377,6 +377,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "142.11.210.129": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seattle",
+    "coordinates": [
+      47.4941,
+      -122.294
     ]
   },
   "144.202.33.70": {
@@ -497,6 +507,16 @@
     "coordinates": [
       1.35208,
       103.82
+    ]
+  },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
     ]
   },
   "158.174.255.11": {
@@ -1787,6 +1807,16 @@
     "coordinates": [
       39.7458,
       -75.581
+    ]
+  },
+  "75.86.253.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
     ]
   },
   "78.102.228.227": {
