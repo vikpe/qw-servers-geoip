@@ -109,6 +109,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -357,6 +367,16 @@
     "coordinates": [
       -37.8372,
       144.9354
+    ]
+  },
+  "14.203.241.49": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "141.105.67.104": {
@@ -727,6 +747,16 @@
     "coordinates": [
       44.7843,
       -93.2201
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
     ]
   },
   "176.210.100.6": {
@@ -1807,16 +1837,6 @@
     "coordinates": [
       39.7458,
       -75.581
-    ]
-  },
-  "75.86.253.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0874,
-      -87.6697
     ]
   },
   "78.102.228.227": {
