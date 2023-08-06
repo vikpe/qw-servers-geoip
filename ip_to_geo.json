@@ -719,16 +719,6 @@
       -71.232
     ]
   },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6647,
-      -117.9663
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -749,16 +739,6 @@
       -93.2201
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0123,
-      -93.3447
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -767,6 +747,16 @@
     "coordinates": [
       55.0285,
       82.9202
+    ]
+  },
+  "176.72.155.218": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.5102,
+      23.7985
     ]
   },
   "177.71.158.196": {
@@ -1237,6 +1227,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Barcelona",
+    "coordinates": [
+      41.387,
+      2.1701
     ]
   },
   "216.128.134.224": {
@@ -2117,6 +2117,26 @@
     "coordinates": [
       59.3293,
       18.0686
+    ]
+  },
+  "98.144.80.46": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
+    ]
+  },
+  "98.5.112.183": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Wellsville",
+    "coordinates": [
+      42.1114,
+      -77.9422
     ]
   },
   "99.72.255.45": {
