@@ -79,6 +79,16 @@
       -74.4844
     ]
   },
+  "107.180.198.131": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1109,
+      8.68213
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -379,16 +389,6 @@
       42.0347
     ]
   },
-  "141.148.227.175": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "142.11.210.129": {
     "region": "North America",
     "country": "United States",
@@ -517,6 +517,16 @@
     "coordinates": [
       1.35208,
       103.82
+    ]
+  },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
     ]
   },
   "158.174.255.11": {
@@ -697,6 +707,26 @@
     "coordinates": [
       -34.982,
       -71.232
+    ]
+  },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6647,
+      -117.9663
+    ]
+  },
+  "172.58.63.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      39.7388,
+      -104.9868
     ]
   },
   "174.138.43.249": {
@@ -1219,6 +1249,16 @@
       7.01156
     ]
   },
+  "217.197.83.154": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.5196,
+      13.4069
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1267,16 +1307,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.120.55.66": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Las Vegas",
-    "coordinates": [
-      36.1213,
-      -115.1406
     ]
   },
   "24.145.55.103": {
@@ -1429,6 +1459,16 @@
       -77.4874
     ]
   },
+  "45.13.225.89": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1109,
+      8.68213
+    ]
+  },
   "45.147.98.159": {
     "region": "Europe",
     "country": "France",
@@ -1517,6 +1557,16 @@
     "coordinates": [
       59.2885,
       17.9612
+    ]
+  },
+  "47.213.168.199": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Nixa",
+    "coordinates": [
+      37.0504,
+      -93.3002
     ]
   },
   "5.9.82.79": {
@@ -1779,6 +1829,16 @@
       -114.0394
     ]
   },
+  "75.192.171.146": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      39.9843,
+      -75.2266
+    ]
+  },
   "78.102.228.227": {
     "region": "Europe",
     "country": "Czechia",
@@ -1929,6 +1989,16 @@
       17.0335
     ]
   },
+  "87.247.157.83": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7483,
+      37.6171
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1949,7 +2019,7 @@
       14.3263
     ]
   },
-  "89.245.16.246": {
+  "89.245.16.226": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
