@@ -79,6 +79,16 @@
       -74.4844
     ]
   },
+  "107.184.20.188": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -357,6 +367,16 @@
     "coordinates": [
       -37.8372,
       144.9354
+    ]
+  },
+  "14.203.241.49": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "141.105.67.104": {
@@ -809,14 +829,14 @@
       -46.6333
     ]
   },
-  "182.239.211.38": {
+  "182.239.194.1": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Ballarat",
+    "city": "Gisborne",
     "coordinates": [
-      -37.5691,
-      143.8561
+      -37.527,
+      144.6343
     ]
   },
   "185.11.166.90": {
@@ -900,16 +920,6 @@
     ]
   },
   "188.40.103.81": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Falkenstein",
-    "coordinates": [
-      50.475,
-      12.365
-    ]
-  },
-  "188.40.66.105": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -1209,16 +1219,6 @@
       11.0767
     ]
   },
-  "213.239.222.9": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Nuremberg",
-    "coordinates": [
-      49.4521,
-      11.0767
-    ]
-  },
   "216.240.134.107": {
     "region": "North America",
     "country": "United States",
@@ -1447,16 +1447,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.13.225.89": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1109,
-      8.68213
     ]
   },
   "45.147.98.159": {
@@ -1969,6 +1959,16 @@
       20.9853
     ]
   },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1043,
+      17.0335
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1987,6 +1987,16 @@
     "coordinates": [
       50.2385,
       14.3263
+    ]
+  },
+  "89.245.16.241": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3274,
+      10.1234
     ]
   },
   "89.66.241.225": {
