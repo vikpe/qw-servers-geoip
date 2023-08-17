@@ -29,16 +29,6 @@
       153.093
     ]
   },
-  "103.192.80.76": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -77,16 +67,6 @@
     "coordinates": [
       40.5573,
       -74.4844
-    ]
-  },
-  "107.184.20.188": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "108.61.117.210": {
@@ -367,16 +347,6 @@
     "coordinates": [
       -37.8372,
       144.9354
-    ]
-  },
-  "14.203.241.49": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
     ]
   },
   "141.105.67.104": {
@@ -759,6 +729,16 @@
       82.9202
     ]
   },
+  "177.144.188.113": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
+    ]
+  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -829,14 +809,14 @@
       -46.6333
     ]
   },
-  "182.239.194.1": {
+  "182.239.223.213": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Gisborne",
+    "city": "Castlemaine",
     "coordinates": [
-      -37.527,
-      144.6343
+      -37.0648,
+      144.2125
     ]
   },
   "185.11.166.90": {
@@ -927,16 +907,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "189.46.22.216": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
     ]
   },
   "191.223.251.197": {
@@ -1989,16 +1959,6 @@
       14.3263
     ]
   },
-  "89.245.16.241": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3274,
-      10.1234
-    ]
-  },
   "89.66.241.225": {
     "region": "Europe",
     "country": "Poland",
@@ -2017,16 +1977,6 @@
     "coordinates": [
       59.9417,
       30.3096
-    ]
-  },
-  "91.55.94.14": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "91.66.2.46": {
