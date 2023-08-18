@@ -399,6 +399,16 @@
       -46.6361
     ]
   },
+  "144.24.188.96": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1049,
+      8.6295
+    ]
+  },
   "145.239.94.156": {
     "region": "Europe",
     "country": "Poland",
@@ -897,6 +907,16 @@
     "coordinates": [
       50.1169,
       8.6837
+    ]
+  },
+  "188.234.42.148": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Kazan'",
+    "coordinates": [
+      55.7524,
+      49.1388
     ]
   },
   "188.40.103.81": {
@@ -1847,6 +1867,16 @@
     "coordinates": [
       50.6833,
       10.9333
+    ]
+  },
+  "81.229.197.93": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Ulricehamn",
+    "coordinates": [
+      57.7919,
+      13.4076
     ]
   },
   "82.102.20.226": {
