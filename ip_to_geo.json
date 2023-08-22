@@ -99,16 +99,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -659,16 +649,6 @@
       174.7679
     ]
   },
-  "164.152.30.149": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8486,
-      -87.6288
-    ]
-  },
   "167.71.142.56": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -877,16 +857,6 @@
     "coordinates": [
       -36,
       -59.9964
-    ]
-  },
-  "187.20.90.150": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1539,6 +1509,16 @@
       12.365
     ]
   },
+  "50.116.17.172": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Richardson",
+    "coordinates": [
+      32.9473,
+      -96.7028
+    ]
+  },
   "50.116.27.42": {
     "region": "North America",
     "country": "United States",
@@ -1759,16 +1739,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1797,6 +1767,16 @@
     "coordinates": [
       51.3062,
       -114.0394
+    ]
+  },
+  "75.192.171.146": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      39.9843,
+      -75.2266
     ]
   },
   "78.102.228.227": {
@@ -1979,6 +1959,16 @@
       8.7399
     ]
   },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1043,
+      17.0335
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1997,6 +1987,16 @@
     "coordinates": [
       50.2385,
       14.3263
+    ]
+  },
+  "89.245.16.237": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3274,
+      10.1234
     ]
   },
   "89.66.241.225": {
