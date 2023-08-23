@@ -99,6 +99,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -419,14 +429,14 @@
       17.0335
     ]
   },
-  "146.199.126.200": {
+  "146.90.114.169": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Kettering",
+    "city": "Craigavon",
     "coordinates": [
-      52.3966,
-      -0.7212
+      54.385,
+      -6.3282
     ]
   },
   "149.28.240.2": {
@@ -1549,6 +1559,16 @@
       7.75211
     ]
   },
+  "51.210.104.42": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Dieppe",
+    "coordinates": [
+      49.9206,
+      1.0891
+    ]
+  },
   "52.159.114.44": {
     "region": "North America",
     "country": "United States",
@@ -1829,16 +1849,6 @@
       11.6091
     ]
   },
-  "81.169.182.221": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.5234,
-      13.3224
-    ]
-  },
   "81.169.214.196": {
     "region": "Europe",
     "country": "Germany",
@@ -1897,6 +1907,16 @@
     "coordinates": [
       40.4167,
       -3.7037
+    ]
+  },
+  "84.165.73.69": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "L\u00fcdenscheid",
+    "coordinates": [
+      51.2237,
+      7.6278
     ]
   },
   "84.39.252.192": {
@@ -1989,7 +2009,7 @@
       14.3263
     ]
   },
-  "89.245.16.237": {
+  "89.245.16.240": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
