@@ -433,10 +433,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Craigavon",
+    "city": "London",
     "coordinates": [
-      54.385,
-      -6.3282
+      51.5897,
+      -0.249103
     ]
   },
   "149.28.240.2": {
@@ -525,8 +525,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3293,
-      18.0686
+      59.3241,
+      18.0517
     ]
   },
   "158.248.75.93": {
@@ -723,10 +723,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Eagan",
+    "city": "Minneapolis",
     "coordinates": [
-      44.7843,
-      -93.2201
+      44.9064,
+      -93.2406
     ]
   },
   "176.210.100.6": {
@@ -755,8 +755,8 @@
     "cc": "BR",
     "city": "S\u00e3o Paulo",
     "coordinates": [
-      -23.5558,
-      -46.6396
+      -23.6283,
+      -46.6409
     ]
   },
   "18.144.19.16": {
@@ -809,14 +809,14 @@
       -46.6333
     ]
   },
-  "182.239.223.213": {
+  "182.239.207.221": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Castlemaine",
+    "city": "Melton West",
     "coordinates": [
-      -37.0648,
-      144.2125
+      -37.6758,
+      144.5527
     ]
   },
   "185.11.166.90": {
@@ -869,6 +869,16 @@
       -59.9964
     ]
   },
+  "187.20.88.36": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
+    ]
+  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "Netherlands",
@@ -905,8 +915,8 @@
     "cc": "BR",
     "city": "Goi\u00e2nia",
     "coordinates": [
-      -16.6391,
-      -49.2622
+      -16.561,
+      -49.2063
     ]
   },
   "192.166.218.37": {
@@ -957,6 +967,16 @@
     "coordinates": [
       52.2296,
       21.0122
+    ]
+  },
+  "194.132.173.193": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Norsjoe",
+    "coordinates": [
+      64.9081,
+      19.4647
     ]
   },
   "194.38.96.52": {
@@ -1165,8 +1185,8 @@
     "cc": "SE",
     "city": "Malmo",
     "coordinates": [
-      55.605,
-      13.0038
+      55.6078,
+      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1375,8 +1395,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1103,
-      8.7147
+      50.1367,
+      8.7138
     ]
   },
   "37.221.215.47": {
@@ -1655,8 +1675,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.4679,
-      153.0325
+      -27.4515,
+      153.058
     ]
   },
   "61.245.153.149": {
@@ -1713,10 +1733,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Cape Coral",
+    "city": "Lehigh Acres",
     "coordinates": [
-      26.6284,
-      -82.0197
+      26.5936,
+      -81.6619
     ]
   },
   "70.34.202.147": {
@@ -1793,10 +1813,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Blackwood",
     "coordinates": [
-      39.9843,
-      -75.2266
+      39.7897,
+      -75.0355
     ]
   },
   "78.102.228.227": {
@@ -1805,8 +1825,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0804,
-      14.5045
+      50.0844,
+      14.4998
     ]
   },
   "78.108.218.130": {
@@ -1915,8 +1935,8 @@
     "cc": "DE",
     "city": "L\u00fcdenscheid",
     "coordinates": [
-      51.2237,
-      7.6278
+      51.2214,
+      7.6482
     ]
   },
   "84.39.252.192": {
@@ -1935,8 +1955,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3241,
+      18.0517
     ]
   },
   "85.242.107.149": {
@@ -2009,16 +2029,6 @@
       14.3263
     ]
   },
-  "89.245.16.240": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3274,
-      10.1234
-    ]
-  },
   "89.66.241.225": {
     "region": "Europe",
     "country": "Poland",
@@ -2033,10 +2043,10 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "St Petersburg",
+    "city": "Moscow",
     "coordinates": [
-      59.9417,
-      30.3096
+      55.7483,
+      37.6171
     ]
   },
   "91.66.2.46": {
@@ -2105,8 +2115,8 @@
     "cc": "US",
     "city": "Pittsburgh",
     "coordinates": [
-      40.4409,
-      -79.9857
+      40.4339,
+      -79.9996
     ]
   },
   "98.128.174.153": {
@@ -2115,8 +2125,8 @@
     "cc": "SE",
     "city": "Gothenburg",
     "coordinates": [
-      57.7089,
-      11.9746
+      57.7065,
+      11.967
     ]
   },
   "98.128.186.18": {
@@ -2125,8 +2135,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3293,
-      18.0686
+      59.3241,
+      18.0517
     ]
   },
   "98.144.80.46": {
@@ -2145,8 +2155,8 @@
     "cc": "US",
     "city": "Madison",
     "coordinates": [
-      43.0725,
-      -89.4491
+      43.1205,
+      -89.3523
     ]
   }
 }
