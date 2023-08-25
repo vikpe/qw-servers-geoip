@@ -2029,6 +2029,16 @@
       14.3263
     ]
   },
+  "89.245.16.244": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3274,
+      10.1234
+    ]
+  },
   "89.66.241.225": {
     "region": "Europe",
     "country": "Poland",
@@ -2107,16 +2117,6 @@
     "coordinates": [
       40.2057,
       -8.4213
-    ]
-  },
-  "96.236.191.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pittsburgh",
-    "coordinates": [
-      40.4339,
-      -79.9996
     ]
   },
   "98.128.174.153": {
