@@ -1,14 +1,4 @@
 {
-  "1.146.161.169": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9643,
-      115.8595
-    ]
-  },
   "102.37.98.187": {
     "region": "Africa",
     "country": "South Africa",
@@ -539,6 +529,16 @@
       145.119
     ]
   },
+  "159.196.52.31": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Adelaide",
+    "coordinates": [
+      -34.9281,
+      138.5999
+    ]
+  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -737,6 +737,16 @@
     "coordinates": [
       55.0285,
       82.9202
+    ]
+  },
+  "176.72.155.218": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4966,
+      23.7831
     ]
   },
   "177.71.158.196": {
@@ -1799,16 +1809,6 @@
       -87.6318
     ]
   },
-  "75.158.28.121": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Airdrie",
-    "coordinates": [
-      51.3062,
-      -114.0394
-    ]
-  },
   "75.192.171.146": {
     "region": "North America",
     "country": "United States",
@@ -1817,6 +1817,16 @@
     "coordinates": [
       39.7897,
       -75.0355
+    ]
+  },
+  "76.248.237.89": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Spring Hill",
+    "coordinates": [
+      35.7163,
+      -86.9093
     ]
   },
   "78.102.228.227": {
