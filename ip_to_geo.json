@@ -169,6 +169,16 @@
       -111.9956
     ]
   },
+  "129.148.54.225": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "13.239.6.89": {
     "region": "Oceania",
     "country": "Australia",
@@ -499,6 +509,16 @@
       103.82
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -527,16 +547,6 @@
     "coordinates": [
       -37.8498,
       145.119
-    ]
-  },
-  "159.196.52.31": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Adelaide",
-    "coordinates": [
-      -34.9281,
-      138.5999
     ]
   },
   "159.203.25.195": {
@@ -739,16 +749,6 @@
       82.9202
     ]
   },
-  "176.72.155.218": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4966,
-      23.7831
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -877,16 +877,6 @@
     "coordinates": [
       -36,
       -59.9964
-    ]
-  },
-  "187.20.88.36": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
     ]
   },
   "188.166.0.137": {
@@ -1439,6 +1429,16 @@
       -77.4874
     ]
   },
+  "45.142.247.142": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.52,
+      13.4049
+    ]
+  },
   "45.147.98.159": {
     "region": "Europe",
     "country": "France",
@@ -1729,16 +1729,6 @@
       -74.0247
     ]
   },
-  "69.247.38.137": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lehigh Acres",
-    "coordinates": [
-      26.5936,
-      -81.6619
-    ]
-  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1747,16 +1737,6 @@
     "coordinates": [
       59.3779,
       17.9155
-    ]
-  },
-  "71.185.31.10": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      39.9476,
-      -75.1474
     ]
   },
   "72.18.132.133": {
@@ -1789,6 +1769,16 @@
       -75.0041
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1809,26 +1799,6 @@
       -87.6318
     ]
   },
-  "75.192.171.146": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Blackwood",
-    "coordinates": [
-      39.7897,
-      -75.0355
-    ]
-  },
-  "76.248.237.89": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Spring Hill",
-    "coordinates": [
-      35.7163,
-      -86.9093
-    ]
-  },
   "78.102.228.227": {
     "region": "Europe",
     "country": "Czechia",
@@ -1837,16 +1807,6 @@
     "coordinates": [
       50.0844,
       14.4998
-    ]
-  },
-  "78.108.218.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Buffalo",
-    "coordinates": [
-      42.8928,
-      -78.8772
     ]
   },
   "79.139.57.116": {
