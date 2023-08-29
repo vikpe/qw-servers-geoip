@@ -99,6 +99,16 @@
       -87.9954
     ]
   },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -549,6 +559,16 @@
       145.119
     ]
   },
+  "159.196.52.31": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Adelaide",
+    "coordinates": [
+      -34.9281,
+      138.5999
+    ]
+  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -709,16 +729,6 @@
       -117.9663
     ]
   },
-  "172.58.61.90": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.7392,
-      -104.99
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -729,6 +739,16 @@
       -74.0247
     ]
   },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
+    ]
+  },
   "174.53.169.69": {
     "region": "North America",
     "country": "United States",
@@ -737,6 +757,16 @@
     "coordinates": [
       44.9064,
       -93.2406
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
     ]
   },
   "176.210.100.6": {
@@ -837,16 +867,6 @@
     "coordinates": [
       38.7223,
       -9.13934
-    ]
-  },
-  "185.189.139.18": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Konstancin-Jeziorna",
-    "coordinates": [
-      52.0936,
-      21.1244
     ]
   },
   "185.189.48.45": {
@@ -1409,6 +1429,16 @@
       19.6781
     ]
   },
+  "39.106.228.43": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Beijing",
+    "coordinates": [
+      39.911,
+      116.395
+    ]
+  },
   "40.84.144.27": {
     "region": "North America",
     "country": "United States",
@@ -1529,6 +1559,16 @@
       17.9612
     ]
   },
+  "47.213.168.199": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Nixa",
+    "coordinates": [
+      37.0504,
+      -93.3002
+    ]
+  },
   "5.9.82.79": {
     "region": "Europe",
     "country": "Germany",
@@ -1587,6 +1627,16 @@
     "coordinates": [
       49.9206,
       1.0891
+    ]
+  },
+  "51.38.225.118": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Gravelines",
+    "coordinates": [
+      50.9959,
+      2.11757
     ]
   },
   "52.159.114.44": {
@@ -1729,6 +1779,16 @@
       -74.0247
     ]
   },
+  "69.247.38.137": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lehigh Acres",
+    "coordinates": [
+      26.5936,
+      -81.6619
+    ]
+  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1767,16 +1827,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "74.91.120.206": {
@@ -2117,16 +2167,6 @@
     "coordinates": [
       45.0874,
       -87.6697
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Anna",
-    "coordinates": [
-      33.3438,
-      -96.5635
     ]
   },
   "99.72.255.45": {
