@@ -99,16 +99,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -559,16 +549,6 @@
       145.119
     ]
   },
-  "159.196.52.31": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Adelaide",
-    "coordinates": [
-      -34.9281,
-      138.5999
-    ]
-  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -719,6 +699,16 @@
       -71.232
     ]
   },
+  "170.39.226.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Secaucus",
+    "coordinates": [
+      40.7895,
+      -74.0565
+    ]
+  },
   "172.117.114.60": {
     "region": "North America",
     "country": "United States",
@@ -727,6 +717,16 @@
     "coordinates": [
       33.6647,
       -117.9663
+    ]
+  },
+  "172.59.73.114": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Kansas City",
+    "coordinates": [
+      39.1027,
+      -94.5778
     ]
   },
   "174.138.43.249": {
@@ -757,16 +757,6 @@
     "coordinates": [
       44.9064,
       -93.2406
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0123,
-      -93.3447
     ]
   },
   "176.210.100.6": {
@@ -849,14 +839,14 @@
       -46.6333
     ]
   },
-  "182.239.207.221": {
+  "182.239.202.25": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Melton West",
+    "city": "Kurunjang",
     "coordinates": [
-      -37.6758,
-      144.5527
+      -37.6654,
+      144.5891
     ]
   },
   "185.11.166.90": {
@@ -867,6 +857,16 @@
     "coordinates": [
       38.7223,
       -9.13934
+    ]
+  },
+  "185.189.139.18": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Konstancin-Jeziorna",
+    "coordinates": [
+      52.0936,
+      21.1244
     ]
   },
   "185.189.48.45": {
@@ -927,6 +927,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "189.6.119.2": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
     ]
   },
   "191.223.251.197": {
@@ -1299,16 +1309,6 @@
       -96.797
     ]
   },
-  "24.145.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1557,16 +1557,6 @@
     "coordinates": [
       59.2885,
       17.9612
-    ]
-  },
-  "47.213.168.199": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Nixa",
-    "coordinates": [
-      37.0504,
-      -93.3002
     ]
   },
   "5.9.82.79": {
@@ -2019,16 +2009,6 @@
       8.7399
     ]
   },
-  "87.207.124.227": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.1043,
-      17.0335
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2047,6 +2027,16 @@
     "coordinates": [
       50.2385,
       14.3263
+    ]
+  },
+  "89.245.16.233": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3274,
+      10.1234
     ]
   },
   "89.66.241.225": {
