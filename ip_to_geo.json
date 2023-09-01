@@ -119,6 +119,16 @@
       121.5324
     ]
   },
+  "115.188.10.227": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": [
+      -36.8506,
+      174.7679
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -469,6 +479,16 @@
       -77.539
     ]
   },
+  "152.169.56.15": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -36,
+      -59.9964
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -729,6 +749,16 @@
       -94.5778
     ]
   },
+  "173.230.126.38": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Champaign",
+    "coordinates": [
+      40.112,
+      -88.2365
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -839,14 +869,14 @@
       -46.6333
     ]
   },
-  "182.239.202.25": {
+  "182.239.198.68": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Kurunjang",
+    "city": "Ballarat",
     "coordinates": [
-      -37.6654,
-      144.5891
+      -37.5691,
+      143.8561
     ]
   },
   "185.11.166.90": {
@@ -887,16 +917,6 @@
     "coordinates": [
       52.4145,
       -1.7841
-    ]
-  },
-  "186.137.54.176": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -36,
-      -59.9964
     ]
   },
   "188.166.0.137": {
@@ -2019,7 +2039,7 @@
       14.3263
     ]
   },
-  "89.245.16.235": {
+  "89.245.16.248": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2107,16 +2127,6 @@
     "coordinates": [
       40.2057,
       -8.4213
-    ]
-  },
-  "96.236.191.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pittsburgh",
-    "coordinates": [
-      40.4339,
-      -79.9996
     ]
   },
   "98.128.174.153": {
