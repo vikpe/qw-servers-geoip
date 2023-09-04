@@ -10,23 +10,23 @@
     ]
   },
   "103.151.65.11": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Kippa-Ring",
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Tulsa",
     "coordinates": [
-      -27.2262,
-      153.093
+      37.0902,
+      -95.7129
     ]
   },
   "103.151.65.19": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Kippa-Ring",
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Tulsa",
     "coordinates": [
-      -27.2262,
-      153.093
+      37.0902,
+      -95.7129
     ]
   },
   "103.195.53.179": {
@@ -65,8 +65,8 @@
     "cc": "US",
     "city": "Piscataway",
     "coordinates": [
-      40.5573,
-      -74.4844
+      40.5549,
+      -74.4643
     ]
   },
   "108.61.117.210": {
@@ -97,6 +97,16 @@
     "coordinates": [
       42.0048,
       -87.9954
+    ]
+  },
+  "109.194.67.44": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tver",
+    "coordinates": [
+      56.8651,
+      35.8938
     ]
   },
   "109.200.20.152": {
@@ -543,10 +553,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Fetsund",
+    "city": "Oslo",
     "coordinates": [
-      59.9315,
-      11.1728
+      59.955,
+      10.859
     ]
   },
   "159.196.248.221": {
@@ -757,16 +767,6 @@
     "coordinates": [
       40.793,
       -74.0247
-    ]
-  },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
     ]
   },
   "174.53.169.69": {
@@ -1219,16 +1219,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Sant Cugat del Vall\u00e8s",
-    "coordinates": [
-      41.4706,
-      2.08611
-    ]
-  },
   "216.240.134.107": {
     "region": "North America",
     "country": "United States",
@@ -1415,8 +1405,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1367,
-      8.7138
+      50.1103,
+      8.7147
     ]
   },
   "37.221.215.47": {
@@ -1715,8 +1705,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.4515,
-      153.058
+      -27.4437,
+      153.0244
     ]
   },
   "61.245.153.149": {
@@ -1817,6 +1807,16 @@
     "coordinates": [
       40.185,
       -75.0041
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "74.91.120.206": {
@@ -1923,10 +1923,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Sundsvall",
     "coordinates": [
-      59.3293,
-      18.0686
+      62.3908,
+      17.3069
     ]
   },
   "82.196.2.206": {
@@ -2019,14 +2019,14 @@
       14.3263
     ]
   },
-  "89.245.16.244": {
+  "89.245.16.249": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
     "city": "Kiel",
     "coordinates": [
-      54.3274,
-      10.1234
+      54.3241,
+      10.1344
     ]
   },
   "89.66.241.225": {
@@ -2119,16 +2119,6 @@
       -8.4213
     ]
   },
-  "96.236.191.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pittsburgh",
-    "coordinates": [
-      40.4339,
-      -79.9996
-    ]
-  },
   "98.128.174.153": {
     "region": "Europe",
     "country": "Sweden",
@@ -2145,8 +2135,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3241,
-      18.0517
+      59.3293,
+      18.0686
     ]
   },
   "98.144.80.46": {
