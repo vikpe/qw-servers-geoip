@@ -99,16 +99,6 @@
       -87.9954
     ]
   },
-  "109.194.67.44": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tver",
-    "coordinates": [
-      56.8651,
-      35.8938
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -739,7 +729,7 @@
       -117.9663
     ]
   },
-  "172.59.73.114": {
+  "172.59.78.91": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -747,16 +737,6 @@
     "coordinates": [
       39.1027,
       -94.5778
-    ]
-  },
-  "173.230.126.38": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Champaign",
-    "coordinates": [
-      40.112,
-      -88.2365
     ]
   },
   "174.138.43.249": {
@@ -1809,16 +1789,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -2019,7 +1989,7 @@
       14.3263
     ]
   },
-  "89.245.16.249": {
+  "89.245.16.254": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
