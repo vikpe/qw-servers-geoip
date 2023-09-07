@@ -79,6 +79,16 @@
       -74.4643
     ]
   },
+  "107.184.20.188": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -739,16 +749,6 @@
       -74.0565
     ]
   },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6647,
-      -117.9663
-    ]
-  },
   "172.59.78.91": {
     "region": "North America",
     "country": "United States",
@@ -777,16 +777,6 @@
     "coordinates": [
       40.793,
       -74.0247
-    ]
-  },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
     ]
   },
   "174.53.169.69": {
@@ -1759,6 +1749,16 @@
       138.5999
     ]
   },
+  "64.176.198.236": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Piscataway",
+    "coordinates": [
+      40.5549,
+      -74.4643
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1917,16 +1917,6 @@
     "coordinates": [
       48.1077,
       11.6091
-    ]
-  },
-  "81.169.214.196": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Neuhaus",
-    "coordinates": [
-      50.6833,
-      10.9333
     ]
   },
   "81.229.197.93": {
