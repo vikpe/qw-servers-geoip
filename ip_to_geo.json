@@ -619,6 +619,16 @@
       139.6899
     ]
   },
+  "160.20.247.59": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
+    ]
+  },
   "162.248.92.183": {
     "region": "North America",
     "country": "United States",
@@ -769,6 +779,16 @@
       -93.2406
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -777,6 +797,16 @@
     "coordinates": [
       55.0285,
       82.9202
+    ]
+  },
+  "176.72.148.165": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4911,
+      23.9055
     ]
   },
   "177.71.158.196": {
@@ -927,16 +957,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "190.106.146.7": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "San Nicol\u00e1s de los Arroyos",
-    "coordinates": [
-      -33.3284,
-      -60.2224
     ]
   },
   "191.17.53.83": {
@@ -1139,6 +1159,16 @@
       -104.816154
     ]
   },
+  "203.220.110.170": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "203.29.243.177": {
     "region": "Oceania",
     "country": "Australia",
@@ -1227,6 +1257,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Sant Cugat del Vall\u00e8s",
+    "coordinates": [
+      41.4706,
+      2.08611
     ]
   },
   "216.240.134.107": {
@@ -1367,6 +1407,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "31.201.90.81": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Eindhoven",
+    "coordinates": [
+      51.4549,
+      5.4625
     ]
   },
   "34.148.103.12": {
@@ -2029,16 +2079,6 @@
       14.3263
     ]
   },
-  "89.245.16.251": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3241,
-      10.1344
-    ]
-  },
   "89.66.241.225": {
     "region": "Europe",
     "country": "Poland",
@@ -2137,6 +2177,16 @@
     "coordinates": [
       59.3293,
       18.0686
+    ]
+  },
+  "98.144.80.46": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
     ]
   },
   "99.72.255.45": {
