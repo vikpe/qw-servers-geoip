@@ -749,6 +749,16 @@
       -74.0565
     ]
   },
+  "172.117.114.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6647,
+      -117.9663
+    ]
+  },
   "172.58.60.193": {
     "region": "North America",
     "country": "United States",
@@ -757,6 +767,16 @@
     "coordinates": [
       39.7392,
       -104.99
+    ]
+  },
+  "173.230.126.38": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Champaign",
+    "coordinates": [
+      40.112,
+      -88.2365
     ]
   },
   "174.138.43.249": {
@@ -977,6 +997,16 @@
     "coordinates": [
       52.2297,
       21.0122
+    ]
+  },
+  "192.248.165.199": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Whitechapel",
+    "coordinates": [
+      51.5128,
+      -0.0638
     ]
   },
   "192.99.32.215": {
@@ -1327,6 +1357,16 @@
     "coordinates": [
       41.3908,
       -73.4483
+    ]
+  },
+  "24.87.1.123": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Vancouver",
+    "coordinates": [
+      49.2825,
+      -123.1291
     ]
   },
   "3.108.227.32": {
