@@ -119,16 +119,6 @@
       -87.9954
     ]
   },
-  "109.173.162.172": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Chludowo",
-    "coordinates": [
-      52.5552,
-      16.8384
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -749,14 +739,14 @@
       -74.0565
     ]
   },
-  "173.230.126.38": {
+  "172.117.114.60": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Champaign",
+    "city": "Huntington Beach",
     "coordinates": [
-      40.112,
-      -88.2365
+      33.6647,
+      -117.9663
     ]
   },
   "174.138.43.249": {
@@ -767,16 +757,6 @@
     "coordinates": [
       40.793,
       -74.0247
-    ]
-  },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
     ]
   },
   "174.53.169.69": {
@@ -2037,6 +2017,16 @@
     "coordinates": [
       64.167,
       12.482
+    ]
+  },
+  "89.245.16.225": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3241,
+      10.1344
     ]
   },
   "89.66.241.225": {
