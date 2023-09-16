@@ -119,6 +119,16 @@
       -87.9954
     ]
   },
+  "109.173.162.172": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2297,
+      21.0122
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -545,8 +555,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3241,
-      18.0517
+      59.3287,
+      18.0717
     ]
   },
   "158.248.75.93": {
@@ -779,6 +789,16 @@
       82.9202
     ]
   },
+  "177.235.58.167": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
+    ]
+  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -853,10 +873,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Ballarat",
+    "city": "Darley",
     "coordinates": [
-      -37.5691,
-      143.8561
+      -37.6517,
+      144.4296
     ]
   },
   "185.11.166.90": {
@@ -1185,8 +1205,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8506,
-      174.7679
+      -36.8542,
+      174.764
     ]
   },
   "212.42.38.88": {
@@ -1305,8 +1325,8 @@
     "cc": "US",
     "city": "Danbury",
     "coordinates": [
-      41.3908,
-      -73.4483
+      41.4235,
+      -73.4724
     ]
   },
   "24.87.1.123": {
@@ -1573,10 +1593,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Nixa",
+    "city": "Ozark",
     "coordinates": [
-      37.0504,
-      -93.3002
+      37.0142,
+      -93.1986
     ]
   },
   "5.161.189.133": {
@@ -1633,10 +1653,10 @@
     "region": "Europe",
     "country": "France",
     "cc": "FR",
-    "city": "Dieppe",
+    "city": "Gravelines",
     "coordinates": [
-      49.9206,
-      1.0891
+      50.9871,
+      2.12554
     ]
   },
   "51.38.225.118": {
@@ -1735,8 +1755,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.4437,
-      153.0244
+      -27.4679,
+      153.0325
     ]
   },
   "61.245.153.149": {
@@ -1793,10 +1813,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lehigh Acres",
+    "city": "Cape Coral",
     "coordinates": [
-      26.5936,
-      -81.6619
+      26.6067,
+      -81.9507
     ]
   },
   "70.34.202.147": {
@@ -1973,10 +1993,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Skondal",
     "coordinates": [
-      59.3241,
-      18.0517
+      59.2484,
+      18.1223
     ]
   },
   "85.242.107.149": {
@@ -2019,16 +2039,6 @@
       12.482
     ]
   },
-  "89.245.16.225": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3241,
-      10.1344
-    ]
-  },
   "89.66.241.225": {
     "region": "Europe",
     "country": "Poland",
@@ -2065,8 +2075,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.4982,
-      13.4755
+      52.5221,
+      13.4814
     ]
   },
   "94.16.128.193": {
@@ -2137,6 +2147,16 @@
     "coordinates": [
       45.0874,
       -87.6697
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.8008,
+      -96.7884
     ]
   },
   "99.72.255.45": {
