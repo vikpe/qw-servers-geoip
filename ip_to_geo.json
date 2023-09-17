@@ -209,16 +209,6 @@
       -46.6361
     ]
   },
-  "13.239.6.89": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
-    ]
-  },
   "13.245.119.116": {
     "region": "Africa",
     "country": "South Africa",
@@ -779,6 +769,16 @@
       -93.2406
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -867,16 +867,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "182.239.198.68": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Darley",
-    "coordinates": [
-      -37.6517,
-      144.4296
     ]
   },
   "185.11.166.90": {
@@ -1239,6 +1229,16 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Sant Cugat del Vall\u00e8s",
+    "coordinates": [
+      41.4706,
+      2.08611
+    ]
+  },
   "216.238.105.28": {
     "region": "South America",
     "country": "Brazil",
@@ -1347,6 +1347,16 @@
     "coordinates": [
       19.076,
       72.8777
+    ]
+  },
+  "3.27.191.74": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
     ]
   },
   "3.76.38.12": {
@@ -1689,16 +1699,6 @@
       -78.37471
     ]
   },
-  "52.63.245.209": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
-    ]
-  },
   "52.67.74.216": {
     "region": "South America",
     "country": "Brazil",
@@ -1879,6 +1879,16 @@
       -87.6318
     ]
   },
+  "75.215.231.38": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      39.934,
+      -75.16
+    ]
+  },
   "76.197.31.54": {
     "region": "North America",
     "country": "United States",
@@ -1977,6 +1987,16 @@
     "coordinates": [
       52.3006,
       4.9479
+    ]
+  },
+  "83.245.190.207": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Nurmij\u00e4rvi",
+    "coordinates": [
+      60.4666,
+      24.8233
     ]
   },
   "83.97.79.218": {
