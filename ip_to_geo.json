@@ -279,16 +279,6 @@
       18.0637
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.181.96.161": {
     "region": "Europe",
     "country": "Finland",
@@ -487,16 +477,6 @@
     "coordinates": [
       39.018,
       -77.539
-    ]
-  },
-  "152.249.55.179": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.6283,
-      -46.6409
     ]
   },
   "152.67.110.136": {
@@ -749,16 +729,6 @@
       -74.0565
     ]
   },
-  "172.117.114.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6647,
-      -117.9663
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -939,16 +909,6 @@
       -49.2063
     ]
   },
-  "191.23.26.68": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
-    ]
-  },
   "192.166.218.37": {
     "region": "Europe",
     "country": "Poland",
@@ -957,16 +917,6 @@
     "coordinates": [
       52.2297,
       21.0122
-    ]
-  },
-  "192.248.165.199": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Whitechapel",
-    "coordinates": [
-      51.5128,
-      -0.0638
     ]
   },
   "192.99.32.215": {
@@ -1157,6 +1107,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "207.188.181.25": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Cambre",
+    "coordinates": [
+      43.2675,
+      -8.3218
     ]
   },
   "208.77.22.94": {
@@ -1839,16 +1799,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1889,14 +1839,14 @@
       14.4998
     ]
   },
-  "78.108.218.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Buffalo",
+  "78.45.93.104": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
     "coordinates": [
-      42.8928,
-      -78.8772
+      50.0883,
+      14.4124
     ]
   },
   "79.139.57.116": {
@@ -2029,7 +1979,7 @@
       12.482
     ]
   },
-  "89.245.16.225": {
+  "89.245.16.236": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
