@@ -119,16 +119,6 @@
       -87.9954
     ]
   },
-  "109.173.162.172": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2297,
-      21.0122
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -277,6 +267,16 @@
     "coordinates": [
       59.4417,
       18.0637
+    ]
+  },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
     ]
   },
   "135.181.96.161": {
@@ -909,16 +909,6 @@
       -49.2063
     ]
   },
-  "192.166.218.37": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2297,
-      21.0122
-    ]
-  },
   "192.99.32.215": {
     "region": "North America",
     "country": "Canada",
@@ -1349,6 +1339,16 @@
       -6.26031
     ]
   },
+  "34.30.132.128": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1377,16 +1377,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.188.46.144": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "37.201.131.70": {
@@ -1519,6 +1509,16 @@
       -96.8021
     ]
   },
+  "45.8.17.86": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.2393,
+      6.1867
+    ]
+  },
   "46.101.78.83": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1597,16 +1597,6 @@
     "coordinates": [
       48.5734,
       7.75211
-    ]
-  },
-  "51.210.104.42": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Gravelines",
-    "coordinates": [
-      50.9871,
-      2.12554
     ]
   },
   "51.38.225.118": {
@@ -1819,24 +1809,24 @@
       -87.6318
     ]
   },
-  "75.215.231.38": {
+  "75.192.148.74": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Lancaster",
     "coordinates": [
-      39.934,
-      -75.16
+      40.0305,
+      -76.2833
     ]
   },
-  "78.102.228.227": {
+  "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0844,
-      14.4998
+      50.0883,
+      14.4124
     ]
   },
   "78.45.93.104": {
@@ -1979,16 +1969,6 @@
       12.482
     ]
   },
-  "89.245.16.236": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3241,
-      10.1344
-    ]
-  },
   "89.66.241.225": {
     "region": "Europe",
     "country": "Poland",
@@ -1997,6 +1977,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "91.155.186.236": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1699,
+      24.9384
     ]
   },
   "91.206.14.17": {
@@ -2097,16 +2087,6 @@
     "coordinates": [
       45.0874,
       -87.6697
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.8008,
-      -96.7884
     ]
   },
   "99.72.255.45": {
