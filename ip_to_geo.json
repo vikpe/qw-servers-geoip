@@ -59,16 +59,6 @@
       -83.0458
     ]
   },
-  "104.142.113.219": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Victoria",
-    "coordinates": [
-      48.4574,
-      -123.3436
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -107,16 +97,6 @@
     "coordinates": [
       50.1103,
       8.7147
-    ]
-  },
-  "108.61.242.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elk Grove Village",
-    "coordinates": [
-      42.0048,
-      -87.9954
     ]
   },
   "109.200.20.152": {
@@ -247,16 +227,6 @@
     "coordinates": [
       50.1049,
       8.6295
-    ]
-  },
-  "130.185.251.13": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5269,
-      -0.0991
     ]
   },
   "130.242.114.28": {
@@ -709,16 +679,6 @@
       -93.6208
     ]
   },
-  "170.239.85.110": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Curic\u00f3",
-    "coordinates": [
-      -34.982,
-      -71.232
-    ]
-  },
   "170.39.226.130": {
     "region": "North America",
     "country": "United States",
@@ -727,6 +687,16 @@
     "coordinates": [
       40.7895,
       -74.0565
+    ]
+  },
+  "173.218.134.99": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -1067,16 +1037,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "203.29.243.177": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.8575,
-      115.8913
     ]
   },
   "206.51.245.84": {
@@ -1509,7 +1469,7 @@
       -96.8021
     ]
   },
-  "45.8.17.86": {
+  "45.8.17.124": {
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
@@ -1959,6 +1919,16 @@
       20.9853
     ]
   },
+  "87.92.47.236": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1797,
+      24.9344
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1967,6 +1937,16 @@
     "coordinates": [
       64.167,
       12.482
+    ]
+  },
+  "89.207.221.209": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Kudrovo",
+    "coordinates": [
+      59.9035,
+      30.5106
     ]
   },
   "89.66.241.225": {
@@ -1979,14 +1959,14 @@
       21.0067
     ]
   },
-  "91.155.186.236": {
+  "91.132.95.120": {
     "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
     "coordinates": [
-      60.1699,
-      24.9384
+      51.5118,
+      -0.0036065
     ]
   },
   "91.206.14.17": {
@@ -2087,6 +2067,16 @@
     "coordinates": [
       45.0874,
       -87.6697
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.8008,
+      -96.7884
     ]
   },
   "99.72.255.45": {
