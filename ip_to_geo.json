@@ -449,16 +449,6 @@
       -77.539
     ]
   },
-  "151.213.159.39": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Newton",
-    "coordinates": [
-      41.6892,
-      -93.0534
-    ]
-  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -589,16 +579,6 @@
       144.9669
     ]
   },
-  "160.16.101.168": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.6893,
-      139.6899
-    ]
-  },
   "160.20.247.59": {
     "region": "South America",
     "country": "Argentina",
@@ -689,16 +669,6 @@
       -93.6208
     ]
   },
-  "169.1.40.123": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Cape Town",
-    "coordinates": [
-      -33.9249,
-      18.4241
-    ]
-  },
   "170.39.226.130": {
     "region": "North America",
     "country": "United States",
@@ -747,6 +717,16 @@
     "coordinates": [
       55.0285,
       82.9202
+    ]
+  },
+  "176.72.148.165": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4911,
+      23.9055
     ]
   },
   "177.235.58.167": {
@@ -1087,6 +1067,16 @@
     "coordinates": [
       41.13925,
       -104.816154
+    ]
+  },
+  "203.29.243.177": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.8575,
+      115.8913
     ]
   },
   "206.51.245.84": {
@@ -1969,7 +1959,7 @@
       8.7399
     ]
   },
-  "87.92.47.236": {
+  "87.92.95.188": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
@@ -2087,6 +2077,16 @@
     "coordinates": [
       40.2057,
       -8.4213
+    ]
+  },
+  "98.128.174.153": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
     ]
   },
   "98.128.186.18": {
