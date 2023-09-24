@@ -579,6 +579,16 @@
       144.9669
     ]
   },
+  "160.16.101.168": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": [
+      35.6893,
+      139.6899
+    ]
+  },
   "160.20.247.59": {
     "region": "South America",
     "country": "Argentina",
@@ -677,16 +687,6 @@
     "coordinates": [
       40.7895,
       -74.0565
-    ]
-  },
-  "173.218.134.99": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -887,16 +887,6 @@
     "coordinates": [
       -16.561,
       -49.2063
-    ]
-  },
-  "191.23.26.68": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
     ]
   },
   "192.99.32.215": {
@@ -1167,6 +1157,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Sant Cugat del Vall\u00e8s",
+    "coordinates": [
+      41.4706,
+      2.08611
     ]
   },
   "216.238.105.28": {
@@ -1809,14 +1809,14 @@
       -87.6318
     ]
   },
-  "75.192.148.74": {
+  "75.192.176.152": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lancaster",
+    "city": "Philadelphia",
     "coordinates": [
-      40.0305,
-      -76.2833
+      39.9945,
+      -75.1648
     ]
   },
   "78.45.89.65": {
