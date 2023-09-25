@@ -69,6 +69,16 @@
       -74.4606
     ]
   },
+  "106.47.84.170": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1488,
+      117.1762
+    ]
+  },
   "107.174.68.133": {
     "region": "North America",
     "country": "United States",
@@ -157,16 +167,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "129.146.21.65": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.4656,
-      -111.9956
     ]
   },
   "129.148.54.225": {
@@ -539,16 +539,6 @@
       -79.3623
     ]
   },
-  "159.65.227.193": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Bergen",
-    "coordinates": [
-      40.793,
-      -74.0247
-    ]
-  },
   "159.65.230.186": {
     "region": "North America",
     "country": "United States",
@@ -719,16 +709,6 @@
       82.9202
     ]
   },
-  "176.72.148.165": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4911,
-      23.9055
-    ]
-  },
   "177.235.58.167": {
     "region": "South America",
     "country": "Brazil",
@@ -877,16 +857,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "191.223.251.197": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.561,
-      -49.2063
     ]
   },
   "192.99.32.215": {
@@ -1159,16 +1129,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Sant Cugat del Vall\u00e8s",
-    "coordinates": [
-      41.4706,
-      2.08611
-    ]
-  },
   "216.238.105.28": {
     "region": "South America",
     "country": "Brazil",
@@ -1247,16 +1207,6 @@
     "coordinates": [
       32.7767,
       -96.797
-    ]
-  },
-  "24.218.94.21": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.4235,
-      -73.4724
     ]
   },
   "24.87.1.123": {
@@ -1789,6 +1739,16 @@
       -75.0041
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1817,6 +1777,16 @@
     "coordinates": [
       39.9945,
       -75.1648
+    ]
+  },
+  "76.23.136.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
     ]
   },
   "78.45.89.65": {
