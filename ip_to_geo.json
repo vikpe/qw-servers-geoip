@@ -69,16 +69,6 @@
       -74.4606
     ]
   },
-  "106.47.84.170": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1488,
-      117.1762
-    ]
-  },
   "107.174.68.133": {
     "region": "North America",
     "country": "United States",
@@ -449,6 +439,16 @@
       -77.539
     ]
   },
+  "151.213.159.39": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Newton",
+    "coordinates": [
+      41.6892,
+      -93.0534
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -503,10 +503,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Nora",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.4177,
+      18.0234
     ]
   },
   "158.248.75.93": {
@@ -859,6 +859,16 @@
       12.365
     ]
   },
+  "191.223.251.197": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.561,
+      -49.2063
+    ]
+  },
   "192.99.32.215": {
     "region": "North America",
     "country": "Canada",
@@ -1063,10 +1073,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "Cambre",
+    "city": "Alcobendas",
     "coordinates": [
-      43.2675,
-      -8.3218
+      40.5339,
+      -3.6312
     ]
   },
   "208.77.22.94": {
@@ -1459,7 +1469,7 @@
       -96.8021
     ]
   },
-  "45.8.17.124": {
+  "45.8.17.88": {
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
@@ -1739,16 +1749,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1773,10 +1773,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Mullica Hill",
     "coordinates": [
-      39.9945,
-      -75.1648
+      39.7242,
+      -75.2076
     ]
   },
   "76.23.136.13": {
@@ -1995,8 +1995,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.5221,
-      13.4814
+      52.5196,
+      13.4603
     ]
   },
   "94.16.128.193": {
@@ -2047,16 +2047,6 @@
     "coordinates": [
       40.2057,
       -8.4213
-    ]
-  },
-  "98.128.174.153": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "98.128.186.18": {
