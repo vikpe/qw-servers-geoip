@@ -69,14 +69,14 @@
       -74.4606
     ]
   },
-  "107.174.68.133": {
+  "107.184.4.243": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Piscataway",
+    "city": "Huntington Beach",
     "coordinates": [
-      40.5549,
-      -74.4643
+      33.675,
+      -118.0027
     ]
   },
   "108.61.117.210": {
@@ -449,6 +449,16 @@
       -77.539
     ]
   },
+  "151.213.159.39": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Newton",
+    "coordinates": [
+      41.6892,
+      -93.0534
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -487,6 +497,16 @@
     "coordinates": [
       1.35208,
       103.82
+    ]
+  },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
     ]
   },
   "158.174.255.11": {
@@ -699,6 +719,16 @@
       -93.2406
     ]
   },
+  "176.210.100.6": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Novosibirsk",
+    "coordinates": [
+      55.0285,
+      82.9202
+    ]
+  },
   "177.235.58.167": {
     "region": "South America",
     "country": "Brazil",
@@ -857,16 +887,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "191.223.251.197": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.561,
-      -49.2063
     ]
   },
   "191.9.104.185": {
@@ -1677,16 +1697,6 @@
     "coordinates": [
       40.793,
       -74.0247
-    ]
-  },
-  "65.109.55.167": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1797,
-      24.9344
     ]
   },
   "66.85.80.160": {
