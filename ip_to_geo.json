@@ -1779,16 +1779,6 @@
       -75.2076
     ]
   },
-  "76.23.136.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1929,16 +1919,6 @@
       8.7399
     ]
   },
-  "87.92.95.188": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1797,
-      24.9344
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1947,6 +1927,16 @@
     "coordinates": [
       64.167,
       12.482
+    ]
+  },
+  "89.154.36.153": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1691,
+      -8.6793
     ]
   },
   "89.207.221.209": {
@@ -2047,6 +2037,16 @@
     "coordinates": [
       40.2057,
       -8.4213
+    ]
+  },
+  "96.236.191.172": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bridgeville",
+    "coordinates": [
+      40.3472,
+      -80.1153
     ]
   },
   "98.128.174.153": {
