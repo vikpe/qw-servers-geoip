@@ -69,16 +69,6 @@
       -74.4606
     ]
   },
-  "107.184.4.243": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -97,6 +87,16 @@
     "coordinates": [
       50.1103,
       8.7147
+    ]
+  },
+  "108.61.242.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elk Grove Village",
+    "coordinates": [
+      42.0048,
+      -87.9954
     ]
   },
   "109.200.20.152": {
@@ -719,6 +719,16 @@
       -93.2406
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -897,6 +907,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "191.223.251.197": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.561,
+      -49.2063
     ]
   },
   "192.99.32.215": {
@@ -1167,6 +1187,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Sant Cugat del Vall\u00e8s",
+    "coordinates": [
+      41.4706,
+      2.08611
     ]
   },
   "216.238.105.28": {
@@ -1769,14 +1799,14 @@
       -87.6318
     ]
   },
-  "75.192.176.152": {
+  "75.192.150.56": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Mullica Hill",
+    "city": "Highland",
     "coordinates": [
-      39.7242,
-      -75.2076
+      39.9561,
+      -75.2719
     ]
   },
   "78.45.89.65": {
@@ -1929,16 +1959,6 @@
       12.482
     ]
   },
-  "89.154.36.153": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
-    ]
-  },
   "89.207.221.209": {
     "region": "Europe",
     "country": "Russia",
@@ -2037,16 +2057,6 @@
     "coordinates": [
       40.2057,
       -8.4213
-    ]
-  },
-  "96.236.191.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bridgeville",
-    "coordinates": [
-      40.3472,
-      -80.1153
     ]
   },
   "98.128.174.153": {
