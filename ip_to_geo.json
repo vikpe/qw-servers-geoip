@@ -69,16 +69,6 @@
       -74.4606
     ]
   },
-  "107.184.4.243": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -739,16 +729,6 @@
       -93.2406
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1217,16 +1197,6 @@
     "coordinates": [
       -23.5335,
       -46.6359
-    ]
-  },
-  "216.240.134.107": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Santa Clarita",
-    "coordinates": [
-      34.4255,
-      -118.425
     ]
   },
   "217.197.83.154": {
@@ -1729,6 +1699,16 @@
       138.5999
     ]
   },
+  "64.180.85.241": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Victoria",
+    "coordinates": [
+      48.4371,
+      -123.3597
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1809,16 +1789,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1897,6 +1867,16 @@
     "coordinates": [
       48.1077,
       11.6091
+    ]
+  },
+  "81.19.217.125": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5088,
+      -0.093
     ]
   },
   "82.102.20.226": {
