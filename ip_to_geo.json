@@ -219,6 +219,16 @@
       8.6295
     ]
   },
+  "130.185.249.174": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5269,
+      -0.0991
+    ]
+  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -417,6 +427,16 @@
     "coordinates": [
       51.5897,
       -0.249103
+    ]
+  },
+  "148.135.104.18": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0515,
+      -118.2707
     ]
   },
   "149.28.240.2": {
@@ -709,6 +729,16 @@
       -105.0619
     ]
   },
+  "173.218.134.99": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -797,6 +827,16 @@
     "coordinates": [
       35.6895,
       139.692
+    ]
+  },
+  "18.208.156.115": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
     ]
   },
   "18.228.199.156": {
@@ -1209,6 +1249,16 @@
       13.4069
     ]
   },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1297,16 +1347,6 @@
     "coordinates": [
       50.1109,
       8.68213
-    ]
-  },
-  "3.84.253.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "31.201.90.81": {
@@ -1869,16 +1909,6 @@
       11.6091
     ]
   },
-  "81.19.217.125": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5088,
-      -0.093
-    ]
-  },
   "82.102.20.226": {
     "region": "Europe",
     "country": "Denmark",
@@ -1999,16 +2029,6 @@
       21.0067
     ]
   },
-  "91.132.95.120": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5118,
-      -0.0036065
-    ]
-  },
   "91.206.14.17": {
     "region": "Europe",
     "country": "Russia",
@@ -2107,6 +2127,16 @@
     "coordinates": [
       45.0874,
       -87.6697
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7797,
+      -96.8022
     ]
   },
   "99.72.255.45": {
