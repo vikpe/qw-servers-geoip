@@ -509,16 +509,6 @@
       144.75
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -699,6 +689,16 @@
       -93.6208
     ]
   },
+  "170.239.85.110": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Curic\u00f3",
+    "coordinates": [
+      -34.982,
+      -71.232
+    ]
+  },
   "170.39.226.130": {
     "region": "North America",
     "country": "United States",
@@ -707,6 +707,16 @@
     "coordinates": [
       40.7895,
       -74.0565
+    ]
+  },
+  "172.105.184.44": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "172.245.19.127": {
@@ -727,16 +737,6 @@
     "coordinates": [
       39.7435,
       -105.0619
-    ]
-  },
-  "173.218.134.99": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -2039,7 +2039,7 @@
       37.6171
     ]
   },
-  "91.66.2.46": {
+  "91.66.2.91": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
