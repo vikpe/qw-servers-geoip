@@ -509,6 +509,16 @@
       144.75
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -1249,6 +1259,16 @@
       13.4069
     ]
   },
+  "217.215.138.225": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Vaestra Froelunda",
+    "coordinates": [
+      57.6442,
+      11.9332
+    ]
+  },
   "220.233.95.7": {
     "region": "Oceania",
     "country": "Australia",
@@ -1829,6 +1849,16 @@
       -75.0041
     ]
   },
+  "73.249.33.82": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Tolland",
+    "coordinates": [
+      41.8663,
+      -72.3744
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1989,16 +2019,6 @@
       20.9853
     ]
   },
-  "87.189.50.12": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2037,6 +2057,16 @@
     "coordinates": [
       55.7483,
       37.6171
+    ]
+  },
+  "91.55.65.86": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "91.66.2.91": {
