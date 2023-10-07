@@ -469,6 +469,16 @@
       -77.539
     ]
   },
+  "151.213.159.39": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Newton",
+    "coordinates": [
+      41.6892,
+      -93.0534
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -507,16 +517,6 @@
     "coordinates": [
       13.4763,
       144.75
-    ]
-  },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
     ]
   },
   "158.174.255.11": {
@@ -729,26 +729,6 @@
       151.2006
     ]
   },
-  "172.245.19.127": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.038,
-      -118.4544
-    ]
-  },
-  "172.59.226.67": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.7435,
-      -105.0619
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -767,6 +747,16 @@
     "coordinates": [
       44.9064,
       -93.2406
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
     ]
   },
   "176.210.100.6": {
@@ -877,6 +867,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "182.239.198.9": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Darley",
+    "coordinates": [
+      -37.6517,
+      144.4296
     ]
   },
   "185.11.166.90": {
@@ -1349,6 +1349,16 @@
       72.8777
     ]
   },
+  "3.25.174.195": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
+    ]
+  },
   "3.27.191.74": {
     "region": "Oceania",
     "country": "Australia",
@@ -1609,6 +1619,16 @@
       17.9612
     ]
   },
+  "47.213.168.199": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ozark",
+    "coordinates": [
+      37.0142,
+      -93.1986
+    ]
+  },
   "5.161.189.133": {
     "region": "North America",
     "country": "United States",
@@ -1847,16 +1867,6 @@
     "coordinates": [
       40.185,
       -75.0041
-    ]
-  },
-  "73.249.33.82": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Tolland",
-    "coordinates": [
-      41.8663,
-      -72.3744
     ]
   },
   "74.91.120.206": {
