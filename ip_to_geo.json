@@ -469,16 +469,6 @@
       -77.539
     ]
   },
-  "151.213.159.39": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Newton",
-    "coordinates": [
-      41.6892,
-      -93.0534
-    ]
-  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -519,14 +509,14 @@
       144.75
     ]
   },
-  "158.174.255.11": {
+  "158.101.195.75": {
     "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Nora",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
     "coordinates": [
-      59.4177,
-      18.0234
+      52.352,
+      4.9392
     ]
   },
   "158.248.75.93": {
@@ -879,16 +869,6 @@
       144.4296
     ]
   },
-  "185.11.166.90": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Lisbon",
-    "coordinates": [
-      38.7223,
-      -9.13934
-    ]
-  },
   "185.189.139.18": {
     "region": "Europe",
     "country": "Poland",
@@ -1239,6 +1219,16 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.5167,
+      -3.66479
+    ]
+  },
   "216.238.105.28": {
     "region": "South America",
     "country": "Brazil",
@@ -1267,16 +1257,6 @@
     "coordinates": [
       57.6442,
       11.9332
-    ]
-  },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
     ]
   },
   "223.165.64.141": {
@@ -1350,16 +1330,6 @@
     ]
   },
   "3.25.174.195": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
-    ]
-  },
-  "3.27.191.74": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -1887,6 +1857,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.181.244.108": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Holly Springs",
+    "coordinates": [
+      35.6263,
+      -78.8458
     ]
   },
   "75.192.150.56": {
