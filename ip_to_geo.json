@@ -69,6 +69,16 @@
       -74.4606
     ]
   },
+  "107.184.4.243": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "Netherlands",
@@ -509,14 +519,14 @@
       144.75
     ]
   },
-  "158.101.195.75": {
+  "158.174.255.11": {
     "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Nora",
     "coordinates": [
-      52.352,
-      4.9392
+      59.4177,
+      18.0234
     ]
   },
   "158.248.75.93": {
@@ -639,16 +649,6 @@
       2.32141
     ]
   },
-  "163.47.21.45": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8506,
-      174.7679
-    ]
-  },
   "164.152.62.160": {
     "region": "South America",
     "country": "Brazil",
@@ -737,16 +737,6 @@
     "coordinates": [
       44.9064,
       -93.2406
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "176.210.100.6": {
@@ -989,16 +979,6 @@
       21.0122
     ]
   },
-  "194.132.173.193": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Norsjoe",
-    "coordinates": [
-      64.9081,
-      19.4647
-    ]
-  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1219,16 +1199,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
-    "coordinates": [
-      40.5167,
-      -3.66479
-    ]
-  },
   "216.238.105.28": {
     "region": "South America",
     "country": "Brazil",
@@ -1280,16 +1250,6 @@
     ]
   },
   "23.227.170.216": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.8137,
-      -96.8704
-    ]
-  },
-  "23.227.170.222": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1839,6 +1799,16 @@
       -75.0041
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1857,16 +1827,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.181.244.108": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Holly Springs",
-    "coordinates": [
-      35.6263,
-      -78.8458
     ]
   },
   "75.192.150.56": {
@@ -2120,16 +2080,6 @@
     ]
   },
   "98.128.174.153": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
-    ]
-  },
-  "98.128.186.18": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
