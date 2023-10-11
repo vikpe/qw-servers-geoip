@@ -469,16 +469,6 @@
       -77.539
     ]
   },
-  "151.213.159.39": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Newton",
-    "coordinates": [
-      41.6892,
-      -93.0534
-    ]
-  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -1489,6 +1479,16 @@
       -77.4874
     ]
   },
+  "45.128.199.93": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
+    ]
+  },
   "45.142.244.163": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1577,16 +1577,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "45.8.17.88": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.2393,
-      6.1867
     ]
   },
   "46.101.78.83": {
@@ -2127,6 +2117,16 @@
     "coordinates": [
       57.7065,
       11.967
+    ]
+  },
+  "98.144.80.46": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0874,
+      -87.6697
     ]
   },
   "99.48.163.106": {
