@@ -469,6 +469,16 @@
       -77.539
     ]
   },
+  "151.213.159.39": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Newton",
+    "coordinates": [
+      41.6892,
+      -93.0534
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -729,14 +739,24 @@
       151.2006
     ]
   },
-  "172.59.226.67": {
+  "172.59.75.90": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Denver",
+    "city": "Kansas City",
     "coordinates": [
-      39.7435,
-      -105.0619
+      39.1027,
+      -94.5778
+    ]
+  },
+  "172.92.242.150": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "173.218.134.99": {
@@ -1479,16 +1499,6 @@
       -77.4874
     ]
   },
-  "45.128.199.93": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
-    ]
-  },
   "45.142.244.163": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1579,6 +1589,16 @@
       -96.8021
     ]
   },
+  "45.8.17.112": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.2393,
+      6.1867
+    ]
+  },
   "46.101.78.83": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1639,6 +1659,16 @@
       -96.7028
     ]
   },
+  "51.210.10.181": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Strasbourg",
+    "coordinates": [
+      48.5734,
+      7.75211
+    ]
+  },
   "51.38.225.118": {
     "region": "Europe",
     "country": "France",
@@ -1647,6 +1677,16 @@
     "coordinates": [
       50.9959,
       2.11757
+    ]
+  },
+  "52.14.54.157": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
     ]
   },
   "52.159.114.44": {
@@ -2127,16 +2167,6 @@
     "coordinates": [
       45.0874,
       -87.6697
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7797,
-      -96.8022
     ]
   },
   "99.72.255.45": {
