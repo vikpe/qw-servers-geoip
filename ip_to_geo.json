@@ -125,8 +125,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8556,
-      174.8441
+      -36.8867,
+      174.769
     ]
   },
   "116.203.97.160": {
@@ -239,16 +239,6 @@
       18.0637
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.181.96.161": {
     "region": "Europe",
     "country": "Finland",
@@ -263,10 +253,10 @@
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Markham",
+    "city": "Richmond Hill",
     "coordinates": [
-      43.8528,
-      -79.3211
+      43.8678,
+      -79.442
     ]
   },
   "136.243.174.101": {
@@ -469,16 +459,6 @@
       -77.539
     ]
   },
-  "151.213.159.39": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Newton",
-    "coordinates": [
-      41.6892,
-      -93.0534
-    ]
-  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -519,24 +499,14 @@
       144.75
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Nora",
+    "city": "Gothenburg",
     "coordinates": [
-      59.4177,
-      18.0234
+      57.7065,
+      11.967
     ]
   },
   "158.248.75.93": {
@@ -545,8 +515,8 @@
     "cc": "NO",
     "city": "Oslo",
     "coordinates": [
-      59.955,
-      10.859
+      59.9016,
+      10.7343
     ]
   },
   "159.196.248.221": {
@@ -739,26 +709,6 @@
       151.2006
     ]
   },
-  "172.59.75.90": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Kansas City",
-    "coordinates": [
-      39.1027,
-      -94.5778
-    ]
-  },
-  "172.92.242.150": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "173.218.134.99": {
     "region": "North America",
     "country": "United States",
@@ -793,10 +743,10 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "Novosibirsk",
+    "city": "Omsk",
     "coordinates": [
-      55.0285,
-      82.9202
+      54.9978,
+      73.4001
     ]
   },
   "177.235.58.167": {
@@ -1059,6 +1009,16 @@
       10.7511
     ]
   },
+  "199.168.232.14": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Vernon Hills",
+    "coordinates": [
+      42.2284,
+      -87.9722
+    ]
+  },
   "20.106.48.249": {
     "region": "North America",
     "country": "United States",
@@ -1193,10 +1153,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "Alcobendas",
+    "city": "Le\u00f3n",
     "coordinates": [
-      40.5339,
-      -3.6312
+      42.6042,
+      -5.5858
     ]
   },
   "208.77.22.94": {
@@ -1345,8 +1305,8 @@
     "cc": "CA",
     "city": "Vancouver",
     "coordinates": [
-      49.2825,
-      -123.1291
+      49.2958,
+      -123.141
     ]
   },
   "3.108.227.32": {
@@ -1619,6 +1579,16 @@
       17.9612
     ]
   },
+  "47.213.168.199": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ozark",
+    "coordinates": [
+      37.0142,
+      -93.1986
+    ]
+  },
   "5.161.189.133": {
     "region": "North America",
     "country": "United States",
@@ -1677,16 +1647,6 @@
     "coordinates": [
       50.9959,
       2.11757
-    ]
-  },
-  "52.14.54.157": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dublin",
-    "coordinates": [
-      40.0992,
-      -83.1141
     ]
   },
   "52.159.114.44": {
@@ -1825,8 +1785,8 @@
     "cc": "US",
     "city": "Cape Coral",
     "coordinates": [
-      26.6067,
-      -81.9507
+      26.6284,
+      -82.0197
     ]
   },
   "70.34.202.147": {
@@ -1893,20 +1853,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Highland",
     "coordinates": [
-      39.9664,
-      -75.1685
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
+      39.9561,
+      -75.2719
     ]
   },
   "78.45.89.65": {
@@ -1925,8 +1875,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0883,
-      14.4124
+      50.0844,
+      14.4998
     ]
   },
   "79.139.57.116": {
@@ -2003,10 +1953,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Skondal",
+    "city": "Varsta",
     "coordinates": [
       59.2484,
-      18.1223
+      18.0782
     ]
   },
   "85.242.107.149": {
@@ -2095,18 +2045,18 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.5196,
-      13.4603
+      52.5221,
+      13.4814
     ]
   },
   "94.16.128.193": {
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Therwil",
+    "city": "Aesch",
     "coordinates": [
-      47.5053,
-      7.5477
+      47.4702,
+      7.6011
     ]
   },
   "95.165.130.151": {
@@ -2173,10 +2123,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Madison",
+    "city": "Memphis",
     "coordinates": [
-      43.1228,
-      -89.3841
+      35.1431,
+      -90.0492
     ]
   }
 }
