@@ -1,4 +1,14 @@
 {
+  "102.182.230.223": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": [
+      -26.2309,
+      28.0583
+    ]
+  },
   "102.37.98.187": {
     "region": "Africa",
     "country": "South Africa",
@@ -237,6 +247,16 @@
     "coordinates": [
       59.4417,
       18.0637
+    ]
+  },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
     ]
   },
   "135.181.96.161": {
@@ -709,16 +729,6 @@
       151.2006
     ]
   },
-  "173.218.134.99": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -817,6 +827,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "18.220.64.43": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
     ]
   },
   "18.228.199.156": {
@@ -1217,16 +1237,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "216.238.105.28": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5335,
-      -46.6359
     ]
   },
   "217.197.83.154": {
@@ -1857,6 +1867,16 @@
     "coordinates": [
       39.9561,
       -75.2719
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
