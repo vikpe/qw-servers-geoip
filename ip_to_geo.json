@@ -709,16 +709,6 @@
       -93.6208
     ]
   },
-  "170.239.85.110": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Curic\u00f3",
-    "coordinates": [
-      -34.982,
-      -71.232
-    ]
-  },
   "170.39.226.130": {
     "region": "North America",
     "country": "United States",
@@ -747,16 +737,6 @@
     "coordinates": [
       40.793,
       -74.0247
-    ]
-  },
-  "174.53.169.69": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9064,
-      -93.2406
     ]
   },
   "176.210.100.6": {
@@ -1469,6 +1449,16 @@
       -77.4874
     ]
   },
+  "45.128.199.161": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
+    ]
+  },
   "45.142.244.163": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1547,16 +1537,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "45.8.17.112": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.2393,
-      6.1867
     ]
   },
   "46.101.78.83": {
@@ -1829,16 +1809,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1857,16 +1827,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.192.150.56": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Highland",
-    "coordinates": [
-      39.9561,
-      -75.2719
     ]
   },
   "78.45.89.65": {
@@ -1989,17 +1949,7 @@
       -16.9
     ]
   },
-  "85.28.131.207": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Tarn\u00f3w",
-    "coordinates": [
-      50.0196,
-      20.9853
-    ]
-  },
-  "86.179.165.198": {
+  "86.179.165.205": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
