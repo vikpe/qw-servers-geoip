@@ -499,16 +499,6 @@
       -84.4455
     ]
   },
-  "155.138.247.213": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7889,
-      -96.8021
-    ]
-  },
   "156.247.189.2": {
     "region": "Oceania",
     "country": "Guam",
@@ -707,6 +697,16 @@
     "coordinates": [
       41.5908,
       -93.6208
+    ]
+  },
+  "170.239.85.110": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Curic\u00f3",
+    "coordinates": [
+      -34.982,
+      -71.232
     ]
   },
   "170.39.226.130": {
@@ -1209,6 +1209,16 @@
       15.2838
     ]
   },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
+    ]
+  },
   "213.239.216.253": {
     "region": "Europe",
     "country": "Germany",
@@ -1449,7 +1459,7 @@
       -77.4874
     ]
   },
-  "45.128.199.161": {
+  "45.128.199.127": {
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
