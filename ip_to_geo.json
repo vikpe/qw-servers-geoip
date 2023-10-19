@@ -1,14 +1,4 @@
 {
-  "102.182.230.223": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Johannesburg",
-    "coordinates": [
-      -26.2309,
-      28.0583
-    ]
-  },
   "102.37.98.187": {
     "region": "Africa",
     "country": "South Africa",
@@ -417,6 +407,16 @@
     "coordinates": [
       50.1049,
       8.6295
+    ]
+  },
+  "145.239.54.184": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Gravelines",
+    "coordinates": [
+      50.9871,
+      2.12554
     ]
   },
   "145.239.94.156": {
@@ -2107,6 +2107,16 @@
     "coordinates": [
       45.0874,
       -87.6697
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7797,
+      -96.8022
     ]
   },
   "99.72.255.45": {
