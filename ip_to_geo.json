@@ -39,6 +39,16 @@
       138.5999
     ]
   },
+  "103.216.220.30": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
+    ]
+  },
   "103.25.59.27": {
     "region": "Oceania",
     "country": "Australia",
@@ -599,16 +609,6 @@
       139.6899
     ]
   },
-  "160.20.247.59": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
-    ]
-  },
   "162.248.92.183": {
     "region": "North America",
     "country": "United States",
@@ -727,6 +727,16 @@
     "coordinates": [
       -33.8715,
       151.2006
+    ]
+  },
+  "173.218.134.99": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -1009,16 +1019,6 @@
       10.7511
     ]
   },
-  "199.168.232.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Vernon Hills",
-    "coordinates": [
-      42.2284,
-      -87.9722
-    ]
-  },
   "20.106.48.249": {
     "region": "North America",
     "country": "United States",
@@ -1197,6 +1197,16 @@
     "coordinates": [
       55.7558,
       37.6173
+    ]
+  },
+  "212.51.136.80": {
+    "region": "Europe",
+    "country": "Switzerland",
+    "cc": "CH",
+    "city": "Winterthur",
+    "coordinates": [
+      47.5128,
+      8.749
     ]
   },
   "213.115.54.131": {
@@ -1457,16 +1467,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.128.199.127": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
     ]
   },
   "45.142.244.163": {
@@ -1819,6 +1819,16 @@
       -75.0041
     ]
   },
+  "74.111.178.54": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Monroeville",
+    "coordinates": [
+      40.4242,
+      -79.7658
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1967,6 +1977,16 @@
     "coordinates": [
       51.0349,
       0.7882
+    ]
+  },
+  "88.114.63.24": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Hyvinkaeae",
+    "coordinates": [
+      60.6378,
+      24.8645
     ]
   },
   "89.151.207.164": {
