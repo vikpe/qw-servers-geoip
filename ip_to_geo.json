@@ -39,16 +39,6 @@
       138.5999
     ]
   },
-  "103.216.220.30": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
-    ]
-  },
   "103.25.59.27": {
     "region": "Oceania",
     "country": "Australia",
@@ -489,6 +479,16 @@
       -77.539
     ]
   },
+  "151.213.158.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Newton",
+    "coordinates": [
+      41.6892,
+      -93.0534
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -507,6 +507,16 @@
     "coordinates": [
       33.7838,
       -84.4455
+    ]
+  },
+  "155.138.247.213": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
     ]
   },
   "156.247.189.2": {
@@ -607,6 +617,16 @@
     "coordinates": [
       35.6893,
       139.6899
+    ]
+  },
+  "160.20.247.59": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
     ]
   },
   "162.248.92.183": {
@@ -729,16 +749,6 @@
       151.2006
     ]
   },
-  "173.218.134.99": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -747,6 +757,16 @@
     "coordinates": [
       40.793,
       -74.0247
+    ]
+  },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "176.210.100.6": {
@@ -1197,16 +1217,6 @@
     "coordinates": [
       55.7558,
       37.6173
-    ]
-  },
-  "212.51.136.80": {
-    "region": "Europe",
-    "country": "Switzerland",
-    "cc": "CH",
-    "city": "Winterthur",
-    "coordinates": [
-      47.5128,
-      8.749
     ]
   },
   "213.115.54.131": {
@@ -1977,16 +1987,6 @@
     "coordinates": [
       51.0349,
       0.7882
-    ]
-  },
-  "88.114.63.24": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Hyvinkaeae",
-    "coordinates": [
-      60.6378,
-      24.8645
     ]
   },
   "89.151.207.164": {
