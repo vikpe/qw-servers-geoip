@@ -189,6 +189,16 @@
       -0.127758
     ]
   },
+  "13.49.243.223": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
+    ]
+  },
   "13.53.75.0": {
     "region": "Europe",
     "country": "Sweden",
@@ -479,16 +489,6 @@
       -77.539
     ]
   },
-  "151.213.158.65": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Newton",
-    "coordinates": [
-      41.6892,
-      -93.0534
-    ]
-  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -749,6 +749,16 @@
       151.2006
     ]
   },
+  "173.218.134.99": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -767,6 +777,16 @@
     "coordinates": [
       39.8864,
       -79.7249
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
     ]
   },
   "176.210.100.6": {
@@ -1247,6 +1267,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.5167,
+      -3.66479
     ]
   },
   "217.197.83.154": {
@@ -1759,6 +1789,16 @@
       -74.0247
     ]
   },
+  "65.33.174.49": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bradenton",
+    "coordinates": [
+      27.4399,
+      -82.577
+    ]
+  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1767,16 +1807,6 @@
     "coordinates": [
       41.8868,
       -87.6386
-    ]
-  },
-  "68.183.127.4": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Bergen",
-    "coordinates": [
-      40.793,
-      -74.0247
     ]
   },
   "69.247.38.137": {
@@ -1979,14 +2009,14 @@
       -16.9
     ]
   },
-  "86.179.165.205": {
+  "86.161.240.41": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
     "city": "Ashford",
     "coordinates": [
-      51.0349,
-      0.7882
+      51.1004,
+      1.0272
     ]
   },
   "89.151.207.164": {
