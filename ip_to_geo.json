@@ -759,16 +759,6 @@
       -74.0247
     ]
   },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1839,6 +1829,16 @@
       -87.6318
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -2107,6 +2107,16 @@
     "coordinates": [
       45.0874,
       -87.6697
+    ]
+  },
+  "98.176.254.87": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chula Vista",
+    "coordinates": [
+      32.6065,
+      -117.058
     ]
   },
   "99.48.163.106": {
