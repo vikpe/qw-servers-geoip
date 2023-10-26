@@ -273,10 +273,10 @@
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Richmond Hill",
+    "city": "Markham",
     "coordinates": [
-      43.8678,
-      -79.442
+      43.9016,
+      -79.3427
     ]
   },
   "136.243.174.101": {
@@ -443,10 +443,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "London",
+    "city": "Brockley",
     "coordinates": [
-      51.5897,
-      -0.249103
+      51.4648,
+      -0.0373
     ]
   },
   "148.135.104.18": {
@@ -539,24 +539,14 @@
       4.9392
     ]
   },
-  "158.174.255.11": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Oslo",
+    "city": "Fetsund",
     "coordinates": [
-      59.9016,
-      10.7343
+      59.9315,
+      11.1728
     ]
   },
   "159.196.248.221": {
@@ -635,8 +625,8 @@
     "cc": "US",
     "city": "Chicago",
     "coordinates": [
-      41.8868,
-      -87.6386
+      41.8865,
+      -87.6378
     ]
   },
   "162.248.93.195": {
@@ -757,6 +747,16 @@
     "coordinates": [
       40.793,
       -74.0247
+    ]
+  },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "176.210.100.6": {
@@ -1195,8 +1195,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8542,
-      174.764
+      -36.8506,
+      174.7679
     ]
   },
   "212.42.38.88": {
@@ -1315,8 +1315,8 @@
     "cc": "CA",
     "city": "Vancouver",
     "coordinates": [
-      49.2958,
-      -123.141
+      49.2825,
+      -123.1291
     ]
   },
   "3.108.227.32": {
@@ -1467,6 +1467,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.128.199.116": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "45.142.244.163": {
@@ -1755,8 +1765,8 @@
     "cc": "US",
     "city": "Chicago",
     "coordinates": [
-      41.8868,
-      -87.6386
+      41.8865,
+      -87.6378
     ]
   },
   "69.247.38.137": {
@@ -1835,8 +1845,8 @@
     "cc": "US",
     "city": "Huntington Beach",
     "coordinates": [
-      33.675,
-      -118.0027
+      33.6603,
+      -117.9992
     ]
   },
   "78.45.89.65": {
@@ -1873,10 +1883,10 @@
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "Ktis",
+    "city": "Prague",
     "coordinates": [
-      48.9153,
-      14.1389
+      50.0883,
+      14.4124
     ]
   },
   "80.241.209.47": {
@@ -1935,8 +1945,8 @@
     "cc": "SE",
     "city": "Varsta",
     "coordinates": [
-      59.2484,
-      18.0782
+      59.2491,
+      18.0755
     ]
   },
   "85.242.107.149": {
@@ -1959,14 +1969,14 @@
       -16.9
     ]
   },
-  "86.161.240.41": {
+  "86.133.56.198": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
     "city": "Ashford",
     "coordinates": [
-      51.1004,
-      1.0272
+      51.1469,
+      0.8773
     ]
   },
   "89.151.207.164": {
@@ -2029,14 +2039,14 @@
       13.4814
     ]
   },
-  "92.208.37.117": {
+  "92.208.35.59": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Senftenberg",
+    "city": "Kamminke",
     "coordinates": [
-      51.5252,
-      14.0031
+      53.872,
+      14.2108
     ]
   },
   "94.16.128.193": {
@@ -2107,16 +2117,6 @@
     "coordinates": [
       45.0874,
       -87.6697
-    ]
-  },
-  "98.176.254.87": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chula Vista",
-    "coordinates": [
-      32.6065,
-      -117.058
     ]
   },
   "99.48.163.106": {
