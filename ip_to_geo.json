@@ -209,16 +209,6 @@
       18.0686
     ]
   },
-  "13.79.234.207": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3478,
-      -6.2597
-    ]
-  },
   "130.162.236.198": {
     "region": "Europe",
     "country": "Germany",
@@ -539,6 +529,16 @@
       4.9392
     ]
   },
+  "158.174.255.11": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -747,16 +747,6 @@
     "coordinates": [
       40.793,
       -74.0247
-    ]
-  },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
     ]
   },
   "176.210.100.6": {
@@ -1469,16 +1459,6 @@
       -77.4874
     ]
   },
-  "45.128.199.116": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
-    ]
-  },
   "45.142.244.163": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1819,6 +1799,16 @@
       -75.0041
     ]
   },
+  "74.111.178.54": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Monroeville",
+    "coordinates": [
+      40.4242,
+      -79.7658
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1847,6 +1837,16 @@
     "coordinates": [
       33.6603,
       -117.9992
+    ]
+  },
+  "78.108.218.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Buffalo",
+    "coordinates": [
+      42.8867,
+      -78.8927
     ]
   },
   "78.45.89.65": {
@@ -1989,6 +1989,16 @@
       12.482
     ]
   },
+  "89.154.36.153": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1691,
+      -8.6793
+    ]
+  },
   "89.207.221.209": {
     "region": "Europe",
     "country": "Russia",
@@ -2037,16 +2047,6 @@
     "coordinates": [
       52.5221,
       13.4814
-    ]
-  },
-  "92.208.35.59": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kamminke",
-    "coordinates": [
-      53.872,
-      14.2108
     ]
   },
   "94.16.128.193": {
@@ -2117,16 +2117,6 @@
     "coordinates": [
       45.0874,
       -87.6697
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7797,
-      -96.8022
     ]
   },
   "99.72.255.45": {
