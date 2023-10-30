@@ -479,6 +479,16 @@
       -77.539
     ]
   },
+  "151.213.158.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Coffey",
+    "coordinates": [
+      40.1031,
+      -94.0225
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -519,14 +529,14 @@
       144.75
     ]
   },
-  "158.174.255.11": {
+  "158.101.195.75": {
     "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
     "coordinates": [
-      59.3287,
-      18.0717
+      52.352,
+      4.9392
     ]
   },
   "158.248.75.93": {
@@ -747,16 +757,6 @@
     "coordinates": [
       48.0961,
       -122.2002
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "176.210.100.6": {
@@ -1069,6 +1069,16 @@
       -6.2597
     ]
   },
+  "20.193.138.18": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Pune",
+    "coordinates": [
+      18.5144,
+      73.864235
+    ]
+  },
   "20.221.237.152": {
     "region": "North America",
     "country": "United States",
@@ -1249,16 +1259,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
-    "coordinates": [
-      40.5167,
-      -3.66479
-    ]
-  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1317,6 +1317,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "23.233.93.92": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Orangeville",
+    "coordinates": [
+      43.9702,
+      -80.016
     ]
   },
   "23.95.92.47": {
@@ -1819,14 +1829,14 @@
       -75.0041
     ]
   },
-  "74.111.178.54": {
+  "73.202.0.3": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Monroeville",
+    "city": "Petaluma",
     "coordinates": [
-      40.4242,
-      -79.7658
+      38.2478,
+      -122.6192
     ]
   },
   "74.91.120.206": {
@@ -1997,16 +2007,6 @@
     "coordinates": [
       64.167,
       12.482
-    ]
-  },
-  "89.154.36.153": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
     ]
   },
   "89.207.221.209": {
