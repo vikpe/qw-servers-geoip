@@ -99,6 +99,16 @@
       -87.9954
     ]
   },
+  "109.173.162.189": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Poznan",
+    "coordinates": [
+      52.4052,
+      16.9339
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -479,16 +489,6 @@
       -77.539
     ]
   },
-  "151.213.158.65": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Coffey",
-    "coordinates": [
-      40.1031,
-      -94.0225
-    ]
-  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -497,16 +497,6 @@
     "coordinates": [
       -33.8688,
       151.209
-    ]
-  },
-  "155.138.193.35": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Atlanta",
-    "coordinates": [
-      33.7838,
-      -84.4455
     ]
   },
   "155.138.247.213": {
@@ -527,16 +517,6 @@
     "coordinates": [
       13.4763,
       144.75
-    ]
-  },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
     ]
   },
   "158.248.75.93": {
@@ -769,16 +749,6 @@
       73.4001
     ]
   },
-  "176.72.148.165": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.506,
-      23.7313
-    ]
-  },
   "177.235.58.167": {
     "region": "South America",
     "country": "Brazil",
@@ -977,6 +947,16 @@
     "coordinates": [
       -16.561,
       -49.2063
+    ]
+  },
+  "192.227.172.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Buffalo",
+    "coordinates": [
+      42.8864,
+      -78.8784
     ]
   },
   "192.99.32.215": {
@@ -1319,26 +1299,6 @@
       -96.8704
     ]
   },
-  "23.233.93.92": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Orangeville",
-    "coordinates": [
-      43.9702,
-      -80.016
-    ]
-  },
-  "23.95.92.47": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7767,
-      -96.797
-    ]
-  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1409,16 +1369,6 @@
       -6.26031
     ]
   },
-  "34.30.132.128": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "35.158.239.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1447,6 +1397,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.188.203.84": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "37.201.131.70": {
@@ -1829,16 +1789,6 @@
       -75.0041
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1949,16 +1899,6 @@
       4.9479
     ]
   },
-  "83.97.79.218": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
-    "coordinates": [
-      40.4167,
-      -3.7037
-    ]
-  },
   "85.229.4.82": {
     "region": "Europe",
     "country": "Sweden",
@@ -1997,6 +1937,16 @@
     "coordinates": [
       51.1469,
       0.8773
+    ]
+  },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1043,
+      17.0335
     ]
   },
   "89.151.207.164": {
