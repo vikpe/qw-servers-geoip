@@ -99,16 +99,6 @@
       -87.9954
     ]
   },
-  "109.173.162.189": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Poznan",
-    "coordinates": [
-      52.4052,
-      16.9339
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -759,16 +749,6 @@
       -47.9341
     ]
   },
-  "177.45.218.53": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -777,6 +757,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "177.76.50.14": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
     ]
   },
   "179.190.61.52": {
