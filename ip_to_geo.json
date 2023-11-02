@@ -53,10 +53,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Detroit",
+    "city": "Toledo",
     "coordinates": [
-      42.3314,
-      -83.0458
+      41.6528,
+      -83.5379
     ]
   },
   "104.207.135.230": {
@@ -233,7 +233,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Taby",
+    "city": "T\u00e4by",
     "coordinates": [
       59.4417,
       18.0637
@@ -337,16 +337,6 @@
     "coordinates": [
       12.9634,
       77.5855
-    ]
-  },
-  "139.84.193.13": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8372,
-      144.9354
     ]
   },
   "141.105.67.104": {
@@ -745,8 +735,8 @@
     "cc": "BR",
     "city": "Bras\u00edlia",
     "coordinates": [
-      -15.7792,
-      -47.9341
+      -15.7783,
+      -47.9319
     ]
   },
   "177.71.158.196": {
@@ -873,7 +863,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Taellberg",
+    "city": "T\u00e4llberg",
     "coordinates": [
       60.8211,
       14.9942
@@ -947,16 +937,6 @@
     "coordinates": [
       42.8864,
       -78.8784
-    ]
-  },
-  "192.99.32.215": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Beauharnois",
-    "coordinates": [
-      45.3151,
-      -73.8779
     ]
   },
   "193.108.113.153": {
@@ -1153,10 +1133,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "Le\u00f3n",
+    "city": "Alcobendas",
     "coordinates": [
-      42.6042,
-      -5.5858
+      40.5339,
+      -3.6312
     ]
   },
   "208.77.22.94": {
@@ -1449,6 +1429,16 @@
       -77.4874
     ]
   },
+  "45.128.199.116": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
+    ]
+  },
   "45.142.244.163": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1543,7 +1533,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Hagersten",
+    "city": "H\u00e4gersten",
     "coordinates": [
       59.2885,
       17.9612
@@ -1799,24 +1789,14 @@
       -87.6318
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6603,
-      -117.9992
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0883,
-      14.4124
+      50.0761,
+      14.4479
     ]
   },
   "78.45.93.104": {
@@ -1893,7 +1873,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Varsta",
+    "city": "V\u00e5rsta",
     "coordinates": [
       59.2491,
       18.0755
@@ -1943,10 +1923,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Steinkjer",
+    "city": "Beitstad",
     "coordinates": [
-      64.167,
-      12.482
+      63.4761,
+      10.9986
     ]
   },
   "89.207.221.209": {
@@ -1979,7 +1959,7 @@
       37.6171
     ]
   },
-  "91.55.65.86": {
+  "91.55.74.170": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
