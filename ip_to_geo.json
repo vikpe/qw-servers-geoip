@@ -709,16 +709,6 @@
       -74.0247
     ]
   },
-  "174.164.173.71": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marysville",
-    "coordinates": [
-      48.0961,
-      -122.2002
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -727,6 +717,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0883,
+      14.4124
     ]
   },
   "177.235.58.167": {
@@ -969,6 +969,16 @@
       21.0122
     ]
   },
+  "194.132.173.143": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Norsj\u00f6",
+    "coordinates": [
+      64.9081,
+      19.4647
+    ]
+  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -987,6 +997,16 @@
     "coordinates": [
       49.1156,
       10.7511
+    ]
+  },
+  "199.168.232.14": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.871,
+      -87.6289
     ]
   },
   "20.106.48.249": {
@@ -1399,16 +1419,6 @@
       19.6781
     ]
   },
-  "39.106.228.43": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Beijing",
-    "coordinates": [
-      39.911,
-      116.395
-    ]
-  },
   "40.84.144.27": {
     "region": "North America",
     "country": "United States",
@@ -1699,6 +1709,16 @@
       138.5999
     ]
   },
+  "64.180.85.241": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Victoria",
+    "coordinates": [
+      48.4371,
+      -123.3597
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1737,6 +1757,16 @@
     "coordinates": [
       59.3779,
       17.9155
+    ]
+  },
+  "71.69.230.224": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Oak Ridge",
+    "coordinates": [
+      36.1652,
+      -79.9778
     ]
   },
   "72.18.132.133": {
@@ -1787,6 +1817,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6603,
+      -117.9992
     ]
   },
   "78.45.89.65": {
@@ -2047,16 +2087,6 @@
     "coordinates": [
       45.0874,
       -87.6697
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7797,
-      -96.8022
     ]
   },
   "99.72.255.45": {
