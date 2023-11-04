@@ -159,6 +159,16 @@
       4.9392
     ]
   },
+  "129.146.81.59": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
+    ]
+  },
   "129.148.54.225": {
     "region": "South America",
     "country": "Brazil",
@@ -237,6 +247,16 @@
     "coordinates": [
       59.4417,
       18.0637
+    ]
+  },
+  "134.65.164.212": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Ume\u00e5",
+    "coordinates": [
+      63.8247,
+      20.2559
     ]
   },
   "135.148.59.26": {
@@ -719,14 +739,14 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
+  "176.72.148.165": {
     "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
     "coordinates": [
-      50.0883,
-      14.4124
+      61.506,
+      23.7313
     ]
   },
   "177.235.58.167": {
@@ -967,16 +987,6 @@
     "coordinates": [
       52.2296,
       21.0122
-    ]
-  },
-  "194.132.173.143": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Norsj\u00f6",
-    "coordinates": [
-      64.9081,
-      19.4647
     ]
   },
   "194.38.96.52": {
@@ -1419,6 +1429,16 @@
       19.6781
     ]
   },
+  "39.106.228.43": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Beijing",
+    "coordinates": [
+      39.911,
+      116.395
+    ]
+  },
   "40.84.144.27": {
     "region": "North America",
     "country": "United States",
@@ -1467,6 +1487,16 @@
     "coordinates": [
       48.8323,
       2.4075
+    ]
+  },
+  "45.165.151.187": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Mairipor\u00e3",
+    "coordinates": [
+      -23.3173,
+      -46.5601
     ]
   },
   "45.32.196.50": {
@@ -1819,16 +1849,6 @@
       -87.6318
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6603,
-      -117.9992
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1909,7 +1929,7 @@
       4.9479
     ]
   },
-  "85.229.4.82": {
+  "85.229.9.200": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -1939,6 +1959,16 @@
       -16.9
     ]
   },
+  "85.76.10.198": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1797,
+      24.9344
+    ]
+  },
   "86.133.56.198": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1947,6 +1977,16 @@
     "coordinates": [
       51.1469,
       0.8773
+    ]
+  },
+  "87.198.170.253": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Galway",
+    "coordinates": [
+      53.2724,
+      -9.05095
     ]
   },
   "87.207.124.227": {
