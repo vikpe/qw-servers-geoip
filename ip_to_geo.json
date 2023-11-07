@@ -239,16 +239,6 @@
       18.0637
     ]
   },
-  "134.65.164.212": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Ume\u00e5",
-    "coordinates": [
-      63.8247,
-      20.2559
-    ]
-  },
   "135.148.59.26": {
     "region": "North America",
     "country": "United States",
@@ -479,16 +469,6 @@
       -77.539
     ]
   },
-  "151.213.156.85": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Newton",
-    "coordinates": [
-      41.6892,
-      -93.0534
-    ]
-  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -517,6 +497,16 @@
     "coordinates": [
       13.4763,
       144.75
+    ]
+  },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
     ]
   },
   "158.248.75.93": {
@@ -749,14 +739,14 @@
       73.4001
     ]
   },
-  "177.235.58.167": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
+  "176.72.148.165": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
     "coordinates": [
-      -15.7783,
-      -47.9319
+      61.506,
+      23.7313
     ]
   },
   "177.71.158.196": {
@@ -857,6 +847,16 @@
     "coordinates": [
       -37.6517,
       144.4296
+    ]
+  },
+  "184.96.153.243": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      39.696,
+      -105.0346
     ]
   },
   "185.11.166.90": {
@@ -967,6 +967,16 @@
     "coordinates": [
       55.7696,
       37.6177
+    ]
+  },
+  "193.181.34.188": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
     ]
   },
   "193.227.134.114": {
@@ -1839,16 +1849,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.103.188.243": {
     "region": "North America",
     "country": "United States",
@@ -1857,6 +1857,16 @@
     "coordinates": [
       40.185,
       -75.0041
+    ]
+  },
+  "74.91.116.122": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "New York",
+    "coordinates": [
+      40.7123,
+      -74.0068
     ]
   },
   "74.91.120.206": {
@@ -2027,6 +2037,26 @@
     "coordinates": [
       63.4761,
       10.9986
+    ]
+  },
+  "89.154.36.153": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1691,
+      -8.6793
+    ]
+  },
+  "89.207.221.209": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Kudrovo",
+    "coordinates": [
+      59.9035,
+      30.5106
     ]
   },
   "89.66.241.225": {
