@@ -119,16 +119,6 @@
       121.5324
     ]
   },
-  "115.188.3.198": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8506,
-      174.7679
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -137,6 +127,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "124.170.122.187": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "124.189.251.43": {
@@ -397,16 +397,6 @@
     "coordinates": [
       50.1049,
       8.6295
-    ]
-  },
-  "145.239.54.184": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Gravelines",
-    "coordinates": [
-      50.9871,
-      2.12554
     ]
   },
   "145.239.94.156": {
@@ -739,16 +729,6 @@
       73.4001
     ]
   },
-  "176.72.148.165": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.506,
-      23.7313
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -837,16 +817,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "182.239.198.9": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Darley",
-    "coordinates": [
-      -37.6517,
-      144.4296
     ]
   },
   "184.96.153.243": {
@@ -1329,6 +1299,16 @@
       -96.8704
     ]
   },
+  "23.233.93.92": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Orangeville",
+    "coordinates": [
+      43.9702,
+      -80.016
+    ]
+  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1489,7 +1469,7 @@
       -77.4874
     ]
   },
-  "45.128.199.116": {
+  "45.128.199.192": {
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
@@ -2037,16 +2017,6 @@
     "coordinates": [
       63.4761,
       10.9986
-    ]
-  },
-  "89.154.36.153": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
     ]
   },
   "89.207.221.209": {
