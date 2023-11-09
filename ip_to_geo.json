@@ -729,6 +729,26 @@
       73.4001
     ]
   },
+  "176.72.148.165": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.506,
+      23.7313
+    ]
+  },
+  "177.45.218.53": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
+    ]
+  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -737,16 +757,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "177.76.50.14": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
     ]
   },
   "179.190.61.52": {
@@ -927,16 +937,6 @@
     "coordinates": [
       42.8864,
       -78.8784
-    ]
-  },
-  "193.108.113.153": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7696,
-      37.6177
     ]
   },
   "193.181.34.188": {
@@ -1227,6 +1227,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.76.101.30": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Lodz",
+    "coordinates": [
+      51.7592,
+      19.456
     ]
   },
   "216.108.230.70": {
