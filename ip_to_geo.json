@@ -489,16 +489,6 @@
       144.75
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -709,6 +699,16 @@
       -74.0247
     ]
   },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
+    ]
+  },
   "174.164.173.71": {
     "region": "North America",
     "country": "United States",
@@ -727,16 +727,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.72.148.165": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.506,
-      23.7313
     ]
   },
   "177.45.218.53": {
@@ -1309,16 +1299,6 @@
       -96.8704
     ]
   },
-  "23.233.93.92": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Orangeville",
-    "coordinates": [
-      43.9702,
-      -80.016
-    ]
-  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1777,16 +1757,6 @@
     "coordinates": [
       40.793,
       -74.0247
-    ]
-  },
-  "64.235.34.21": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0469,
-      -77.4903
     ]
   },
   "66.85.80.160": {
