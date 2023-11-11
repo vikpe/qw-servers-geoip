@@ -71,7 +71,7 @@
   },
   "108.61.117.210": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -151,7 +151,7 @@
   },
   "128.199.52.100": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -233,10 +233,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "T\u00e4by",
+    "city": "Knivsta",
     "coordinates": [
-      59.4417,
-      18.0637
+      59.7285,
+      17.7834
     ]
   },
   "135.148.59.26": {
@@ -343,10 +343,10 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "Murom",
+    "city": "Moscow",
     "coordinates": [
-      55.5604,
-      42.0347
+      55.7856,
+      37.7092
     ]
   },
   "142.11.210.129": {
@@ -413,10 +413,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Brockley",
+    "city": "Craigavon",
     "coordinates": [
-      51.4648,
-      -0.0373
+      54.385,
+      -6.3282
     ]
   },
   "148.135.104.18": {
@@ -427,6 +427,16 @@
     "coordinates": [
       34.0515,
       -118.2707
+    ]
+  },
+  "149.102.255.176": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.35208,
+      103.82
     ]
   },
   "149.28.240.2": {
@@ -689,6 +699,16 @@
       151.2006
     ]
   },
+  "173.191.189.102": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Newton",
+    "coordinates": [
+      41.6892,
+      -93.0534
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -723,10 +743,10 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "Omsk",
+    "city": "Novosibirsk",
     "coordinates": [
-      54.9978,
-      73.4001
+      55.0285,
+      82.9202
     ]
   },
   "177.45.218.53": {
@@ -823,10 +843,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Denver",
+    "city": "Littleton",
     "coordinates": [
-      39.696,
-      -105.0346
+      39.5972,
+      -105.001
     ]
   },
   "185.11.166.90": {
@@ -871,7 +891,7 @@
   },
   "188.166.0.137": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -933,10 +953,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Karlstad",
     "coordinates": [
-      59.3293,
-      18.0686
+      59.3974,
+      13.5055
     ]
   },
   "193.227.134.114": {
@@ -963,10 +983,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Tiszanana",
+    "city": "Szentes",
     "coordinates": [
-      47.5667,
-      20.5333
+      46.6584,
+      20.2536
     ]
   },
   "195.201.133.22": {
@@ -1175,8 +1195,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8506,
-      174.7679
+      -36.8542,
+      174.764
     ]
   },
   "212.42.38.88": {
@@ -1193,10 +1213,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Borensberg",
+    "city": "Link\u00f6ping",
     "coordinates": [
-      58.57,
-      15.2838
+      58.4016,
+      15.6462
     ]
   },
   "213.164.209.174": {
@@ -1223,10 +1243,10 @@
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Lodz",
+    "city": "Wolin",
     "coordinates": [
-      51.7592,
-      19.456
+      53.8402,
+      14.6166
     ]
   },
   "216.108.230.70": {
@@ -1341,7 +1361,7 @@
   },
   "31.201.90.81": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Eindhoven",
     "coordinates": [
@@ -1415,8 +1435,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1103,
-      8.7147
+      50.121,
+      8.747
     ]
   },
   "37.221.215.47": {
@@ -1461,7 +1481,7 @@
   },
   "45.128.199.192": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -1583,10 +1603,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Ozark",
+    "city": "Nixa",
     "coordinates": [
-      37.0142,
-      -93.1986
+      37.0504,
+      -93.3002
     ]
   },
   "5.161.189.133": {
@@ -1639,14 +1659,14 @@
       7.75211
     ]
   },
-  "51.38.225.118": {
+  "51.77.239.26": {
     "region": "Europe",
     "country": "France",
     "cc": "FR",
-    "city": "Gravelines",
+    "city": "Roubaix",
     "coordinates": [
-      50.9959,
-      2.11757
+      50.6916,
+      3.20151
     ]
   },
   "52.159.114.44": {
@@ -1925,8 +1945,8 @@
     "cc": "GB",
     "city": "Ashford",
     "coordinates": [
-      51.1465,
-      0.87376
+      51.141,
+      0.8238
     ]
   },
   "82.102.20.226": {
@@ -1951,7 +1971,7 @@
   },
   "82.196.2.206": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -1963,10 +1983,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "V\u00e5rsta",
+    "city": "Sk\u00f6ndal",
     "coordinates": [
-      59.2491,
-      18.0755
+      59.2484,
+      18.1223
     ]
   },
   "85.242.107.149": {
@@ -2119,14 +2139,24 @@
       -87.6697
     ]
   },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Carrollton",
+    "coordinates": [
+      33.0286,
+      -96.8736
+    ]
+  },
   "99.72.255.45": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Memphis",
     "coordinates": [
-      35.1431,
-      -90.0492
+      35.1499,
+      -90.0558
     ]
   }
 }
