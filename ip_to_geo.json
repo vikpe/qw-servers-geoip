@@ -39,16 +39,6 @@
       138.5999
     ]
   },
-  "103.25.59.27": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -267,16 +257,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "135.23.133.54": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Markham",
-    "coordinates": [
-      43.9016,
-      -79.3427
     ]
   },
   "136.243.174.101": {
@@ -509,6 +489,16 @@
       144.75
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -587,6 +577,16 @@
     "coordinates": [
       -34.6049,
       -58.4455
+    ]
+  },
+  "161.97.66.46": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Nuremberg",
+    "coordinates": [
+      49.405,
+      11.1617
     ]
   },
   "162.248.92.183": {
@@ -717,6 +717,16 @@
     "coordinates": [
       39.1036,
       -94.535
+    ]
+  },
+  "173.191.189.102": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Newton",
+    "coordinates": [
+      41.6892,
+      -93.0534
     ]
   },
   "174.138.43.249": {
@@ -889,6 +899,16 @@
       -1.7841
     ]
   },
+  "186.64.122.249": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Curic\u00f3",
+    "coordinates": [
+      -34.9839,
+      -71.2425
+    ]
+  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1027,16 +1047,6 @@
     "coordinates": [
       53.3478,
       -6.2597
-    ]
-  },
-  "20.193.138.18": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Pune",
-    "coordinates": [
-      18.5144,
-      73.864235
     ]
   },
   "20.221.237.152": {
@@ -1459,7 +1469,7 @@
       -77.4874
     ]
   },
-  "45.128.199.192": {
+  "45.128.199.111": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1779,16 +1789,6 @@
       17.9155
     ]
   },
-  "71.173.217.252": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Harrisburg",
-    "coordinates": [
-      40.2327,
-      -76.9331
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1807,16 +1807,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "74.103.188.243": {
@@ -1859,6 +1849,16 @@
       -87.6318
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6603,
+      -117.9992
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1887,16 +1887,6 @@
     "coordinates": [
       47.5636,
       19.0947
-    ]
-  },
-  "80.134.188.196": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Krefeld",
-    "coordinates": [
-      51.3603,
-      6.6377
     ]
   },
   "80.211.201.216": {
@@ -1977,16 +1967,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "86.190.177.30": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Ashford",
-    "coordinates": [
-      51.1469,
-      0.8773
     ]
   },
   "89.151.207.164": {
@@ -2097,6 +2077,16 @@
     "coordinates": [
       40.2057,
       -8.4213
+    ]
+  },
+  "98.122.171.23": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cary",
+    "coordinates": [
+      35.7965,
+      -78.7981
     ]
   },
   "98.128.174.153": {
