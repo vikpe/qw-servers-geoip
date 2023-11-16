@@ -129,16 +129,6 @@
       11.0767
     ]
   },
-  "124.170.122.187": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "124.189.251.43": {
     "region": "Oceania",
     "country": "Australia",
@@ -487,16 +477,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "158.140.72.214": {
-    "region": "Asia",
-    "country": "Palestine",
-    "cc": "PS",
-    "city": "Gaza",
-    "coordinates": [
-      31.5019,
-      34.4666
     ]
   },
   "158.248.75.93": {
@@ -987,16 +967,6 @@
     "coordinates": [
       49.1156,
       10.7511
-    ]
-  },
-  "199.168.232.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
     ]
   },
   "20.106.48.249": {
