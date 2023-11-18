@@ -389,16 +389,6 @@
       -118.2707
     ]
   },
-  "149.102.255.176": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.35208,
-      103.82
-    ]
-  },
   "149.28.240.2": {
     "region": "North America",
     "country": "United States",
@@ -685,8 +675,8 @@
     "cc": "US",
     "city": "Kansas City",
     "coordinates": [
-      39.1036,
-      -94.535
+      39.1678,
+      -94.5269
     ]
   },
   "174.138.43.249": {
@@ -815,8 +805,8 @@
     "cc": "US",
     "city": "Littleton",
     "coordinates": [
-      39.5972,
-      -105.001
+      39.6219,
+      -105.0864
     ]
   },
   "185.11.166.90": {
@@ -835,8 +825,8 @@
     "cc": "PL",
     "city": "Konstancin-Jeziorna",
     "coordinates": [
-      52.0936,
-      21.1244
+      52.0812,
+      21.0929
     ]
   },
   "185.189.48.45": {
@@ -909,7 +899,7 @@
       12.365
     ]
   },
-  "191.223.251.197": {
+  "191.217.32.231": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1285,8 +1275,8 @@
     "cc": "CA",
     "city": "Vancouver",
     "coordinates": [
-      49.2825,
-      -123.1291
+      49.2958,
+      -123.141
     ]
   },
   "3.108.227.32": {
@@ -1695,8 +1685,8 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.4371,
-      -123.3597
+      48.4808,
+      -123.3165
     ]
   },
   "64.227.18.147": {
@@ -1737,6 +1727,16 @@
     "coordinates": [
       59.3779,
       17.9155
+    ]
+  },
+  "71.173.217.252": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Harrisburg",
+    "coordinates": [
+      40.2327,
+      -76.9331
     ]
   },
   "72.18.132.133": {
@@ -1797,16 +1797,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6603,
-      -117.9992
     ]
   },
   "78.45.89.65": {
@@ -1900,16 +1890,6 @@
     ]
   },
   "85.242.107.149": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
-    ]
-  },
-  "85.247.0.33": {
     "region": "Europe",
     "country": "Portugal",
     "cc": "PT",
@@ -2047,16 +2027,6 @@
     "coordinates": [
       45.0874,
       -87.6697
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Carrollton",
-    "coordinates": [
-      33.0286,
-      -96.8736
     ]
   },
   "99.72.255.45": {
