@@ -249,6 +249,16 @@
       12.365
     ]
   },
+  "136.32.174.95": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Overland Park",
+    "coordinates": [
+      38.8939,
+      -94.7067
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -689,14 +699,14 @@
       -94.5269
     ]
   },
-  "172.92.242.150": {
+  "173.218.134.99": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Camano",
+    "city": "Jonesboro",
     "coordinates": [
-      48.1789,
-      -122.5181
+      35.8308,
+      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -919,7 +929,7 @@
       12.365
     ]
   },
-  "191.217.32.231": {
+  "191.217.255.36": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1229,16 +1239,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
-    "coordinates": [
-      40.5167,
-      -3.66479
-    ]
-  },
   "216.108.230.70": {
     "region": "North America",
     "country": "United States",
@@ -1349,6 +1349,16 @@
       8.68213
     ]
   },
+  "31.201.90.81": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Eindhoven",
+    "coordinates": [
+      51.4549,
+      5.4625
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1447,16 +1457,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.119.30.123": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.0748,
-      72.8856
     ]
   },
   "45.128.199.111": {
@@ -1739,6 +1739,16 @@
       -74.0247
     ]
   },
+  "65.33.174.49": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bradenton",
+    "coordinates": [
+      27.4399,
+      -82.577
+    ]
+  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1769,6 +1779,16 @@
       17.9155
     ]
   },
+  "70.34.242.173": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1787,6 +1807,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "74.103.188.243": {
