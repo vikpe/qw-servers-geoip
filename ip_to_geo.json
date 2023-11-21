@@ -135,8 +135,8 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.8159,
-      144.9669
+      -37.8411,
+      144.9799
     ]
   },
   "128.199.52.100": {
@@ -249,16 +249,6 @@
       12.365
     ]
   },
-  "136.32.174.95": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Overland Park",
-    "coordinates": [
-      38.8939,
-      -94.7067
-    ]
-  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -315,8 +305,8 @@
     "cc": "RU",
     "city": "Moscow",
     "coordinates": [
-      55.7856,
-      37.7092
+      55.7483,
+      37.6171
     ]
   },
   "142.11.210.129": {
@@ -689,16 +679,6 @@
       151.2006
     ]
   },
-  "172.59.75.90": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Kansas City",
-    "coordinates": [
-      39.1678,
-      -94.5269
-    ]
-  },
   "173.218.134.99": {
     "region": "North America",
     "country": "United States",
@@ -717,6 +697,16 @@
     "coordinates": [
       40.793,
       -74.0247
+    ]
+  },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "174.164.173.71": {
@@ -757,6 +747,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "178.164.96.147": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Trondheim",
+    "coordinates": [
+      63.4277,
+      10.4012
     ]
   },
   "179.190.61.52": {
@@ -835,8 +835,8 @@
     "cc": "US",
     "city": "Littleton",
     "coordinates": [
-      39.6219,
-      -105.0864
+      39.5972,
+      -105.001
     ]
   },
   "185.11.166.90": {
@@ -1415,8 +1415,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.121,
-      8.747
+      50.1376,
+      8.6776
     ]
   },
   "37.221.215.47": {
@@ -1579,6 +1579,16 @@
       17.9612
     ]
   },
+  "47.213.168.199": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Nixa",
+    "coordinates": [
+      37.0504,
+      -93.3002
+    ]
+  },
   "5.161.189.133": {
     "region": "North America",
     "country": "United States",
@@ -1739,16 +1749,6 @@
       -74.0247
     ]
   },
-  "65.33.174.49": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bradenton",
-    "coordinates": [
-      27.4399,
-      -82.577
-    ]
-  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1779,16 +1779,6 @@
       17.9155
     ]
   },
-  "70.34.242.173": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0067
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1807,16 +1797,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "74.103.188.243": {
@@ -1923,10 +1903,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Sundsvall",
+    "city": "Kvissleby",
     "coordinates": [
-      62.3772,
-      17.3203
+      62.2931,
+      17.3837
     ]
   },
   "82.196.2.206": {
