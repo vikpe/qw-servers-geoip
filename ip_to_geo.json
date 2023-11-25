@@ -469,6 +469,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -669,6 +679,16 @@
       151.2006
     ]
   },
+  "173.191.189.102": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Newton",
+    "coordinates": [
+      41.6892,
+      -93.0534
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -709,16 +729,6 @@
       82.9202
     ]
   },
-  "177.45.218.53": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -727,16 +737,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "178.164.96.147": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Trondheim",
-    "coordinates": [
-      63.4277,
-      10.4012
     ]
   },
   "179.190.61.52": {
@@ -909,14 +909,14 @@
       12.365
     ]
   },
-  "191.217.255.36": {
+  "191.9.108.62": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
-    "city": "Goi\u00e2nia",
+    "city": "Campinas",
     "coordinates": [
-      -16.561,
-      -49.2063
+      -22.895,
+      -47.0439
     ]
   },
   "192.227.172.145": {
@@ -1079,16 +1079,6 @@
       -104.816154
     ]
   },
-  "202.61.247.195": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Karlsruhe",
-    "coordinates": [
-      49.0291,
-      8.35695
-    ]
-  },
   "202.63.65.43": {
     "region": "Oceania",
     "country": "Australia",
@@ -1217,6 +1207,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.5167,
+      -3.66479
     ]
   },
   "216.108.230.70": {
@@ -1819,6 +1819,16 @@
       -87.6318
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6603,
+      -117.9992
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1927,6 +1937,16 @@
     "coordinates": [
       63.4761,
       10.9986
+    ]
+  },
+  "89.153.51.205": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1691,
+      -8.6793
     ]
   },
   "89.207.221.209": {
