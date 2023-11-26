@@ -29,6 +29,16 @@
       -95.7129
     ]
   },
+  "103.195.202.18": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.0748,
+      72.8856
+    ]
+  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -379,6 +389,16 @@
       -6.3282
     ]
   },
+  "147.135.209.225": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.098,
+      17.0321
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -679,16 +699,6 @@
       151.2006
     ]
   },
-  "173.191.189.102": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Newton",
-    "coordinates": [
-      41.6892,
-      -93.0534
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -697,6 +707,16 @@
     "coordinates": [
       40.793,
       -74.0247
+    ]
+  },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "174.164.173.71": {
@@ -737,6 +757,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "178.164.96.147": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Trondheim",
+    "coordinates": [
+      63.4277,
+      10.4012
     ]
   },
   "179.190.61.52": {
@@ -907,6 +937,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "191.217.255.36": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.561,
+      -49.2063
     ]
   },
   "191.9.108.62": {
@@ -1209,16 +1249,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
-    "coordinates": [
-      40.5167,
-      -3.66479
-    ]
-  },
   "216.108.230.70": {
     "region": "North America",
     "country": "United States",
@@ -1327,16 +1357,6 @@
     "coordinates": [
       50.1109,
       8.68213
-    ]
-  },
-  "31.186.81.74": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2363,
-      21.1168
     ]
   },
   "31.201.90.81": {
@@ -1729,6 +1749,16 @@
       -74.0247
     ]
   },
+  "65.33.174.49": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bradenton",
+    "coordinates": [
+      27.4399,
+      -82.577
+    ]
+  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1817,16 +1847,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6603,
-      -117.9992
     ]
   },
   "78.45.89.65": {
@@ -1939,16 +1959,6 @@
       10.9986
     ]
   },
-  "89.153.51.205": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
-    ]
-  },
   "89.207.221.209": {
     "region": "Europe",
     "country": "Russia",
@@ -1979,7 +1989,7 @@
       37.6171
     ]
   },
-  "91.55.95.152": {
+  "91.55.67.174": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2030,6 +2040,16 @@
     ]
   },
   "95.216.202.86": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1719,
+      24.9347
+    ]
+  },
+  "95.216.8.8": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
