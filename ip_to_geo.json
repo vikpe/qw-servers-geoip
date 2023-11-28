@@ -309,6 +309,16 @@
       37.6171
     ]
   },
+  "141.148.227.175": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "142.11.210.129": {
     "region": "North America",
     "country": "United States",
@@ -477,6 +487,16 @@
     "coordinates": [
       33.4656,
       -111.9956
+    ]
+  },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
     ]
   },
   "158.248.75.93": {
@@ -737,16 +757,6 @@
     "coordinates": [
       63.4277,
       10.4012
-    ]
-  },
-  "178.79.159.112": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5088,
-      -0.093
     ]
   },
   "179.190.61.52": {
@@ -1219,6 +1229,16 @@
       -3.66479
     ]
   },
+  "213.65.32.160": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Farsta",
+    "coordinates": [
+      59.2415,
+      18.108
+    ]
+  },
   "216.108.230.70": {
     "region": "North America",
     "country": "United States",
@@ -1429,17 +1449,7 @@
       -77.4874
     ]
   },
-  "45.119.30.23": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.0748,
-      72.8856
-    ]
-  },
-  "45.128.199.213": {
+  "45.128.199.244": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1729,16 +1739,6 @@
       -74.0247
     ]
   },
-  "65.33.174.49": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bradenton",
-    "coordinates": [
-      27.4399,
-      -82.577
-    ]
-  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1789,16 +1789,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.103.188.243": {
     "region": "North America",
     "country": "United States",
@@ -1837,16 +1827,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.170.235.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Rocky Mount",
-    "coordinates": [
-      35.9382,
-      -77.7905
     ]
   },
   "78.45.89.65": {
@@ -1959,6 +1939,16 @@
       10.9986
     ]
   },
+  "89.153.51.205": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1691,
+      -8.6793
+    ]
+  },
   "89.207.221.209": {
     "region": "Europe",
     "country": "Russia",
@@ -2067,16 +2057,6 @@
     "coordinates": [
       40.2057,
       -8.4213
-    ]
-  },
-  "98.122.171.23": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cary",
-    "coordinates": [
-      35.7965,
-      -78.7981
     ]
   },
   "98.128.174.153": {
