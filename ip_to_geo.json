@@ -59,6 +59,16 @@
       -74.4606
     ]
   },
+  "104.234.7.241": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Santiago",
+    "coordinates": [
+      -33.4521,
+      -70.6536
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -299,6 +309,16 @@
       77.5855
     ]
   },
+  "139.99.184.234": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Rockhampton",
+    "coordinates": [
+      -23.3836,
+      150.5068
+    ]
+  },
   "141.105.67.104": {
     "region": "Europe",
     "country": "Russia",
@@ -499,6 +519,16 @@
       4.9392
     ]
   },
+  "158.174.255.11": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -567,16 +597,6 @@
     "coordinates": [
       35.6893,
       139.6899
-    ]
-  },
-  "160.20.247.59": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
     ]
   },
   "162.248.92.183": {
@@ -717,16 +737,6 @@
     "coordinates": [
       48.0961,
       -122.2002
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "176.210.100.6": {
@@ -937,16 +947,6 @@
     "coordinates": [
       -22.895,
       -47.0439
-    ]
-  },
-  "192.227.172.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Buffalo",
-    "coordinates": [
-      42.8864,
-      -78.8784
     ]
   },
   "192.99.32.215": {
@@ -1419,6 +1419,16 @@
       19.6781
     ]
   },
+  "39.106.228.43": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Beijing",
+    "coordinates": [
+      39.911,
+      116.395
+    ]
+  },
   "40.84.144.27": {
     "region": "North America",
     "country": "United States",
@@ -1537,16 +1547,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "46.101.78.83": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Slough",
-    "coordinates": [
-      51.5368,
-      -0.6718
     ]
   },
   "46.227.68.148": {
@@ -1739,6 +1739,16 @@
       -87.6378
     ]
   },
+  "67.245.175.213": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Hancock",
+    "coordinates": [
+      41.7969,
+      -74.7526
+    ]
+  },
   "69.247.38.137": {
     "region": "North America",
     "country": "United States",
@@ -1889,16 +1899,6 @@
       17.3837
     ]
   },
-  "82.196.2.206": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3006,
-      4.9479
-    ]
-  },
   "85.229.9.200": {
     "region": "Europe",
     "country": "Sweden",
@@ -1927,16 +1927,6 @@
     "coordinates": [
       63.4761,
       10.9986
-    ]
-  },
-  "89.153.51.205": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
     ]
   },
   "89.207.221.209": {
@@ -2047,6 +2037,16 @@
     "coordinates": [
       40.2057,
       -8.4213
+    ]
+  },
+  "98.122.171.23": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cary",
+    "coordinates": [
+      35.7965,
+      -78.7981
     ]
   },
   "98.128.174.153": {
