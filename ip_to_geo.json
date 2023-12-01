@@ -29,6 +29,16 @@
       -95.7129
     ]
   },
+  "103.195.202.192": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.0748,
+      72.8856
+    ]
+  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -57,16 +67,6 @@
     "coordinates": [
       40.5511,
       -74.4606
-    ]
-  },
-  "104.234.7.241": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Santiago",
-    "coordinates": [
-      -33.4521,
-      -70.6536
     ]
   },
   "108.61.117.210": {
@@ -729,6 +729,16 @@
       -74.0247
     ]
   },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
+    ]
+  },
   "174.164.173.71": {
     "region": "North America",
     "country": "United States",
@@ -1229,6 +1239,16 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.5167,
+      -3.66479
+    ]
+  },
   "216.108.230.70": {
     "region": "North America",
     "country": "United States",
@@ -1479,6 +1499,16 @@
       2.4075
     ]
   },
+  "45.235.98.137": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
+    ]
+  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1577,6 +1607,16 @@
     "coordinates": [
       39.0469,
       -77.4903
+    ]
+  },
+  "5.255.88.4": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3676,
+      4.90414
     ]
   },
   "5.9.82.79": {
@@ -1829,6 +1869,16 @@
       -87.6318
     ]
   },
+  "75.170.235.245": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Rocky Mount",
+    "coordinates": [
+      35.9382,
+      -77.7905
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -2037,16 +2087,6 @@
     "coordinates": [
       40.2057,
       -8.4213
-    ]
-  },
-  "98.122.171.23": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cary",
-    "coordinates": [
-      35.7965,
-      -78.7981
     ]
   },
   "98.128.174.153": {
