@@ -13,7 +13,7 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Tulsa",
+    "city": "Bartlesville",
     "coordinates": [
       37.0902,
       -95.7129
@@ -23,20 +23,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Tulsa",
+    "city": "Bartlesville",
     "coordinates": [
       37.0902,
       -95.7129
-    ]
-  },
-  "103.195.202.192": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.0748,
-      72.8856
     ]
   },
   "103.195.53.179": {
@@ -53,10 +43,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Toledo",
+    "city": "Cleveland",
     "coordinates": [
-      41.6528,
-      -83.5379
+      41.4993,
+      -81.6944
     ]
   },
   "104.207.135.230": {
@@ -145,8 +135,8 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.8411,
-      144.9799
+      -37.7576,
+      145.1101
     ]
   },
   "128.199.52.100": {
@@ -509,16 +499,6 @@
       -111.9956
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.174.255.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -555,8 +535,8 @@
     "cc": "CA",
     "city": "Toronto",
     "coordinates": [
-      43.6547,
-      -79.3623
+      43.709,
+      -79.4057
     ]
   },
   "159.65.230.186": {
@@ -773,10 +753,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Trondheim",
+    "city": "Malvik",
     "coordinates": [
-      63.4277,
-      10.4012
+      63.4363,
+      10.7046
     ]
   },
   "179.190.61.52": {
@@ -829,16 +809,6 @@
       -46.6333
     ]
   },
-  "18.228.238.254": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5505,
-      -46.6333
-    ]
-  },
   "18.228.39.185": {
     "region": "South America",
     "country": "Brazil",
@@ -859,14 +829,24 @@
       -9.13934
     ]
   },
+  "185.15.3.181": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Konstancin-Jeziorna",
+    "coordinates": [
+      52.0936,
+      21.1244
+    ]
+  },
   "185.189.139.18": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
     "city": "Konstancin-Jeziorna",
     "coordinates": [
-      52.0812,
-      21.0929
+      52.0936,
+      21.1244
     ]
   },
   "185.189.48.45": {
@@ -885,8 +865,8 @@
     "cc": "GB",
     "city": "Solihull",
     "coordinates": [
-      52.4145,
-      -1.7841
+      52.4012,
+      -1.6897
     ]
   },
   "186.64.122.249": {
@@ -1153,10 +1133,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "Alcobendas",
+    "city": "Arcos de la Llana",
     "coordinates": [
-      40.5339,
-      -3.6312
+      42.2666,
+      -3.75458
     ]
   },
   "208.77.22.138": {
@@ -1195,8 +1175,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8542,
-      174.764
+      -36.8506,
+      174.7679
     ]
   },
   "212.42.38.88": {
@@ -1213,10 +1193,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Link\u00f6ping",
+    "city": "Borensberg",
     "coordinates": [
-      58.4016,
-      15.6462
+      58.57,
+      15.2838
     ]
   },
   "213.164.209.174": {
@@ -1243,10 +1223,10 @@
     "region": "Europe",
     "country": "Spain",
     "cc": "ES",
-    "city": "Madrid",
+    "city": "Puig",
     "coordinates": [
-      40.5167,
-      -3.66479
+      39.5887,
+      -0.30333
     ]
   },
   "216.108.230.70": {
@@ -1475,8 +1455,8 @@
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
-      52.3759,
-      4.8975
+      52.3716,
+      4.8883
     ]
   },
   "45.142.244.163": {
@@ -1609,16 +1589,6 @@
       -77.4903
     ]
   },
-  "5.255.88.4": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3676,
-      4.90414
-    ]
-  },
   "5.9.82.79": {
     "region": "Europe",
     "country": "Germany",
@@ -1699,6 +1669,16 @@
       -78.37471
     ]
   },
+  "52.67.25.234": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5505,
+      -46.6333
+    ]
+  },
   "52.67.74.216": {
     "region": "South America",
     "country": "Brazil",
@@ -1755,8 +1735,8 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.4808,
-      -123.3165
+      48.3852,
+      -123.5358
     ]
   },
   "64.227.18.147": {
@@ -1779,24 +1759,14 @@
       -87.6378
     ]
   },
-  "67.245.175.213": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Hancock",
-    "coordinates": [
-      41.7969,
-      -74.7526
-    ]
-  },
   "69.247.38.137": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Cape Coral",
     "coordinates": [
-      26.6284,
-      -82.0197
+      26.6909,
+      -81.9483
     ]
   },
   "70.34.202.147": {
@@ -1869,24 +1839,14 @@
       -87.6318
     ]
   },
-  "75.170.235.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Rocky Mount",
-    "coordinates": [
-      35.9382,
-      -77.7905
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0761,
-      14.4479
+      50.0883,
+      14.4124
     ]
   },
   "78.45.93.104": {
@@ -1943,10 +1903,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Kvissleby",
+    "city": "Sundsvall",
     "coordinates": [
-      62.2931,
-      17.3837
+      62.3772,
+      17.3203
     ]
   },
   "85.229.9.200": {
@@ -1973,10 +1933,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Beitstad",
+    "city": "Steinkjer",
     "coordinates": [
-      63.4761,
-      10.9986
+      64.014,
+      11.4678
     ]
   },
   "89.207.221.209": {
@@ -2025,8 +1985,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.5221,
-      13.4814
+      52.5216,
+      13.4995
     ]
   },
   "94.16.128.193": {
@@ -2115,8 +2075,8 @@
     "cc": "US",
     "city": "Memphis",
     "coordinates": [
-      35.1499,
-      -90.0558
+      35.1128,
+      -89.9085
     ]
   }
 }
