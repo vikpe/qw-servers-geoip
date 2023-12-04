@@ -89,16 +89,6 @@
       -87.9954
     ]
   },
-  "109.173.162.189": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Poznan",
-    "coordinates": [
-      52.4052,
-      16.9339
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -197,16 +187,6 @@
     "coordinates": [
       50.1049,
       8.6295
-    ]
-  },
-  "130.185.249.174": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5269,
-      -0.0991
     ]
   },
   "130.242.114.28": {
@@ -1209,6 +1189,16 @@
       13.4069
     ]
   },
+  "217.30.10.106": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1387,6 +1377,16 @@
     "coordinates": [
       47.6666,
       19.6781
+    ]
+  },
+  "39.106.228.43": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Beijing",
+    "coordinates": [
+      39.911,
+      116.395
     ]
   },
   "40.84.144.27": {
@@ -1757,6 +1757,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "74.103.188.243": {
