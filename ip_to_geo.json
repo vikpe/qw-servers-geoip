@@ -59,6 +59,16 @@
       -74.4606
     ]
   },
+  "106.47.124.122": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1488,
+      117.1762
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -77,6 +87,16 @@
     "coordinates": [
       50.1103,
       8.7147
+    ]
+  },
+  "108.61.242.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elk Grove Village",
+    "coordinates": [
+      42.0048,
+      -87.9954
     ]
   },
   "109.200.20.152": {
@@ -479,14 +499,14 @@
       -111.9956
     ]
   },
-  "158.174.255.11": {
+  "158.101.195.75": {
     "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
     "coordinates": [
-      59.3287,
-      18.0717
+      52.352,
+      4.9392
     ]
   },
   "158.248.75.93": {
@@ -689,14 +709,14 @@
       -94.5916
     ]
   },
-  "173.191.189.102": {
+  "172.92.242.150": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Newton",
+    "city": "Camano",
     "coordinates": [
-      41.6892,
-      -93.0534
+      48.1789,
+      -122.5181
     ]
   },
   "174.138.43.249": {
@@ -1409,16 +1429,6 @@
       -77.4874
     ]
   },
-  "45.119.30.182": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.0748,
-      72.8856
-    ]
-  },
   "45.128.199.177": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1939,14 +1949,14 @@
       8.7399
     ]
   },
-  "91.66.2.91": {
+  "91.66.9.233": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.5216,
-      13.4995
+      52.4923,
+      13.4839
     ]
   },
   "94.16.128.193": {
