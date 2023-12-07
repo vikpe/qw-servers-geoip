@@ -29,6 +29,26 @@
       -95.7129
     ]
   },
+  "103.177.248.29": {
+    "region": "Asia",
+    "country": "Hong Kong",
+    "cc": "HK",
+    "city": "Hong Kong",
+    "coordinates": [
+      22.2842,
+      114.1759
+    ]
+  },
+  "103.177.248.32": {
+    "region": "Asia",
+    "country": "Hong Kong",
+    "cc": "HK",
+    "city": "Hong Kong",
+    "coordinates": [
+      22.2842,
+      114.1759
+    ]
+  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -57,16 +77,6 @@
     "coordinates": [
       40.5511,
       -74.4606
-    ]
-  },
-  "106.47.124.122": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1488,
-      117.1762
     ]
   },
   "108.61.117.210": {
@@ -329,16 +339,6 @@
       4.9392
     ]
   },
-  "142.11.210.129": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seattle",
-    "coordinates": [
-      47.4941,
-      -122.294
-    ]
-  },
   "144.202.33.70": {
     "region": "North America",
     "country": "United States",
@@ -507,6 +507,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "158.174.255.11": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
     ]
   },
   "158.248.75.93": {
@@ -709,14 +719,14 @@
       -94.5916
     ]
   },
-  "172.92.242.150": {
+  "173.191.189.102": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Camano",
+    "city": "Newton",
     "coordinates": [
-      48.1789,
-      -122.5181
+      41.6892,
+      -93.0534
     ]
   },
   "174.138.43.249": {
@@ -727,6 +737,16 @@
     "coordinates": [
       40.793,
       -74.0247
+    ]
+  },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "174.164.173.71": {
@@ -1007,6 +1027,16 @@
     "coordinates": [
       53.3478,
       -6.2597
+    ]
+  },
+  "20.171.126.98": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
     ]
   },
   "20.221.237.152": {
@@ -1729,6 +1759,16 @@
       -87.6378
     ]
   },
+  "67.245.175.213": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Hancock",
+    "coordinates": [
+      41.7969,
+      -74.7526
+    ]
+  },
   "69.247.38.137": {
     "region": "North America",
     "country": "United States",
@@ -1897,16 +1937,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "89.151.207.164": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Steinkjer",
-    "coordinates": [
-      64.014,
-      11.4678
     ]
   },
   "89.207.221.209": {
