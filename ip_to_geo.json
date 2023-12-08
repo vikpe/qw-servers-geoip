@@ -29,17 +29,7 @@
       -95.7129
     ]
   },
-  "103.177.248.29": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Hong Kong",
-    "coordinates": [
-      22.2842,
-      114.1759
-    ]
-  },
-  "103.177.248.32": {
+  "103.177.248.30": {
     "region": "Asia",
     "country": "Hong Kong",
     "cc": "HK",
@@ -57,6 +47,16 @@
     "coordinates": [
       -34.9281,
       138.5999
+    ]
+  },
+  "103.36.25.42": {
+    "region": "Asia",
+    "country": "Taiwan",
+    "cc": "TW",
+    "city": "Yingge District",
+    "coordinates": [
+      24.9493,
+      121.337
     ]
   },
   "103.72.77.220": {
@@ -409,6 +409,16 @@
       17.0321
     ]
   },
+  "147.185.221.17": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.076,
+      72.8777
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -719,14 +729,14 @@
       -94.5916
     ]
   },
-  "173.191.189.102": {
+  "172.92.242.150": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Newton",
+    "city": "Camano",
     "coordinates": [
-      41.6892,
-      -93.0534
+      48.1789,
+      -122.5181
     ]
   },
   "174.138.43.249": {
@@ -1029,7 +1039,7 @@
       -6.2597
     ]
   },
-  "20.171.126.98": {
+  "20.171.69.82": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1409,6 +1419,16 @@
       -95.8608
     ]
   },
+  "37.123.164.138": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
+    ]
+  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1757,16 +1777,6 @@
     "coordinates": [
       41.8865,
       -87.6378
-    ]
-  },
-  "67.245.175.213": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Hancock",
-    "coordinates": [
-      41.7969,
-      -74.7526
     ]
   },
   "69.247.38.137": {
