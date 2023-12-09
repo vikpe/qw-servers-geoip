@@ -29,7 +29,17 @@
       -95.7129
     ]
   },
-  "103.177.248.30": {
+  "103.177.248.29": {
+    "region": "Asia",
+    "country": "Hong Kong",
+    "cc": "HK",
+    "city": "Hong Kong",
+    "coordinates": [
+      22.2842,
+      114.1759
+    ]
+  },
+  "103.177.248.31": {
     "region": "Asia",
     "country": "Hong Kong",
     "cc": "HK",
@@ -47,16 +57,6 @@
     "coordinates": [
       -34.9281,
       138.5999
-    ]
-  },
-  "103.36.25.42": {
-    "region": "Asia",
-    "country": "Taiwan",
-    "cc": "TW",
-    "city": "Yingge District",
-    "coordinates": [
-      24.9493,
-      121.337
     ]
   },
   "103.72.77.220": {
@@ -479,6 +479,16 @@
       151.209
     ]
   },
+  "155.138.174.71": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Atlanta",
+    "coordinates": [
+      33.7838,
+      -84.4455
+    ]
+  },
   "155.138.247.213": {
     "region": "North America",
     "country": "United States",
@@ -749,16 +759,6 @@
       -74.0247
     ]
   },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
   "174.164.173.71": {
     "region": "North America",
     "country": "United States",
@@ -767,6 +767,16 @@
     "coordinates": [
       48.0961,
       -122.2002
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
     ]
   },
   "176.210.100.6": {
@@ -1039,7 +1049,7 @@
       -6.2597
     ]
   },
-  "20.171.69.82": {
+  "20.169.32.77": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1419,16 +1429,6 @@
       -95.8608
     ]
   },
-  "37.123.164.138": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3241,
-      18.0517
-    ]
-  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1479,7 +1479,7 @@
       -77.4874
     ]
   },
-  "45.128.199.177": {
+  "45.128.199.70": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1779,14 +1779,14 @@
       -87.6378
     ]
   },
-  "69.247.38.137": {
+  "69.247.32.166": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Cape Coral",
+    "city": "Alva",
     "coordinates": [
-      26.6909,
-      -81.9483
+      26.7191,
+      -81.6352
     ]
   },
   "70.34.202.147": {
@@ -1939,6 +1939,16 @@
       18.1223
     ]
   },
+  "85.241.112.229": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Quinta Do Conde",
+    "coordinates": [
+      38.5657,
+      -9.0367
+    ]
+  },
   "85.242.107.149": {
     "region": "Europe",
     "country": "Portugal",
@@ -2077,6 +2087,16 @@
     "coordinates": [
       45.0874,
       -87.6697
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Carrollton",
+    "coordinates": [
+      33.0286,
+      -96.8736
     ]
   },
   "99.72.255.45": {
