@@ -29,46 +29,6 @@
       -95.7129
     ]
   },
-  "103.177.248.106": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Hong Kong",
-    "coordinates": [
-      22.2842,
-      114.1759
-    ]
-  },
-  "103.177.248.117": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Hong Kong",
-    "coordinates": [
-      22.2842,
-      114.1759
-    ]
-  },
-  "103.177.248.128": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Hong Kong",
-    "coordinates": [
-      22.2842,
-      114.1759
-    ]
-  },
-  "103.177.248.134": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Hong Kong",
-    "coordinates": [
-      22.2842,
-      114.1759
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -77,6 +37,16 @@
     "coordinates": [
       -34.9281,
       138.5999
+    ]
+  },
+  "103.36.25.42": {
+    "region": "Asia",
+    "country": "Taiwan",
+    "cc": "TW",
+    "city": "Yingge District",
+    "coordinates": [
+      24.9493,
+      121.337
     ]
   },
   "103.72.77.220": {
@@ -749,16 +719,6 @@
       -94.5916
     ]
   },
-  "172.92.242.150": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -787,16 +747,6 @@
     "coordinates": [
       55.0285,
       82.9202
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Ricany",
-    "coordinates": [
-      49.9831,
-      14.6436
     ]
   },
   "177.71.158.196": {
@@ -969,7 +919,7 @@
       -49.2063
     ]
   },
-  "191.9.108.62": {
+  "191.9.104.82": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1329,16 +1279,6 @@
       -96.8704
     ]
   },
-  "24.34.75.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Shelton",
-    "coordinates": [
-      41.3054,
-      -73.1217
-    ]
-  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1367,6 +1307,16 @@
     "coordinates": [
       50.1109,
       8.68213
+    ]
+  },
+  "31.201.90.81": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Eindhoven",
+    "coordinates": [
+      51.4549,
+      5.4625
     ]
   },
   "34.148.103.12": {
@@ -1467,6 +1417,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.119.30.39": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.0748,
+      72.8856
     ]
   },
   "45.128.199.70": {
@@ -1819,14 +1779,14 @@
       -77.35
     ]
   },
-  "74.103.188.243": {
+  "73.202.0.3": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Southampton",
+    "city": "Petaluma",
     "coordinates": [
-      40.185,
-      -75.0041
+      38.2478,
+      -122.6192
     ]
   },
   "74.91.116.122": {
@@ -1857,6 +1817,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6532,
+      -118.0098
     ]
   },
   "78.45.89.65": {
@@ -1957,6 +1927,16 @@
     "coordinates": [
       32.6333,
       -16.9
+    ]
+  },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1043,
+      17.0335
     ]
   },
   "89.207.221.209": {
