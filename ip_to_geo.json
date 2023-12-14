@@ -29,16 +29,6 @@
       -95.7129
     ]
   },
-  "103.177.248.115": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Hong Kong",
-    "coordinates": [
-      22.2842,
-      114.1759
-    ]
-  },
   "103.177.248.89": {
     "region": "Asia",
     "country": "Hong Kong",
@@ -57,6 +47,16 @@
     "coordinates": [
       -34.9281,
       138.5999
+    ]
+  },
+  "103.36.25.42": {
+    "region": "Asia",
+    "country": "Taiwan",
+    "cc": "TW",
+    "city": "Yingge District",
+    "coordinates": [
+      24.9493,
+      121.337
     ]
   },
   "103.72.77.220": {
@@ -137,6 +137,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "119.251.149.81": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Zhoutou",
+    "coordinates": [
+      37.8957,
+      114.904
     ]
   },
   "124.189.251.43": {
@@ -257,16 +267,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "136.32.174.95": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Overland Park",
-    "coordinates": [
-      38.8597,
-      -94.6611
     ]
   },
   "137.74.7.185": {
@@ -419,16 +419,6 @@
       17.0321
     ]
   },
-  "147.185.221.17": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.076,
-      72.8777
-    ]
-  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -527,16 +517,6 @@
     "coordinates": [
       33.4656,
       -111.9956
-    ]
-  },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
     ]
   },
   "158.248.75.93": {
@@ -1399,6 +1379,16 @@
       -95.8608
     ]
   },
+  "37.123.164.138": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
+    ]
+  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1557,16 +1547,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "46.204.6.1": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Katowice",
-    "coordinates": [
-      50.251,
-      19.0211
     ]
   },
   "46.227.68.148": {
