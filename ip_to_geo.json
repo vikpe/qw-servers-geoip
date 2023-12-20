@@ -35,8 +35,8 @@
     "cc": "AU",
     "city": "Adelaide",
     "coordinates": [
-      -34.9281,
-      138.5999
+      -34.9522,
+      138.6321
     ]
   },
   "103.72.77.220": {
@@ -233,10 +233,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Falkenstein",
+    "city": "Ludwigshafen am Rhein",
     "coordinates": [
-      50.475,
-      12.365
+      49.4823,
+      8.4397
     ]
   },
   "137.74.7.185": {
@@ -535,8 +535,8 @@
     "cc": "CA",
     "city": "Toronto",
     "coordinates": [
-      43.709,
-      -79.4057
+      43.6547,
+      -79.3623
     ]
   },
   "159.65.230.186": {
@@ -715,8 +715,18 @@
     "cc": "US",
     "city": "Kansas City",
     "coordinates": [
-      39.0133,
-      -94.5916
+      39.1029,
+      -94.5713
+    ]
+  },
+  "172.92.242.150": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "174.138.43.249": {
@@ -733,10 +743,20 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "Novosibirsk",
+    "city": "Omsk",
     "coordinates": [
-      55.0285,
-      82.9202
+      54.9978,
+      73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Ricany",
+    "coordinates": [
+      49.9831,
+      14.6436
     ]
   },
   "177.71.158.196": {
@@ -753,10 +773,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Malvik",
+    "city": "Hommelvik",
     "coordinates": [
-      63.4363,
-      10.7046
+      63.4068,
+      10.7848
     ]
   },
   "179.190.61.52": {
@@ -877,6 +897,16 @@
     "coordinates": [
       -34.9839,
       -71.2425
+    ]
+  },
+  "188.146.97.8": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Lodz",
+    "coordinates": [
+      51.7592,
+      19.456
     ]
   },
   "188.166.0.137": {
@@ -1095,8 +1125,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.4679,
-      153.0325
+      -27.225,
+      153.0137
     ]
   },
   "203.29.243.177": {
@@ -1309,16 +1339,6 @@
       72.8777
     ]
   },
-  "3.254.54.218": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3498,
-      -6.26031
-    ]
-  },
   "3.76.38.12": {
     "region": "Europe",
     "country": "Germany",
@@ -1395,8 +1415,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1376,
-      8.6776
+      50.1103,
+      8.7147
     ]
   },
   "37.221.215.47": {
@@ -1539,7 +1559,7 @@
       -96.8021
     ]
   },
-  "45.8.17.11": {
+  "45.8.17.128": {
     "region": "Europe",
     "country": "Netherlands",
     "cc": "NL",
@@ -1557,6 +1577,16 @@
     "coordinates": [
       59.2885,
       17.9612
+    ]
+  },
+  "49.12.1.29": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Falkenstein",
+    "coordinates": [
+      50.475,
+      12.365
     ]
   },
   "5.161.189.133": {
@@ -1739,16 +1769,6 @@
       -87.6378
     ]
   },
-  "69.247.32.166": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Alva",
-    "coordinates": [
-      26.7191,
-      -81.6352
-    ]
-  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1893,10 +1913,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Sk\u00f6ndal",
+    "city": "V\u00e5rsta",
     "coordinates": [
       59.2484,
-      18.1223
+      18.0782
     ]
   },
   "85.241.112.229": {
@@ -1905,8 +1925,8 @@
     "cc": "PT",
     "city": "Quinta Do Conde",
     "coordinates": [
-      38.5657,
-      -9.0367
+      38.5436,
+      -9.0473
     ]
   },
   "85.242.107.149": {
@@ -1917,16 +1937,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "89.154.193.70": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
     ]
   },
   "89.207.221.209": {
@@ -1983,10 +1993,10 @@
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Aesch",
+    "city": "Oberwil",
     "coordinates": [
-      47.4702,
-      7.6011
+      47.5119,
+      7.5579
     ]
   },
   "95.165.130.151": {
@@ -2033,10 +2043,10 @@
     "region": "Europe",
     "country": "Portugal",
     "cc": "PT",
-    "city": "Coimbra",
+    "city": "Lous\u00e3",
     "coordinates": [
-      40.2057,
-      -8.4213
+      40.1122,
+      -8.2521
     ]
   },
   "98.128.174.153": {
@@ -2083,10 +2093,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Memphis",
+    "city": "Arlington",
     "coordinates": [
-      35.1128,
-      -89.9085
+      35.283,
+      -89.7335
     ]
   }
 }
