@@ -719,16 +719,6 @@
       -94.5713
     ]
   },
-  "172.92.242.150": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -947,16 +937,6 @@
     "coordinates": [
       -22.895,
       -47.0439
-    ]
-  },
-  "191.217.255.36": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.561,
-      -49.2063
     ]
   },
   "192.99.32.215": {
@@ -1769,6 +1749,16 @@
       -87.6378
     ]
   },
+  "68.60.111.37": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      42.1955,
+      -83.4894
+    ]
+  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1827,6 +1817,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6532,
+      -118.0098
     ]
   },
   "76.101.148.97": {
@@ -1939,6 +1939,26 @@
       -16.9
     ]
   },
+  "87.128.111.190": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.52,
+      13.405
+    ]
+  },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1286,
+      17.0574
+    ]
+  },
   "89.207.221.209": {
     "region": "Europe",
     "country": "Russia",
@@ -1977,16 +1997,6 @@
     "coordinates": [
       48.709,
       8.7399
-    ]
-  },
-  "91.64.150.52": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.4923,
-      13.4839
     ]
   },
   "94.16.128.193": {
@@ -2047,6 +2057,16 @@
     "coordinates": [
       40.1122,
       -8.2521
+    ]
+  },
+  "98.122.171.23": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cary",
+    "coordinates": [
+      35.7299,
+      -78.7748
     ]
   },
   "98.128.174.153": {
