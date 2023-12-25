@@ -29,17 +29,7 @@
       -95.7129
     ]
   },
-  "103.177.248.121": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Hong Kong",
-    "coordinates": [
-      22.2842,
-      114.1759
-    ]
-  },
-  "103.177.248.30": {
+  "103.177.248.89": {
     "region": "Asia",
     "country": "Hong Kong",
     "cc": "HK",
@@ -519,6 +509,16 @@
       4.9392
     ]
   },
+  "158.174.255.17": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -749,6 +749,26 @@
       -79.7249
     ]
   },
+  "174.164.173.71": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marysville",
+    "coordinates": [
+      48.0961,
+      -122.2002
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -867,6 +887,16 @@
     "coordinates": [
       52.4012,
       -1.6897
+    ]
+  },
+  "185.90.61.167": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9016,
+      10.7343
     ]
   },
   "186.64.122.249": {
@@ -1187,6 +1217,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Puig",
+    "coordinates": [
+      39.5887,
+      -0.30333
     ]
   },
   "216.108.230.70": {
@@ -1779,6 +1819,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -1927,16 +1977,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "87.207.124.227": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.1286,
-      17.0574
     ]
   },
   "89.207.221.209": {
