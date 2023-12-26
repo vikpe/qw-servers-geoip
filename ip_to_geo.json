@@ -29,16 +29,6 @@
       -95.7129
     ]
   },
-  "103.177.248.89": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Hong Kong",
-    "coordinates": [
-      22.2842,
-      114.1759
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -47,6 +37,16 @@
     "coordinates": [
       -34.9522,
       138.6321
+    ]
+  },
+  "103.36.25.42": {
+    "region": "Asia",
+    "country": "Taiwan",
+    "cc": "TW",
+    "city": "Yingge District",
+    "coordinates": [
+      24.9493,
+      121.337
     ]
   },
   "103.72.77.220": {
@@ -1219,16 +1219,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Puig",
-    "coordinates": [
-      39.5887,
-      -0.30333
-    ]
-  },
   "216.108.230.70": {
     "region": "North America",
     "country": "United States",
@@ -1819,16 +1809,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -1997,6 +1977,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "91.154.0.46": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4696,
+      23.8794
     ]
   },
   "91.206.14.17": {
