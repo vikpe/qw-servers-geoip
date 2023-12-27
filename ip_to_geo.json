@@ -29,6 +29,16 @@
       -95.7129
     ]
   },
+  "103.177.248.89": {
+    "region": "Asia",
+    "country": "Hong Kong",
+    "cc": "HK",
+    "city": "Hong Kong",
+    "coordinates": [
+      22.2842,
+      114.1759
+    ]
+  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -37,16 +47,6 @@
     "coordinates": [
       -34.9522,
       138.6321
-    ]
-  },
-  "103.36.25.42": {
-    "region": "Asia",
-    "country": "Taiwan",
-    "cc": "TW",
-    "city": "Yingge District",
-    "coordinates": [
-      24.9493,
-      121.337
     ]
   },
   "103.72.77.220": {
@@ -759,16 +759,6 @@
       -122.2002
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -807,6 +797,16 @@
     "coordinates": [
       -23.6283,
       -46.6409
+    ]
+  },
+  "179.232.6.240": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
     ]
   },
   "18.144.19.16": {
@@ -949,7 +949,7 @@
       12.365
     ]
   },
-  "189.78.79.211": {
+  "191.9.104.82": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1297,6 +1297,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.189.56.9": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Selden",
+    "coordinates": [
+      40.871,
+      -73.051
     ]
   },
   "24.87.1.123": {
@@ -1839,6 +1849,16 @@
       -87.6318
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6532,
+      -118.0098
+    ]
+  },
   "76.101.148.97": {
     "region": "North America",
     "country": "United States",
@@ -1959,6 +1979,16 @@
       13.405
     ]
   },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1286,
+      17.0574
+    ]
+  },
   "89.207.221.209": {
     "region": "Europe",
     "country": "Russia",
@@ -1977,16 +2007,6 @@
     "coordinates": [
       52.2296,
       21.0067
-    ]
-  },
-  "91.154.0.46": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4696,
-      23.8794
     ]
   },
   "91.206.14.17": {
