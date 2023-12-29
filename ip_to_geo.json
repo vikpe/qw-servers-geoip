@@ -129,6 +129,16 @@
       11.0767
     ]
   },
+  "119.17.137.95": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Frankston East",
+    "coordinates": [
+      -38.1333,
+      145.133
+    ]
+  },
   "124.189.251.43": {
     "region": "Oceania",
     "country": "Australia",
@@ -529,16 +539,6 @@
       11.1728
     ]
   },
-  "159.196.248.221": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Burwood",
-    "coordinates": [
-      -37.8498,
-      145.119
-    ]
-  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -757,16 +757,6 @@
     "coordinates": [
       48.0961,
       -122.2002
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "176.210.100.6": {
@@ -1859,16 +1849,6 @@
       -87.6318
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
-    ]
-  },
   "76.101.148.97": {
     "region": "North America",
     "country": "United States",
@@ -1997,6 +1977,16 @@
     "coordinates": [
       51.1286,
       17.0574
+    ]
+  },
+  "89.154.193.70": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1691,
+      -8.6793
     ]
   },
   "89.207.221.209": {
