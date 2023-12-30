@@ -319,16 +319,6 @@
       37.6171
     ]
   },
-  "141.148.227.175": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "141.239.73.214": {
     "region": "North America",
     "country": "United States",
@@ -759,6 +749,16 @@
       -122.2002
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -847,6 +847,16 @@
     "coordinates": [
       38.7223,
       -9.13934
+    ]
+  },
+  "185.172.173.197": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Skive",
+    "coordinates": [
+      56.5638,
+      9.0232
     ]
   },
   "185.189.139.18": {
@@ -1659,6 +1669,16 @@
       3.20151
     ]
   },
+  "52.129.112.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Austin",
+    "coordinates": [
+      30.2672,
+      -97.7431
+    ]
+  },
   "52.159.114.44": {
     "region": "North America",
     "country": "United States",
@@ -1849,6 +1869,16 @@
       -87.6318
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6532,
+      -118.0098
+    ]
+  },
   "76.101.148.97": {
     "region": "North America",
     "country": "United States",
@@ -1907,6 +1937,16 @@
     "coordinates": [
       48.1077,
       11.6091
+    ]
+  },
+  "81.145.253.77": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Bracknell",
+    "coordinates": [
+      51.4036,
+      -0.7618
     ]
   },
   "82.102.20.226": {
@@ -1979,16 +2019,6 @@
       17.0574
     ]
   },
-  "89.154.193.70": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
-    ]
-  },
   "89.207.221.209": {
     "region": "Europe",
     "country": "Russia",
@@ -2019,6 +2049,16 @@
       23.8794
     ]
   },
+  "91.155.158.80": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Jyv\u00e4skyl\u00e4",
+    "coordinates": [
+      62.2585,
+      25.7056
+    ]
+  },
   "91.206.14.17": {
     "region": "Europe",
     "country": "Russia",
@@ -2047,16 +2087,6 @@
     "coordinates": [
       47.5119,
       7.5579
-    ]
-  },
-  "95.165.130.151": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7483,
-      37.6171
     ]
   },
   "95.216.18.118": {
