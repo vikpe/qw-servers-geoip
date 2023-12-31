@@ -719,6 +719,16 @@
       -94.5713
     ]
   },
+  "172.92.242.150": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -747,16 +757,6 @@
     "coordinates": [
       48.0961,
       -122.2002
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "176.210.100.6": {
@@ -797,6 +797,16 @@
     "coordinates": [
       -23.6283,
       -46.6409
+    ]
+  },
+  "179.232.6.240": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
     ]
   },
   "18.144.19.16": {
@@ -1869,16 +1879,6 @@
       -87.6318
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
-    ]
-  },
   "76.101.148.97": {
     "region": "North America",
     "country": "United States",
@@ -2007,16 +2007,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "87.207.124.227": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.1286,
-      17.0574
     ]
   },
   "89.207.221.209": {
