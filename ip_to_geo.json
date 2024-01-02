@@ -389,6 +389,16 @@
       17.0335
     ]
   },
+  "146.198.24.208": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Aberdeen",
+    "coordinates": [
+      57.1453,
+      -2.0945
+    ]
+  },
   "146.90.114.169": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -517,6 +527,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "158.174.255.17": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
     ]
   },
   "158.248.75.93": {
@@ -747,16 +767,6 @@
     "coordinates": [
       48.0961,
       -122.2002
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "176.210.100.6": {
@@ -1849,16 +1859,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -1887,16 +1887,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
     ]
   },
   "76.101.148.97": {
@@ -2047,16 +2037,6 @@
     "coordinates": [
       52.2296,
       21.0067
-    ]
-  },
-  "91.154.1.8": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4696,
-      23.8794
     ]
   },
   "91.155.158.80": {
