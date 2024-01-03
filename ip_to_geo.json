@@ -13,7 +13,7 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Bartlesville",
+    "city": "Tulsa",
     "coordinates": [
       37.0902,
       -95.7129
@@ -23,7 +23,7 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Bartlesville",
+    "city": "Tulsa",
     "coordinates": [
       37.0902,
       -95.7129
@@ -53,10 +53,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Cleveland",
+    "city": "Detroit",
     "coordinates": [
-      41.4993,
-      -81.6944
+      42.3314,
+      -83.0458
     ]
   },
   "104.207.135.230": {
@@ -243,10 +243,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Ludwigshafen am Rhein",
+    "city": "Falkenstein",
     "coordinates": [
-      49.4823,
-      8.4397
+      50.475,
+      12.365
     ]
   },
   "137.74.7.185": {
@@ -389,24 +389,14 @@
       17.0335
     ]
   },
-  "146.198.24.208": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Aberdeen",
-    "coordinates": [
-      57.1453,
-      -2.0945
-    ]
-  },
   "146.90.114.169": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
     "city": "Craigavon",
     "coordinates": [
-      54.385,
-      -6.3282
+      54.4546,
+      -6.3836
     ]
   },
   "147.135.209.225": {
@@ -509,6 +499,16 @@
       144.75
     ]
   },
+  "158.101.122.160": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.018,
+      -77.539
+    ]
+  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -533,10 +533,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Enskede-Arsta-Vantoer",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.2857,
+      18.0611
     ]
   },
   "158.248.75.93": {
@@ -735,8 +735,8 @@
     "cc": "US",
     "city": "Kansas City",
     "coordinates": [
-      39.1029,
-      -94.5713
+      39.0847,
+      -94.5308
     ]
   },
   "174.138.43.249": {
@@ -807,16 +807,6 @@
     "coordinates": [
       -23.6283,
       -46.6409
-    ]
-  },
-  "179.232.6.240": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
     ]
   },
   "18.144.19.16": {
@@ -1135,8 +1125,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.225,
-      153.0137
+      -27.6565,
+      152.8144
     ]
   },
   "206.51.245.84": {
@@ -1259,16 +1249,6 @@
       13.4069
     ]
   },
-  "217.30.10.106": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0067
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1317,16 +1297,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.189.56.9": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Selden",
-    "coordinates": [
-      40.871,
-      -73.051
     ]
   },
   "24.87.1.123": {
@@ -1425,8 +1395,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1103,
-      8.7147
+      50.1376,
+      8.6776
     ]
   },
   "37.221.215.47": {
@@ -1467,6 +1437,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.128.199.239": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3716,
+      4.8883
     ]
   },
   "45.131.183.149": {
@@ -1579,16 +1559,6 @@
       -96.8021
     ]
   },
-  "45.8.17.128": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.2393,
-      6.1867
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1647,16 +1617,6 @@
     "coordinates": [
       32.9473,
       -96.7028
-    ]
-  },
-  "51.20.127.136": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
     ]
   },
   "51.20.98.15": {
@@ -2129,16 +2089,6 @@
       -8.2521
     ]
   },
-  "98.122.171.23": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cary",
-    "coordinates": [
-      35.7299,
-      -78.7748
-    ]
-  },
   "98.128.174.153": {
     "region": "Europe",
     "country": "Sweden",
@@ -2153,10 +2103,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Gothenburg",
     "coordinates": [
-      59.3241,
-      18.0517
+      57.7065,
+      11.967
     ]
   },
   "98.144.80.46": {
