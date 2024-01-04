@@ -529,16 +529,6 @@
       4.9392
     ]
   },
-  "158.174.255.17": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Enskede-Arsta-Vantoer",
-    "coordinates": [
-      59.2857,
-      18.0611
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -1299,6 +1289,16 @@
       -96.8704
     ]
   },
+  "24.255.66.235": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Roanoke",
+    "coordinates": [
+      37.2555,
+      -80.0531
+    ]
+  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1437,6 +1437,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.119.30.45": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.0748,
+      72.8856
     ]
   },
   "45.128.199.239": {
@@ -1847,6 +1857,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6532,
+      -118.0098
     ]
   },
   "76.101.148.97": {
