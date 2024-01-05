@@ -189,6 +189,16 @@
       28.0473
     ]
   },
+  "13.40.65.97": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5074,
+      -0.127758
+    ]
+  },
   "13.53.75.0": {
     "region": "Europe",
     "country": "Sweden",
@@ -327,16 +337,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "141.239.73.214": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "\u2018Aiea",
-    "coordinates": [
-      21.3754,
-      -157.9474
     ]
   },
   "144.202.33.70": {
@@ -1289,16 +1289,6 @@
       -96.8704
     ]
   },
-  "24.255.66.235": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Roanoke",
-    "coordinates": [
-      37.2555,
-      -80.0531
-    ]
-  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1437,16 +1427,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.119.30.45": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.0748,
-      72.8856
     ]
   },
   "45.128.199.239": {
@@ -1949,6 +1929,26 @@
       17.3203
     ]
   },
+  "82.196.124.251": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Saltsjoe-Boo",
+    "coordinates": [
+      59.3141,
+      18.2517
+    ]
+  },
+  "84.251.35.110": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1797,
+      24.9344
+    ]
+  },
   "85.229.9.200": {
     "region": "Europe",
     "country": "Sweden",
@@ -2017,6 +2017,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "91.154.1.8": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4696,
+      23.8794
     ]
   },
   "91.155.158.80": {
