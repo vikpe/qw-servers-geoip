@@ -799,6 +799,16 @@
       -46.6409
     ]
   },
+  "179.232.6.240": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
+    ]
+  },
   "18.144.19.16": {
     "region": "North America",
     "country": "United States",
@@ -1239,6 +1249,16 @@
       13.4069
     ]
   },
+  "217.213.116.129": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1427,16 +1447,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.128.199.239": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3716,
-      4.8883
     ]
   },
   "45.131.183.149": {
@@ -1789,6 +1799,16 @@
       17.9155
     ]
   },
+  "72.104.14.242": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Wilmington",
+    "coordinates": [
+      39.7458,
+      -75.581
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1837,16 +1857,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
     ]
   },
   "76.101.148.97": {
@@ -1927,16 +1937,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "82.196.124.251": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Saltsjoe-Boo",
-    "coordinates": [
-      59.3141,
-      18.2517
     ]
   },
   "84.251.35.110": {
@@ -2049,7 +2049,7 @@
       37.6171
     ]
   },
-  "91.55.67.174": {
+  "91.55.67.9": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
