@@ -799,6 +799,16 @@
       -46.6409
     ]
   },
+  "179.255.96.151": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.561,
+      -49.2063
+    ]
+  },
   "18.144.19.16": {
     "region": "North America",
     "country": "United States",
@@ -947,16 +957,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "191.217.255.36": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.561,
-      -49.2063
     ]
   },
   "191.9.104.82": {
@@ -1169,16 +1169,6 @@
       -87.6289
     ]
   },
-  "209.38.242.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1169,
-      8.6837
-    ]
-  },
   "210.54.39.19": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1247,6 +1237,16 @@
     "coordinates": [
       52.5196,
       13.4069
+    ]
+  },
+  "217.215.138.225": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Vaestra Froelunda",
+    "coordinates": [
+      57.6442,
+      11.9332
     ]
   },
   "223.165.64.141": {
@@ -1327,16 +1327,6 @@
     "coordinates": [
       50.1109,
       8.68213
-    ]
-  },
-  "31.201.90.81": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Eindhoven",
-    "coordinates": [
-      51.4549,
-      5.4625
     ]
   },
   "34.148.103.12": {
@@ -1819,6 +1809,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2442,
+      -122.678
+    ]
+  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -2007,16 +2007,6 @@
     "coordinates": [
       52.2296,
       21.0067
-    ]
-  },
-  "91.154.1.8": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4696,
-      23.8794
     ]
   },
   "91.155.158.80": {
