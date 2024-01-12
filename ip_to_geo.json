@@ -239,16 +239,6 @@
       17.7834
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.181.96.161": {
     "region": "Europe",
     "country": "Finland",
@@ -739,26 +729,6 @@
       -94.5308
     ]
   },
-  "172.92.242.150": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
-  "173.218.134.99": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.7767,
-      -90.7694
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -797,6 +767,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "177.144.186.207": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
     ]
   },
   "177.235.58.157": {
@@ -999,14 +979,14 @@
       -46.6409
     ]
   },
-  "191.9.104.82": {
+  "190.106.146.6": {
     "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
     "coordinates": [
-      -22.895,
-      -47.0439
+      -34.6037,
+      -58.3816
     ]
   },
   "192.99.32.215": {
@@ -1279,16 +1259,6 @@
       13.4069
     ]
   },
-  "217.210.27.225": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sk\u00f6vde",
-    "coordinates": [
-      58.3937,
-      13.8463
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1320,16 +1290,6 @@
     ]
   },
   "23.227.170.216": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.8137,
-      -96.8704
-    ]
-  },
-  "23.227.170.222": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1479,16 +1439,6 @@
       72.8856
     ]
   },
-  "45.128.199.239": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3716,
-      4.8883
-    ]
-  },
   "45.131.183.149": {
     "region": "Europe",
     "country": "Poland",
@@ -1527,16 +1477,6 @@
     "coordinates": [
       48.8323,
       2.4075
-    ]
-  },
-  "45.235.98.137": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1667,16 +1607,6 @@
     "coordinates": [
       32.9473,
       -96.7028
-    ]
-  },
-  "51.20.98.15": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
     ]
   },
   "51.210.10.181": {
@@ -2049,6 +1979,16 @@
       13.405
     ]
   },
+  "89.207.221.209": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Kudrovo",
+    "coordinates": [
+      59.9035,
+      30.5106
+    ]
+  },
   "89.66.241.225": {
     "region": "Europe",
     "country": "Poland",
@@ -2057,6 +1997,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "91.154.0.185": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4696,
+      23.8794
     ]
   },
   "91.206.14.17": {
