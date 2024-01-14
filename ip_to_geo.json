@@ -29,16 +29,6 @@
       -95.7129
     ]
   },
-  "103.177.248.89": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Hong Kong",
-    "coordinates": [
-      22.2842,
-      114.1759
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -539,16 +529,6 @@
       11.1728
     ]
   },
-  "159.196.206.33": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8936,
-      151.2593
-    ]
-  },
   "159.203.25.195": {
     "region": "North America",
     "country": "Canada",
@@ -729,14 +709,14 @@
       151.2006
     ]
   },
-  "172.59.78.135": {
+  "172.59.72.9": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Kansas City",
     "coordinates": [
-      39.0847,
-      -94.5308
+      38.9321,
+      -94.4983
     ]
   },
   "174.138.43.249": {
@@ -1319,6 +1299,16 @@
       -96.8704
     ]
   },
+  "24.191.123.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Brooklyn",
+    "coordinates": [
+      40.5978,
+      -74.0001
+    ]
+  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1449,7 +1439,7 @@
       -77.4874
     ]
   },
-  "45.127.44.7": {
+  "45.127.45.52": {
     "region": "Asia",
     "country": "India",
     "cc": "IN",
@@ -2019,16 +2009,6 @@
       13.405
     ]
   },
-  "89.154.193.70": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
-    ]
-  },
   "89.207.221.209": {
     "region": "Europe",
     "country": "Russia",
@@ -2047,6 +2027,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "91.155.158.80": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Jyv\u00e4skyl\u00e4",
+    "coordinates": [
+      62.2585,
+      25.7056
     ]
   },
   "91.206.14.17": {
@@ -2127,6 +2117,16 @@
     "coordinates": [
       40.1122,
       -8.2521
+    ]
+  },
+  "98.122.171.23": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cary",
+    "coordinates": [
+      35.7299,
+      -78.7748
     ]
   },
   "98.128.174.153": {
