@@ -219,6 +219,16 @@
       -6.2597
     ]
   },
+  "130.162.236.198": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1049,
+      8.6295
+    ]
+  },
   "130.242.114.28": {
     "region": "Europe",
     "country": "Sweden",
@@ -699,6 +709,16 @@
       151.2006
     ]
   },
+  "172.233.142.191": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0544,
+      -118.2441
+    ]
+  },
   "172.233.187.219": {
     "region": "North America",
     "country": "United States",
@@ -707,16 +727,6 @@
     "coordinates": [
       25.7689,
       -80.1946
-    ]
-  },
-  "172.59.72.9": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Kansas City",
-    "coordinates": [
-      39.0997,
-      -94.5786
     ]
   },
   "174.138.43.249": {
@@ -747,16 +757,6 @@
     "coordinates": [
       48.0961,
       -122.2002
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "176.210.100.6": {
@@ -807,16 +807,6 @@
     "coordinates": [
       63.3499,
       10.3634
-    ]
-  },
-  "179.190.61.52": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.6283,
-      -46.6409
     ]
   },
   "179.232.6.240": {
@@ -897,16 +887,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.73.44.100": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Solihull",
-    "coordinates": [
-      52.4012,
-      -1.6897
     ]
   },
   "185.90.61.167": {
@@ -1139,16 +1119,6 @@
       153.0137
     ]
   },
-  "203.213.42.170": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1299,16 +1269,6 @@
       -96.8704
     ]
   },
-  "23.227.170.222": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.8137,
-      -96.8704
-    ]
-  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1439,16 +1399,6 @@
       -77.4874
     ]
   },
-  "45.119.30.138": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.0748,
-      72.8856
-    ]
-  },
   "45.131.183.149": {
     "region": "Europe",
     "country": "Poland",
@@ -1567,6 +1517,26 @@
     "coordinates": [
       59.2885,
       17.9612
+    ]
+  },
+  "46.59.40.9": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
+    ]
+  },
+  "47.213.158.167": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Nixa",
+    "coordinates": [
+      37.0504,
+      -93.3002
     ]
   },
   "5.150.200.139": {
