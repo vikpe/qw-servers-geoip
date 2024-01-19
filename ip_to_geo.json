@@ -209,16 +209,6 @@
       18.0686
     ]
   },
-  "13.79.234.207": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3478,
-      -6.2597
-    ]
-  },
   "130.162.236.198": {
     "region": "Europe",
     "country": "Germany",
@@ -807,16 +797,6 @@
     "coordinates": [
       63.3499,
       10.3634
-    ]
-  },
-  "179.232.6.240": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
     ]
   },
   "179.255.96.151": {
@@ -1409,7 +1389,7 @@
       21.0122
     ]
   },
-  "45.132.235.235": {
+  "45.132.235.200": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -1847,16 +1827,6 @@
     "coordinates": [
       33.6532,
       -118.0098
-    ]
-  },
-  "76.101.148.97": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cape Coral",
-    "coordinates": [
-      26.6909,
-      -81.9483
     ]
   },
   "78.45.89.65": {
