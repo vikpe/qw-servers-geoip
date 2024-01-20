@@ -499,16 +499,6 @@
       -111.9956
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -719,6 +709,16 @@
       -80.1946
     ]
   },
+  "173.218.133.201": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -829,6 +829,16 @@
       139.692
     ]
   },
+  "18.208.156.115": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
+    ]
+  },
   "18.228.39.185": {
     "region": "South America",
     "country": "Brazil",
@@ -937,6 +947,16 @@
     "coordinates": [
       -34.6037,
       -58.3816
+    ]
+  },
+  "192.248.166.253": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Whitechapel",
+    "coordinates": [
+      51.5128,
+      -0.0638
     ]
   },
   "192.99.32.215": {
@@ -1209,6 +1229,16 @@
       13.4069
     ]
   },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8344,
+      151.1826
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1240,6 +1270,16 @@
     ]
   },
   "23.227.170.216": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.8137,
+      -96.8704
+    ]
+  },
+  "23.227.170.222": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1377,6 +1417,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.127.45.164": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.0748,
+      72.8856
     ]
   },
   "45.131.183.149": {
@@ -1679,6 +1729,16 @@
       -121.895
     ]
   },
+  "54.194.198.205": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": [
+      53.3498,
+      -6.26031
+    ]
+  },
   "54.232.250.209": {
     "region": "South America",
     "country": "Brazil",
@@ -1687,6 +1747,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "54.252.183.87": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
     ]
   },
   "54.94.165.196": {
@@ -1819,14 +1889,14 @@
       -75.9877
     ]
   },
-  "75.82.121.13": {
+  "76.101.148.97": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Huntington Beach",
+    "city": "Cape Coral",
     "coordinates": [
-      33.6532,
-      -118.0098
+      26.6909,
+      -81.9483
     ]
   },
   "78.45.89.65": {
@@ -1959,6 +2029,16 @@
       21.0067
     ]
   },
+  "91.154.3.58": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4696,
+      23.8794
+    ]
+  },
   "91.155.158.80": {
     "region": "Europe",
     "country": "Finland",
@@ -2049,14 +2129,14 @@
       24.9347
     ]
   },
-  "95.94.59.73": {
+  "95.93.57.62": {
     "region": "Europe",
     "country": "Portugal",
     "cc": "PT",
-    "city": "Lous\u00e3",
+    "city": "Miranda do Corvo",
     "coordinates": [
-      40.1122,
-      -8.2521
+      40.0958,
+      -8.3425
     ]
   },
   "98.128.174.153": {
