@@ -169,16 +169,6 @@
       -46.6361
     ]
   },
-  "13.211.123.192": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
-    ]
-  },
   "13.245.119.116": {
     "region": "Africa",
     "country": "South Africa",
@@ -253,10 +243,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Falkenstein",
+    "city": "Ludwigshafen am Rhein",
     "coordinates": [
-      50.475,
-      12.365
+      49.4823,
+      8.4397
     ]
   },
   "137.74.7.185": {
@@ -367,6 +357,16 @@
     "coordinates": [
       50.1049,
       8.6295
+    ]
+  },
+  "145.220.10.98": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Utrecht",
+    "coordinates": [
+      52.0907,
+      5.12142
     ]
   },
   "145.239.94.156": {
@@ -503,10 +503,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Fetsund",
+    "city": "Oslo",
     "coordinates": [
-      59.9315,
-      11.1728
+      59.955,
+      10.859
     ]
   },
   "159.203.25.195": {
@@ -515,8 +515,8 @@
     "cc": "CA",
     "city": "Toronto",
     "coordinates": [
-      43.6547,
-      -79.3623
+      43.709,
+      -79.4057
     ]
   },
   "159.65.230.186": {
@@ -659,16 +659,6 @@
       7.8268
     ]
   },
-  "168.61.175.143": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "170.39.226.130": {
     "region": "North America",
     "country": "United States",
@@ -689,16 +679,6 @@
       151.2006
     ]
   },
-  "172.233.142.191": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0544,
-      -118.2441
-    ]
-  },
   "172.233.187.219": {
     "region": "North America",
     "country": "United States",
@@ -709,14 +689,24 @@
       -80.1946
     ]
   },
-  "173.218.133.201": {
+  "172.59.72.9": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Jonesboro",
+    "city": "Kansas City",
     "coordinates": [
-      35.8308,
-      -90.7023
+      39.0997,
+      -94.5786
+    ]
+  },
+  "172.92.242.150": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "174.138.43.249": {
@@ -795,8 +785,8 @@
     "cc": "NO",
     "city": "Heimdal",
     "coordinates": [
-      63.3499,
-      10.3634
+      63.3483,
+      10.3636
     ]
   },
   "179.255.96.151": {
@@ -817,16 +807,6 @@
     "coordinates": [
       37.3394,
       -121.895
-    ]
-  },
-  "18.177.140.83": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.6895,
-      139.692
     ]
   },
   "18.208.156.115": {
@@ -955,8 +935,8 @@
     "cc": "GB",
     "city": "Whitechapel",
     "coordinates": [
-      51.5128,
-      -0.0638
+      51.5026,
+      -0.0668
     ]
   },
   "192.99.32.215": {
@@ -1019,16 +999,6 @@
       -93.6208
     ]
   },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1069,16 +1039,6 @@
       139.77
     ]
   },
-  "20.245.213.126": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
-    ]
-  },
   "20.245.6.70": {
     "region": "North America",
     "country": "United States",
@@ -1109,16 +1069,6 @@
       -104.816154
     ]
   },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.225,
-      153.0137
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1147,6 +1097,16 @@
     "coordinates": [
       42.2666,
       -3.75458
+    ]
+  },
+  "207.246.100.220": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0544,
+      -118.244
     ]
   },
   "208.77.22.138": {
@@ -1227,16 +1187,6 @@
     "coordinates": [
       52.5196,
       13.4069
-    ]
-  },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8344,
-      151.1826
     ]
   },
   "223.165.64.141": {
@@ -1329,16 +1279,6 @@
       -80.013
     ]
   },
-  "34.244.130.97": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3498,
-      -6.26031
-    ]
-  },
   "35.184.4.200": {
     "region": "North America",
     "country": "United States",
@@ -1399,16 +1339,6 @@
       116.395
     ]
   },
-  "40.84.144.27": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Antonio",
-    "coordinates": [
-      29.4167,
-      -98.5
-    ]
-  },
   "44.210.138.174": {
     "region": "North America",
     "country": "United States",
@@ -1417,16 +1347,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.127.45.164": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.0748,
-      72.8856
     ]
   },
   "45.131.183.149": {
@@ -1539,6 +1459,16 @@
       -96.8021
     ]
   },
+  "45.8.17.111": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.2393,
+      6.1867
+    ]
+  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1547,6 +1477,16 @@
     "coordinates": [
       59.2885,
       17.9612
+    ]
+  },
+  "46.23.98.79": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7483,
+      37.6171
     ]
   },
   "46.59.40.9": {
@@ -1559,24 +1499,14 @@
       18.0517
     ]
   },
-  "47.213.158.167": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Nixa",
-    "coordinates": [
-      37.0504,
-      -93.3002
-    ]
-  },
   "5.150.200.139": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Tibro",
+    "city": "M\u00f6lltorp",
     "coordinates": [
-      58.4237,
-      14.1581
+      58.5,
+      14.4
     ]
   },
   "5.161.189.133": {
@@ -1657,16 +1587,6 @@
     "coordinates": [
       30.2672,
       -97.7431
-    ]
-  },
-  "52.159.114.44": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8819,
-      -87.6278
     ]
   },
   "52.240.58.168": {
@@ -1849,6 +1769,16 @@
       -77.35
     ]
   },
+  "74.109.14.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenixville",
+    "coordinates": [
+      40.1262,
+      -75.5268
+    ]
+  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -1883,10 +1813,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Mohnton",
+    "city": "York",
     "coordinates": [
-      40.2587,
-      -75.9877
+      39.9617,
+      -76.7329
     ]
   },
   "76.101.148.97": {
@@ -2153,10 +2083,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Gothenburg",
+    "city": "Stockholm",
     "coordinates": [
-      57.7065,
-      11.967
+      59.3241,
+      18.0517
     ]
   },
   "98.144.80.46": {
@@ -2177,16 +2107,6 @@
     "coordinates": [
       43.9671,
       -79.2423
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Carrollton",
-    "coordinates": [
-      32.9657,
-      -96.8834
     ]
   },
   "99.72.255.45": {
