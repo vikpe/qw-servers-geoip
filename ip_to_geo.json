@@ -379,7 +379,7 @@
       17.0335
     ]
   },
-  "146.90.114.169": {
+  "146.90.114.228": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
@@ -659,6 +659,16 @@
       7.8268
     ]
   },
+  "168.61.175.143": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Des Moines",
+    "coordinates": [
+      41.5908,
+      -93.6208
+    ]
+  },
   "170.39.226.130": {
     "region": "North America",
     "country": "United States",
@@ -697,16 +707,6 @@
     "coordinates": [
       39.0997,
       -94.5786
-    ]
-  },
-  "172.92.242.150": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "174.138.43.249": {
@@ -859,14 +859,14 @@
       14.9942
     ]
   },
-  "185.90.61.167": {
+  "185.73.44.100": {
     "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Solihull",
     "coordinates": [
-      59.9016,
-      10.7343
+      52.4012,
+      -1.6897
     ]
   },
   "186.64.122.249": {
@@ -929,16 +929,6 @@
       -58.3816
     ]
   },
-  "192.248.166.253": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Whitechapel",
-    "coordinates": [
-      51.5026,
-      -0.0668
-    ]
-  },
   "192.99.32.215": {
     "region": "North America",
     "country": "Canada",
@@ -999,6 +989,16 @@
       -93.6208
     ]
   },
+  "20.125.113.83": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
+    ]
+  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1039,6 +1039,16 @@
       139.77
     ]
   },
+  "20.245.213.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Francisco",
+    "coordinates": [
+      37.783,
+      -122.417
+    ]
+  },
   "20.245.6.70": {
     "region": "North America",
     "country": "United States",
@@ -1067,6 +1077,16 @@
     "coordinates": [
       41.13925,
       -104.816154
+    ]
+  },
+  "202.63.65.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.225,
+      153.0137
     ]
   },
   "206.51.245.84": {
@@ -1177,6 +1197,16 @@
     "coordinates": [
       39.0814,
       -77.6443
+    ]
+  },
+  "217.160.44.209": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Essen",
+    "coordinates": [
+      51.4556,
+      7.01156
     ]
   },
   "217.197.83.154": {
@@ -1339,6 +1369,16 @@
       116.395
     ]
   },
+  "40.84.144.27": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Antonio",
+    "coordinates": [
+      29.4167,
+      -98.5
+    ]
+  },
   "44.210.138.174": {
     "region": "North America",
     "country": "United States",
@@ -1347,16 +1387,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.131.183.149": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2297,
-      21.0122
     ]
   },
   "45.132.235.200": {
@@ -1519,16 +1549,6 @@
       -77.4903
     ]
   },
-  "5.35.99.151": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7558,
-      37.6173
-    ]
-  },
   "5.9.82.79": {
     "region": "Europe",
     "country": "Germany",
@@ -1587,6 +1607,16 @@
     "coordinates": [
       30.2672,
       -97.7431
+    ]
+  },
+  "52.159.114.44": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8819,
+      -87.6278
     ]
   },
   "52.240.58.168": {
@@ -1767,6 +1797,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "74.109.14.130": {
@@ -1957,16 +1997,6 @@
     "coordinates": [
       52.2296,
       21.0067
-    ]
-  },
-  "91.154.3.58": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4696,
-      23.8794
     ]
   },
   "91.155.158.80": {
