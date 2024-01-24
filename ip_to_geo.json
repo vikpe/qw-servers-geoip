@@ -319,16 +319,6 @@
       37.6171
     ]
   },
-  "141.148.227.175": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "144.202.59.41": {
     "region": "North America",
     "country": "United States",
@@ -419,6 +409,16 @@
       -96.8021
     ]
   },
+  "149.28.60.155": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Piscataway",
+    "coordinates": [
+      40.5511,
+      -74.4606
+    ]
+  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -437,6 +437,16 @@
     "coordinates": [
       39.018,
       -77.539
+    ]
+  },
+  "150.143.136.186": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Craigavon",
+    "coordinates": [
+      54.385,
+      -6.3282
     ]
   },
   "150.143.136.212": {
@@ -709,6 +719,16 @@
       -94.5786
     ]
   },
+  "172.92.242.150": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -789,16 +809,6 @@
       10.3636
     ]
   },
-  "179.232.6.240": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
-    ]
-  },
   "179.255.96.151": {
     "region": "South America",
     "country": "Brazil",
@@ -867,16 +877,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.73.44.100": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Solihull",
-    "coordinates": [
-      52.4012,
-      -1.6897
     ]
   },
   "186.64.122.249": {
@@ -1127,26 +1127,6 @@
     "coordinates": [
       42.2666,
       -3.75458
-    ]
-  },
-  "207.246.100.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0544,
-      -118.244
-    ]
-  },
-  "208.77.22.138": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
     ]
   },
   "210.54.39.19": {
@@ -1979,6 +1959,16 @@
       21.0067
     ]
   },
+  "91.154.0.89": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4696,
+      23.8794
+    ]
+  },
   "91.155.158.80": {
     "region": "Europe",
     "country": "Finland",
@@ -2039,6 +2029,16 @@
       37.6171
     ]
   },
+  "95.179.201.125": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Whitechapel",
+    "coordinates": [
+      51.5026,
+      -0.0668
+    ]
+  },
   "95.216.18.118": {
     "region": "Europe",
     "country": "Finland",
@@ -2077,16 +2077,6 @@
     "coordinates": [
       40.0958,
       -8.3425
-    ]
-  },
-  "98.128.174.153": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "98.128.186.18": {
