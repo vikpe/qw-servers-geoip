@@ -429,6 +429,16 @@
       -74.4606
     ]
   },
+  "149.28.86.5": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0544,
+      -118.244
+    ]
+  },
   "150.136.70.158": {
     "region": "North America",
     "country": "United States",
@@ -440,16 +450,6 @@
     ]
   },
   "150.143.136.186": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Craigavon",
-    "coordinates": [
-      54.385,
-      -6.3282
-    ]
-  },
-  "150.143.136.212": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
@@ -719,14 +719,14 @@
       -94.5786
     ]
   },
-  "172.92.242.150": {
+  "173.218.133.201": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Camano",
+    "city": "Jonesboro",
     "coordinates": [
-      48.1789,
-      -122.5181
+      35.8308,
+      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -757,6 +757,16 @@
     "coordinates": [
       48.0961,
       -122.2002
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
     ]
   },
   "176.210.100.6": {
@@ -849,6 +859,16 @@
       -46.6333
     ]
   },
+  "184.59.82.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Columbus",
+    "coordinates": [
+      40.0326,
+      -82.8799
+    ]
+  },
   "185.11.166.90": {
     "region": "Europe",
     "country": "Portugal",
@@ -877,6 +897,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.73.44.100": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Solihull",
+    "coordinates": [
+      52.4012,
+      -1.6897
     ]
   },
   "186.64.122.249": {
@@ -1209,6 +1239,16 @@
       13.4069
     ]
   },
+  "220.233.193.116": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.9276,
+      151.1411
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1377,6 +1417,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.128.199.144": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "45.132.235.200": {
@@ -1909,6 +1959,16 @@
       24.9344
     ]
   },
+  "85.227.200.13": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sandviken",
+    "coordinates": [
+      60.6204,
+      16.7697
+    ]
+  },
   "85.229.9.200": {
     "region": "Europe",
     "country": "Sweden",
@@ -1949,6 +2009,16 @@
       13.405
     ]
   },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1286,
+      17.0574
+    ]
+  },
   "89.66.241.225": {
     "region": "Europe",
     "country": "Poland",
@@ -1957,16 +2027,6 @@
     "coordinates": [
       52.2296,
       21.0067
-    ]
-  },
-  "91.154.0.89": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4696,
-      23.8794
     ]
   },
   "91.155.158.80": {
@@ -2029,16 +2089,6 @@
       37.6171
     ]
   },
-  "95.179.201.125": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Whitechapel",
-    "coordinates": [
-      51.5026,
-      -0.0668
-    ]
-  },
   "95.216.18.118": {
     "region": "Europe",
     "country": "Finland",
@@ -2069,14 +2119,14 @@
       24.9347
     ]
   },
-  "95.93.57.62": {
+  "98.128.174.153": {
     "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Miranda do Corvo",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
     "coordinates": [
-      40.0958,
-      -8.3425
+      57.7065,
+      11.967
     ]
   },
   "98.128.186.18": {
