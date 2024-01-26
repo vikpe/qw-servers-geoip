@@ -509,6 +509,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -719,16 +729,6 @@
       -94.5786
     ]
   },
-  "173.218.133.201": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -757,16 +757,6 @@
     "coordinates": [
       48.0961,
       -122.2002
-    ]
-  },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "176.210.100.6": {
@@ -857,16 +847,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "184.59.82.237": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Columbus",
-    "coordinates": [
-      40.0326,
-      -82.8799
     ]
   },
   "185.11.166.90": {
@@ -1209,6 +1189,16 @@
       11.0767
     ]
   },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Terrassa",
+    "coordinates": [
+      41.5667,
+      2.01667
+    ]
+  },
   "216.108.230.70": {
     "region": "North America",
     "country": "United States",
@@ -1237,16 +1227,6 @@
     "coordinates": [
       52.5196,
       13.4069
-    ]
-  },
-  "220.233.193.116": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.9276,
-      151.1411
     ]
   },
   "223.165.64.141": {
@@ -1527,6 +1507,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.204.12.190": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.2528,
+      19.0295
     ]
   },
   "46.227.68.148": {
@@ -1859,24 +1849,14 @@
       -87.6318
     ]
   },
-  "75.215.197.13": {
+  "75.82.121.13": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "York",
+    "city": "Huntington Beach",
     "coordinates": [
-      39.9617,
-      -76.7329
-    ]
-  },
-  "76.101.148.97": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cape Coral",
-    "coordinates": [
-      26.6909,
-      -81.9483
+      33.6532,
+      -118.0098
     ]
   },
   "78.45.89.65": {
@@ -2009,16 +1989,6 @@
       13.405
     ]
   },
-  "87.207.124.227": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.1286,
-      17.0574
-    ]
-  },
   "89.66.241.225": {
     "region": "Europe",
     "country": "Poland",
@@ -2027,6 +1997,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "91.154.0.89": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4696,
+      23.8794
     ]
   },
   "91.155.158.80": {
@@ -2117,6 +2097,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "95.93.57.62": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Miranda do Corvo",
+    "coordinates": [
+      40.0958,
+      -8.3425
     ]
   },
   "98.128.174.153": {
