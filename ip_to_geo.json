@@ -145,8 +145,8 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.7576,
-      145.1101
+      -37.8461,
+      144.6725
     ]
   },
   "128.199.52.100": {
@@ -213,10 +213,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Knivsta",
+    "city": "Stockholm",
     "coordinates": [
-      59.7285,
-      17.7834
+      59.342,
+      18.0623
     ]
   },
   "135.148.59.26": {
@@ -243,10 +243,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Ludwigshafen am Rhein",
+    "city": "Falkenstein",
     "coordinates": [
-      49.4823,
-      8.4397
+      50.475,
+      12.365
     ]
   },
   "137.74.7.185": {
@@ -523,10 +523,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Oslo",
+    "city": "Fornebu",
     "coordinates": [
-      59.955,
-      10.859
+      59.8904,
+      10.6124
     ]
   },
   "159.203.25.195": {
@@ -725,8 +725,8 @@
     "cc": "US",
     "city": "Kansas City",
     "coordinates": [
-      39.0997,
-      -94.5786
+      39.0352,
+      -94.5456
     ]
   },
   "174.138.43.249": {
@@ -803,10 +803,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Heimdal",
+    "city": "Malvik",
     "coordinates": [
-      63.3483,
-      10.3636
+      63.4363,
+      10.7046
     ]
   },
   "179.255.96.151": {
@@ -883,10 +883,20 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Solihull",
+    "city": "London",
     "coordinates": [
-      52.4012,
-      -1.6897
+      51.5074,
+      -0.127758
+    ]
+  },
+  "185.78.75.211": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Bielsko-Biala",
+    "coordinates": [
+      49.8216,
+      19.0496
     ]
   },
   "186.64.122.249": {
@@ -1105,8 +1115,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.225,
-      153.0137
+      -27.5105,
+      152.9292
     ]
   },
   "206.51.245.84": {
@@ -1187,16 +1197,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Terrassa",
-    "coordinates": [
-      41.5667,
-      2.01667
     ]
   },
   "216.108.230.70": {
@@ -1285,8 +1285,8 @@
     "cc": "CA",
     "city": "Vancouver",
     "coordinates": [
-      49.2958,
-      -123.141
+      49.2825,
+      -123.1291
     ]
   },
   "3.108.227.32": {
@@ -1509,24 +1509,14 @@
       -96.8021
     ]
   },
-  "46.204.12.190": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Katowice",
-    "coordinates": [
-      50.2528,
-      19.0295
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "H\u00e4gersten",
+    "city": "Stockholm",
     "coordinates": [
-      59.2885,
-      17.9612
+      59.3241,
+      18.0517
     ]
   },
   "46.23.98.79": {
@@ -1557,16 +1547,6 @@
     "coordinates": [
       39.0469,
       -77.4903
-    ]
-  },
-  "5.9.82.79": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1039,
-      8.671
     ]
   },
   "50.116.17.172": {
@@ -1813,10 +1793,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Phoenixville",
+    "city": "Norristown",
     "coordinates": [
-      40.1262,
-      -75.5268
+      40.1435,
+      -75.3779
     ]
   },
   "74.91.116.122": {
@@ -1849,6 +1829,26 @@
       -87.6318
     ]
   },
+  "75.215.197.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lancaster",
+    "coordinates": [
+      40.009,
+      -76.3631
+    ]
+  },
+  "75.3.247.6": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Oakland",
+    "coordinates": [
+      37.8487,
+      -122.2209
+    ]
+  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1865,8 +1865,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0883,
-      14.4124
+      50.0844,
+      14.4998
     ]
   },
   "78.45.93.104": {
@@ -1883,10 +1883,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Osku",
+    "city": "Budapest",
     "coordinates": [
-      47.16,
-      18.0761
+      47.4979,
+      19.0402
     ]
   },
   "80.211.201.216": {
@@ -1953,7 +1953,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Skarpn\u00e4ck",
     "coordinates": [
       59.2688,
       18.1182
@@ -1997,16 +1997,6 @@
     "coordinates": [
       52.2296,
       21.0067
-    ]
-  },
-  "91.154.0.89": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4696,
-      23.8794
     ]
   },
   "91.155.158.80": {
@@ -2053,10 +2043,10 @@
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Oberwil",
+    "city": "Pfeffingen",
     "coordinates": [
-      47.5119,
-      7.5579
+      47.4562,
+      7.5866
     ]
   },
   "95.165.130.151": {
@@ -2153,10 +2143,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Collierville",
+    "city": "Arlington",
     "coordinates": [
-      35.0644,
-      -89.6759
+      35.283,
+      -89.7335
     ]
   }
 }
