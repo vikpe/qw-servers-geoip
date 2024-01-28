@@ -369,6 +369,16 @@
       17.0335
     ]
   },
+  "146.198.24.145": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Aberdeen",
+    "coordinates": [
+      57.1453,
+      -2.0945
+    ]
+  },
   "147.135.209.225": {
     "region": "Europe",
     "country": "Poland",
@@ -777,16 +787,6 @@
     "coordinates": [
       -22.895,
       -47.0439
-    ]
-  },
-  "177.235.58.157": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7783,
-      -47.9319
     ]
   },
   "177.71.158.196": {
@@ -1789,6 +1789,16 @@
       -77.35
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
+    ]
+  },
   "74.109.14.130": {
     "region": "North America",
     "country": "United States",
@@ -1837,16 +1847,6 @@
     "coordinates": [
       40.009,
       -76.3631
-    ]
-  },
-  "75.3.247.6": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Oakland",
-    "coordinates": [
-      37.8487,
-      -122.2209
     ]
   },
   "75.82.121.13": {
@@ -1997,6 +1997,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "91.154.0.89": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4696,
+      23.8794
     ]
   },
   "91.155.158.80": {
