@@ -369,16 +369,6 @@
       17.0335
     ]
   },
-  "146.198.24.145": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Aberdeen",
-    "coordinates": [
-      57.1453,
-      -2.0945
-    ]
-  },
   "147.135.209.225": {
     "region": "Europe",
     "country": "Poland",
@@ -739,6 +729,16 @@
       -94.5456
     ]
   },
+  "173.218.133.201": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -779,6 +779,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0883,
+      14.4124
+    ]
+  },
   "177.144.186.207": {
     "region": "South America",
     "country": "Brazil",
@@ -787,6 +797,16 @@
     "coordinates": [
       -22.895,
       -47.0439
+    ]
+  },
+  "177.235.58.157": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7783,
+      -47.9319
     ]
   },
   "177.71.158.196": {
@@ -807,6 +827,16 @@
     "coordinates": [
       63.4363,
       10.7046
+    ]
+  },
+  "179.176.127.156": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
     ]
   },
   "179.255.96.151": {
@@ -1789,6 +1819,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1929,6 +1969,16 @@
       17.3203
     ]
   },
+  "82.28.53.2": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Greenford",
+    "coordinates": [
+      51.5263,
+      -0.3559
+    ]
+  },
   "84.251.35.110": {
     "region": "Europe",
     "country": "Finland",
@@ -1999,7 +2049,7 @@
       21.0067
     ]
   },
-  "91.154.0.89": {
+  "91.154.3.125": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
@@ -2007,16 +2057,6 @@
     "coordinates": [
       61.4696,
       23.8794
-    ]
-  },
-  "91.155.158.80": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Jyv\u00e4skyl\u00e4",
-    "coordinates": [
-      62.2585,
-      25.7056
     ]
   },
   "91.206.14.17": {
@@ -2137,6 +2177,16 @@
     "coordinates": [
       45.0925,
       -87.6709
+    ]
+  },
+  "98.208.219.227": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cape Coral",
+    "coordinates": [
+      26.5559,
+      -82.0214
     ]
   },
   "99.244.194.112": {
