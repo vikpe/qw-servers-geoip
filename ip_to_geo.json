@@ -119,16 +119,6 @@
       121.5324
     ]
   },
-  "115.147.56.22": {
-    "region": "Asia",
-    "country": "Philippines",
-    "cc": "PH",
-    "city": "Mandaluyong City",
-    "coordinates": [
-      14.5749,
-      121.043
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -327,16 +317,6 @@
     "coordinates": [
       55.7483,
       37.6171
-    ]
-  },
-  "143.44.164.180": {
-    "region": "Asia",
-    "country": "Philippines",
-    "cc": "PH",
-    "city": "Cebu City",
-    "coordinates": [
-      10.3099,
-      123.893
     ]
   },
   "144.202.59.41": {
@@ -739,24 +719,14 @@
       -80.1946
     ]
   },
-  "172.59.72.9": {
+  "172.59.78.48": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Kansas City",
     "coordinates": [
-      39.0352,
-      -94.5456
-    ]
-  },
-  "173.218.133.201": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
+      39.0927,
+      -94.5134
     ]
   },
   "174.138.43.249": {
@@ -837,6 +807,16 @@
     "coordinates": [
       63.4363,
       10.7046
+    ]
+  },
+  "179.177.29.175": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
     ]
   },
   "179.232.6.240": {
@@ -1199,6 +1179,16 @@
       174.764
     ]
   },
+  "212.159.20.185": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Kensington",
+    "coordinates": [
+      51.5009,
+      -0.19175
+    ]
+  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1439,7 +1429,7 @@
       -77.4874
     ]
   },
-  "45.128.199.183": {
+  "45.128.199.109": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1899,6 +1889,16 @@
       -76.3631
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6532,
+      -118.0098
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1969,6 +1969,16 @@
       17.3203
     ]
   },
+  "82.28.53.2": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Greenford",
+    "coordinates": [
+      51.5263,
+      -0.3559
+    ]
+  },
   "84.251.35.110": {
     "region": "Europe",
     "country": "Finland",
@@ -2029,14 +2039,14 @@
       13.405
     ]
   },
-  "89.154.193.70": {
+  "87.189.51.231": {
     "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
     "coordinates": [
-      41.1691,
-      -8.6793
+      48.709,
+      8.7399
     ]
   },
   "89.66.241.225": {
@@ -2047,6 +2057,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "91.154.3.125": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4696,
+      23.8794
     ]
   },
   "91.206.14.17": {
@@ -2067,16 +2087,6 @@
     "coordinates": [
       55.6686,
       12.3469
-    ]
-  },
-  "91.55.67.9": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "94.16.128.193": {
