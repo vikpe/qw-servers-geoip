@@ -29,16 +29,6 @@
       -95.7129
     ]
   },
-  "103.177.248.89": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Tseung Kwan O",
-    "coordinates": [
-      22.3119,
-      114.257
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -409,16 +399,6 @@
       -96.8021
     ]
   },
-  "149.28.60.155": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Piscataway",
-    "coordinates": [
-      40.5511,
-      -74.4606
-    ]
-  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -427,16 +407,6 @@
     "coordinates": [
       40.5511,
       -74.4606
-    ]
-  },
-  "149.28.86.5": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0544,
-      -118.244
     ]
   },
   "150.136.70.158": {
@@ -507,16 +477,6 @@
     "coordinates": [
       33.4656,
       -111.9956
-    ]
-  },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
     ]
   },
   "158.248.75.93": {
@@ -727,6 +687,16 @@
     "coordinates": [
       39.0927,
       -94.5134
+    ]
+  },
+  "173.218.133.201": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -1179,16 +1149,6 @@
       174.764
     ]
   },
-  "212.159.20.185": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Kensington",
-    "coordinates": [
-      51.5009,
-      -0.19175
-    ]
-  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1197,6 +1157,16 @@
     "coordinates": [
       55.7558,
       37.6173
+    ]
+  },
+  "212.87.194.24": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": [
+      35.7056,
+      139.7432
     ]
   },
   "213.115.54.131": {
@@ -1607,6 +1577,16 @@
     "coordinates": [
       32.9473,
       -96.7028
+    ]
+  },
+  "51.174.16.4": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Mathopen",
+    "coordinates": [
+      60.3377,
+      5.1943
     ]
   },
   "51.210.10.181": {
@@ -2047,6 +2027,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "89.151.207.164": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Steinkjer",
+    "coordinates": [
+      64.014,
+      11.4678
     ]
   },
   "89.66.241.225": {
