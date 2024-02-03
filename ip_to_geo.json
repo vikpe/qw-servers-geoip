@@ -69,16 +69,6 @@
       -74.4606
     ]
   },
-  "104.234.7.241": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Santiago",
-    "coordinates": [
-      -33.4521,
-      -70.6536
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -749,16 +739,6 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0883,
-      14.4124
-    ]
-  },
   "177.144.186.207": {
     "region": "South America",
     "country": "Brazil",
@@ -1159,6 +1139,16 @@
       174.764
     ]
   },
+  "212.193.49.233": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "St Petersburg",
+    "coordinates": [
+      60.0167,
+      30.3261
+    ]
+  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1429,6 +1419,16 @@
       2.4075
     ]
   },
+  "45.235.98.10": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
+    ]
+  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1507,16 +1507,6 @@
     "coordinates": [
       59.3241,
       18.0517
-    ]
-  },
-  "46.23.98.79": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7483,
-      37.6171
     ]
   },
   "5.150.200.139": {
@@ -1937,6 +1927,16 @@
     "coordinates": [
       62.3772,
       17.3203
+    ]
+  },
+  "82.28.53.2": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Greenford",
+    "coordinates": [
+      51.5263,
+      -0.3559
     ]
   },
   "84.251.35.110": {
