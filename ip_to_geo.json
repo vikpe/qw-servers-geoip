@@ -489,6 +489,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -729,6 +739,16 @@
       -122.2002
     ]
   },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -777,16 +797,6 @@
     "coordinates": [
       63.4363,
       10.7046
-    ]
-  },
-  "179.177.29.175": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
     ]
   },
   "179.232.6.240": {
@@ -1927,16 +1937,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "82.28.53.2": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Greenford",
-    "coordinates": [
-      51.5263,
-      -0.3559
     ]
   },
   "84.251.35.110": {
