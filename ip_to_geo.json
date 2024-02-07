@@ -469,6 +469,16 @@
       144.75
     ]
   },
+  "157.245.35.15": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Slough",
+    "coordinates": [
+      51.5368,
+      -0.6718
+    ]
+  },
   "158.101.122.160": {
     "region": "North America",
     "country": "United States",
@@ -487,6 +497,16 @@
     "coordinates": [
       33.4656,
       -111.9956
+    ]
+  },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
     ]
   },
   "158.248.75.93": {
@@ -699,14 +719,14 @@
       -94.5134
     ]
   },
-  "172.92.242.150": {
+  "173.218.133.201": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Camano",
+    "city": "Jonesboro",
     "coordinates": [
-      48.1789,
-      -122.5181
+      35.8308,
+      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -737,6 +757,16 @@
     "coordinates": [
       48.0961,
       -122.2002
+    ]
+  },
+  "174.53.235.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
     ]
   },
   "176.210.100.6": {
@@ -1009,16 +1039,6 @@
       -93.6208
     ]
   },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1197,6 +1217,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "213.4.33.27": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Terrassa",
+    "coordinates": [
+      41.5667,
+      2.01667
     ]
   },
   "216.108.230.70": {
