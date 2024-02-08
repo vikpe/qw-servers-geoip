@@ -9,6 +9,16 @@
       28.034195
     ]
   },
+  "103.106.90.224": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Quinns Rocks",
+    "coordinates": [
+      -31.674,
+      115.7053
+    ]
+  },
   "103.151.65.11": {
     "region": "North America",
     "country": "United States",
@@ -47,6 +57,16 @@
     "coordinates": [
       -34.9008,
       138.6017
+    ]
+  },
+  "103.216.220.20": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
     ]
   },
   "103.72.77.220": {
@@ -499,16 +519,6 @@
       -111.9956
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -779,6 +789,16 @@
       73.4001
     ]
   },
+  "177.133.62.121": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
+    ]
+  },
   "177.144.186.207": {
     "region": "South America",
     "country": "Brazil",
@@ -817,16 +837,6 @@
     "coordinates": [
       63.4363,
       10.7046
-    ]
-  },
-  "179.176.123.249": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
     ]
   },
   "179.232.6.240": {
@@ -1039,6 +1049,16 @@
       -93.6208
     ]
   },
+  "20.125.113.83": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.448376,
+      -112.074036
+    ]
+  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -1219,16 +1239,6 @@
       11.0767
     ]
   },
-  "213.4.33.27": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Terrassa",
-    "coordinates": [
-      41.5667,
-      2.01667
-    ]
-  },
   "216.108.230.70": {
     "region": "North America",
     "country": "United States",
@@ -1359,7 +1369,7 @@
       -80.013
     ]
   },
-  "35.188.203.84": {
+  "35.188.46.144": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -2177,16 +2187,6 @@
     "coordinates": [
       43.9671,
       -79.2423
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Branford",
-    "coordinates": [
-      41.2799,
-      -72.8141
     ]
   },
   "99.72.255.45": {
