@@ -15,8 +15,8 @@
     "cc": "AU",
     "city": "Quinns Rocks",
     "coordinates": [
-      -31.674,
-      115.7053
+      -31.6169,
+      115.6871
     ]
   },
   "103.151.65.11": {
@@ -43,10 +43,10 @@
     "region": "Asia",
     "country": "Hong Kong",
     "cc": "HK",
-    "city": "Tseung Kwan O",
+    "city": "Hong Kong",
     "coordinates": [
-      22.3119,
-      114.257
+      22.3193,
+      114.169
     ]
   },
   "103.195.53.179": {
@@ -55,8 +55,8 @@
     "cc": "AU",
     "city": "Adelaide",
     "coordinates": [
-      -34.9008,
-      138.6017
+      -34.9097,
+      138.6374
     ]
   },
   "103.216.220.20": {
@@ -125,8 +125,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.5074,
-      -0.127758
+      51.5072,
+      -0.127586
     ]
   },
   "114.35.54.116": {
@@ -263,10 +263,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Falkenstein",
+    "city": "Eitensheim",
     "coordinates": [
-      50.475,
-      12.365
+      48.8143,
+      11.3155
     ]
   },
   "137.74.7.185": {
@@ -453,10 +453,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Craigavon",
+    "city": "Tandragee",
     "coordinates": [
-      54.385,
-      -6.3282
+      54.3549,
+      -6.41396
     ]
   },
   "152.67.110.136": {
@@ -519,14 +519,24 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Fornebu",
+    "city": "Fetsund",
     "coordinates": [
-      59.8904,
-      10.6124
+      59.9315,
+      11.1728
     ]
   },
   "159.203.25.195": {
@@ -719,24 +729,14 @@
       -80.1946
     ]
   },
-  "172.59.78.48": {
+  "172.59.79.160": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Kansas City",
     "coordinates": [
-      39.0927,
-      -94.5134
-    ]
-  },
-  "173.218.133.201": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
+      39.1036,
+      -94.535
     ]
   },
   "174.138.43.249": {
@@ -833,10 +833,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Malvik",
+    "city": "Charlottenlund",
     "coordinates": [
-      63.4363,
-      10.7046
+      63.4252,
+      10.4871
     ]
   },
   "179.232.6.240": {
@@ -1145,8 +1145,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.5105,
-      152.9292
+      -27.225,
+      153.0137
     ]
   },
   "206.51.245.84": {
@@ -1185,8 +1185,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8542,
-      174.764
+      -36.8556,
+      174.8441
     ]
   },
   "212.193.49.233": {
@@ -1253,10 +1253,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Essen",
+    "city": "Frankfurt am Main",
     "coordinates": [
-      51.4556,
-      7.01156
+      50.1109,
+      8.68213
     ]
   },
   "217.197.83.154": {
@@ -1609,16 +1609,6 @@
       -96.7028
     ]
   },
-  "51.174.16.4": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Mathopen",
-    "coordinates": [
-      60.3377,
-      5.1943
-    ]
-  },
   "51.210.10.181": {
     "region": "Europe",
     "country": "France",
@@ -1635,8 +1625,8 @@
     "cc": "FR",
     "city": "Roubaix",
     "coordinates": [
-      50.6916,
-      3.20151
+      50.6917,
+      3.20157
     ]
   },
   "52.129.112.12": {
@@ -1849,16 +1839,6 @@
       -81.7344
     ]
   },
-  "74.109.14.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Norristown",
-    "coordinates": [
-      40.1435,
-      -75.3779
-    ]
-  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -1897,16 +1877,6 @@
     "coordinates": [
       40.009,
       -76.3631
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
     ]
   },
   "78.45.89.65": {
@@ -1999,16 +1969,6 @@
       16.7697
     ]
   },
-  "85.229.9.200": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Skarpn\u00e4ck",
-    "coordinates": [
-      59.2688,
-      18.1182
-    ]
-  },
   "85.241.112.229": {
     "region": "Europe",
     "country": "Portugal",
@@ -2055,8 +2015,18 @@
     "cc": "NO",
     "city": "Steinkjer",
     "coordinates": [
-      64.014,
-      11.4678
+      64.0239,
+      11.5035
+    ]
+  },
+  "89.207.221.209": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Kudrovo",
+    "coordinates": [
+      59.9035,
+      30.5106
     ]
   },
   "89.66.241.225": {
@@ -2093,10 +2063,10 @@
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Pfeffingen",
+    "city": "Oberwil",
     "coordinates": [
-      47.4562,
-      7.5866
+      47.5119,
+      7.5579
     ]
   },
   "95.165.130.151": {
@@ -2149,16 +2119,6 @@
       11.967
     ]
   },
-  "98.128.186.18": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3241,
-      18.0517
-    ]
-  },
   "98.144.80.46": {
     "region": "North America",
     "country": "United States",
@@ -2173,10 +2133,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Cape Coral",
+    "city": "Fort Myers",
     "coordinates": [
-      26.5559,
-      -82.0214
+      26.6681,
+      -81.7646
     ]
   },
   "99.244.194.112": {
