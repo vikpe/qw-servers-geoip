@@ -369,16 +369,6 @@
       8.6295
     ]
   },
-  "145.220.10.98": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Utrecht",
-    "coordinates": [
-      52.0907,
-      5.12142
-    ]
-  },
   "145.239.94.156": {
     "region": "Europe",
     "country": "Poland",
@@ -729,14 +719,14 @@
       -80.1946
     ]
   },
-  "172.59.79.160": {
+  "172.59.77.225": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Kansas City",
     "coordinates": [
-      39.1036,
-      -94.535
+      39.0997,
+      -94.5786
     ]
   },
   "174.138.43.249": {
@@ -939,16 +929,6 @@
       19.0496
     ]
   },
-  "186.64.122.249": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Curic\u00f3",
-    "coordinates": [
-      -34.9839,
-      -71.2425
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1147,6 +1127,16 @@
     "coordinates": [
       -27.225,
       153.0137
+    ]
+  },
+  "204.2.68.70": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amersfoort",
+    "coordinates": [
+      52.1738,
+      5.4224
     ]
   },
   "206.51.245.84": {
@@ -1447,16 +1437,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.142.244.163": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5123,
-      -0.0909
     ]
   },
   "45.147.98.159": {
@@ -1839,6 +1819,16 @@
       -81.7344
     ]
   },
+  "74.109.14.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Norristown",
+    "coordinates": [
+      40.1435,
+      -75.3779
+    ]
+  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -1969,6 +1959,16 @@
       16.7697
     ]
   },
+  "85.229.9.200": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Skarpn\u00e4ck",
+    "coordinates": [
+      59.2688,
+      18.1182
+    ]
+  },
   "85.241.112.229": {
     "region": "Europe",
     "country": "Portugal",
@@ -2029,7 +2029,7 @@
       30.5106
     ]
   },
-  "89.66.241.225": {
+  "89.66.148.52": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
@@ -2110,6 +2110,16 @@
     ]
   },
   "98.128.174.153": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
+    ]
+  },
+  "98.128.186.18": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
