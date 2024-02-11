@@ -319,16 +319,6 @@
       77.5855
     ]
   },
-  "139.99.184.234": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Rockhampton",
-    "coordinates": [
-      -23.3836,
-      150.5068
-    ]
-  },
   "141.105.67.104": {
     "region": "Europe",
     "country": "Russia",
@@ -779,16 +769,6 @@
       73.4001
     ]
   },
-  "177.133.62.121": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
-    ]
-  },
   "177.144.186.207": {
     "region": "South America",
     "country": "Brazil",
@@ -1129,16 +1109,6 @@
       153.0137
     ]
   },
-  "204.2.68.70": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amersfoort",
-    "coordinates": [
-      52.1738,
-      5.4224
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1429,16 +1399,6 @@
       4.8975
     ]
   },
-  "45.132.235.200": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
-    ]
-  },
   "45.147.98.159": {
     "region": "Europe",
     "country": "France",
@@ -1587,16 +1547,6 @@
     "coordinates": [
       32.9473,
       -96.7028
-    ]
-  },
-  "51.210.10.181": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Strasbourg",
-    "coordinates": [
-      48.5734,
-      7.75211
     ]
   },
   "51.77.239.26": {
@@ -1869,6 +1819,16 @@
       -76.3631
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1959,14 +1919,14 @@
       16.7697
     ]
   },
-  "85.229.9.200": {
+  "85.229.6.48": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Skarpn\u00e4ck",
+    "city": "Sk\u00f6ndal",
     "coordinates": [
-      59.2688,
-      18.1182
+      59.2484,
+      18.1223
     ]
   },
   "85.241.112.229": {
