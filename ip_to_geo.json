@@ -489,16 +489,6 @@
       -111.9956
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -709,16 +699,6 @@
       -94.5786
     ]
   },
-  "172.92.242.150": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -809,16 +789,6 @@
       10.4871
     ]
   },
-  "179.232.6.240": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
-    ]
-  },
   "179.255.96.151": {
     "region": "South America",
     "country": "Brazil",
@@ -907,6 +877,16 @@
     "coordinates": [
       49.8216,
       19.0496
+    ]
+  },
+  "186.64.122.249": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Curic\u00f3",
+    "coordinates": [
+      -34.9839,
+      -71.2425
     ]
   },
   "188.166.0.137": {
@@ -1699,6 +1679,16 @@
       23.3289
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.180.85.241": {
     "region": "North America",
     "country": "Canada",
@@ -1769,16 +1759,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1787,16 +1767,6 @@
     "coordinates": [
       26.3763,
       -81.7344
-    ]
-  },
-  "74.109.14.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Norristown",
-    "coordinates": [
-      40.1435,
-      -75.3779
     ]
   },
   "74.91.116.122": {
@@ -2007,6 +1977,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "91.154.0.98": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4696,
+      23.8794
     ]
   },
   "91.206.14.17": {
