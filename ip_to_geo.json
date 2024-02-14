@@ -689,14 +689,14 @@
       -80.1946
     ]
   },
-  "172.59.77.225": {
+  "172.59.79.253": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Kansas City",
     "coordinates": [
-      39.0997,
-      -94.5786
+      39.1036,
+      -94.535
     ]
   },
   "174.138.43.249": {
@@ -729,16 +729,6 @@
       -122.2002
     ]
   },
-  "174.53.235.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0123,
-      -93.3447
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -747,16 +737,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "177.144.186.207": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
     ]
   },
   "177.235.58.157": {
@@ -927,6 +907,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "189.78.78.81": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
     ]
   },
   "192.99.32.215": {
@@ -1899,6 +1889,16 @@
       24.9344
     ]
   },
+  "85.186.205.39": {
+    "region": "Europe",
+    "country": "Romania",
+    "cc": "RO",
+    "city": "Ploie\u015fti",
+    "coordinates": [
+      44.9367,
+      26.0129
+    ]
+  },
   "85.227.200.13": {
     "region": "Europe",
     "country": "Sweden",
@@ -1969,7 +1969,7 @@
       11.5035
     ]
   },
-  "89.66.148.52": {
+  "89.66.147.199": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
@@ -1977,16 +1977,6 @@
     "coordinates": [
       52.2296,
       21.0067
-    ]
-  },
-  "91.154.0.98": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4696,
-      23.8794
     ]
   },
   "91.206.14.17": {
