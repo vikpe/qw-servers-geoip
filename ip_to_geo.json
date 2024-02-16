@@ -709,6 +709,16 @@
       -94.535
     ]
   },
+  "173.218.133.201": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -837,6 +847,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.50.48.245": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Gliwice",
+    "coordinates": [
+      50.2902,
+      18.6647
     ]
   },
   "185.73.44.100": {
@@ -1329,6 +1349,16 @@
       19.6781
     ]
   },
+  "38.140.16.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenixville",
+    "coordinates": [
+      40.1262,
+      -75.5268
+    ]
+  },
   "39.106.228.43": {
     "region": "Asia",
     "country": "China",
@@ -1359,7 +1389,7 @@
       -77.4874
     ]
   },
-  "45.128.199.217": {
+  "45.128.199.219": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1759,16 +1789,6 @@
       -77.35
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -1937,16 +1957,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "86.187.174.54": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Skelmersdale",
-    "coordinates": [
-      53.5502,
-      -2.77348
     ]
   },
   "87.128.111.190": {
