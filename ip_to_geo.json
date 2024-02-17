@@ -709,16 +709,6 @@
       -94.535
     ]
   },
-  "173.218.133.201": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -937,6 +927,16 @@
     "coordinates": [
       -22.895,
       -47.0439
+    ]
+  },
+  "192.96.215.89": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Flint",
+    "coordinates": [
+      43.0162,
+      -83.6948
     ]
   },
   "192.99.32.215": {
@@ -1269,6 +1269,16 @@
       -96.8704
     ]
   },
+  "24.118.180.123": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
+    ]
+  },
   "3.108.227.32": {
     "region": "Asia",
     "country": "India",
@@ -1319,7 +1329,7 @@
       -80.013
     ]
   },
-  "35.188.46.144": {
+  "35.239.84.89": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1389,7 +1399,7 @@
       -77.4874
     ]
   },
-  "45.128.199.219": {
+  "45.128.199.86": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1527,16 +1537,6 @@
     "coordinates": [
       39.0469,
       -77.4903
-    ]
-  },
-  "5.35.99.151": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7558,
-      37.6173
     ]
   },
   "50.116.17.172": {
@@ -1707,16 +1707,6 @@
     "coordinates": [
       55.9318,
       23.3289
-    ]
-  },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
     ]
   },
   "64.180.85.241": {
