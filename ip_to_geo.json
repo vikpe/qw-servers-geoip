@@ -119,16 +119,6 @@
       -0.127586
     ]
   },
-  "114.35.54.116": {
-    "region": "Asia",
-    "country": "Taiwan",
-    "cc": "TW",
-    "city": "Taipei",
-    "coordinates": [
-      25.0504,
-      121.5324
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -359,6 +349,16 @@
       17.0335
     ]
   },
+  "146.199.126.243": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Craigavon",
+    "coordinates": [
+      54.385,
+      -6.3282
+    ]
+  },
   "147.135.209.225": {
     "region": "Europe",
     "country": "Poland",
@@ -417,16 +417,6 @@
     "coordinates": [
       39.018,
       -77.539
-    ]
-  },
-  "150.143.136.186": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Tandragee",
-    "coordinates": [
-      54.3549,
-      -6.41396
     ]
   },
   "152.67.110.136": {
@@ -777,16 +767,6 @@
     "coordinates": [
       63.4252,
       10.4871
-    ]
-  },
-  "179.255.96.151": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.561,
-      -49.2063
     ]
   },
   "18.144.19.16": {
@@ -1807,6 +1787,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.170.235.245": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bethlehem",
+    "coordinates": [
+      35.901,
+      -81.2134
     ]
   },
   "75.215.197.13": {
