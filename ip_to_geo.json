@@ -15,8 +15,8 @@
     "cc": "AU",
     "city": "Quinns Rocks",
     "coordinates": [
-      -31.6169,
-      115.6871
+      -31.674,
+      115.7053
     ]
   },
   "103.151.65.11": {
@@ -55,8 +55,8 @@
     "cc": "AU",
     "city": "Adelaide",
     "coordinates": [
-      -34.9097,
-      138.6374
+      -34.9281,
+      138.5999
     ]
   },
   "103.72.77.220": {
@@ -275,8 +275,8 @@
     "cc": "GB",
     "city": "London",
     "coordinates": [
-      51.5088,
-      -0.093
+      51.5074,
+      -0.1196
     ]
   },
   "139.162.45.192": {
@@ -493,10 +493,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Fetsund",
+    "city": "Oslo",
     "coordinates": [
-      59.9315,
-      11.1728
+      59.955,
+      10.859
     ]
   },
   "159.203.25.195": {
@@ -689,14 +689,14 @@
       -80.1946
     ]
   },
-  "172.59.79.253": {
+  "173.218.133.201": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Kansas City",
+    "city": "Jonesboro",
     "coordinates": [
-      39.1036,
-      -94.535
+      35.8308,
+      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -763,10 +763,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Charlottenlund",
+    "city": "Trondheim",
     "coordinates": [
-      63.4252,
-      10.4871
+      63.4693,
+      10.3978
     ]
   },
   "18.144.19.16": {
@@ -817,6 +817,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
     ]
   },
   "185.50.48.245": {
@@ -1249,16 +1259,6 @@
       -96.8704
     ]
   },
-  "24.118.180.123": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0123,
-      -93.3447
-    ]
-  },
   "3.108.227.32": {
     "region": "Asia",
     "country": "India",
@@ -1325,8 +1325,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1376,
-      8.6776
+      50.16,
+      8.6333
     ]
   },
   "37.221.215.47": {
@@ -1337,16 +1337,6 @@
     "coordinates": [
       47.6666,
       19.6781
-    ]
-  },
-  "38.140.16.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenixville",
-    "coordinates": [
-      40.1262,
-      -75.5268
     ]
   },
   "39.106.228.43": {
@@ -1497,6 +1487,16 @@
     "coordinates": [
       59.3241,
       18.0517
+    ]
+  },
+  "47.213.160.164": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ozark",
+    "coordinates": [
+      37.0142,
+      -93.1986
     ]
   },
   "5.150.200.139": {
@@ -1695,8 +1695,8 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.3852,
-      -123.5358
+      48.4771,
+      -123.5313
     ]
   },
   "64.227.18.147": {
@@ -1759,6 +1759,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -1789,16 +1799,6 @@
       -87.6318
     ]
   },
-  "75.170.235.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bethlehem",
-    "coordinates": [
-      35.901,
-      -81.2134
-    ]
-  },
   "75.215.197.13": {
     "region": "North America",
     "country": "United States",
@@ -1825,8 +1825,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0844,
-      14.4998
+      50.0761,
+      14.4479
     ]
   },
   "78.45.93.104": {
@@ -2063,10 +2063,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Gothenburg",
+    "city": "Stockholm",
     "coordinates": [
-      57.7065,
-      11.967
+      59.3241,
+      18.0517
     ]
   },
   "98.144.80.46": {
