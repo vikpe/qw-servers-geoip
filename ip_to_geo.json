@@ -689,16 +689,6 @@
       -80.1946
     ]
   },
-  "173.218.133.201": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -1259,6 +1249,16 @@
       -96.8704
     ]
   },
+  "24.118.180.123": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
+    ]
+  },
   "3.108.227.32": {
     "region": "Asia",
     "country": "India",
@@ -1759,16 +1759,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -1797,6 +1787,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.170.235.245": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bethlehem",
+    "coordinates": [
+      35.901,
+      -81.2134
     ]
   },
   "75.215.197.13": {
