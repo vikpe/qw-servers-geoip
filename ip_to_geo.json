@@ -39,16 +39,6 @@
       -95.7129
     ]
   },
-  "103.177.248.89": {
-    "region": "Asia",
-    "country": "Hong Kong",
-    "cc": "HK",
-    "city": "Hong Kong",
-    "coordinates": [
-      22.3193,
-      114.169
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -679,6 +669,16 @@
       -80.1946
     ]
   },
+  "173.218.133.201": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -737,16 +737,6 @@
     "coordinates": [
       63.4693,
       10.3978
-    ]
-  },
-  "179.255.96.151": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.561,
-      -49.2063
     ]
   },
   "18.144.19.16": {
@@ -1509,6 +1499,16 @@
       -77.4903
     ]
   },
+  "5.198.71.75": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Hull",
+    "coordinates": [
+      53.7606,
+      -0.3734
+    ]
+  },
   "50.116.17.172": {
     "region": "North America",
     "country": "United States",
@@ -1809,6 +1809,16 @@
       -76.3631
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1969,6 +1979,16 @@
       21.0067
     ]
   },
+  "91.152.15.241": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Hyvinkaeae",
+    "coordinates": [
+      60.6239,
+      24.8141
+    ]
+  },
   "91.206.14.17": {
     "region": "Europe",
     "country": "Russia",
@@ -2087,6 +2107,16 @@
     "coordinates": [
       43.9671,
       -79.2423
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Richardson",
+    "coordinates": [
+      32.988,
+      -96.6884
     ]
   },
   "99.72.255.45": {
