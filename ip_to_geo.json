@@ -109,6 +109,16 @@
       -0.127586
     ]
   },
+  "111.167.210.171": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1488,
+      117.1762
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -669,16 +679,6 @@
       -80.1946
     ]
   },
-  "173.218.133.201": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -729,14 +729,24 @@
       -46.6333
     ]
   },
-  "178.164.96.147": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Trondheim",
+  "177.97.19.29": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
     "coordinates": [
-      63.4693,
-      10.3978
+      -15.7792,
+      -47.9341
+    ]
+  },
+  "179.255.96.151": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.561,
+      -49.2063
     ]
   },
   "18.144.19.16": {
@@ -1239,6 +1249,16 @@
       -96.8704
     ]
   },
+  "24.118.180.123": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
+    ]
+  },
   "3.108.227.32": {
     "region": "Asia",
     "country": "India",
@@ -1497,16 +1517,6 @@
     "coordinates": [
       39.0469,
       -77.4903
-    ]
-  },
-  "5.198.71.75": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Hull",
-    "coordinates": [
-      53.7606,
-      -0.3734
     ]
   },
   "50.116.17.172": {
@@ -1919,16 +1929,6 @@
       18.1223
     ]
   },
-  "85.241.112.229": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Quinta Do Conde",
-    "coordinates": [
-      38.5657,
-      -9.0367
-    ]
-  },
   "85.242.107.149": {
     "region": "Europe",
     "country": "Portugal",
@@ -1987,6 +1987,16 @@
     "coordinates": [
       60.6239,
       24.8141
+    ]
+  },
+  "91.154.3.241": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4696,
+      23.8794
     ]
   },
   "91.206.14.17": {
