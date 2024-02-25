@@ -109,16 +109,6 @@
       -0.127586
     ]
   },
-  "111.167.210.171": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1488,
-      117.1762
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -477,6 +467,16 @@
     "coordinates": [
       33.4656,
       -111.9956
+    ]
+  },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
     ]
   },
   "158.248.75.93": {
@@ -899,16 +899,6 @@
       -47.0439
     ]
   },
-  "192.96.215.89": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Flint",
-    "coordinates": [
-      43.0162,
-      -83.6948
-    ]
-  },
   "192.99.32.215": {
     "region": "North America",
     "country": "Canada",
@@ -1267,6 +1257,16 @@
     "coordinates": [
       19.076,
       72.8777
+    ]
+  },
+  "3.135.47.59": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
     ]
   },
   "3.76.38.12": {
@@ -1769,6 +1769,16 @@
       -77.35
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
+    ]
+  },
   "74.91.116.122": {
     "region": "North America",
     "country": "United States",
@@ -1809,14 +1819,14 @@
       -81.2134
     ]
   },
-  "75.215.197.13": {
+  "75.215.210.139": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Lancaster",
     "coordinates": [
-      40.009,
-      -76.3631
+      40.0305,
+      -76.2833
     ]
   },
   "75.82.121.13": {
@@ -1987,16 +1997,6 @@
     "coordinates": [
       60.6239,
       24.8141
-    ]
-  },
-  "91.154.3.241": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4696,
-      23.8794
     ]
   },
   "91.206.14.17": {
