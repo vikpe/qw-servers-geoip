@@ -49,6 +49,16 @@
       138.5999
     ]
   },
+  "103.216.220.41": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
+    ]
+  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -939,6 +949,16 @@
       20.2536
     ]
   },
+  "194.76.26.139": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Harrow",
+    "coordinates": [
+      51.5773,
+      -0.3278
+    ]
+  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1317,16 +1337,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "37.201.131.70": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.16,
-      8.6333
     ]
   },
   "37.221.215.47": {
@@ -1769,6 +1779,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1929,14 +1949,14 @@
       16.7697
     ]
   },
-  "85.229.6.48": {
+  "85.229.13.40": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Sk\u00f6ndal",
+    "city": "V\u00e5rsta",
     "coordinates": [
-      59.2484,
-      18.1223
+      59.2491,
+      18.0755
     ]
   },
   "85.242.107.149": {
@@ -1967,6 +1987,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1206,
+      17.0528
     ]
   },
   "89.151.207.164": {
