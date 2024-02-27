@@ -909,6 +909,16 @@
       -47.0439
     ]
   },
+  "190.210.77.136": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
+    ]
+  },
   "192.99.32.215": {
     "region": "North America",
     "country": "Canada",
@@ -1109,16 +1119,6 @@
       -96.8021
     ]
   },
-  "207.188.177.11": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Alcobendas",
-    "coordinates": [
-      40.5339,
-      -3.6312
-    ]
-  },
   "210.54.39.19": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1259,16 +1259,6 @@
       -96.8704
     ]
   },
-  "24.118.180.123": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0123,
-      -93.3447
-    ]
-  },
   "3.108.227.32": {
     "region": "Asia",
     "country": "India",
@@ -1339,14 +1329,24 @@
       -95.8608
     ]
   },
+  "37.201.131.70": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.16,
+      8.6333
+    ]
+  },
   "37.221.215.47": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Hatvan",
+    "city": "Budapest",
     "coordinates": [
-      47.6666,
-      19.6781
+      47.5386,
+      19.0658
     ]
   },
   "39.106.228.43": {
@@ -1377,16 +1377,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.128.199.86": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
     ]
   },
   "45.132.235.200": {
@@ -1779,16 +1769,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1833,7 +1813,7 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Bethlehem",
+    "city": "Taylorsville",
     "coordinates": [
       35.901,
       -81.2134
@@ -1847,16 +1827,6 @@
     "coordinates": [
       40.0305,
       -76.2833
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1987,16 +1957,6 @@
     "coordinates": [
       48.709,
       8.7399
-    ]
-  },
-  "87.207.124.227": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.1206,
-      17.0528
     ]
   },
   "89.151.207.164": {
@@ -2139,16 +2099,6 @@
       -81.7646
     ]
   },
-  "99.244.194.112": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Stouffville",
-    "coordinates": [
-      43.9671,
-      -79.2423
-    ]
-  },
   "99.48.163.106": {
     "region": "North America",
     "country": "United States",
@@ -2163,10 +2113,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Arlington",
+    "city": "Collierville",
     "coordinates": [
-      35.283,
-      -89.7335
+      35.0644,
+      -89.6759
     ]
   }
 }
