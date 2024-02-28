@@ -529,16 +529,6 @@
       18.0686
     ]
   },
-  "16.50.174.37": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "160.16.101.168": {
     "region": "Asia",
     "country": "Japan",
@@ -689,6 +679,16 @@
       -80.1946
     ]
   },
+  "173.218.133.201": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -807,16 +807,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0067
     ]
   },
   "185.50.48.245": {
@@ -1529,16 +1519,6 @@
       -96.7028
     ]
   },
-  "50.116.27.42": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Richardson",
-    "coordinates": [
-      32.9473,
-      -96.7028
-    ]
-  },
   "51.210.10.181": {
     "region": "Europe",
     "country": "France",
@@ -1827,6 +1807,16 @@
     "coordinates": [
       40.0305,
       -76.2833
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
