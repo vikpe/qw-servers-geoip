@@ -49,16 +49,6 @@
       138.5999
     ]
   },
-  "103.216.220.41": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
-    ]
-  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -117,6 +107,16 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "114.35.54.116": {
+    "region": "Asia",
+    "country": "Taiwan",
+    "cc": "TW",
+    "city": "Taipei",
+    "coordinates": [
+      25.0504,
+      121.5324
     ]
   },
   "116.203.97.160": {
@@ -479,16 +479,6 @@
       -111.9956
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -679,16 +669,6 @@
       -80.1946
     ]
   },
-  "173.218.133.201": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -739,7 +719,7 @@
       -46.6333
     ]
   },
-  "177.97.19.29": {
+  "179.181.115.153": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1249,6 +1229,16 @@
       -96.8704
     ]
   },
+  "24.118.180.123": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
+    ]
+  },
   "3.108.227.32": {
     "region": "Asia",
     "country": "India",
@@ -1309,7 +1299,7 @@
       -80.013
     ]
   },
-  "35.239.84.89": {
+  "35.188.46.144": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1729,6 +1719,16 @@
       17.9155
     ]
   },
+  "72.109.16.122": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lititz",
+    "coordinates": [
+      40.1736,
+      -76.2956
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1797,26 +1797,6 @@
     "coordinates": [
       35.901,
       -81.2134
-    ]
-  },
-  "75.215.210.139": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lancaster",
-    "coordinates": [
-      40.0305,
-      -76.2833
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
