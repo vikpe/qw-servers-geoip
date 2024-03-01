@@ -719,7 +719,17 @@
       -46.6333
     ]
   },
-  "179.181.115.153": {
+  "179.174.20.198": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
+    ]
+  },
+  "179.176.127.24": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -867,16 +877,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "189.78.78.81": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
     ]
   },
   "190.210.77.136": {
@@ -1059,16 +1059,6 @@
       153.0137
     ]
   },
-  "204.2.68.131": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amersfoort",
-    "coordinates": [
-      52.1738,
-      5.4224
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1227,16 +1217,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.118.180.123": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0123,
-      -93.3447
     ]
   },
   "3.108.227.32": {
@@ -1799,6 +1779,16 @@
       -81.2134
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -2067,16 +2057,6 @@
     "coordinates": [
       26.6681,
       -81.7646
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Richardson",
-    "coordinates": [
-      32.988,
-      -96.6884
     ]
   },
   "99.72.255.45": {
