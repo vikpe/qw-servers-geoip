@@ -1059,6 +1059,16 @@
       153.0137
     ]
   },
+  "205.234.201.133": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0544,
+      -118.2441
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1169,6 +1179,16 @@
       13.4069
     ]
   },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.7064,
+      150.9596
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1217,6 +1237,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.118.180.123": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
     ]
   },
   "3.108.227.32": {
@@ -1769,16 +1799,6 @@
       -87.6318
     ]
   },
-  "75.170.235.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Taylorsville",
-    "coordinates": [
-      35.901,
-      -81.2134
-    ]
-  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1887,6 +1907,16 @@
     "coordinates": [
       59.2491,
       18.0755
+    ]
+  },
+  "85.241.112.229": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Quinta Do Conde",
+    "coordinates": [
+      38.5657,
+      -9.0367
     ]
   },
   "85.242.107.149": {
