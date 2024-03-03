@@ -23,7 +23,7 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Tulsa",
+    "city": "Bartlesville",
     "coordinates": [
       37.0902,
       -95.7129
@@ -33,7 +33,7 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Tulsa",
+    "city": "Bartlesville",
     "coordinates": [
       37.0902,
       -95.7129
@@ -45,8 +45,8 @@
     "cc": "AU",
     "city": "Adelaide",
     "coordinates": [
-      -34.9281,
-      138.5999
+      -34.9008,
+      138.6017
     ]
   },
   "103.72.77.220": {
@@ -479,6 +479,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -495,8 +505,8 @@
     "cc": "CA",
     "city": "Toronto",
     "coordinates": [
-      43.709,
-      -79.4057
+      43.6547,
+      -79.3623
     ]
   },
   "159.65.230.186": {
@@ -555,8 +565,8 @@
     "cc": "US",
     "city": "Seattle",
     "coordinates": [
-      47.6062,
-      -122.332
+      47.6144,
+      -122.339
     ]
   },
   "163.172.90.127": {
@@ -603,10 +613,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Falkenstein",
+    "city": "B\u00fchl",
     "coordinates": [
-      50.475,
-      12.365
+      48.6973,
+      8.1297
     ]
   },
   "167.71.142.56": {
@@ -1057,6 +1067,16 @@
     "coordinates": [
       -27.225,
       153.0137
+    ]
+  },
+  "204.2.68.131": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amersfoort",
+    "coordinates": [
+      52.1738,
+      5.4224
     ]
   },
   "205.234.201.133": {
@@ -1535,8 +1555,8 @@
     "cc": "FR",
     "city": "Roubaix",
     "coordinates": [
-      50.6917,
-      3.20157
+      50.6916,
+      3.20151
     ]
   },
   "52.129.112.12": {
@@ -1733,10 +1753,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lititz",
+    "city": "New Holland",
     "coordinates": [
-      40.1736,
-      -76.2956
+      40.1025,
+      -76.0761
     ]
   },
   "72.18.132.133": {
@@ -1797,6 +1817,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.170.224.61": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Madison",
+    "coordinates": [
+      36.3733,
+      -79.9635
     ]
   },
   "75.82.121.13": {
