@@ -9,16 +9,6 @@
       28.034195
     ]
   },
-  "103.106.91.154": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9643,
-      115.8595
-    ]
-  },
   "103.151.65.11": {
     "region": "North America",
     "country": "United States",
@@ -1199,16 +1189,6 @@
       13.4069
     ]
   },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7064,
-      150.9596
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1779,6 +1759,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1817,16 +1807,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.170.224.61": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Madison",
-    "coordinates": [
-      36.3733,
-      -79.9635
     ]
   },
   "75.82.121.13": {
