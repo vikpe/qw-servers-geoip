@@ -469,16 +469,6 @@
       -111.9956
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -1059,6 +1049,16 @@
       -104.816154
     ]
   },
+  "202.63.65.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.225,
+      153.0137
+    ]
+  },
   "204.2.68.131": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1629,16 +1629,6 @@
       -46.6333
     ]
   },
-  "54.242.10.109": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
   "54.252.183.87": {
     "region": "Oceania",
     "country": "Australia",
@@ -1687,6 +1677,16 @@
     "coordinates": [
       40.793,
       -74.0247
+    ]
+  },
+  "66.235.53.28": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Morton",
+    "coordinates": [
+      46.5581,
+      -122.2496
     ]
   },
   "66.85.80.160": {
@@ -1759,16 +1759,6 @@
       -81.7344
     ]
   },
-  "74.91.116.122": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "New York",
-    "coordinates": [
-      40.7123,
-      -74.0068
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1787,16 +1777,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1899,16 +1879,6 @@
       18.0755
     ]
   },
-  "85.241.112.229": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Quinta Do Conde",
-    "coordinates": [
-      38.5657,
-      -9.0367
-    ]
-  },
   "85.242.107.149": {
     "region": "Europe",
     "country": "Portugal",
@@ -1917,16 +1887,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "86.163.172.249": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Lambeth",
-    "coordinates": [
-      51.4203,
-      -0.1175
     ]
   },
   "87.128.111.190": {
@@ -1957,16 +1917,6 @@
     "coordinates": [
       64.0239,
       11.5035
-    ]
-  },
-  "89.154.193.70": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
     ]
   },
   "89.66.147.199": {
