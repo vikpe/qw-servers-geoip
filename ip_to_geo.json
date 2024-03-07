@@ -659,14 +659,14 @@
       -80.1946
     ]
   },
-  "172.59.72.132": {
+  "173.218.133.201": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Kansas City",
+    "city": "Jonesboro",
     "coordinates": [
-      39.0847,
-      -94.5308
+      35.8308,
+      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -707,6 +707,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.1139,
+      14.404
     ]
   },
   "177.71.158.196": {
@@ -1629,6 +1639,16 @@
       -46.6333
     ]
   },
+  "54.242.10.109": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
+    ]
+  },
   "54.252.183.87": {
     "region": "Oceania",
     "country": "Australia",
@@ -2047,16 +2067,6 @@
     "coordinates": [
       26.6681,
       -81.7646
-    ]
-  },
-  "98.240.194.219": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
     ]
   },
   "99.72.255.45": {
