@@ -469,6 +469,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -659,16 +669,6 @@
       -80.1946
     ]
   },
-  "173.218.133.201": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -707,16 +707,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.1139,
-      14.404
     ]
   },
   "177.71.158.196": {
@@ -887,16 +877,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "190.210.77.136": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
     ]
   },
   "192.99.32.215": {
@@ -1197,6 +1177,16 @@
     "coordinates": [
       52.5196,
       13.4069
+    ]
+  },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.7064,
+      150.9596
     ]
   },
   "223.165.64.141": {
@@ -1847,16 +1837,6 @@
     "coordinates": [
       48.1077,
       11.6091
-    ]
-  },
-  "82.102.20.226": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Christianshavn",
-    "coordinates": [
-      55.6738,
-      12.5954
     ]
   },
   "82.196.112.57": {
