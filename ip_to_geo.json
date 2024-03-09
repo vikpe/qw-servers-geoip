@@ -469,16 +469,6 @@
       -111.9956
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -629,16 +619,6 @@
       7.8268
     ]
   },
-  "168.61.175.143": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Des Moines",
-    "coordinates": [
-      41.5908,
-      -93.6208
-    ]
-  },
   "170.39.226.130": {
     "region": "North America",
     "country": "United States",
@@ -709,17 +689,7 @@
       73.4001
     ]
   },
-  "177.71.158.196": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5505,
-      -46.6333
-    ]
-  },
-  "179.174.20.198": {
+  "177.188.171.99": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -729,7 +699,7 @@
       -47.0439
     ]
   },
-  "179.176.127.24": {
+  "177.43.21.46": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -737,6 +707,16 @@
     "coordinates": [
       -15.7792,
       -47.9341
+    ]
+  },
+  "177.71.158.196": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5505,
+      -46.6333
     ]
   },
   "179.255.96.151": {
@@ -949,16 +929,6 @@
       -93.6208
     ]
   },
-  "20.125.113.83": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.448376,
-      -112.074036
-    ]
-  },
   "20.13.149.88": {
     "region": "Europe",
     "country": "Ireland",
@@ -997,16 +967,6 @@
     "coordinates": [
       35.68,
       139.77
-    ]
-  },
-  "20.245.213.126": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Francisco",
-    "coordinates": [
-      37.783,
-      -122.417
     ]
   },
   "20.245.6.70": {
@@ -1339,16 +1299,6 @@
       116.395
     ]
   },
-  "40.84.144.27": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Antonio",
-    "coordinates": [
-      29.4167,
-      -98.5
-    ]
-  },
   "44.210.138.174": {
     "region": "North America",
     "country": "United States",
@@ -1537,16 +1487,6 @@
     "coordinates": [
       30.2672,
       -97.7431
-    ]
-  },
-  "52.159.114.44": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8819,
-      -87.6278
     ]
   },
   "52.240.58.168": {
@@ -1899,16 +1839,6 @@
       13.405
     ]
   },
-  "87.189.51.231": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1957,6 +1887,16 @@
     "coordinates": [
       55.6686,
       12.3469
+    ]
+  },
+  "91.55.89.152": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Althengstett",
+    "coordinates": [
+      48.7241,
+      8.7919
     ]
   },
   "94.16.128.193": {
@@ -2009,6 +1949,16 @@
       24.9347
     ]
   },
+  "97.94.129.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Turlock",
+    "coordinates": [
+      37.5234,
+      -120.8517
+    ]
+  },
   "98.128.174.153": {
     "region": "Europe",
     "country": "Sweden",
@@ -2047,6 +1997,16 @@
     "coordinates": [
       26.6681,
       -81.7646
+    ]
+  },
+  "98.240.194.219": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
     ]
   },
   "99.72.255.45": {
