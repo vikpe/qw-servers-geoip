@@ -469,6 +469,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -739,7 +749,7 @@
       -121.895
     ]
   },
-  "18.228.39.185": {
+  "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1009,6 +1019,16 @@
       153.0137
     ]
   },
+  "203.213.42.20": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "204.2.68.131": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1139,16 +1159,6 @@
       13.4069
     ]
   },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7064,
-      150.9596
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1237,6 +1247,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.201.64.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
     ]
   },
   "35.184.4.200": {
@@ -1499,16 +1519,6 @@
       -78.37471
     ]
   },
-  "52.63.245.209": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
-    ]
-  },
   "52.67.25.234": {
     "region": "South America",
     "country": "Brazil",
@@ -1567,16 +1577,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "54.242.10.109": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "54.252.183.87": {
@@ -1727,6 +1727,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
