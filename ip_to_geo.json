@@ -159,6 +159,16 @@
       -46.6361
     ]
   },
+  "129.158.45.43": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.018,
+      -77.539
+    ]
+  },
   "13.245.119.116": {
     "region": "Africa",
     "country": "South Africa",
@@ -509,6 +519,16 @@
       18.0686
     ]
   },
+  "16.50.158.34": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "160.16.101.168": {
     "region": "Asia",
     "country": "Japan",
@@ -649,6 +669,16 @@
       -80.1946
     ]
   },
+  "173.218.133.201": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -657,6 +687,16 @@
     "coordinates": [
       40.793,
       -74.0247
+    ]
+  },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "174.164.173.71": {
@@ -969,16 +1009,6 @@
       -122.417
     ]
   },
-  "20.46.101.241": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8136,
-      144.9631
-    ]
-  },
   "20.51.107.74": {
     "region": "North America",
     "country": "United States",
@@ -1187,6 +1217,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.87.1.123": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Vancouver",
+    "coordinates": [
+      49.2958,
+      -123.141
     ]
   },
   "3.108.227.32": {
