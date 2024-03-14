@@ -479,6 +479,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -667,16 +677,6 @@
     "coordinates": [
       25.7689,
       -80.1946
-    ]
-  },
-  "173.218.133.201": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -1049,16 +1049,6 @@
       5.4224
     ]
   },
-  "205.234.201.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0544,
-      -118.2441
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1259,6 +1249,16 @@
       8.68213
     ]
   },
+  "34.134.185.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1297,16 +1297,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.188.46.144": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "37.201.131.70": {
@@ -1647,16 +1637,6 @@
     "coordinates": [
       40.793,
       -74.0247
-    ]
-  },
-  "66.235.53.28": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Morton",
-    "coordinates": [
-      46.5581,
-      -122.2496
     ]
   },
   "66.85.80.160": {
