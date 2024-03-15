@@ -1239,16 +1239,6 @@
       -83.1141
     ]
   },
-  "3.76.38.12": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1109,
-      8.68213
-    ]
-  },
   "34.134.185.232": {
     "region": "North America",
     "country": "United States",
@@ -2007,6 +1997,16 @@
     "coordinates": [
       26.6681,
       -81.7646
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Richardson",
+    "coordinates": [
+      32.988,
+      -96.6884
     ]
   },
   "99.72.255.45": {
