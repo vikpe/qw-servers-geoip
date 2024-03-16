@@ -1629,6 +1629,16 @@
       -74.0247
     ]
   },
+  "66.168.93.162": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Spring Hill",
+    "coordinates": [
+      35.7163,
+      -86.9093
+    ]
+  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1637,6 +1647,16 @@
     "coordinates": [
       41.8865,
       -87.6378
+    ]
+  },
+  "68.59.46.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Montrose",
+    "coordinates": [
+      45.0451,
+      -93.9156
     ]
   },
   "68.60.111.37": {
