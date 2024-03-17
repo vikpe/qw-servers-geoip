@@ -249,6 +249,16 @@
       11.3155
     ]
   },
+  "136.33.205.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Olathe",
+    "coordinates": [
+      38.8715,
+      -94.7713
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -699,16 +709,6 @@
       -79.7249
     ]
   },
-  "174.164.173.71": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marysville",
-    "coordinates": [
-      48.0961,
-      -122.2002
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -729,7 +729,7 @@
       -47.0439
     ]
   },
-  "177.43.21.46": {
+  "177.43.23.104": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1269,6 +1269,16 @@
       -77.4874
     ]
   },
+  "34.242.30.72": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": [
+      53.3498,
+      -6.26031
+    ]
+  },
   "35.184.4.200": {
     "region": "North America",
     "country": "United States",
@@ -1559,16 +1569,6 @@
       -121.895
     ]
   },
-  "54.194.198.205": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3498,
-      -6.26031
-    ]
-  },
   "54.232.250.209": {
     "region": "South America",
     "country": "Brazil",
@@ -1677,6 +1677,16 @@
     "coordinates": [
       59.3779,
       17.9155
+    ]
+  },
+  "70.89.115.157": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Tacoma",
+    "coordinates": [
+      47.2573,
+      -122.4921
     ]
   },
   "72.109.16.122": {
