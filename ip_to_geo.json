@@ -35,8 +35,8 @@
     "cc": "AU",
     "city": "Adelaide",
     "coordinates": [
-      -34.9008,
-      138.6017
+      -34.9281,
+      138.5999
     ]
   },
   "103.72.77.220": {
@@ -719,6 +719,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0844,
+      14.4998
+    ]
+  },
   "177.188.171.99": {
     "region": "South America",
     "country": "Brazil",
@@ -795,8 +805,8 @@
     "cc": "PL",
     "city": "Konstancin-Jeziorna",
     "coordinates": [
-      52.0936,
-      21.1244
+      52.09,
+      21.1196
     ]
   },
   "185.189.48.45": {
@@ -933,10 +943,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Harrow",
+    "city": "Morley",
     "coordinates": [
-      51.5773,
-      -0.3278
+      53.7472,
+      -1.6017
     ]
   },
   "195.201.133.22": {
@@ -1075,8 +1085,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8556,
-      174.8441
+      -36.8506,
+      174.7679
     ]
   },
   "212.193.49.233": {
@@ -1679,16 +1689,6 @@
       17.9155
     ]
   },
-  "70.89.115.157": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Tacoma",
-    "coordinates": [
-      47.2573,
-      -122.4921
-    ]
-  },
   "72.109.16.122": {
     "region": "North America",
     "country": "United States",
@@ -1717,6 +1717,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1765,8 +1775,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0761,
-      14.4479
+      50.0883,
+      14.4124
     ]
   },
   "78.45.93.104": {
@@ -1933,10 +1943,10 @@
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Oberwil",
+    "city": "Aesch",
     "coordinates": [
-      47.5119,
-      7.5579
+      47.4702,
+      7.6011
     ]
   },
   "95.165.130.151": {
@@ -2033,20 +2043,20 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Richardson",
+    "city": "Dallas",
     "coordinates": [
-      32.988,
-      -96.6884
+      32.9247,
+      -96.8917
     ]
   },
   "99.72.255.45": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Collierville",
+    "city": "Memphis",
     "coordinates": [
-      35.0644,
-      -89.6759
+      35.0197,
+      -89.8498
     ]
   }
 }
