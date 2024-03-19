@@ -719,16 +719,6 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0844,
-      14.4998
-    ]
-  },
   "177.188.171.99": {
     "region": "South America",
     "country": "Brazil",
@@ -739,16 +729,6 @@
       -47.0439
     ]
   },
-  "177.43.23.104": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -757,6 +737,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "179.232.6.240": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
     ]
   },
   "179.255.96.151": {
@@ -927,6 +917,16 @@
     "coordinates": [
       52.2296,
       21.0122
+    ]
+  },
+  "194.102.175.79": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9139,
+      10.7522
     ]
   },
   "194.38.96.52": {
@@ -1659,16 +1659,6 @@
       -87.6378
     ]
   },
-  "68.59.46.232": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Montrose",
-    "coordinates": [
-      45.0451,
-      -93.9156
-    ]
-  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1689,14 +1679,14 @@
       17.9155
     ]
   },
-  "72.109.16.122": {
+  "72.104.11.200": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "New Holland",
+    "city": "Philadelphia",
     "coordinates": [
-      40.1025,
-      -76.0761
+      39.9843,
+      -75.2266
     ]
   },
   "72.18.132.133": {
@@ -1717,16 +1707,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1879,6 +1859,16 @@
       13.405
     ]
   },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1277,
+      17.0591
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1947,6 +1937,16 @@
     "coordinates": [
       47.4702,
       7.6011
+    ]
+  },
+  "94.22.198.181": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Sein\u00e4joki",
+    "coordinates": [
+      62.7802,
+      22.8489
     ]
   },
   "95.165.130.151": {
@@ -2037,16 +2037,6 @@
     "coordinates": [
       26.6681,
       -81.7646
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.9247,
-      -96.8917
     ]
   },
   "99.72.255.45": {
