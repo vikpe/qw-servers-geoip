@@ -1029,6 +1029,16 @@
       -104.816154
     ]
   },
+  "202.63.65.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.225,
+      153.0137
+    ]
+  },
   "204.2.68.131": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1649,6 +1659,16 @@
       -87.6378
     ]
   },
+  "68.59.46.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Montrose",
+    "coordinates": [
+      45.0451,
+      -93.9156
+    ]
+  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1857,6 +1877,16 @@
     "coordinates": [
       64.0239,
       11.5035
+    ]
+  },
+  "89.154.193.70": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1691,
+      -8.6793
     ]
   },
   "89.66.147.199": {
