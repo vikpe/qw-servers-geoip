@@ -249,16 +249,6 @@
       11.3155
     ]
   },
-  "136.33.205.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Olathe",
-    "coordinates": [
-      38.8715,
-      -94.7713
-    ]
-  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -737,6 +727,16 @@
     "coordinates": [
       -10.9094,
       -37.0716
+    ]
+  },
+  "179.255.96.151": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.561,
+      -49.2063
     ]
   },
   "18.144.19.16": {
@@ -1639,16 +1639,6 @@
       -74.0247
     ]
   },
-  "66.168.93.162": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Spring Hill",
-    "coordinates": [
-      35.7163,
-      -86.9093
-    ]
-  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1879,16 +1869,6 @@
       11.5035
     ]
   },
-  "89.154.193.70": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
-    ]
-  },
   "89.66.147.199": {
     "region": "Europe",
     "country": "Poland",
@@ -1929,14 +1909,14 @@
       12.3469
     ]
   },
-  "91.55.89.152": {
+  "91.55.82.121": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Althengstett",
+    "city": "Calw",
     "coordinates": [
-      48.7241,
-      8.7919
+      48.709,
+      8.7399
     ]
   },
   "94.16.128.193": {
@@ -1997,6 +1977,16 @@
     "coordinates": [
       37.5234,
       -120.8517
+    ]
+  },
+  "98.122.171.23": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cary",
+    "coordinates": [
+      35.7965,
+      -78.7981
     ]
   },
   "98.128.174.153": {
