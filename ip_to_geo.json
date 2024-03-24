@@ -699,6 +699,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0844,
+      14.4998
+    ]
+  },
   "177.188.171.99": {
     "region": "South America",
     "country": "Brazil",
@@ -967,16 +977,6 @@
     "coordinates": [
       53.3478,
       -6.2597
-    ]
-  },
-  "20.221.237.152": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8819,
-      -87.6278
     ]
   },
   "20.241.104.145": {
@@ -1797,16 +1797,6 @@
     "coordinates": [
       48.1077,
       11.6091
-    ]
-  },
-  "82.196.112.57": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3772,
-      17.3203
     ]
   },
   "84.251.35.110": {
