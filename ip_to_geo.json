@@ -229,6 +229,16 @@
       -77.3429
     ]
   },
+  "135.181.0.160": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1719,
+      24.9347
+    ]
+  },
   "135.181.96.161": {
     "region": "Europe",
     "country": "Finland",
@@ -699,6 +709,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0844,
+      14.4998
+    ]
+  },
   "177.188.171.99": {
     "region": "South America",
     "country": "Brazil",
@@ -709,16 +729,6 @@
       -47.0439
     ]
   },
-  "177.43.23.104": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -727,6 +737,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "179.176.117.57": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
     ]
   },
   "179.232.6.240": {
@@ -1289,6 +1309,16 @@
       -6.26031
     ]
   },
+  "34.253.154.38": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": [
+      53.3498,
+      -6.26031
+    ]
+  },
   "35.184.4.200": {
     "region": "North America",
     "country": "United States",
@@ -1707,16 +1737,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
