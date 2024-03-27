@@ -59,6 +59,16 @@
       -74.4606
     ]
   },
+  "108.59.81.139": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -709,16 +719,6 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0844,
-      14.4998
-    ]
-  },
   "177.188.171.99": {
     "region": "South America",
     "country": "Brazil",
@@ -757,16 +757,6 @@
     "coordinates": [
       -10.9094,
       -37.0716
-    ]
-  },
-  "179.255.96.151": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.561,
-      -49.2063
     ]
   },
   "18.144.19.16": {
@@ -1269,16 +1259,6 @@
       -83.1141
     ]
   },
-  "34.134.185.232": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1339,6 +1319,16 @@
       -80.013
     ]
   },
+  "36.106.252.56": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1488,
+      117.1762
+    ]
+  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1389,7 +1379,7 @@
       -77.4874
     ]
   },
-  "45.128.199.207": {
+  "45.128.199.106": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
