@@ -759,6 +759,16 @@
       -37.0716
     ]
   },
+  "179.255.96.151": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.561,
+      -49.2063
+    ]
+  },
   "18.144.19.16": {
     "region": "North America",
     "country": "United States",
@@ -1259,6 +1269,16 @@
       -83.1141
     ]
   },
+  "3.25.238.53": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1270,6 +1290,16 @@
     ]
   },
   "34.201.64.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
+    ]
+  },
+  "34.202.9.2": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1297,16 +1327,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "35.184.4.200": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.185.44.174": {
@@ -1347,26 +1367,6 @@
     "coordinates": [
       47.5386,
       19.0658
-    ]
-  },
-  "39.106.228.43": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Beijing",
-    "coordinates": [
-      39.911,
-      116.395
-    ]
-  },
-  "44.204.65.202": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "44.210.138.174": {
@@ -1879,6 +1879,16 @@
       13.405
     ]
   },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1277,
+      17.0591
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2047,6 +2057,16 @@
     "coordinates": [
       26.6681,
       -81.7646
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.9247,
+      -96.8917
     ]
   },
   "99.72.255.45": {
