@@ -329,16 +329,6 @@
       37.6171
     ]
   },
-  "144.202.59.41": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elk Grove Village",
-    "coordinates": [
-      42.0048,
-      -87.9954
-    ]
-  },
   "144.22.145.206": {
     "region": "South America",
     "country": "Brazil",
@@ -347,16 +337,6 @@
     "coordinates": [
       -23.5475,
       -46.6361
-    ]
-  },
-  "144.24.188.96": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1049,
-      8.6295
     ]
   },
   "145.239.94.156": {
@@ -507,6 +487,16 @@
     "coordinates": [
       59.955,
       10.859
+    ]
+  },
+  "159.196.52.31": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Adelaide",
+    "coordinates": [
+      -34.7782,
+      138.6558
     ]
   },
   "159.203.25.195": {
@@ -779,6 +769,16 @@
       -121.895
     ]
   },
+  "18.144.80.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
+    ]
+  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -997,16 +997,6 @@
     "coordinates": [
       53.3478,
       -6.2597
-    ]
-  },
-  "20.221.237.152": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8819,
-      -87.6278
     ]
   },
   "20.241.104.145": {
@@ -1319,16 +1309,6 @@
       -6.26031
     ]
   },
-  "34.253.154.38": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3498,
-      -6.26031
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1367,6 +1347,16 @@
     "coordinates": [
       47.5386,
       19.0658
+    ]
+  },
+  "39.106.228.43": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Beijing",
+    "coordinates": [
+      39.911,
+      116.395
     ]
   },
   "44.210.138.174": {
@@ -1470,6 +1460,16 @@
     ]
   },
   "45.76.23.209": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elk Grove Village",
+    "coordinates": [
+      42.0048,
+      -87.9954
+    ]
+  },
+  "45.76.26.183": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
