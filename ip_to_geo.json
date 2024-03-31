@@ -449,16 +449,6 @@
       144.75
     ]
   },
-  "157.245.35.15": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Slough",
-    "coordinates": [
-      51.5368,
-      -0.6718
-    ]
-  },
   "158.101.122.160": {
     "region": "North America",
     "country": "United States",
@@ -699,6 +689,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0844,
+      14.4998
+    ]
+  },
   "177.188.171.99": {
     "region": "South America",
     "country": "Brazil",
@@ -717,16 +717,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "179.176.117.57": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
     ]
   },
   "179.232.6.240": {
@@ -1679,6 +1669,16 @@
       -87.6378
     ]
   },
+  "68.59.46.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Montrose",
+    "coordinates": [
+      45.0451,
+      -93.9156
+    ]
+  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1759,14 +1759,14 @@
       -87.6318
     ]
   },
-  "75.170.224.61": {
+  "75.3.247.6": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Catawba",
+    "city": "Oakland",
     "coordinates": [
-      35.6746,
-      -81.0474
+      37.8487,
+      -122.2209
     ]
   },
   "75.82.121.13": {
@@ -1897,16 +1897,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "87.207.124.227": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.1277,
-      17.0591
     ]
   },
   "89.151.207.164": {
