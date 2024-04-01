@@ -449,16 +449,6 @@
       144.75
     ]
   },
-  "158.101.122.160": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.018,
-      -77.539
-    ]
-  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -689,16 +679,6 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0844,
-      14.4998
-    ]
-  },
   "177.188.171.99": {
     "region": "South America",
     "country": "Brazil",
@@ -799,16 +779,6 @@
       14.9942
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0067
-    ]
-  },
   "185.50.48.245": {
     "region": "Europe",
     "country": "Poland",
@@ -907,6 +877,16 @@
     "coordinates": [
       55.7731,
       37.8294
+    ]
+  },
+  "193.39.13.23": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.4979,
+      19.0402
     ]
   },
   "193.42.36.145": {
@@ -1159,6 +1139,16 @@
       13.4069
     ]
   },
+  "220.253.0.163": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1229,7 +1219,7 @@
       72.8777
     ]
   },
-  "3.135.47.59": {
+  "3.142.226.130": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1317,16 +1307,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "36.106.254.116": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1488,
-      117.1762
     ]
   },
   "37.201.131.70": {
@@ -1669,16 +1649,6 @@
       -87.6378
     ]
   },
-  "68.59.46.232": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Montrose",
-    "coordinates": [
-      45.0451,
-      -93.9156
-    ]
-  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1727,6 +1697,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1899,6 +1879,16 @@
       13.405
     ]
   },
+  "87.189.51.202": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1947,16 +1937,6 @@
     "coordinates": [
       55.6686,
       12.3469
-    ]
-  },
-  "91.55.82.121": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "94.16.128.193": {
