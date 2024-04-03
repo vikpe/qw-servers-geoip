@@ -679,6 +679,16 @@
       -79.7249
     ]
   },
+  "174.164.173.71": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marysville",
+    "coordinates": [
+      48.0961,
+      -122.2002
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -687,16 +697,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0844,
-      14.4998
     ]
   },
   "177.188.171.99": {
@@ -1169,6 +1169,26 @@
       13.4069
     ]
   },
+  "217.210.27.225": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Trollh\u00e4ttan",
+    "coordinates": [
+      58.2835,
+      12.2858
+    ]
+  },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8753,
+      151.1892
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1187,6 +1207,16 @@
     "coordinates": [
       40.6063,
       -74.1774
+    ]
+  },
+  "23.20.106.184": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
     ]
   },
   "23.22.56.152": {
@@ -1270,16 +1300,6 @@
     ]
   },
   "34.201.64.11": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
-  "34.227.102.199": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1547,6 +1567,16 @@
     "coordinates": [
       30.2672,
       -97.7431
+    ]
+  },
+  "52.240.58.168": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Boydton",
+    "coordinates": [
+      36.677696,
+      -78.37471
     ]
   },
   "52.67.25.234": {
@@ -1879,16 +1909,6 @@
       13.405
     ]
   },
-  "87.189.51.202": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1937,6 +1957,16 @@
     "coordinates": [
       55.6686,
       12.3469
+    ]
+  },
+  "91.55.94.233": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Oberreichenbach",
+    "coordinates": [
+      48.7318,
+      8.6702
     ]
   },
   "94.16.128.193": {
@@ -2017,16 +2047,6 @@
     "coordinates": [
       59.3241,
       18.0517
-    ]
-  },
-  "98.144.80.46": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0925,
-      -87.6709
     ]
   },
   "98.208.219.227": {
