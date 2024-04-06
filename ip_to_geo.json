@@ -59,6 +59,16 @@
       -74.4606
     ]
   },
+  "108.221.164.219": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Pinson",
+    "coordinates": [
+      33.7275,
+      -86.6467
+    ]
+  },
   "108.59.81.139": {
     "region": "North America",
     "country": "United States",
@@ -739,6 +749,16 @@
       -37.0716
     ]
   },
+  "179.255.96.151": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.561,
+      -49.2063
+    ]
+  },
   "18.144.19.16": {
     "region": "North America",
     "country": "United States",
@@ -1189,6 +1209,16 @@
       -74.1774
     ]
   },
+  "23.20.106.184": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
+    ]
+  },
   "23.22.56.152": {
     "region": "North America",
     "country": "United States",
@@ -1229,6 +1259,16 @@
       -123.141
     ]
   },
+  "3.104.30.121": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8591,
+      151.2002
+    ]
+  },
   "3.108.227.32": {
     "region": "Asia",
     "country": "India",
@@ -1237,16 +1277,6 @@
     "coordinates": [
       19.076,
       72.8777
-    ]
-  },
-  "3.81.39.48": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "31.201.90.81": {
@@ -1587,6 +1617,16 @@
     "coordinates": [
       37.3394,
       -121.895
+    ]
+  },
+  "54.197.56.167": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
     ]
   },
   "54.232.250.209": {
