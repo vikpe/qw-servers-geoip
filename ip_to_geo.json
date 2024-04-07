@@ -59,16 +59,6 @@
       -74.4606
     ]
   },
-  "108.221.164.219": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pinson",
-    "coordinates": [
-      33.7275,
-      -86.6467
-    ]
-  },
   "108.59.81.139": {
     "region": "North America",
     "country": "United States",
@@ -347,6 +337,16 @@
     "coordinates": [
       -23.5475,
       -46.6361
+    ]
+  },
+  "145.220.10.99": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Utrecht",
+    "coordinates": [
+      52.0907,
+      5.12142
     ]
   },
   "145.239.94.156": {
@@ -639,6 +639,16 @@
       11.0767
     ]
   },
+  "170.239.85.42": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Curic\u00f3",
+    "coordinates": [
+      -34.982,
+      -71.232
+    ]
+  },
   "170.39.226.130": {
     "region": "North America",
     "country": "United States",
@@ -657,6 +667,16 @@
     "coordinates": [
       -33.8715,
       151.2006
+    ]
+  },
+  "172.233.178.155": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7689,
+      -80.1946
     ]
   },
   "172.233.187.219": {
@@ -759,16 +779,6 @@
       -49.2063
     ]
   },
-  "18.144.19.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
-    ]
-  },
   "18.144.80.36": {
     "region": "North America",
     "country": "United States",
@@ -817,6 +827,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
     ]
   },
   "185.50.48.245": {
@@ -1057,16 +1077,6 @@
     "coordinates": [
       -27.5586,
       153.0981
-    ]
-  },
-  "204.2.68.131": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amersfoort",
-    "coordinates": [
-      52.1738,
-      5.4224
     ]
   },
   "206.51.245.84": {
@@ -1377,16 +1387,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.128.199.145": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3716,
-      4.8883
     ]
   },
   "45.132.235.200": {
