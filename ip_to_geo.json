@@ -779,7 +779,7 @@
       -49.2063
     ]
   },
-  "18.144.80.36": {
+  "18.144.19.16": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1187,16 +1187,6 @@
     "coordinates": [
       52.5196,
       13.4069
-    ]
-  },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
     ]
   },
   "223.165.64.141": {
@@ -1609,6 +1599,16 @@
       -122.676
     ]
   },
+  "54.153.115.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
+    ]
+  },
   "54.177.92.188": {
     "region": "North America",
     "country": "United States",
@@ -1659,6 +1659,16 @@
       -46.6333
     ]
   },
+  "61.5.24.85": {
+    "region": "Asia",
+    "country": "Indonesia",
+    "cc": "ID",
+    "city": "Tangerang",
+    "coordinates": [
+      -6.177,
+      106.6284
+    ]
+  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1697,6 +1707,16 @@
     "coordinates": [
       41.8865,
       -87.6378
+    ]
+  },
+  "68.59.46.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Montrose",
+    "coordinates": [
+      45.0451,
+      -93.9156
     ]
   },
   "68.60.111.37": {
@@ -1749,6 +1769,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1787,16 +1817,6 @@
     "coordinates": [
       37.8487,
       -122.2209
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
