@@ -479,6 +479,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -749,16 +759,6 @@
       -46.6333
     ]
   },
-  "179.187.105.226": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
-    ]
-  },
   "179.232.6.240": {
     "region": "South America",
     "country": "Brazil",
@@ -767,26 +767,6 @@
     "coordinates": [
       -10.9094,
       -37.0716
-    ]
-  },
-  "179.255.96.151": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.561,
-      -49.2063
-    ]
-  },
-  "18.144.19.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
     ]
   },
   "18.228.193.88": {
@@ -1379,16 +1359,6 @@
       -77.4874
     ]
   },
-  "45.132.235.200": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
-    ]
-  },
   "45.147.98.159": {
     "region": "Europe",
     "country": "France",
@@ -1659,16 +1629,6 @@
       -46.6333
     ]
   },
-  "61.5.24.85": {
-    "region": "Asia",
-    "country": "Indonesia",
-    "cc": "ID",
-    "city": "Tangerang",
-    "coordinates": [
-      -6.177,
-      106.6284
-    ]
-  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1707,16 +1667,6 @@
     "coordinates": [
       41.8865,
       -87.6378
-    ]
-  },
-  "68.59.46.232": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Montrose",
-    "coordinates": [
-      45.0451,
-      -93.9156
     ]
   },
   "68.60.111.37": {
@@ -1769,16 +1719,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1809,14 +1749,14 @@
       -87.6318
     ]
   },
-  "75.3.247.6": {
+  "75.82.121.13": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Oakland",
+    "city": "Huntington Beach",
     "coordinates": [
-      37.8487,
-      -122.2209
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1919,7 +1859,7 @@
       -16.9
     ]
   },
-  "86.134.36.148": {
+  "86.155.196.69": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
