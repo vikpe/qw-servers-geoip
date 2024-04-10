@@ -759,6 +759,16 @@
       -46.6333
     ]
   },
+  "179.187.105.226": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
+    ]
+  },
   "179.232.6.240": {
     "region": "South America",
     "country": "Brazil",
@@ -1169,6 +1179,16 @@
       13.4069
     ]
   },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1280,6 +1300,16 @@
     ]
   },
   "34.201.64.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
+    ]
+  },
+  "34.239.183.234": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1589,16 +1619,6 @@
       -121.895
     ]
   },
-  "54.197.56.167": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
   "54.232.250.209": {
     "region": "South America",
     "country": "Brazil",
@@ -1749,16 +1769,6 @@
       -87.6318
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1839,14 +1849,14 @@
       16.7697
     ]
   },
-  "85.229.13.40": {
+  "85.229.46.241": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "V\u00e5rsta",
+    "city": "Tr\u00e5ngsund",
     "coordinates": [
-      59.2491,
-      18.0755
+      59.2322,
+      18.1257
     ]
   },
   "85.242.107.149": {
