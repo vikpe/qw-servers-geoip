@@ -229,16 +229,6 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -657,6 +647,16 @@
     "coordinates": [
       40.7895,
       -74.0565
+    ]
+  },
+  "170.4.177.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Vernon",
+    "coordinates": [
+      39.0021,
+      -85.627
     ]
   },
   "172.105.184.44": {
@@ -1139,16 +1139,6 @@
       11.0767
     ]
   },
-  "213.80.111.176": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Haesselby strand",
-    "coordinates": [
-      59.3634,
-      17.8509
-    ]
-  },
   "216.108.230.70": {
     "region": "North America",
     "country": "United States",
@@ -1177,16 +1167,6 @@
     "coordinates": [
       52.5196,
       13.4069
-    ]
-  },
-  "217.210.27.225": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Trollh\u00e4ttan",
-    "coordinates": [
-      58.2835,
-      12.2858
     ]
   },
   "223.165.64.141": {
@@ -1260,6 +1240,16 @@
     ]
   },
   "3.108.227.32": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.076,
+      72.8777
+    ]
+  },
+  "3.110.45.116": {
     "region": "Asia",
     "country": "India",
     "cc": "IN",
@@ -1749,16 +1739,6 @@
       -77.35
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -2087,6 +2067,16 @@
     "coordinates": [
       26.6681,
       -81.7646
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.9247,
+      -96.8917
     ]
   },
   "99.72.255.45": {
