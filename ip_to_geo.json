@@ -169,16 +169,6 @@
       -46.6361
     ]
   },
-  "129.158.45.43": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.018,
-      -77.539
-    ]
-  },
   "13.245.119.116": {
     "region": "Africa",
     "country": "South Africa",
@@ -469,6 +459,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -727,6 +727,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0805,
+      14.467
     ]
   },
   "177.188.171.99": {
@@ -1387,6 +1397,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.128.199.145": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3716,
+      4.8883
     ]
   },
   "45.147.98.159": {
@@ -2067,16 +2087,6 @@
     "coordinates": [
       26.6681,
       -81.7646
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.9247,
-      -96.8917
     ]
   },
   "99.72.255.45": {
