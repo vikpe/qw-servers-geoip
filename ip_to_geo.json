@@ -59,6 +59,16 @@
       -74.4606
     ]
   },
+  "106.47.95.171": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1488,
+      117.1762
+    ]
+  },
   "108.59.81.139": {
     "region": "North America",
     "country": "United States",
@@ -649,16 +659,6 @@
       -74.0565
     ]
   },
-  "170.4.177.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Vernon",
-    "coordinates": [
-      39.0021,
-      -85.627
-    ]
-  },
   "172.105.184.44": {
     "region": "Oceania",
     "country": "Australia",
@@ -727,16 +727,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0805,
-      14.467
     ]
   },
   "177.188.171.99": {
@@ -1057,16 +1047,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.5586,
-      153.0981
     ]
   },
   "206.51.245.84": {
@@ -1399,7 +1379,7 @@
       -77.4874
     ]
   },
-  "45.128.199.145": {
+  "45.128.199.5": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1757,6 +1737,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "74.91.120.206": {
