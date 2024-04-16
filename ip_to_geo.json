@@ -59,16 +59,6 @@
       -74.4606
     ]
   },
-  "106.47.95.171": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1488,
-      117.1762
-    ]
-  },
   "108.59.81.139": {
     "region": "North America",
     "country": "United States",
@@ -117,6 +107,16 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "111.167.229.73": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1488,
+      117.1762
     ]
   },
   "114.35.54.116": {
@@ -467,16 +467,6 @@
     "coordinates": [
       33.4656,
       -111.9956
-    ]
-  },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
     ]
   },
   "158.248.75.93": {
@@ -919,16 +909,6 @@
       37.8294
     ]
   },
-  "193.39.13.23": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.4979,
-      19.0402
-    ]
-  },
   "193.42.36.145": {
     "region": "Europe",
     "country": "Poland",
@@ -1259,16 +1239,6 @@
       -83.1141
     ]
   },
-  "31.201.90.81": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Eindhoven",
-    "coordinates": [
-      51.4577,
-      5.4436
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1329,7 +1299,7 @@
       -80.013
     ]
   },
-  "35.245.140.228": {
+  "35.245.29.150": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1739,14 +1709,14 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
+  "73.23.130.187": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Petaluma",
+    "city": "Bonita Springs",
     "coordinates": [
-      38.2478,
-      -122.6192
+      26.3763,
+      -81.7344
     ]
   },
   "74.91.120.206": {
@@ -1839,14 +1809,14 @@
       11.6091
     ]
   },
-  "81.158.230.145": {
+  "81.151.238.78": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
     "city": "Ashford",
     "coordinates": [
-      51.1469,
-      0.8773
+      51.141,
+      0.8238
     ]
   },
   "82.196.112.57": {
@@ -2077,6 +2047,16 @@
     "coordinates": [
       26.6681,
       -81.7646
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.9247,
+      -96.8917
     ]
   },
   "99.72.255.45": {
