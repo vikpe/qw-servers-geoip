@@ -469,16 +469,6 @@
       -111.9956
     ]
   },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -739,16 +729,6 @@
       73.4001
     ]
   },
-  "177.188.171.99": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -897,6 +877,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "191.23.26.194": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
     ]
   },
   "192.99.32.215": {
@@ -1909,16 +1899,6 @@
       37.4025
     ]
   },
-  "89.151.207.164": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Steinkjer",
-    "coordinates": [
-      64.0161,
-      11.4985
-    ]
-  },
   "89.66.147.199": {
     "region": "Europe",
     "country": "Poland",
@@ -2067,16 +2047,6 @@
     "coordinates": [
       26.6681,
       -81.7646
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.9247,
-      -96.8917
     ]
   },
   "99.72.255.45": {
