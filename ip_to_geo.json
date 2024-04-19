@@ -229,6 +229,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -679,16 +689,6 @@
       -80.1946
     ]
   },
-  "172.92.246.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -797,16 +797,6 @@
     "coordinates": [
       52.2296,
       21.0067
-    ]
-  },
-  "185.50.48.245": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Gliwice",
-    "coordinates": [
-      50.2902,
-      18.6647
     ]
   },
   "185.73.44.100": {
@@ -1680,6 +1670,16 @@
     ]
   },
   "70.34.202.147": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Spanga",
+    "coordinates": [
+      59.3779,
+      17.9155
+    ]
+  },
+  "70.34.206.203": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
