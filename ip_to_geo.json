@@ -339,6 +339,16 @@
       -46.6361
     ]
   },
+  "144.24.188.96": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1049,
+      8.6295
+    ]
+  },
   "145.220.10.99": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -479,6 +489,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.248.75.93": {
     "region": "Europe",
     "country": "Norway",
@@ -547,16 +567,6 @@
     "coordinates": [
       41.8865,
       -87.6378
-    ]
-  },
-  "162.248.93.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0511,
-      -118.266
     ]
   },
   "162.248.94.117": {
@@ -1137,6 +1147,16 @@
     "coordinates": [
       52.5196,
       13.4069
+    ]
+  },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "223.165.64.141": {
@@ -1729,16 +1749,6 @@
       -81.7344
     ]
   },
-  "74.91.120.206": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7908,
-      -96.8336
-    ]
-  },
   "74.97.190.252": {
     "region": "North America",
     "country": "United States",
@@ -1819,14 +1829,14 @@
       11.6091
     ]
   },
-  "81.151.238.78": {
+  "81.147.27.92": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
     "city": "Ashford",
     "coordinates": [
-      51.141,
-      0.8238
+      51.1469,
+      0.8773
     ]
   },
   "82.196.112.57": {
@@ -1887,16 +1897,6 @@
     "coordinates": [
       53.5514,
       10.0593
-    ]
-  },
-  "89.108.64.237": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.8338,
-      37.4025
     ]
   },
   "89.66.147.199": {
