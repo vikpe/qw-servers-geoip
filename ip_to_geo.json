@@ -35,8 +35,8 @@
     "cc": "AU",
     "city": "Adelaide",
     "coordinates": [
-      -34.9008,
-      138.6017
+      -34.9522,
+      138.6321
     ]
   },
   "103.72.77.220": {
@@ -375,8 +375,8 @@
     "cc": "PL",
     "city": "Wroclaw",
     "coordinates": [
-      51.098,
-      17.0321
+      51.0957,
+      17.0324
     ]
   },
   "148.135.104.18": {
@@ -515,8 +515,8 @@
     "cc": "CA",
     "city": "Toronto",
     "coordinates": [
-      43.709,
-      -79.4057
+      43.6547,
+      -79.3623
     ]
   },
   "159.65.230.186": {
@@ -669,6 +669,16 @@
       -74.0565
     ]
   },
+  "170.4.179.227": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Versailles",
+    "coordinates": [
+      39.0471,
+      -85.2234
+    ]
+  },
   "172.105.184.44": {
     "region": "Oceania",
     "country": "Australia",
@@ -723,10 +733,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Marysville",
+    "city": "Lake Stevens",
     "coordinates": [
-      48.0961,
-      -122.2002
+      48.0132,
+      -122.0679
     ]
   },
   "176.210.100.6": {
@@ -1035,8 +1045,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.5586,
-      153.0981
+      -27.225,
+      153.0137
     ]
   },
   "206.51.245.84": {
@@ -1149,16 +1159,6 @@
       13.4069
     ]
   },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1239,16 +1239,6 @@
       72.8777
     ]
   },
-  "3.110.45.116": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.076,
-      72.8777
-    ]
-  },
   "3.135.47.59": {
     "region": "North America",
     "country": "United States",
@@ -1257,6 +1247,16 @@
     "coordinates": [
       40.0992,
       -83.1141
+    ]
+  },
+  "34.139.138.202": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Charleston",
+    "coordinates": [
+      32.8771,
+      -80.013
     ]
   },
   "34.148.103.12": {
@@ -1279,16 +1279,6 @@
       -77.4874
     ]
   },
-  "34.23.194.148": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Charleston",
-    "coordinates": [
-      32.8771,
-      -80.013
-    ]
-  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1299,14 +1289,14 @@
       -6.26031
     ]
   },
-  "34.253.154.38": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
+  "34.93.44.54": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
     "coordinates": [
-      53.3498,
-      -6.26031
+      19.0759,
+      72.8776
     ]
   },
   "35.185.44.174": {
@@ -1319,7 +1309,7 @@
       -80.013
     ]
   },
-  "35.245.29.150": {
+  "35.230.169.73": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1335,8 +1325,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.16,
-      8.6333
+      50.1103,
+      8.7147
     ]
   },
   "37.221.215.47": {
@@ -1375,8 +1365,8 @@
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
-      52.3716,
-      4.8883
+      52.3759,
+      4.8975
     ]
   },
   "45.147.98.159": {
@@ -1609,6 +1599,16 @@
       -121.895
     ]
   },
+  "54.217.150.165": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": [
+      53.3498,
+      -6.26031
+    ]
+  },
   "54.232.250.209": {
     "region": "South America",
     "country": "Brazil",
@@ -1643,10 +1643,10 @@
     "region": "Europe",
     "country": "Lithuania",
     "cc": "LT",
-    "city": "\u0160iauliai",
+    "city": "Nemun\u0117lio Radvili\u0161kis",
     "coordinates": [
-      55.9318,
-      23.3289
+      56.4001,
+      24.7728
     ]
   },
   "64.180.85.241": {
@@ -1655,8 +1655,8 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.3852,
-      -123.5358
+      48.4771,
+      -123.5313
     ]
   },
   "64.227.18.147": {
@@ -1679,6 +1679,26 @@
       -87.6378
     ]
   },
+  "68.55.196.120": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Battle Creek",
+    "coordinates": [
+      42.2967,
+      -85.2066
+    ]
+  },
+  "68.59.46.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Montrose",
+    "coordinates": [
+      45.0451,
+      -93.9156
+    ]
+  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1693,7 +1713,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Spanga",
+    "city": "Sp\u00e5nga",
     "coordinates": [
       59.3779,
       17.9155
@@ -1703,7 +1723,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Spanga",
+    "city": "Sp\u00e5nga",
     "coordinates": [
       59.3779,
       17.9155
@@ -1713,10 +1733,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Lancaster",
     "coordinates": [
-      39.906,
-      -75.2398
+      40.0794,
+      -76.3141
     ]
   },
   "72.18.132.133": {
@@ -1779,21 +1799,31 @@
       -87.6318
     ]
   },
+  "75.170.201.5": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Granite Falls",
+    "coordinates": [
+      35.7962,
+      -81.4274
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "Kyjov",
+    "city": "Prague",
     "coordinates": [
-      50.0985,
-      14.4524
+      50.0761,
+      14.4479
     ]
   },
   "78.45.93.104": {
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "Kyjov",
+    "city": "Prague",
     "coordinates": [
       50.0985,
       14.4524
@@ -1873,10 +1903,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Tr\u00e5ngsund",
+    "city": "Sk\u00f6ndal",
     "coordinates": [
-      59.2322,
-      18.1257
+      59.2484,
+      18.1223
     ]
   },
   "85.242.107.149": {
@@ -2043,10 +2073,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Fort Myers",
+    "city": "Cape Coral",
     "coordinates": [
-      26.6681,
-      -81.7646
+      26.6284,
+      -82.0197
     ]
   },
   "99.72.255.45": {
@@ -2055,8 +2085,8 @@
     "cc": "US",
     "city": "Memphis",
     "coordinates": [
-      35.0197,
-      -89.8498
+      35.1128,
+      -89.9085
     ]
   }
 }
