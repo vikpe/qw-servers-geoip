@@ -669,16 +669,6 @@
       -74.0565
     ]
   },
-  "170.4.179.227": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Versailles",
-    "coordinates": [
-      39.0471,
-      -85.2234
-    ]
-  },
   "172.105.184.44": {
     "region": "Oceania",
     "country": "Australia",
@@ -1137,16 +1127,6 @@
     "coordinates": [
       39.0814,
       -77.6443
-    ]
-  },
-  "217.160.44.209": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Essen",
-    "coordinates": [
-      51.4556,
-      7.01156
     ]
   },
   "217.197.83.154": {
@@ -1689,16 +1669,6 @@
       -85.2066
     ]
   },
-  "68.59.46.232": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Montrose",
-    "coordinates": [
-      45.0451,
-      -93.9156
-    ]
-  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1729,16 +1699,6 @@
       17.9155
     ]
   },
-  "72.104.11.200": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lancaster",
-    "coordinates": [
-      40.0794,
-      -76.3141
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1759,6 +1719,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1767,16 +1737,6 @@
     "coordinates": [
       26.3763,
       -81.7344
-    ]
-  },
-  "74.97.190.252": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "East Greenwich",
-    "coordinates": [
-      41.6528,
-      -71.4697
     ]
   },
   "75.101.225.142": {
@@ -1799,14 +1759,14 @@
       -87.6318
     ]
   },
-  "75.170.201.5": {
+  "75.192.178.37": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Granite Falls",
+    "city": "York",
     "coordinates": [
-      35.7962,
-      -81.4274
+      39.9517,
+      -76.7064
     ]
   },
   "78.45.89.65": {
