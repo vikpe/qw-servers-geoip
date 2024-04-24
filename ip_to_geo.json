@@ -109,7 +109,7 @@
       -0.127586
     ]
   },
-  "111.167.232.197": {
+  "111.167.233.219": {
     "region": "Asia",
     "country": "China",
     "cc": "CN",
@@ -567,6 +567,16 @@
     "coordinates": [
       41.8865,
       -87.6378
+    ]
+  },
+  "162.248.93.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0511,
+      -118.266
     ]
   },
   "162.248.94.117": {
@@ -1279,14 +1289,14 @@
       -6.26031
     ]
   },
-  "34.93.44.54": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
+  "34.48.10.179": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
     "coordinates": [
-      19.0759,
-      72.8776
+      38.9071,
+      -77.0368
     ]
   },
   "35.185.44.174": {
@@ -1879,6 +1889,16 @@
       10.0593
     ]
   },
+  "89.108.64.237": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.8338,
+      37.4025
+    ]
+  },
   "89.66.147.199": {
     "region": "Europe",
     "country": "Poland",
@@ -2027,6 +2047,16 @@
     "coordinates": [
       26.6284,
       -82.0197
+    ]
+  },
+  "99.48.163.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fort Worth",
+    "coordinates": [
+      32.7446,
+      -97.3842
     ]
   },
   "99.72.255.45": {
