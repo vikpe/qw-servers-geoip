@@ -429,16 +429,6 @@
       -77.539
     ]
   },
-  "150.143.136.142": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Craigavon",
-    "coordinates": [
-      54.385,
-      -6.3282
-    ]
-  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -1759,6 +1749,16 @@
       -87.6318
     ]
   },
+  "75.192.174.17": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "York",
+    "coordinates": [
+      39.9517,
+      -76.7064
+    ]
+  },
   "75.192.178.37": {
     "region": "North America",
     "country": "United States",
@@ -1767,6 +1767,16 @@
     "coordinates": [
       39.9517,
       -76.7064
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1817,16 +1827,6 @@
     "coordinates": [
       48.1077,
       11.6091
-    ]
-  },
-  "81.147.27.92": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Ashford",
-    "coordinates": [
-      51.1469,
-      0.8773
     ]
   },
   "82.196.112.57": {
@@ -2047,16 +2047,6 @@
     "coordinates": [
       26.6284,
       -82.0197
-    ]
-  },
-  "99.48.163.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fort Worth",
-    "coordinates": [
-      32.7446,
-      -97.3842
     ]
   },
   "99.72.255.45": {
