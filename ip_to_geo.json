@@ -179,6 +179,16 @@
       -46.6361
     ]
   },
+  "13.201.93.123": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.076,
+      72.8777
+    ]
+  },
   "13.245.119.116": {
     "region": "Africa",
     "country": "South Africa",
@@ -697,16 +707,6 @@
     "coordinates": [
       25.7689,
       -80.1946
-    ]
-  },
-  "172.92.246.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "174.138.43.249": {
@@ -1369,6 +1369,16 @@
       4.8975
     ]
   },
+  "45.132.235.222": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
+    ]
+  },
   "45.147.98.159": {
     "region": "Europe",
     "country": "France",
@@ -1839,6 +1849,16 @@
       17.3203
     ]
   },
+  "83.245.190.207": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1719,
+      24.9347
+    ]
+  },
   "84.251.35.110": {
     "region": "Europe",
     "country": "Finland",
@@ -1907,6 +1927,16 @@
     "coordinates": [
       55.8338,
       37.4025
+    ]
+  },
+  "89.154.193.70": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1691,
+      -8.6793
     ]
   },
   "89.66.147.199": {
