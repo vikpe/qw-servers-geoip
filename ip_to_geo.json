@@ -699,6 +699,16 @@
       -80.1946
     ]
   },
+  "172.92.246.14": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -767,6 +777,16 @@
     "coordinates": [
       -10.9094,
       -37.0716
+    ]
+  },
+  "179.255.96.151": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Goi\u00e2nia",
+    "coordinates": [
+      -16.561,
+      -49.2063
     ]
   },
   "18.228.193.88": {
@@ -1339,7 +1359,7 @@
       -77.4874
     ]
   },
-  "45.128.199.5": {
+  "45.128.199.41": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1659,16 +1679,6 @@
       -87.6378
     ]
   },
-  "68.55.196.120": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Battle Creek",
-    "coordinates": [
-      42.2967,
-      -85.2066
-    ]
-  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1749,34 +1759,24 @@
       -87.6318
     ]
   },
-  "75.192.174.17": {
+  "75.192.165.145": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "York",
+    "city": "Lititz",
     "coordinates": [
-      39.9517,
-      -76.7064
+      40.1736,
+      -76.2956
     ]
   },
-  "75.192.178.37": {
+  "75.192.167.53": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "York",
+    "city": "Lincoln University",
     "coordinates": [
-      39.9517,
-      -76.7064
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
+      39.7788,
+      -75.8899
     ]
   },
   "78.45.89.65": {
@@ -1877,6 +1877,16 @@
     "coordinates": [
       32.6333,
       -16.9
+    ]
+  },
+  "86.157.16.79": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Armagh",
+    "coordinates": [
+      54.3508,
+      -6.6674
     ]
   },
   "87.128.111.190": {
