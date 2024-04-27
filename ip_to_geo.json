@@ -909,7 +909,7 @@
       12.365
     ]
   },
-  "191.23.26.194": {
+  "191.9.109.79": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1299,16 +1299,6 @@
       -6.26031
     ]
   },
-  "34.48.10.179": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1317,6 +1307,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.221.13.150": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1357,16 +1357,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "45.128.199.41": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
     ]
   },
   "45.132.235.222": {
@@ -1769,16 +1759,6 @@
       -87.6318
     ]
   },
-  "75.192.165.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lititz",
-    "coordinates": [
-      40.1736,
-      -76.2956
-    ]
-  },
   "75.192.167.53": {
     "region": "North America",
     "country": "United States",
@@ -1849,16 +1829,6 @@
       17.3203
     ]
   },
-  "83.245.190.207": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1719,
-      24.9347
-    ]
-  },
   "84.251.35.110": {
     "region": "Europe",
     "country": "Finland",
@@ -1927,16 +1897,6 @@
     "coordinates": [
       55.8338,
       37.4025
-    ]
-  },
-  "89.154.193.70": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
     ]
   },
   "89.66.147.199": {
@@ -2067,16 +2027,6 @@
     "coordinates": [
       59.3241,
       18.0517
-    ]
-  },
-  "98.144.80.46": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0925,
-      -87.6709
     ]
   },
   "98.208.219.227": {
