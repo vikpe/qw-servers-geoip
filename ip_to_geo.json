@@ -109,16 +109,6 @@
       -0.127586
     ]
   },
-  "111.167.233.219": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1488,
-      117.1762
-    ]
-  },
   "114.35.54.116": {
     "region": "Asia",
     "country": "Taiwan",
@@ -690,16 +680,6 @@
     ]
   },
   "172.233.178.155": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.7689,
-      -80.1946
-    ]
-  },
-  "172.233.187.219": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1349,16 +1329,6 @@
       116.395
     ]
   },
-  "44.210.138.174": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
   "45.132.235.222": {
     "region": "Europe",
     "country": "Sweden",
@@ -1679,6 +1649,16 @@
       -87.6378
     ]
   },
+  "68.59.46.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Montrose",
+    "coordinates": [
+      45.0451,
+      -93.9156
+    ]
+  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1757,6 +1737,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.170.201.5": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Granite Falls",
+    "coordinates": [
+      35.7962,
+      -81.4274
     ]
   },
   "75.192.167.53": {
