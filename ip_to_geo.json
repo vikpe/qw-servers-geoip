@@ -1719,16 +1719,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1737,6 +1727,16 @@
     "coordinates": [
       26.3763,
       -81.7344
+    ]
+  },
+  "73.253.129.24": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ridgefield",
+    "coordinates": [
+      41.2986,
+      -73.4941
     ]
   },
   "75.101.225.142": {
