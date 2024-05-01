@@ -819,16 +819,6 @@
       14.9942
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0067
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1047,16 +1037,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.225,
-      153.0137
     ]
   },
   "206.51.245.84": {
@@ -1657,16 +1637,6 @@
     "coordinates": [
       41.8865,
       -87.6378
-    ]
-  },
-  "68.59.46.232": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Montrose",
-    "coordinates": [
-      45.0451,
-      -93.9156
     ]
   },
   "68.60.111.37": {
