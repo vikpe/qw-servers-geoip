@@ -1059,6 +1059,16 @@
       153.0137
     ]
   },
+  "206.51.245.84": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8874,
+      -87.6318
+    ]
+  },
   "207.148.5.167": {
     "region": "North America",
     "country": "United States",
@@ -1649,6 +1659,16 @@
       -87.6378
     ]
   },
+  "68.59.46.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Montrose",
+    "coordinates": [
+      45.0451,
+      -93.9156
+    ]
+  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1837,6 +1857,16 @@
     "coordinates": [
       59.2484,
       18.1223
+    ]
+  },
+  "85.23.92.222": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4492,
+      23.8557
     ]
   },
   "85.242.107.149": {
