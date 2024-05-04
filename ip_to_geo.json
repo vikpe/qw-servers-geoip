@@ -229,16 +229,6 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -647,16 +637,6 @@
     "coordinates": [
       49.4521,
       11.0767
-    ]
-  },
-  "170.239.85.42": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Curic\u00f3",
-    "coordinates": [
-      -34.982,
-      -71.232
     ]
   },
   "170.39.226.130": {
@@ -1769,6 +1749,16 @@
       -75.8899
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1857,16 +1847,6 @@
     "coordinates": [
       59.2484,
       18.1223
-    ]
-  },
-  "85.23.92.222": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4492,
-      23.8557
     ]
   },
   "85.242.107.149": {
