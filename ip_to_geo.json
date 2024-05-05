@@ -1509,6 +1509,16 @@
       -78.37471
     ]
   },
+  "52.31.83.120": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": [
+      53.3498,
+      -6.26031
+    ]
+  },
   "52.67.25.234": {
     "region": "South America",
     "country": "Brazil",
@@ -1557,16 +1567,6 @@
     "coordinates": [
       37.3394,
       -121.895
-    ]
-  },
-  "54.217.150.165": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3498,
-      -6.26031
     ]
   },
   "54.232.250.209": {
@@ -1739,6 +1739,16 @@
       -87.6318
     ]
   },
+  "75.170.201.5": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Granite Falls",
+    "coordinates": [
+      35.7962,
+      -81.4274
+    ]
+  },
   "75.192.167.53": {
     "region": "North America",
     "country": "United States",
@@ -1857,6 +1867,16 @@
     "coordinates": [
       32.6333,
       -16.9
+    ]
+  },
+  "85.76.41.13": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1797,
+      24.9344
     ]
   },
   "86.157.16.79": {
