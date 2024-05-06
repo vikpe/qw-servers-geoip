@@ -229,6 +229,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -1029,16 +1039,6 @@
       -104.816154
     ]
   },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.225,
-      153.0137
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1119,16 +1119,6 @@
       11.0767
     ]
   },
-  "216.108.230.70": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0814,
-      -77.6443
-    ]
-  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1187,6 +1177,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.218.240.17": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
     ]
   },
   "24.87.1.123": {
@@ -1699,6 +1699,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1707,16 +1717,6 @@
     "coordinates": [
       26.3763,
       -81.7344
-    ]
-  },
-  "73.253.129.24": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ridgefield",
-    "coordinates": [
-      41.2986,
-      -73.4941
     ]
   },
   "75.101.225.142": {
@@ -1739,16 +1739,6 @@
       -87.6318
     ]
   },
-  "75.170.201.5": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Granite Falls",
-    "coordinates": [
-      35.7962,
-      -81.4274
-    ]
-  },
   "75.192.167.53": {
     "region": "North America",
     "country": "United States",
@@ -1757,16 +1747,6 @@
     "coordinates": [
       39.7788,
       -75.8899
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1819,6 +1799,16 @@
       11.6091
     ]
   },
+  "81.181.62.5": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8781,
+      -87.6298
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1827,16 +1817,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "84.251.35.110": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1797,
-      24.9344
     ]
   },
   "85.227.200.13": {
@@ -1867,16 +1847,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "85.76.41.13": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1797,
-      24.9344
     ]
   },
   "86.157.16.79": {
