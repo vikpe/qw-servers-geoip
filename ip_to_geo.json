@@ -389,16 +389,6 @@
       -118.2707
     ]
   },
-  "149.102.255.176": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.35208,
-      103.82
-    ]
-  },
   "149.28.240.2": {
     "region": "North America",
     "country": "United States",
@@ -679,16 +669,6 @@
       -80.1946
     ]
   },
-  "172.92.246.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "173.44.70.183": {
     "region": "North America",
     "country": "United States",
@@ -717,6 +697,16 @@
     "coordinates": [
       40.793,
       -74.0247
+    ]
+  },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "174.164.173.71": {
@@ -1269,6 +1259,16 @@
       -6.26031
     ]
   },
+  "34.86.62.75": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1377,6 +1377,16 @@
     "coordinates": [
       32.9473,
       -96.7028
+    ]
+  },
+  "45.33.88.53": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cedar Knolls",
+    "coordinates": [
+      40.8229,
+      -74.4592
     ]
   },
   "45.56.70.87": {
