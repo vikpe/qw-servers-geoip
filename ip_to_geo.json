@@ -1219,14 +1219,14 @@
       -83.1141
     ]
   },
-  "34.139.138.202": {
+  "34.106.116.207": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "North Charleston",
+    "city": "Salt Lake City",
     "coordinates": [
-      32.8771,
-      -80.013
+      40.7607,
+      -111.891
     ]
   },
   "34.148.103.12": {
@@ -1797,6 +1797,16 @@
     "coordinates": [
       62.3772,
       17.3203
+    ]
+  },
+  "84.69.178.181": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Glasgow",
+    "coordinates": [
+      55.8892,
+      -4.2351
     ]
   },
   "85.227.200.13": {
