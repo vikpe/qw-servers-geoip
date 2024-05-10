@@ -43,10 +43,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Cleveland",
+    "city": "Detroit",
     "coordinates": [
-      41.4993,
-      -81.6944
+      42.3314,
+      -83.0458
     ]
   },
   "104.207.135.230": {
@@ -263,10 +263,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Eitensheim",
+    "city": "Kitzingen",
     "coordinates": [
-      48.8143,
-      11.3155
+      49.7435,
+      10.1615
     ]
   },
   "137.74.7.185": {
@@ -337,16 +337,6 @@
     "coordinates": [
       -23.5475,
       -46.6361
-    ]
-  },
-  "144.24.188.96": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1049,
-      8.6295
     ]
   },
   "145.220.10.99": {
@@ -613,10 +603,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "B\u00fchl",
+    "city": "Mannheim",
     "coordinates": [
-      48.6973,
-      8.1297
+      49.4922,
+      8.464
     ]
   },
   "167.71.142.56": {
@@ -713,10 +703,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lake Stevens",
+    "city": "Bothell",
     "coordinates": [
-      48.0132,
-      -122.0679
+      47.8388,
+      -122.1985
     ]
   },
   "176.210.100.6": {
@@ -747,6 +737,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "178.79.135.210": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5074,
+      -0.1196
     ]
   },
   "179.255.96.151": {
@@ -803,10 +803,10 @@
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Warsaw",
+    "city": "Wo\u0142omin",
     "coordinates": [
-      52.2296,
-      21.0067
+      52.3521,
+      21.247
     ]
   },
   "185.73.44.100": {
@@ -1035,8 +1035,8 @@
     "cc": "AU",
     "city": "Brisbane",
     "coordinates": [
-      -27.225,
-      153.0137
+      -27.5375,
+      152.9725
     ]
   },
   "206.51.245.84": {
@@ -1057,16 +1057,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "210.54.39.19": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8506,
-      174.7679
     ]
   },
   "212.193.49.233": {
@@ -1093,10 +1083,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Borensberg",
     "coordinates": [
-      59.3241,
-      18.0517
+      58.5667,
+      15.2833
     ]
   },
   "213.164.209.174": {
@@ -1285,8 +1275,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1103,
-      8.7147
+      50.121,
+      8.747
     ]
   },
   "37.221.215.47": {
@@ -1493,10 +1483,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Austin",
+    "city": "Kyle",
     "coordinates": [
-      30.2672,
-      -97.7431
+      30.0032,
+      -97.8397
     ]
   },
   "52.240.58.168": {
@@ -1643,10 +1633,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Belleville",
+    "city": "Romulus",
     "coordinates": [
-      42.1955,
-      -83.4894
+      42.2256,
+      -83.3959
     ]
   },
   "70.34.202.147": {
@@ -1723,10 +1713,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lincoln University",
+    "city": "West Chester",
     "coordinates": [
-      39.7788,
-      -75.8899
+      39.9845,
+      -75.586
     ]
   },
   "78.45.89.65": {
@@ -1745,8 +1735,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0985,
-      14.4524
+      50.0853,
+      14.4614
     ]
   },
   "79.139.57.116": {
@@ -1779,16 +1769,6 @@
       11.6091
     ]
   },
-  "81.181.62.5": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8781,
-      -87.6298
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1799,14 +1779,14 @@
       17.3203
     ]
   },
-  "84.69.178.181": {
+  "84.251.35.110": {
     "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Glasgow",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
     "coordinates": [
-      55.8892,
-      -4.2351
+      60.1797,
+      24.9344
     ]
   },
   "85.227.200.13": {
@@ -1853,10 +1833,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Hamburg",
+    "city": "Berlin",
     "coordinates": [
-      53.5514,
-      10.0593
+      52.52,
+      13.405
     ]
   },
   "89.108.64.237": {
@@ -1885,8 +1865,8 @@
     "cc": "FI",
     "city": "Espoo",
     "coordinates": [
-      60.1731,
-      24.6665
+      60.1738,
+      24.6772
     ]
   },
   "91.206.14.17": {
@@ -2003,10 +1983,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Cape Coral",
+    "city": "Fort Myers",
     "coordinates": [
-      26.6284,
-      -82.0197
+      26.6681,
+      -81.7646
     ]
   },
   "99.72.255.45": {
