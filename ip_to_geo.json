@@ -169,16 +169,6 @@
       -46.6361
     ]
   },
-  "129.158.45.43": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.018,
-      -77.539
-    ]
-  },
   "13.201.93.123": {
     "region": "Asia",
     "country": "India",
@@ -250,16 +240,6 @@
     ]
   },
   "135.181.0.160": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1719,
-      24.9347
-    ]
-  },
-  "135.181.96.161": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
@@ -667,16 +647,6 @@
     "coordinates": [
       25.7689,
       -80.1946
-    ]
-  },
-  "172.92.246.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "173.44.70.183": {
@@ -1149,16 +1119,6 @@
       13.4069
     ]
   },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8417,
-      151.1776
-    ]
-  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1307,6 +1267,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "37.120.151.123": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.29645,
+      103.791
     ]
   },
   "37.201.131.70": {
@@ -1749,16 +1719,6 @@
       -87.6318
     ]
   },
-  "75.170.201.5": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Granite Falls",
-    "coordinates": [
-      35.7962,
-      -81.4274
-    ]
-  },
   "75.192.167.53": {
     "region": "North America",
     "country": "United States",
@@ -1767,16 +1727,6 @@
     "coordinates": [
       39.9845,
       -75.586
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
