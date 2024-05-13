@@ -649,6 +649,16 @@
       -80.1946
     ]
   },
+  "172.56.209.107": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Las Vegas",
+    "coordinates": [
+      36.1682,
+      -115.2166
+    ]
+  },
   "173.44.70.183": {
     "region": "North America",
     "country": "United States",
@@ -869,7 +879,7 @@
       12.365
     ]
   },
-  "191.9.109.79": {
+  "191.9.109.181": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1019,16 +1029,6 @@
       -104.816154
     ]
   },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.5375,
-      152.9725
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1159,16 +1159,6 @@
       -96.8704
     ]
   },
-  "24.218.240.17": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
-    ]
-  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1267,16 +1257,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "37.120.151.123": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.29645,
-      103.791
     ]
   },
   "37.201.131.70": {
@@ -1689,6 +1669,26 @@
       -77.35
     ]
   },
+  "73.123.218.104": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Shelton",
+    "coordinates": [
+      41.3054,
+      -73.1217
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1727,6 +1727,16 @@
     "coordinates": [
       39.9845,
       -75.586
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1829,14 +1839,14 @@
       -16.9
     ]
   },
-  "86.157.16.79": {
+  "86.154.236.17": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Armagh",
+    "city": "Craigavon",
     "coordinates": [
-      54.3508,
-      -6.6674
+      54.385,
+      -6.3282
     ]
   },
   "87.128.111.190": {
