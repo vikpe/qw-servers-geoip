@@ -109,16 +109,6 @@
       -0.127586
     ]
   },
-  "114.35.54.116": {
-    "region": "Asia",
-    "country": "Taiwan",
-    "cc": "TW",
-    "city": "Taipei",
-    "coordinates": [
-      25.0504,
-      121.5324
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -649,16 +639,6 @@
       -80.1946
     ]
   },
-  "172.56.209.107": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Las Vegas",
-    "coordinates": [
-      36.1682,
-      -115.2166
-    ]
-  },
   "173.44.70.183": {
     "region": "North America",
     "country": "United States",
@@ -717,6 +697,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0471,
+      14.4523
     ]
   },
   "177.205.77.105": {
@@ -1679,16 +1669,6 @@
       -73.1217
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1839,14 +1819,14 @@
       -16.9
     ]
   },
-  "86.154.236.17": {
+  "86.146.84.112": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Craigavon",
+    "city": "Portadown",
     "coordinates": [
-      54.385,
-      -6.3282
+      54.4316,
+      -6.4402
     ]
   },
   "87.128.111.190": {
