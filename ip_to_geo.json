@@ -709,7 +709,7 @@
       14.4523
     ]
   },
-  "177.205.77.105": {
+  "177.205.77.110": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1707,16 +1707,6 @@
     "coordinates": [
       39.9845,
       -75.586
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
