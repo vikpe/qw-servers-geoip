@@ -659,16 +659,6 @@
       -75.5375
     ]
   },
-  "174.102.192.184": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0925,
-      -87.6709
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -1589,6 +1579,16 @@
       24.7728
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.180.85.241": {
     "region": "North America",
     "country": "Canada",
@@ -1827,6 +1827,16 @@
     "coordinates": [
       50.0196,
       20.9853
+    ]
+  },
+  "85.89.175.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Lodz",
+    "coordinates": [
+      51.7737,
+      19.4767
     ]
   },
   "86.146.84.112": {
