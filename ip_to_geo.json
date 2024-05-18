@@ -779,16 +779,6 @@
       14.9942
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1289,6 +1279,16 @@
       12.9982
     ]
   },
+  "45.132.235.242": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
+    ]
+  },
   "45.147.98.159": {
     "region": "Europe",
     "country": "France",
@@ -1297,6 +1297,16 @@
     "coordinates": [
       48.8323,
       2.4075
+    ]
+  },
+  "45.233.204.70": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.235.98.10": {
@@ -1357,16 +1367,6 @@
     "coordinates": [
       40.8229,
       -74.4592
-    ]
-  },
-  "45.56.70.87": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Richardson",
-    "coordinates": [
-      32.9473,
-      -96.7028
     ]
   },
   "45.76.23.209": {
@@ -1619,6 +1619,16 @@
       -87.6378
     ]
   },
+  "68.59.46.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9998,
+      -93.393
+    ]
+  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1677,16 +1687,6 @@
     "coordinates": [
       41.3054,
       -73.1217
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
     ]
   },
   "75.101.225.142": {
