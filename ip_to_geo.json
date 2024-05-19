@@ -659,6 +659,16 @@
       -75.5375
     ]
   },
+  "174.102.192.184": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0925,
+      -87.6709
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -779,6 +789,16 @@
       14.9942
     ]
   },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wo\u0142omin",
+    "coordinates": [
+      52.3521,
+      21.247
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -787,16 +807,6 @@
     "coordinates": [
       51.5074,
       -0.127758
-    ]
-  },
-  "185.78.75.211": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Bielsko-Biala",
-    "coordinates": [
-      49.8216,
-      19.0496
     ]
   },
   "186.64.122.249": {
@@ -1167,16 +1177,6 @@
     "coordinates": [
       19.076,
       72.8777
-    ]
-  },
-  "3.135.47.59": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dublin",
-    "coordinates": [
-      40.0992,
-      -83.1141
     ]
   },
   "34.106.116.207": {
@@ -1619,16 +1619,6 @@
       -87.6378
     ]
   },
-  "68.59.46.232": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9998,
-      -93.393
-    ]
-  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1657,6 +1647,16 @@
     "coordinates": [
       59.3779,
       17.9155
+    ]
+  },
+  "71.169.14.216": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Beacon",
+    "coordinates": [
+      41.5135,
+      -73.9891
     ]
   },
   "72.18.132.133": {
@@ -1719,6 +1719,16 @@
       -75.586
     ]
   },
+  "75.26.197.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lakewood",
+    "coordinates": [
+      41.4866,
+      -81.8037
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1727,16 +1737,6 @@
     "coordinates": [
       50.0761,
       14.4479
-    ]
-  },
-  "78.45.93.104": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0853,
-      14.4614
     ]
   },
   "79.139.57.116": {
@@ -1817,16 +1817,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "85.28.131.207": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Tarn\u00f3w",
-    "coordinates": [
-      50.0196,
-      20.9853
     ]
   },
   "85.89.175.250": {
