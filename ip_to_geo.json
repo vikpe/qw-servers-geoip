@@ -1009,14 +1009,14 @@
       -104.816154
     ]
   },
-  "202.63.65.43": {
+  "203.86.193.249": {
     "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Richmond",
     "coordinates": [
-      -27.5375,
-      152.9725
+      -41.338,
+      173.183
     ]
   },
   "206.51.245.84": {
@@ -1159,6 +1159,16 @@
       -123.141
     ]
   },
+  "24.91.157.4": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Woburn",
+    "coordinates": [
+      42.4793,
+      -71.1523
+    ]
+  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1297,16 +1307,6 @@
     "coordinates": [
       48.8323,
       2.4075
-    ]
-  },
-  "45.233.204.70": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.235.98.10": {
@@ -1649,16 +1649,6 @@
       17.9155
     ]
   },
-  "71.169.14.216": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Beacon",
-    "coordinates": [
-      41.5135,
-      -73.9891
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1679,14 +1669,24 @@
       -77.35
     ]
   },
-  "73.123.218.104": {
+  "73.202.0.3": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Shelton",
+    "city": "Petaluma",
     "coordinates": [
-      41.3054,
-      -73.1217
+      38.2478,
+      -122.6192
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
     ]
   },
   "75.101.225.142": {
@@ -1719,14 +1719,14 @@
       -75.586
     ]
   },
-  "75.26.197.11": {
+  "75.82.121.13": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lakewood",
+    "city": "Huntington Beach",
     "coordinates": [
-      41.4866,
-      -81.8037
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1819,6 +1819,16 @@
       -16.9
     ]
   },
+  "85.28.131.207": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Tarn\u00f3w",
+    "coordinates": [
+      50.0196,
+      20.9853
+    ]
+  },
   "85.89.175.250": {
     "region": "Europe",
     "country": "Poland",
@@ -1867,6 +1877,16 @@
     "coordinates": [
       52.2296,
       21.0067
+    ]
+  },
+  "90.231.71.182": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Smygehamn",
+    "coordinates": [
+      55.3441,
+      13.3748
     ]
   },
   "91.152.15.241": {
