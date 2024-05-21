@@ -69,16 +69,6 @@
       -74.4606
     ]
   },
-  "108.59.81.139": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -167,16 +157,6 @@
     "coordinates": [
       -23.5475,
       -46.6361
-    ]
-  },
-  "13.201.93.123": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.076,
-      72.8777
     ]
   },
   "13.245.119.116": {
@@ -859,7 +839,7 @@
       12.365
     ]
   },
-  "191.9.109.181": {
+  "189.46.20.26": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1009,14 +989,24 @@
       -104.816154
     ]
   },
-  "203.86.193.249": {
+  "202.47.179.132": {
     "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Richmond",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
     "coordinates": [
-      -41.338,
-      173.183
+      -37.8159,
+      144.9669
+    ]
+  },
+  "202.63.65.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.5375,
+      152.9725
     ]
   },
   "206.51.245.84": {
@@ -1247,6 +1237,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.192.4.124": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "37.201.131.70": {
@@ -1669,16 +1669,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1847,6 +1837,16 @@
     "coordinates": [
       54.4316,
       -6.4402
+    ]
+  },
+  "87.117.54.140": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Rostov-on-Don",
+    "coordinates": [
+      47.2361,
+      39.7189
     ]
   },
   "87.128.111.190": {
