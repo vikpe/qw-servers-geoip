@@ -39,16 +39,6 @@
       138.6321
     ]
   },
-  "103.216.220.24": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
-    ]
-  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -1859,16 +1849,6 @@
       37.4025
     ]
   },
-  "89.154.193.70": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1691,
-      -8.6793
-    ]
-  },
   "89.66.140.31": {
     "region": "Europe",
     "country": "Poland",
@@ -1919,7 +1899,7 @@
       12.3469
     ]
   },
-  "91.55.94.233": {
+  "91.55.64.166": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
