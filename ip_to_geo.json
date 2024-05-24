@@ -109,6 +109,16 @@
       11.0767
     ]
   },
+  "118.67.199.81": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Napier City",
+    "coordinates": [
+      -39.5158,
+      176.83
+    ]
+  },
   "119.17.137.95": {
     "region": "Oceania",
     "country": "Australia",
@@ -659,16 +669,6 @@
       -79.7249
     ]
   },
-  "174.164.173.71": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bothell",
-    "coordinates": [
-      47.8388,
-      -122.1985
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1007,16 +1007,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "210.54.39.19": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8693,
-      174.811
     ]
   },
   "212.193.49.233": {
