@@ -443,10 +443,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Oslo",
+    "city": "Fetsund",
     "coordinates": [
-      59.9016,
-      10.7343
+      59.9315,
+      11.1728
     ]
   },
   "159.203.25.195": {
@@ -629,14 +629,14 @@
       -80.1946
     ]
   },
-  "173.44.70.183": {
+  "172.92.246.14": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Blakeslee",
+    "city": "Camano",
     "coordinates": [
-      41.0517,
-      -75.5375
+      48.1789,
+      -122.5181
     ]
   },
   "174.102.192.184": {
@@ -677,6 +677,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "177.133.58.244": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
     ]
   },
   "177.71.158.196": {
@@ -735,8 +745,8 @@
     "cc": "PL",
     "city": "Konstancin-Jeziorna",
     "coordinates": [
-      52.0936,
-      21.1244
+      52.0812,
+      21.0929
     ]
   },
   "185.189.48.45": {
@@ -819,7 +829,7 @@
       12.365
     ]
   },
-  "189.46.20.26": {
+  "191.9.108.24": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1029,16 +1039,6 @@
       37.6173
     ]
   },
-  "213.115.54.131": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Borensberg",
-    "coordinates": [
-      58.5667,
-      15.2833
-    ]
-  },
   "213.164.209.174": {
     "region": "Europe",
     "country": "Sweden",
@@ -1067,6 +1067,16 @@
     "coordinates": [
       52.5196,
       13.4069
+    ]
+  },
+  "223.165.64.141": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": [
+      -36.8906,
+      174.794
     ]
   },
   "23.159.160.34": {
@@ -1123,10 +1133,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Woburn",
+    "city": "Danbury",
     "coordinates": [
-      42.4793,
-      -71.1523
+      41.4235,
+      -73.4724
     ]
   },
   "3.104.30.121": {
@@ -1217,6 +1227,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "36.106.225.113": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1488,
+      117.1762
     ]
   },
   "37.201.131.70": {
@@ -1795,8 +1815,8 @@
     "cc": "PL",
     "city": "Lodz",
     "coordinates": [
-      51.7737,
-      19.4767
+      51.7646,
+      19.4641
     ]
   },
   "86.146.84.112": {
@@ -1887,16 +1907,6 @@
     "coordinates": [
       55.6686,
       12.3469
-    ]
-  },
-  "91.55.64.166": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "94.16.128.193": {
