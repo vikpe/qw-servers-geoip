@@ -99,6 +99,16 @@
       -0.127586
     ]
   },
+  "111.167.208.122": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1488,
+      117.1762
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -629,14 +639,14 @@
       -80.1946
     ]
   },
-  "172.92.246.14": {
+  "173.44.70.183": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Camano",
+    "city": "Berwick",
     "coordinates": [
-      48.1789,
-      -122.5181
+      41.0683,
+      -76.2459
     ]
   },
   "174.102.192.184": {
@@ -1039,6 +1049,16 @@
       37.6173
     ]
   },
+  "213.115.54.131": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Borensberg",
+    "coordinates": [
+      58.5667,
+      15.2833
+    ]
+  },
   "213.164.209.174": {
     "region": "Europe",
     "country": "Sweden",
@@ -1227,16 +1247,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "36.106.225.113": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1488,
-      117.1762
     ]
   },
   "37.201.131.70": {
@@ -1699,16 +1709,6 @@
       -75.586
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1829,16 +1829,6 @@
       -6.4402
     ]
   },
-  "86.182.214.12": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Bracknell",
-    "coordinates": [
-      51.4036,
-      -0.7618
-    ]
-  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -1847,6 +1837,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "87.189.51.230": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "89.108.64.237": {
