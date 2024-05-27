@@ -99,7 +99,7 @@
       -0.127586
     ]
   },
-  "111.167.208.122": {
+  "111.167.230.12": {
     "region": "Asia",
     "country": "China",
     "cc": "CN",
@@ -247,6 +247,16 @@
     "coordinates": [
       49.7435,
       10.1615
+    ]
+  },
+  "136.32.174.95": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Overland Park",
+    "coordinates": [
+      38.8939,
+      -94.7067
     ]
   },
   "137.74.7.185": {
@@ -447,6 +457,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "158.23.48.92": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "Quer\u00e9taro City",
+    "coordinates": [
+      20.890005,
+      -99.76158
     ]
   },
   "158.248.75.93": {
@@ -1149,16 +1169,6 @@
       -123.141
     ]
   },
-  "24.91.157.4": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.4235,
-      -73.4724
-    ]
-  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1669,6 +1679,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1707,6 +1727,36 @@
     "coordinates": [
       39.9845,
       -75.586
+    ]
+  },
+  "75.3.247.6": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Oakland",
+    "coordinates": [
+      37.8487,
+      -122.2209
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
+  "76.118.158.80": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
     ]
   },
   "78.45.89.65": {
@@ -1879,6 +1929,16 @@
       13.3748
     ]
   },
+  "90.235.84.228": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
+    ]
+  },
   "91.152.15.241": {
     "region": "Europe",
     "country": "Finland",
@@ -1917,16 +1977,6 @@
     "coordinates": [
       47.4702,
       7.6011
-    ]
-  },
-  "94.254.2.158": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "95.165.130.151": {
