@@ -99,16 +99,6 @@
       -0.127586
     ]
   },
-  "111.167.230.12": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1488,
-      117.1762
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -247,16 +237,6 @@
     "coordinates": [
       49.7435,
       10.1615
-    ]
-  },
-  "136.32.174.95": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Overland Park",
-    "coordinates": [
-      38.8939,
-      -94.7067
     ]
   },
   "137.74.7.185": {
@@ -709,6 +689,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0883,
+      14.4124
+    ]
+  },
   "177.133.58.244": {
     "region": "South America",
     "country": "Brazil",
@@ -737,6 +727,16 @@
     "coordinates": [
       51.5074,
       -0.1196
+    ]
+  },
+  "179.232.6.240": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
     ]
   },
   "179.255.96.151": {
@@ -1679,16 +1679,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1719,14 +1709,14 @@
       -87.6318
     ]
   },
-  "75.192.167.53": {
+  "75.192.131.73": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "West Chester",
+    "city": "Philadelphia",
     "coordinates": [
-      39.9845,
-      -75.586
+      39.9476,
+      -75.1474
     ]
   },
   "75.3.247.6": {
@@ -1927,16 +1917,6 @@
     "coordinates": [
       55.3441,
       13.3748
-    ]
-  },
-  "90.235.84.228": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "91.152.15.241": {
