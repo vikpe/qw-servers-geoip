@@ -209,16 +209,6 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -639,14 +629,14 @@
       -80.1946
     ]
   },
-  "173.44.70.183": {
+  "172.92.246.14": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Berwick",
+    "city": "Camano",
     "coordinates": [
-      41.0683,
-      -76.2459
+      48.1789,
+      -122.5181
     ]
   },
   "174.102.192.184": {
@@ -679,6 +669,16 @@
       -79.7249
     ]
   },
+  "174.164.173.71": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marysville",
+    "coordinates": [
+      48.0589,
+      -122.1579
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -687,16 +687,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0883,
-      14.4124
     ]
   },
   "177.133.58.244": {
@@ -787,16 +777,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
     ]
   },
   "185.73.44.100": {
@@ -2037,6 +2017,16 @@
     "coordinates": [
       26.6681,
       -81.7646
+    ]
+  },
+  "99.42.37.115": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Alpharetta",
+    "coordinates": [
+      34.024,
+      -84.2396
     ]
   },
   "99.72.255.45": {
