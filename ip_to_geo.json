@@ -639,16 +639,6 @@
       -80.1946
     ]
   },
-  "172.92.246.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "174.102.192.184": {
     "region": "North America",
     "country": "United States",
@@ -699,16 +689,6 @@
       73.4001
     ]
   },
-  "177.133.58.244": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -749,6 +729,16 @@
       -49.2063
     ]
   },
+  "18.144.19.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
+    ]
+  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -787,6 +777,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wo\u0142omin",
+    "coordinates": [
+      52.3521,
+      21.247
     ]
   },
   "185.73.44.100": {
@@ -999,6 +999,16 @@
       -104.816154
     ]
   },
+  "201.47.161.126": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
+    ]
+  },
   "202.47.179.132": {
     "region": "Oceania",
     "country": "Australia",
@@ -1137,6 +1147,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.7.197.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      45.0123,
+      -93.3447
     ]
   },
   "24.87.1.123": {
@@ -2017,16 +2037,6 @@
     "coordinates": [
       26.6681,
       -81.7646
-    ]
-  },
-  "99.42.37.115": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Alpharetta",
-    "coordinates": [
-      34.024,
-      -84.2396
     ]
   },
   "99.72.255.45": {
