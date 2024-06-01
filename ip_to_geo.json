@@ -719,16 +719,6 @@
       -37.0716
     ]
   },
-  "179.255.96.151": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Goi\u00e2nia",
-    "coordinates": [
-      -16.561,
-      -49.2063
-    ]
-  },
   "18.144.19.16": {
     "region": "North America",
     "country": "United States",
@@ -1019,6 +1009,16 @@
       144.9669
     ]
   },
+  "202.63.65.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.5375,
+      152.9725
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1147,16 +1147,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.7.197.65": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      45.0123,
-      -93.3447
     ]
   },
   "24.87.1.123": {
