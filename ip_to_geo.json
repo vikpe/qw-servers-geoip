@@ -209,16 +209,6 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -1699,14 +1689,14 @@
       -87.6318
     ]
   },
-  "75.192.131.73": {
+  "75.215.226.126": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Philadelphia",
     "coordinates": [
-      39.9476,
-      -75.1474
+      39.9233,
+      -75.2313
     ]
   },
   "75.3.247.6": {
@@ -1857,6 +1847,16 @@
     "coordinates": [
       54.4316,
       -6.4402
+    ]
+  },
+  "86.182.214.12": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Bracknell",
+    "coordinates": [
+      51.4036,
+      -0.7618
     ]
   },
   "87.128.111.190": {
