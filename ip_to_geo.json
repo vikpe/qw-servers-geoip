@@ -103,10 +103,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Nuremberg",
+    "city": "Berlin",
     "coordinates": [
-      49.4521,
-      11.0767
+      52.5244,
+      13.4105
     ]
   },
   "118.67.199.81": {
@@ -593,10 +593,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Nuremberg",
+    "city": "Berlin",
     "coordinates": [
-      49.4521,
-      11.0767
+      52.5061,
+      13.3684
     ]
   },
   "170.39.226.130": {
@@ -627,6 +627,16 @@
     "coordinates": [
       25.7689,
       -80.1946
+    ]
+  },
+  "173.44.70.183": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Berwick",
+    "coordinates": [
+      41.0683,
+      -76.2459
     ]
   },
   "174.102.192.184": {
@@ -739,14 +749,24 @@
       -9.13934
     ]
   },
+  "185.117.88.217": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0685
+    ]
+  },
   "185.189.139.18": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Konstancin-Jeziorna",
+    "city": "Warsaw",
     "coordinates": [
-      52.0812,
-      21.0929
+      52.2377,
+      20.9874
     ]
   },
   "185.189.48.45": {
@@ -805,8 +825,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1169,
-      8.6837
+      50.1187,
+      8.6842
     ]
   },
   "188.40.103.81": {
@@ -829,7 +849,7 @@
       12.365
     ]
   },
-  "191.9.108.24": {
+  "191.9.107.104": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1053,10 +1073,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Borensberg",
+    "city": "Stockholm",
     "coordinates": [
-      58.5667,
-      15.2833
+      59.3293,
+      18.0686
     ]
   },
   "213.164.209.174": {
@@ -1245,8 +1265,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.121,
-      8.747
+      50.1635,
+      8.6611
     ]
   },
   "37.221.215.47": {
@@ -1387,6 +1407,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.204.9.100": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.2527,
+      19.0284
     ]
   },
   "46.227.68.148": {
@@ -1659,6 +1689,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1809,6 +1849,16 @@
       18.1223
     ]
   },
+  "85.230.199.12": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bandhagen",
+    "coordinates": [
+      59.2603,
+      18.0402
+    ]
+  },
   "85.242.107.149": {
     "region": "Europe",
     "country": "Portugal",
@@ -1855,8 +1905,8 @@
     "cc": "GB",
     "city": "Bracknell",
     "coordinates": [
-      51.4036,
-      -0.7618
+      51.4308,
+      -0.7828
     ]
   },
   "87.128.111.190": {
