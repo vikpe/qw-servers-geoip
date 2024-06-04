@@ -1409,16 +1409,6 @@
       -96.8021
     ]
   },
-  "46.204.9.100": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Katowice",
-    "coordinates": [
-      50.2527,
-      19.0284
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1689,16 +1679,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1847,16 +1827,6 @@
     "coordinates": [
       59.2484,
       18.1223
-    ]
-  },
-  "85.230.199.12": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bandhagen",
-    "coordinates": [
-      59.2603,
-      18.0402
     ]
   },
   "85.242.107.149": {
