@@ -39,6 +39,16 @@
       138.6321
     ]
   },
+  "103.216.220.22": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
+    ]
+  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -397,6 +407,16 @@
     "coordinates": [
       13.4763,
       144.75
+    ]
+  },
+  "157.245.35.15": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Slough",
+    "coordinates": [
+      51.5368,
+      -0.6718
     ]
   },
   "158.101.122.160": {
@@ -1689,6 +1709,16 @@
       -81.7344
     ]
   },
+  "73.83.126.178": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Spokane",
+    "coordinates": [
+      47.7345,
+      -117.447
+    ]
+  },
   "75.101.225.142": {
     "region": "North America",
     "country": "United States",
@@ -1789,6 +1819,16 @@
       11.6091
     ]
   },
+  "81.232.45.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bor\u00e5s",
+    "coordinates": [
+      57.7132,
+      12.9025
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1859,7 +1899,7 @@
       19.4641
     ]
   },
-  "86.146.84.112": {
+  "86.157.94.180": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
@@ -1867,16 +1907,6 @@
     "coordinates": [
       54.4316,
       -6.4402
-    ]
-  },
-  "86.182.214.12": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Bracknell",
-    "coordinates": [
-      51.4308,
-      -0.7828
     ]
   },
   "87.128.111.190": {
