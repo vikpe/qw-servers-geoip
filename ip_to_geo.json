@@ -869,7 +869,7 @@
       12.365
     ]
   },
-  "191.9.107.104": {
+  "189.46.113.155": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1709,16 +1709,6 @@
       -81.7344
     ]
   },
-  "73.83.126.178": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Spokane",
-    "coordinates": [
-      47.7345,
-      -117.447
-    ]
-  },
   "75.101.225.142": {
     "region": "North America",
     "country": "United States",
@@ -1817,16 +1807,6 @@
     "coordinates": [
       48.1077,
       11.6091
-    ]
-  },
-  "81.232.45.252": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bor\u00e5s",
-    "coordinates": [
-      57.7132,
-      12.9025
     ]
   },
   "82.196.112.57": {
@@ -1997,6 +1977,16 @@
     "coordinates": [
       47.4702,
       7.6011
+    ]
+  },
+  "94.254.2.158": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "95.165.130.151": {
