@@ -869,7 +869,7 @@
       12.365
     ]
   },
-  "189.46.113.155": {
+  "189.78.78.42": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1310,16 +1310,6 @@
     ]
   },
   "45.132.235.222": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
-    ]
-  },
-  "45.132.235.242": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -1927,16 +1917,6 @@
     "coordinates": [
       52.2296,
       21.0067
-    ]
-  },
-  "90.231.71.182": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Smygehamn",
-    "coordinates": [
-      55.3441,
-      13.3748
     ]
   },
   "91.152.15.241": {
