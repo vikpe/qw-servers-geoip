@@ -419,16 +419,6 @@
       -0.6718
     ]
   },
-  "158.101.122.160": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.018,
-      -77.539
-    ]
-  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -707,6 +697,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0687,
+      14.3947
     ]
   },
   "177.43.29.148": {
@@ -1719,16 +1719,6 @@
       -87.6318
     ]
   },
-  "75.3.247.6": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Oakland",
-    "coordinates": [
-      37.8487,
-      -122.2209
-    ]
-  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1867,16 +1857,6 @@
     "coordinates": [
       54.4316,
       -6.4402
-    ]
-  },
-  "86.182.214.12": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Bracknell",
-    "coordinates": [
-      51.4308,
-      -0.7828
     ]
   },
   "87.128.111.190": {
