@@ -39,7 +39,7 @@
       138.6321
     ]
   },
-  "103.216.220.22": {
+  "103.216.220.28": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -419,6 +419,16 @@
       -0.6718
     ]
   },
+  "158.101.122.160": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.018,
+      -77.539
+    ]
+  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -697,16 +707,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0687,
-      14.3947
     ]
   },
   "177.43.29.148": {
@@ -1177,6 +1177,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.34.77.61": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
     ]
   },
   "24.87.1.123": {
@@ -1689,6 +1699,16 @@
       -77.35
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1719,24 +1739,14 @@
       -87.6318
     ]
   },
-  "75.82.121.13": {
+  "75.192.169.128": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Huntington Beach",
+    "city": "Pottstown",
     "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
-  "76.118.158.80": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
+      40.1923,
+      -75.6815
     ]
   },
   "78.45.89.65": {
