@@ -1179,16 +1179,6 @@
       -96.8704
     ]
   },
-  "24.34.77.61": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
-    ]
-  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1307,6 +1297,16 @@
     "coordinates": [
       47.5386,
       19.0658
+    ]
+  },
+  "38.57.161.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Austin",
+    "coordinates": [
+      30.2627,
+      -97.7467
     ]
   },
   "39.106.228.43": {
@@ -1489,14 +1489,14 @@
       3.20151
     ]
   },
-  "52.129.112.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Kyle",
+  "52.215.55.73": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
     "coordinates": [
-      30.0032,
-      -97.8397
+      53.3498,
+      -6.26031
     ]
   },
   "52.240.58.168": {
@@ -1507,16 +1507,6 @@
     "coordinates": [
       36.677696,
       -78.37471
-    ]
-  },
-  "52.31.83.120": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3498,
-      -6.26031
     ]
   },
   "52.67.25.234": {
@@ -1697,16 +1687,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
