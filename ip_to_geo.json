@@ -139,16 +139,6 @@
       145.133
     ]
   },
-  "124.189.251.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8461,
-      144.6725
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -689,16 +679,6 @@
       -74.0247
     ]
   },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
   "174.164.173.71": {
     "region": "North America",
     "country": "United States",
@@ -747,6 +727,26 @@
     "coordinates": [
       51.5074,
       -0.1196
+    ]
+  },
+  "179.232.162.73": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Braganca Paulista",
+    "coordinates": [
+      -22.9489,
+      -46.5364
+    ]
+  },
+  "179.232.6.240": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
     ]
   },
   "18.144.19.16": {
