@@ -679,6 +679,16 @@
       -74.0247
     ]
   },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
+    ]
+  },
   "174.164.173.71": {
     "region": "North America",
     "country": "United States",
@@ -1857,16 +1867,6 @@
     "coordinates": [
       54.4316,
       -6.4402
-    ]
-  },
-  "86.182.214.12": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Bracknell",
-    "coordinates": [
-      51.4308,
-      -0.7828
     ]
   },
   "87.128.111.190": {
