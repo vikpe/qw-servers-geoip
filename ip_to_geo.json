@@ -39,7 +39,7 @@
       138.6321
     ]
   },
-  "103.216.220.44": {
+  "103.216.220.28": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -209,16 +209,6 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -349,16 +339,6 @@
       -118.2707
     ]
   },
-  "149.28.240.2": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7889,
-      -96.8021
-    ]
-  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -467,36 +447,6 @@
     "coordinates": [
       59.9315,
       11.1728
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7283,
-      151.168
-    ]
-  },
-  "159.203.25.195": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Toronto",
-    "coordinates": [
-      43.6547,
-      -79.3623
-    ]
-  },
-  "159.65.230.186": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Bergen",
-    "coordinates": [
-      40.793,
-      -74.0247
     ]
   },
   "16.170.162.186": {
@@ -719,7 +669,17 @@
       73.4001
     ]
   },
-  "177.43.29.148": {
+  "177.144.186.49": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.895,
+      -47.0439
+    ]
+  },
+  "177.205.73.248": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -899,16 +859,6 @@
       12.365
     ]
   },
-  "189.78.78.42": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.895,
-      -47.0439
-    ]
-  },
   "192.99.32.215": {
     "region": "North America",
     "country": "Canada",
@@ -957,16 +907,6 @@
     "coordinates": [
       46.6584,
       20.2536
-    ]
-  },
-  "194.76.26.139": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Morley",
-    "coordinates": [
-      53.7472,
-      -1.6017
     ]
   },
   "195.139.245.197": {
@@ -1157,6 +1097,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "216.160.28.148": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lake Elmo",
+    "coordinates": [
+      44.9935,
+      -92.9035
     ]
   },
   "217.197.83.154": {
@@ -1427,16 +1377,6 @@
     "coordinates": [
       40.8229,
       -74.4592
-    ]
-  },
-  "45.76.23.209": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elk Grove Village",
-    "coordinates": [
-      42.0048,
-      -87.9954
     ]
   },
   "45.76.26.183": {
@@ -1717,16 +1657,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
     ]
   },
   "74.91.120.206": {
