@@ -113,10 +113,10 @@
     "region": "Oceania",
     "country": "New Zealand",
     "cc": "NZ",
-    "city": "Napier City",
+    "city": "North Shore",
     "coordinates": [
-      -39.5158,
-      176.83
+      -36.7178,
+      174.7365
     ]
   },
   "119.17.137.95": {
@@ -213,10 +213,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Kitzingen",
+    "city": "Berlin",
     "coordinates": [
-      49.7435,
-      10.1615
+      52.5203,
+      13.3849
     ]
   },
   "137.74.7.185": {
@@ -423,20 +423,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Fetsund",
+    "city": "Oslo",
     "coordinates": [
-      59.9315,
-      11.1728
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7283,
-      151.168
+      59.9016,
+      10.7343
     ]
   },
   "16.170.162.186": {
@@ -543,10 +533,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Mannheim",
+    "city": "Falkenstein",
     "coordinates": [
-      49.4922,
-      8.464
+      50.475,
+      12.365
     ]
   },
   "167.71.142.56": {
@@ -603,10 +593,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Berwick",
+    "city": "New Philadelphia",
     "coordinates": [
-      41.0683,
-      -76.2459
+      40.7195,
+      -76.1147
     ]
   },
   "174.102.192.184": {
@@ -665,8 +655,8 @@
     "cc": "BR",
     "city": "Campinas",
     "coordinates": [
-      -22.895,
-      -47.0439
+      -22.9035,
+      -47.0565
     ]
   },
   "177.205.73.248": {
@@ -763,10 +753,10 @@
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Warsaw",
+    "city": "Konstancin-Jeziorna",
     "coordinates": [
-      52.2377,
-      20.9874
+      52.0936,
+      21.1244
     ]
   },
   "185.189.48.45": {
@@ -777,16 +767,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
     ]
   },
   "185.73.44.100": {
@@ -825,8 +805,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1187,
-      8.6842
+      50.1169,
+      8.6837
     ]
   },
   "188.40.103.81": {
@@ -1009,16 +989,6 @@
       144.9669
     ]
   },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.5375,
-      152.9725
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1065,8 +1035,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3293,
-      18.0686
+      59.3241,
+      18.0517
     ]
   },
   "213.164.209.174": {
@@ -1093,10 +1063,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lake Elmo",
+    "city": "Minneapolis",
     "coordinates": [
-      44.9935,
-      -92.9035
+      44.9427,
+      -93.2871
     ]
   },
   "217.197.83.154": {
@@ -1165,8 +1135,8 @@
     "cc": "CA",
     "city": "Vancouver",
     "coordinates": [
-      49.2958,
-      -123.141
+      49.2825,
+      -123.1291
     ]
   },
   "3.104.30.121": {
@@ -1603,10 +1573,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Romulus",
+    "city": "Belleville",
     "coordinates": [
-      42.2256,
-      -83.3959
+      42.1955,
+      -83.4894
     ]
   },
   "70.34.202.147": {
@@ -1649,6 +1619,16 @@
       -77.35
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1679,16 +1659,6 @@
       -87.6318
     ]
   },
-  "75.192.169.128": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pottstown",
-    "coordinates": [
-      40.1923,
-      -75.6815
-    ]
-  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1705,8 +1675,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0761,
-      14.4479
+      50.0471,
+      14.4523
     ]
   },
   "79.139.57.116": {
@@ -1823,20 +1793,20 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Portadown",
+    "city": "Craigavon",
     "coordinates": [
-      54.4316,
-      -6.4402
+      54.385,
+      -6.3282
     ]
   },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Berlin",
+    "city": "Hanover",
     "coordinates": [
-      52.52,
-      13.405
+      52.3396,
+      9.7746
     ]
   },
   "87.189.51.230": {
@@ -1859,6 +1829,16 @@
       37.4025
     ]
   },
+  "89.154.193.70": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Vila Nova de Gaia",
+    "coordinates": [
+      41.1384,
+      -8.6168
+    ]
+  },
   "89.66.140.31": {
     "region": "Europe",
     "country": "Poland",
@@ -1873,10 +1853,10 @@
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
-    "city": "Espoo",
+    "city": "Hyvink\u00e4\u00e4",
     "coordinates": [
-      60.1738,
-      24.6772
+      60.6239,
+      24.8141
     ]
   },
   "91.206.14.17": {
