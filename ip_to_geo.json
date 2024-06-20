@@ -589,16 +589,6 @@
       -80.1946
     ]
   },
-  "173.44.70.183": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "New Philadelphia",
-    "coordinates": [
-      40.7195,
-      -76.1147
-    ]
-  },
   "174.102.192.184": {
     "region": "North America",
     "country": "United States",
@@ -969,16 +959,6 @@
       -104.816154
     ]
   },
-  "200.55.247.185": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Palermo",
-    "coordinates": [
-      -34.58,
-      -58.4283
-    ]
-  },
   "202.47.179.132": {
     "region": "Oceania",
     "country": "Australia",
@@ -987,6 +967,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "202.63.65.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.2442,
+      153.1135
     ]
   },
   "206.51.245.84": {
@@ -1659,6 +1649,16 @@
       -87.6318
     ]
   },
+  "75.192.169.128": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lancaster",
+    "coordinates": [
+      40.009,
+      -76.3631
+    ]
+  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1827,16 +1827,6 @@
     "coordinates": [
       55.8338,
       37.4025
-    ]
-  },
-  "89.154.193.70": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Vila Nova de Gaia",
-    "coordinates": [
-      41.1384,
-      -8.6168
     ]
   },
   "89.66.140.31": {
