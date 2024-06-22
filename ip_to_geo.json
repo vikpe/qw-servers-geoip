@@ -419,16 +419,6 @@
       -99.76158
     ]
   },
-  "158.248.75.93": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9016,
-      10.7343
-    ]
-  },
   "16.170.162.186": {
     "region": "Europe",
     "country": "Sweden",
@@ -589,6 +579,16 @@
       -80.1946
     ]
   },
+  "172.92.246.14": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "174.102.192.184": {
     "region": "North America",
     "country": "United States",
@@ -639,6 +639,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0883,
+      14.4124
+    ]
+  },
   "177.144.186.49": {
     "region": "South America",
     "country": "Brazil",
@@ -677,16 +687,6 @@
     "coordinates": [
       51.5074,
       -0.1196
-    ]
-  },
-  "179.232.162.73": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Braganca Paulista",
-    "coordinates": [
-      -22.9489,
-      -46.5364
     ]
   },
   "179.232.6.240": {
@@ -977,6 +977,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "202.63.65.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.2442,
+      153.1135
     ]
   },
   "206.51.245.84": {
@@ -1617,16 +1627,6 @@
     "coordinates": [
       26.3763,
       -81.7344
-    ]
-  },
-  "73.83.126.178": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Spokane",
-    "coordinates": [
-      47.7345,
-      -117.447
     ]
   },
   "74.91.120.206": {
