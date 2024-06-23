@@ -419,6 +419,16 @@
       -99.76158
     ]
   },
+  "158.248.75.93": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9016,
+      10.7343
+    ]
+  },
   "16.170.162.186": {
     "region": "Europe",
     "country": "Sweden",
@@ -577,16 +587,6 @@
     "coordinates": [
       25.7689,
       -80.1946
-    ]
-  },
-  "172.92.246.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "174.102.192.184": {
@@ -757,6 +757,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wo\u0142omin",
+    "coordinates": [
+      52.3521,
+      21.247
     ]
   },
   "185.73.44.100": {
@@ -957,16 +967,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "200.55.247.185": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Palermo",
-    "coordinates": [
-      -34.58,
-      -58.4283
     ]
   },
   "202.47.179.132": {
@@ -1569,6 +1569,16 @@
       -87.6378
     ]
   },
+  "67.4.128.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Saint Paul",
+    "coordinates": [
+      44.9339,
+      -93.1235
+    ]
+  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1819,16 +1829,6 @@
       9.7746
     ]
   },
-  "87.189.51.230": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "89.108.64.237": {
     "region": "Europe",
     "country": "Russia",
@@ -1877,6 +1877,16 @@
     "coordinates": [
       55.6686,
       12.3469
+    ]
+  },
+  "91.55.70.88": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "94.16.128.193": {
