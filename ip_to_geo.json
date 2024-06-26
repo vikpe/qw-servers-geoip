@@ -199,6 +199,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -429,16 +439,6 @@
       10.7343
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7283,
-      151.168
-    ]
-  },
   "16.170.162.186": {
     "region": "Europe",
     "country": "Sweden",
@@ -597,6 +597,26 @@
     "coordinates": [
       25.7689,
       -80.1946
+    ]
+  },
+  "172.92.246.14": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
+  "174.102.192.184": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0925,
+      -87.6709
     ]
   },
   "174.138.43.249": {
