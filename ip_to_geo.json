@@ -179,6 +179,16 @@
       18.0686
     ]
   },
+  "13.71.22.110": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Pune",
+    "coordinates": [
+      18.5144,
+      73.864235
+    ]
+  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -449,6 +459,16 @@
       10.7343
     ]
   },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.7283,
+      151.168
+    ]
+  },
   "16.170.162.186": {
     "region": "Europe",
     "country": "Sweden",
@@ -569,16 +589,6 @@
       -0.6718
     ]
   },
-  "168.119.172.182": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.5061,
-      13.3684
-    ]
-  },
   "170.39.226.130": {
     "region": "North America",
     "country": "United States",
@@ -607,16 +617,6 @@
     "coordinates": [
       25.7689,
       -80.1946
-    ]
-  },
-  "174.102.192.184": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0925,
-      -87.6709
     ]
   },
   "174.138.43.249": {
@@ -1255,8 +1255,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1635,
-      8.6611
+      50.1103,
+      8.7147
     ]
   },
   "37.221.215.47": {
@@ -1287,16 +1287,6 @@
     "coordinates": [
       39.911,
       116.395
-    ]
-  },
-  "4.213.154.239": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Pune",
-    "coordinates": [
-      18.5144,
-      73.864235
     ]
   },
   "45.132.235.222": {
@@ -1403,10 +1393,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "M\u00f6lltorp",
+    "city": "Karlsborg",
     "coordinates": [
-      58.5,
-      14.4
+      58.5377,
+      14.5122
     ]
   },
   "5.161.189.133": {
@@ -1599,16 +1589,6 @@
       -87.6378
     ]
   },
-  "67.4.128.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Saint Paul",
-    "coordinates": [
-      44.9339,
-      -93.1235
-    ]
-  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1735,8 +1715,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0471,
-      14.4523
+      50.0761,
+      14.4479
     ]
   },
   "79.139.57.116": {
@@ -1893,10 +1873,10 @@
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
-    "city": "Hyvink\u00e4\u00e4",
+    "city": "Espoo",
     "coordinates": [
-      60.6239,
-      24.8141
+      60.1738,
+      24.6772
     ]
   },
   "91.206.14.17": {
