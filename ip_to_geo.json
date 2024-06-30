@@ -669,6 +669,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0471,
+      14.4523
+    ]
+  },
   "177.144.186.49": {
     "region": "South America",
     "country": "Brazil",
@@ -707,6 +717,16 @@
     "coordinates": [
       51.5074,
       -0.1196
+    ]
+  },
+  "179.232.162.73": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Braganca Paulista",
+    "coordinates": [
+      -22.9489,
+      -46.5364
     ]
   },
   "18.144.19.16": {
@@ -767,6 +787,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wo\u0142omin",
+    "coordinates": [
+      52.3521,
+      21.247
     ]
   },
   "185.73.44.100": {
@@ -1589,6 +1619,16 @@
       -87.6378
     ]
   },
+  "67.4.128.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Saint Paul",
+    "coordinates": [
+      44.9354,
+      -93.1694
+    ]
+  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1617,6 +1657,16 @@
     "coordinates": [
       59.3779,
       17.9155
+    ]
+  },
+  "72.109.29.184": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      39.9739,
+      -75.1456
     ]
   },
   "72.18.132.133": {
@@ -1679,14 +1729,14 @@
       -87.6318
     ]
   },
-  "75.192.169.128": {
+  "75.192.156.82": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lancaster",
+    "city": "Reinholds",
     "coordinates": [
-      40.009,
-      -76.3631
+      40.2662,
+      -76.0992
     ]
   },
   "75.3.247.6": {
@@ -1897,16 +1947,6 @@
     "coordinates": [
       55.7483,
       37.6171
-    ]
-  },
-  "91.210.57.105": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Albertslund",
-    "coordinates": [
-      55.6686,
-      12.3469
     ]
   },
   "91.55.69.222": {
