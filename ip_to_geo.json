@@ -649,6 +649,16 @@
       73.4001
     ]
   },
+  "176.214.112.98": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Volgograd",
+    "coordinates": [
+      48.7168,
+      44.5035
+    ]
+  },
   "177.144.188.73": {
     "region": "South America",
     "country": "Brazil",
@@ -807,16 +817,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "189.46.21.129": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
     ]
   },
   "192.99.32.215": {
@@ -1667,6 +1667,16 @@
     "coordinates": [
       37.8487,
       -122.2209
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
