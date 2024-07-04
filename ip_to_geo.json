@@ -129,16 +129,6 @@
       145.133
     ]
   },
-  "128.199.52.100": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "129.148.39.85": {
     "region": "South America",
     "country": "Brazil",
@@ -469,16 +459,6 @@
       144.9669
     ]
   },
-  "160.16.101.168": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.6893,
-      139.6899
-    ]
-  },
   "162.248.92.183": {
     "region": "North America",
     "country": "United States",
@@ -517,16 +497,6 @@
     "coordinates": [
       48.8714,
       2.32141
-    ]
-  },
-  "163.47.21.45": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8506,
-      174.7679
     ]
   },
   "164.152.62.160": {
@@ -599,16 +569,6 @@
       -80.1946
     ]
   },
-  "174.102.192.184": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0925,
-      -87.6709
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -617,16 +577,6 @@
     "coordinates": [
       40.793,
       -74.0247
-    ]
-  },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
     ]
   },
   "174.164.173.71": {
@@ -647,16 +597,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.214.112.98": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Volgograd",
-    "coordinates": [
-      48.7168,
-      44.5035
     ]
   },
   "177.144.188.73": {
@@ -999,16 +939,6 @@
       153.1135
     ]
   },
-  "206.51.245.84": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8874,
-      -87.6318
-    ]
-  },
   "207.148.5.167": {
     "region": "North America",
     "country": "United States",
@@ -1017,26 +947,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "212.193.49.233": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "St Petersburg",
-    "coordinates": [
-      60.0167,
-      30.3261
-    ]
-  },
-  "212.42.38.88": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7558,
-      37.6173
     ]
   },
   "213.115.54.131": {
@@ -1509,16 +1419,6 @@
       -46.6333
     ]
   },
-  "62.80.247.69": {
-    "region": "Europe",
-    "country": "Lithuania",
-    "cc": "LT",
-    "city": "Nemun\u0117lio Radvili\u0161kis",
-    "coordinates": [
-      56.4001,
-      24.7728
-    ]
-  },
   "64.118.226.47": {
     "region": "North America",
     "country": "Canada",
@@ -1589,16 +1489,6 @@
       17.9155
     ]
   },
-  "72.18.132.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.7501,
-      -104.9957
-    ]
-  },
   "72.83.103.37": {
     "region": "North America",
     "country": "United States",
@@ -1607,16 +1497,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
     ]
   },
   "74.91.120.206": {
@@ -1667,16 +1547,6 @@
     "coordinates": [
       37.8487,
       -122.2209
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1829,16 +1699,6 @@
       17.0401
     ]
   },
-  "89.108.64.237": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.8338,
-      37.4025
-    ]
-  },
   "89.66.140.31": {
     "region": "Europe",
     "country": "Poland",
@@ -1887,16 +1747,6 @@
     "coordinates": [
       47.4702,
       7.6011
-    ]
-  },
-  "94.254.2.158": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "95.165.130.151": {
