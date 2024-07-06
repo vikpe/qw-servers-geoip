@@ -599,16 +599,6 @@
       -80.1946
     ]
   },
-  "172.92.246.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "174.102.192.184": {
     "region": "North America",
     "country": "United States",
@@ -1159,16 +1149,6 @@
       72.8777
     ]
   },
-  "34.106.116.207": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Salt Lake City",
-    "coordinates": [
-      40.7607,
-      -111.891
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1207,16 +1187,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "34.86.62.75": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.185.44.174": {
@@ -1559,16 +1529,6 @@
       -87.6378
     ]
   },
-  "67.4.128.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Saint Paul",
-    "coordinates": [
-      44.9354,
-      -93.1694
-    ]
-  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1889,6 +1849,16 @@
       7.6011
     ]
   },
+  "94.254.2.158": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
+    ]
+  },
   "95.165.130.151": {
     "region": "Europe",
     "country": "Russia",
@@ -1949,16 +1919,6 @@
       11.967
     ]
   },
-  "98.128.186.18": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3241,
-      18.0517
-    ]
-  },
   "98.208.219.227": {
     "region": "North America",
     "country": "United States",
@@ -1967,6 +1927,16 @@
     "coordinates": [
       26.6681,
       -81.7646
+    ]
+  },
+  "99.247.226.82": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Woodbridge",
+    "coordinates": [
+      43.8419,
+      -79.5565
     ]
   },
   "99.72.255.45": {
