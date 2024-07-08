@@ -689,16 +689,6 @@
       -47.9341
     ]
   },
-  "18.144.19.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
-    ]
-  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -707,6 +697,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "18.236.84.139": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Portland",
+    "coordinates": [
+      45.5235,
+      -122.676
     ]
   },
   "185.11.166.90": {
@@ -979,16 +979,6 @@
       144.9669
     ]
   },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.2442,
-      153.1135
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1157,6 +1147,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.150.134.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.201.64.11": {
@@ -1529,6 +1529,16 @@
       -87.6378
     ]
   },
+  "68.226.70.139": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lakewood",
+    "coordinates": [
+      41.4866,
+      -81.8037
+    ]
+  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1577,6 +1587,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1917,6 +1937,16 @@
     "coordinates": [
       57.7065,
       11.967
+    ]
+  },
+  "98.128.186.18": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
     ]
   },
   "98.208.219.227": {
