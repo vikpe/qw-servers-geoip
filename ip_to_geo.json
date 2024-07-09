@@ -379,6 +379,16 @@
       151.209
     ]
   },
+  "154.205.147.173": {
+    "region": "Asia",
+    "country": "Oman",
+    "cc": "OM",
+    "city": "Muscat",
+    "coordinates": [
+      23.588,
+      58.3829
+    ]
+  },
   "155.138.247.213": {
     "region": "North America",
     "country": "United States",
@@ -999,6 +1009,16 @@
       -96.8021
     ]
   },
+  "207.188.177.148": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Alcobendas",
+    "coordinates": [
+      40.5339,
+      -3.6312
+    ]
+  },
   "212.193.49.233": {
     "region": "Europe",
     "country": "Russia",
@@ -1529,14 +1549,14 @@
       -87.6378
     ]
   },
-  "68.226.70.139": {
+  "67.4.128.225": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lakewood",
+    "city": "Saint Paul",
     "coordinates": [
-      41.4866,
-      -81.8037
+      44.9354,
+      -93.1694
     ]
   },
   "68.60.111.37": {
@@ -1587,16 +1607,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
