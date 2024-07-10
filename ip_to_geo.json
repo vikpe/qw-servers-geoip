@@ -669,6 +669,16 @@
       -47.0565
     ]
   },
+  "177.159.251.211": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
+    ]
+  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -687,16 +697,6 @@
     "coordinates": [
       51.5074,
       -0.1196
-    ]
-  },
-  "179.162.48.118": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
     ]
   },
   "18.228.193.88": {
@@ -739,16 +739,6 @@
       18.0685
     ]
   },
-  "185.189.139.18": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Konstancin-Jeziorna",
-    "coordinates": [
-      52.0936,
-      21.1244
-    ]
-  },
   "185.189.48.45": {
     "region": "Europe",
     "country": "Sweden",
@@ -767,16 +757,6 @@
     "coordinates": [
       51.5074,
       -0.127758
-    ]
-  },
-  "186.64.122.249": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Curic\u00f3",
-    "coordinates": [
-      -34.9839,
-      -71.2425
     ]
   },
   "188.166.0.137": {
@@ -817,6 +797,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "192.9.173.60": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
     ]
   },
   "192.99.32.215": {
@@ -1169,16 +1159,6 @@
       -80.013
     ]
   },
-  "34.150.134.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1207,6 +1187,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "34.48.125.7": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.185.44.174": {
@@ -1549,16 +1539,6 @@
       -87.6378
     ]
   },
-  "67.4.128.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Saint Paul",
-    "coordinates": [
-      44.9354,
-      -93.1694
-    ]
-  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1667,6 +1647,16 @@
     "coordinates": [
       37.8487,
       -122.2209
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
