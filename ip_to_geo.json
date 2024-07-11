@@ -179,16 +179,6 @@
       18.0686
     ]
   },
-  "13.71.22.110": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Pune",
-    "coordinates": [
-      18.5144,
-      73.864235
-    ]
-  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -217,16 +207,6 @@
     "coordinates": [
       59.342,
       18.0623
-    ]
-  },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
     ]
   },
   "135.181.0.160": {
@@ -609,6 +589,16 @@
       -80.1946
     ]
   },
+  "173.44.70.183": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Berwick",
+    "coordinates": [
+      41.0683,
+      -76.2459
+    ]
+  },
   "174.102.192.184": {
     "region": "North America",
     "country": "United States",
@@ -659,7 +649,7 @@
       73.4001
     ]
   },
-  "177.144.188.73": {
+  "177.144.187.116": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -667,16 +657,6 @@
     "coordinates": [
       -22.9035,
       -47.0565
-    ]
-  },
-  "177.159.251.211": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
     ]
   },
   "177.71.158.196": {
@@ -697,6 +677,16 @@
     "coordinates": [
       51.5074,
       -0.1196
+    ]
+  },
+  "179.183.107.160": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7792,
+      -47.9341
     ]
   },
   "18.228.193.88": {
@@ -737,6 +727,16 @@
     "coordinates": [
       59.3293,
       18.0685
+    ]
+  },
+  "185.189.139.18": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Konstancin-Jeziorna",
+    "coordinates": [
+      52.0936,
+      21.1244
     ]
   },
   "185.189.48.45": {
@@ -1189,7 +1189,7 @@
       -95.8608
     ]
   },
-  "34.48.125.7": {
+  "34.86.46.222": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1647,16 +1647,6 @@
     "coordinates": [
       37.8487,
       -122.2209
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
