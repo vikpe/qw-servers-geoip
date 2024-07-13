@@ -209,6 +209,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -657,16 +667,6 @@
     "coordinates": [
       54.9978,
       73.4001
-    ]
-  },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0853,
-      14.4614
     ]
   },
   "177.144.187.116": {
@@ -1139,16 +1139,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1219,7 +1209,7 @@
       -95.8608
     ]
   },
-  "34.86.46.222": {
+  "34.86.178.97": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1759,6 +1749,16 @@
       18.1223
     ]
   },
+  "85.230.199.12": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bandhagen",
+    "coordinates": [
+      59.275,
+      18.0435
+    ]
+  },
   "85.242.107.149": {
     "region": "Europe",
     "country": "Portugal",
@@ -1807,6 +1807,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1277,
+      17.0591
     ]
   },
   "89.108.64.237": {
