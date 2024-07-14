@@ -59,6 +59,16 @@
       -74.4606
     ]
   },
+  "108.215.101.200": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Madisonville",
+    "coordinates": [
+      30.416,
+      -90.1817
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -779,6 +789,16 @@
       14.9942
     ]
   },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wo\u0142omin",
+    "coordinates": [
+      52.3521,
+      21.247
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1079,6 +1099,16 @@
       11.0767
     ]
   },
+  "216.160.28.148": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9427,
+      -93.2871
+    ]
+  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1199,7 +1229,17 @@
       -6.26031
     ]
   },
-  "34.27.108.232": {
+  "35.185.44.174": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Charleston",
+    "coordinates": [
+      32.8771,
+      -80.013
+    ]
+  },
+  "35.192.4.124": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1209,7 +1249,7 @@
       -95.8608
     ]
   },
-  "34.86.178.97": {
+  "35.245.200.195": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1217,16 +1257,6 @@
     "coordinates": [
       38.9071,
       -77.0368
-    ]
-  },
-  "35.185.44.174": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Charleston",
-    "coordinates": [
-      32.8771,
-      -80.013
     ]
   },
   "37.201.131.70": {
@@ -1357,6 +1387,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.204.0.68": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.2629,
+      19.0178
     ]
   },
   "46.227.68.148": {
@@ -1747,16 +1787,6 @@
     "coordinates": [
       59.2484,
       18.1223
-    ]
-  },
-  "85.230.199.12": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bandhagen",
-    "coordinates": [
-      59.275,
-      18.0435
     ]
   },
   "85.242.107.149": {
