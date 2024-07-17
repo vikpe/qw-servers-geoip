@@ -289,16 +289,6 @@
       77.5855
     ]
   },
-  "141.105.67.104": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7483,
-      37.6171
-    ]
-  },
   "144.22.145.206": {
     "region": "South America",
     "country": "Brazil",
@@ -747,16 +737,6 @@
     "coordinates": [
       59.3293,
       18.0685
-    ]
-  },
-  "185.189.139.18": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Konstancin-Jeziorna",
-    "coordinates": [
-      52.0936,
-      21.1244
     ]
   },
   "185.189.48.45": {
@@ -1209,6 +1189,16 @@
       -6.26031
     ]
   },
+  "34.48.191.178": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1227,16 +1217,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "35.245.180.8": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1589,16 +1569,6 @@
       17.9155
     ]
   },
-  "72.109.17.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Sinking Spring",
-    "coordinates": [
-      40.3102,
-      -76.0388
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1667,6 +1637,26 @@
     "coordinates": [
       37.1661,
       -93.2458
+    ]
+  },
+  "75.192.179.58": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elizabethtown",
+    "coordinates": [
+      40.1551,
+      -76.6021
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1789,14 +1779,14 @@
       19.3552
     ]
   },
-  "86.157.94.180": {
+  "86.158.197.173": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Dungannon",
+    "city": "Craigavon",
     "coordinates": [
-      54.5256,
-      -6.6791
+      54.385,
+      -6.3282
     ]
   },
   "87.128.111.190": {
@@ -1809,6 +1799,16 @@
       13.405
     ]
   },
+  "87.207.124.227": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1277,
+      17.0591
+    ]
+  },
   "89.108.64.237": {
     "region": "Europe",
     "country": "Russia",
@@ -1817,6 +1817,16 @@
     "coordinates": [
       55.8338,
       37.4025
+    ]
+  },
+  "89.154.193.70": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Vila Nova de Gaia",
+    "coordinates": [
+      41.1384,
+      -8.6168
     ]
   },
   "89.66.140.31": {
@@ -1937,16 +1947,6 @@
     "coordinates": [
       57.7065,
       11.967
-    ]
-  },
-  "98.128.186.18": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3241,
-      18.0517
     ]
   },
   "98.208.219.227": {
