@@ -739,6 +739,16 @@
       18.0685
     ]
   },
+  "185.189.139.18": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Konstancin-Jeziorna",
+    "coordinates": [
+      52.0936,
+      21.1244
+    ]
+  },
   "185.189.48.45": {
     "region": "Europe",
     "country": "Sweden",
@@ -1189,7 +1199,7 @@
       -6.26031
     ]
   },
-  "34.48.191.178": {
+  "34.86.39.161": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1499,16 +1509,6 @@
       23.3289
     ]
   },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
-    ]
-  },
   "64.180.85.241": {
     "region": "North America",
     "country": "Canada",
@@ -1709,6 +1709,16 @@
       13.3224
     ]
   },
+  "81.232.45.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bor\u00e5s",
+    "coordinates": [
+      57.7132,
+      12.9025
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1799,14 +1809,14 @@
       13.405
     ]
   },
-  "87.207.124.227": {
+  "87.206.223.6": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Wroclaw",
+    "city": "Katowice",
     "coordinates": [
-      51.1277,
-      17.0591
+      50.2494,
+      19.0209
     ]
   },
   "89.108.64.237": {
@@ -1817,16 +1827,6 @@
     "coordinates": [
       55.8338,
       37.4025
-    ]
-  },
-  "89.154.193.70": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Vila Nova de Gaia",
-    "coordinates": [
-      41.1384,
-      -8.6168
     ]
   },
   "89.66.140.31": {
