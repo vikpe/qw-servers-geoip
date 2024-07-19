@@ -649,7 +649,7 @@
       73.4001
     ]
   },
-  "177.144.187.116": {
+  "177.144.186.87": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -757,16 +757,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
     ]
   },
   "185.73.44.100": {
@@ -959,16 +949,6 @@
       -104.816154
     ]
   },
-  "200.25.27.16": {
-    "region": "South America",
-    "country": "Colombia",
-    "cc": "CO",
-    "city": "Bogot\u00e1",
-    "coordinates": [
-      4.68061,
-      -74.0496
-    ]
-  },
   "200.55.247.185": {
     "region": "South America",
     "country": "Argentina",
@@ -987,16 +967,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.2442,
-      153.1135
     ]
   },
   "206.51.245.84": {
@@ -1199,7 +1169,7 @@
       -6.26031
     ]
   },
-  "34.86.39.161": {
+  "34.48.204.229": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1257,16 +1227,6 @@
     "coordinates": [
       30.2627,
       -97.7467
-    ]
-  },
-  "39.106.228.43": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Beijing",
-    "coordinates": [
-      39.911,
-      116.395
     ]
   },
   "45.132.235.222": {
@@ -1509,6 +1469,16 @@
       23.3289
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.180.85.241": {
     "region": "North America",
     "country": "Canada",
@@ -1709,16 +1679,6 @@
       13.3224
     ]
   },
-  "81.232.45.252": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bor\u00e5s",
-    "coordinates": [
-      57.7132,
-      12.9025
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1910,16 +1870,6 @@
     ]
   },
   "95.216.202.86": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1719,
-      24.9347
-    ]
-  },
-  "95.216.8.8": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
