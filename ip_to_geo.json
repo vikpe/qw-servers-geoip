@@ -679,16 +679,6 @@
       -0.1196
     ]
   },
-  "179.183.107.160": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7792,
-      -47.9341
-    ]
-  },
   "179.232.6.240": {
     "region": "South America",
     "country": "Brazil",
@@ -969,6 +959,16 @@
       144.9669
     ]
   },
+  "202.63.65.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.2442,
+      153.1135
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1139,6 +1139,16 @@
       72.8777
     ]
   },
+  "34.145.128.53": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1167,16 +1177,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "34.48.204.229": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.185.44.174": {
@@ -1227,6 +1227,16 @@
     "coordinates": [
       30.2627,
       -97.7467
+    ]
+  },
+  "39.106.228.43": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Beijing",
+    "coordinates": [
+      39.911,
+      116.395
     ]
   },
   "45.132.235.222": {
@@ -1519,6 +1529,16 @@
       -83.4894
     ]
   },
+  "69.140.114.193": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Brunswick",
+    "coordinates": [
+      39.3086,
+      -77.6278
+    ]
+  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1687,6 +1707,16 @@
     "coordinates": [
       62.3772,
       17.3203
+    ]
+  },
+  "83.243.129.163": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "\u00c5lesund",
+    "coordinates": [
+      62.4753,
+      6.1448
     ]
   },
   "84.251.35.110": {
