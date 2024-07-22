@@ -1149,16 +1149,6 @@
       72.8777
     ]
   },
-  "34.123.141.35": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1189,6 +1179,16 @@
       -6.26031
     ]
   },
+  "34.27.108.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1199,7 +1199,7 @@
       -80.013
     ]
   },
-  "35.188.239.177": {
+  "35.186.160.1": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1587,6 +1587,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
