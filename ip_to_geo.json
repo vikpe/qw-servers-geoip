@@ -659,6 +659,16 @@
       73.4001
     ]
   },
+  "176.98.252.62": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0853,
+      14.4614
+    ]
+  },
   "177.144.186.87": {
     "region": "South America",
     "country": "Brazil",
@@ -749,16 +759,6 @@
       14.9942
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -807,6 +807,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "190.206.110.174": {
+    "region": "South America",
+    "country": "Venezuela",
+    "cc": "VE",
+    "city": "San Carlos del Zulia",
+    "coordinates": [
+      9.00189,
+      -71.9105
     ]
   },
   "192.9.173.60": {
@@ -969,16 +979,6 @@
       144.9669
     ]
   },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.2442,
-      153.1135
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1047,6 +1047,16 @@
     "coordinates": [
       49.4521,
       11.0767
+    ]
+  },
+  "216.128.130.98": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
     ]
   },
   "216.160.28.148": {
@@ -1189,6 +1199,16 @@
       -95.8608
     ]
   },
+  "34.48.49.241": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1197,16 +1217,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.186.160.1": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1589,16 +1599,6 @@
       -77.35
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1837,6 +1837,16 @@
     "coordinates": [
       55.8338,
       37.4025
+    ]
+  },
+  "89.154.193.70": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Vila Nova de Gaia",
+    "coordinates": [
+      41.1384,
+      -8.6168
     ]
   },
   "89.66.140.31": {
