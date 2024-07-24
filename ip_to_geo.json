@@ -59,6 +59,16 @@
       -74.4606
     ]
   },
+  "108.180.227.131": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Victoria",
+    "coordinates": [
+      48.4771,
+      -123.5313
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -659,16 +669,6 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0853,
-      14.4614
-    ]
-  },
   "177.144.186.87": {
     "region": "South America",
     "country": "Brazil",
@@ -807,16 +807,6 @@
     "coordinates": [
       50.475,
       12.365
-    ]
-  },
-  "190.206.110.174": {
-    "region": "South America",
-    "country": "Venezuela",
-    "cc": "VE",
-    "city": "San Carlos del Zulia",
-    "coordinates": [
-      9.00189,
-      -71.9105
     ]
   },
   "192.9.173.60": {
@@ -977,6 +967,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "202.63.65.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.2442,
+      153.1135
     ]
   },
   "206.51.245.84": {
@@ -1159,6 +1159,16 @@
       72.8777
     ]
   },
+  "34.145.236.251": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1197,16 +1207,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "34.48.49.241": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.185.44.174": {
@@ -1507,16 +1507,6 @@
     "coordinates": [
       42.8568,
       -80.7294
-    ]
-  },
-  "64.180.85.241": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Victoria",
-    "coordinates": [
-      48.4771,
-      -123.5313
     ]
   },
   "64.227.18.147": {
@@ -1839,14 +1829,14 @@
       37.4025
     ]
   },
-  "89.154.193.70": {
+  "89.151.207.164": {
     "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Vila Nova de Gaia",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Steinkjer",
     "coordinates": [
-      41.1384,
-      -8.6168
+      64.0161,
+      11.4985
     ]
   },
   "89.66.140.31": {
