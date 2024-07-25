@@ -359,6 +359,16 @@
       -118.2707
     ]
   },
+  "149.28.255.8": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
+    ]
+  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -699,6 +709,16 @@
       -0.1196
     ]
   },
+  "179.232.6.240": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
+    ]
+  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -959,6 +979,16 @@
       -58.4283
     ]
   },
+  "202.190.55.145": {
+    "region": "Asia",
+    "country": "Malaysia",
+    "cc": "MY",
+    "city": "Petaling Jaya",
+    "coordinates": [
+      3.0999,
+      101.5965
+    ]
+  },
   "202.47.179.132": {
     "region": "Oceania",
     "country": "Australia",
@@ -997,6 +1027,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "208.83.239.114": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Honolulu",
+    "coordinates": [
+      21.3513,
+      -157.8725
     ]
   },
   "212.193.49.233": {
@@ -1159,16 +1199,6 @@
       72.8777
     ]
   },
-  "34.145.236.251": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1207,6 +1237,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "34.85.146.167": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.185.44.174": {
@@ -1827,16 +1867,6 @@
     "coordinates": [
       55.8338,
       37.4025
-    ]
-  },
-  "89.151.207.164": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Steinkjer",
-    "coordinates": [
-      64.0161,
-      11.4985
     ]
   },
   "89.66.140.31": {
