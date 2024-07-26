@@ -359,16 +359,6 @@
       -118.2707
     ]
   },
-  "149.28.255.8": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7889,
-      -96.8021
-    ]
-  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -629,16 +619,6 @@
       -80.1946
     ]
   },
-  "174.102.192.184": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.0925,
-      -87.6709
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -787,6 +767,16 @@
     "coordinates": [
       51.5074,
       -0.127758
+    ]
+  },
+  "186.64.122.249": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Curic\u00f3",
+    "coordinates": [
+      -34.9839,
+      -71.2425
     ]
   },
   "188.166.0.137": {
@@ -1239,16 +1229,6 @@
       -95.8608
     ]
   },
-  "34.85.146.167": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1257,6 +1237,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.236.220.33": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1629,16 +1619,6 @@
       -77.35
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1867,6 +1847,16 @@
     "coordinates": [
       55.8338,
       37.4025
+    ]
+  },
+  "89.151.207.164": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Steinkjer",
+    "coordinates": [
+      64.0161,
+      11.4985
     ]
   },
   "89.66.140.31": {
