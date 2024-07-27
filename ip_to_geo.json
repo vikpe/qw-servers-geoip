@@ -659,7 +659,7 @@
       73.4001
     ]
   },
-  "177.144.186.87": {
+  "177.144.184.220": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -969,16 +969,6 @@
       -58.4283
     ]
   },
-  "202.190.55.145": {
-    "region": "Asia",
-    "country": "Malaysia",
-    "cc": "MY",
-    "city": "Petaling Jaya",
-    "coordinates": [
-      3.0999,
-      101.5965
-    ]
-  },
   "202.47.179.132": {
     "region": "Oceania",
     "country": "Australia",
@@ -1229,6 +1219,16 @@
       -95.8608
     ]
   },
+  "34.48.148.197": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1237,16 +1237,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.236.220.33": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1287,16 +1277,6 @@
     "coordinates": [
       39.911,
       116.395
-    ]
-  },
-  "45.132.235.222": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "45.147.98.159": {
