@@ -169,14 +169,14 @@
       28.0473
     ]
   },
-  "13.40.65.97": {
+  "13.48.133.81": {
     "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
     "coordinates": [
-      51.5074,
-      -0.127758
+      59.3293,
+      18.0686
     ]
   },
   "13.53.75.0": {
@@ -467,16 +467,6 @@
     "coordinates": [
       59.9016,
       10.7343
-    ]
-  },
-  "16.170.162.186": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
     ]
   },
   "16.50.158.34": {
@@ -1219,14 +1209,14 @@
       -95.8608
     ]
   },
-  "34.48.148.197": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
+  "35.178.200.80": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
     "coordinates": [
-      38.9071,
-      -77.0368
+      51.5074,
+      -0.127758
     ]
   },
   "35.185.44.174": {
@@ -1237,6 +1227,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.188.246.143": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1549,16 +1549,6 @@
       -83.4894
     ]
   },
-  "69.140.114.193": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Brunswick",
-    "coordinates": [
-      39.3086,
-      -77.6278
-    ]
-  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1597,6 +1587,16 @@
     "coordinates": [
       38.93,
       -77.35
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
     ]
   },
   "74.91.120.206": {
@@ -1849,16 +1849,6 @@
       21.0067
     ]
   },
-  "91.152.15.241": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Espoo",
-    "coordinates": [
-      60.1738,
-      24.6772
-    ]
-  },
   "91.206.14.17": {
     "region": "Europe",
     "country": "Russia",
@@ -1869,7 +1859,7 @@
       37.6171
     ]
   },
-  "91.55.69.222": {
+  "91.55.77.167": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
