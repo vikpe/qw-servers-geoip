@@ -59,16 +59,6 @@
       -74.4606
     ]
   },
-  "108.180.227.131": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Victoria",
-    "coordinates": [
-      48.4771,
-      -123.5313
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -629,16 +619,6 @@
       -79.7249
     ]
   },
-  "174.164.173.71": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lake Stevens",
-    "coordinates": [
-      48.0132,
-      -122.0679
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -747,16 +727,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
     ]
   },
   "185.73.44.100": {
@@ -979,16 +949,6 @@
       144.9669
     ]
   },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.2442,
-      153.1135
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1179,16 +1139,6 @@
       72.8777
     ]
   },
-  "34.145.166.70": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1207,6 +1157,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "34.21.1.168": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.242.30.72": {
@@ -1579,6 +1539,16 @@
       17.9155
     ]
   },
+  "71.79.18.164": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fairfield",
+    "coordinates": [
+      39.3202,
+      -84.552
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1597,26 +1567,6 @@
     "coordinates": [
       38.93,
       -77.35
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
     ]
   },
   "74.91.120.206": {
