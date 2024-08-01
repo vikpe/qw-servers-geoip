@@ -229,6 +229,16 @@
       -77.3429
     ]
   },
+  "135.180.50.254": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Berkeley",
+    "coordinates": [
+      37.8611,
+      -122.2564
+    ]
+  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -719,6 +729,16 @@
       18.0685
     ]
   },
+  "185.189.139.18": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Konstancin-Jeziorna",
+    "coordinates": [
+      52.0936,
+      21.1244
+    ]
+  },
   "185.189.48.45": {
     "region": "Europe",
     "country": "Sweden",
@@ -1199,16 +1219,6 @@
       -95.8608
     ]
   },
-  "34.48.35.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1227,6 +1237,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.236.241.238": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1489,6 +1509,16 @@
       -46.6333
     ]
   },
+  "62.182.216.19": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Vaxjo",
+    "coordinates": [
+      56.8746,
+      14.8124
+    ]
+  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1577,16 +1607,6 @@
     "coordinates": [
       39.7501,
       -104.9957
-    ]
-  },
-  "72.83.103.37": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.93,
-      -77.35
     ]
   },
   "74.91.120.206": {
