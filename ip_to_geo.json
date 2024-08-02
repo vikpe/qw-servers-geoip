@@ -69,6 +69,16 @@
       -74.4606
     ]
   },
+  "108.215.101.200": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Madisonville",
+    "coordinates": [
+      30.416,
+      -90.1817
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1239,7 +1249,7 @@
       -80.013
     ]
   },
-  "35.236.241.238": {
+  "35.199.19.219": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1597,16 +1607,6 @@
     "coordinates": [
       39.3202,
       -84.552
-    ]
-  },
-  "72.18.132.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.7501,
-      -104.9957
     ]
   },
   "74.91.120.206": {
