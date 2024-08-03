@@ -45,18 +45,18 @@
     "cc": "AU",
     "city": "Adelaide",
     "coordinates": [
-      -34.9522,
-      138.6321
+      -34.9281,
+      138.5999
     ]
   },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Toledo",
+    "city": "Detroit",
     "coordinates": [
-      41.6528,
-      -83.5379
+      42.3314,
+      -83.0458
     ]
   },
   "104.207.135.230": {
@@ -69,14 +69,14 @@
       -74.4606
     ]
   },
-  "108.215.101.200": {
+  "108.180.227.131": {
     "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Madisonville",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Victoria",
     "coordinates": [
-      30.416,
-      -90.1817
+      48.4771,
+      -123.5313
     ]
   },
   "108.61.117.210": {
@@ -229,24 +229,14 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.180.50.254": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Berkeley",
     "coordinates": [
-      37.8611,
-      -122.2564
+      37.8637,
+      -122.276
     ]
   },
   "135.181.0.160": {
@@ -263,10 +253,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Berlin",
+    "city": "Eitensheim",
     "coordinates": [
-      52.5203,
-      13.3849
+      48.8167,
+      11.3167
     ]
   },
   "137.74.7.185": {
@@ -499,6 +489,16 @@
       144.9669
     ]
   },
+  "16.50.43.188": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "160.16.101.168": {
     "region": "Asia",
     "country": "Japan",
@@ -697,6 +697,16 @@
     "coordinates": [
       -10.9094,
       -37.0716
+    ]
+  },
+  "18.141.13.189": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.28009,
+      103.851
     ]
   },
   "18.228.193.88": {
@@ -1165,8 +1175,8 @@
     "cc": "CA",
     "city": "Vancouver",
     "coordinates": [
-      49.2825,
-      -123.1291
+      49.2958,
+      -123.141
     ]
   },
   "3.104.30.121": {
@@ -1229,6 +1239,16 @@
       -95.8608
     ]
   },
+  "34.85.232.94": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1247,16 +1267,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.199.19.219": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1519,16 +1529,6 @@
       -46.6333
     ]
   },
-  "62.182.216.19": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Vaxjo",
-    "coordinates": [
-      56.8746,
-      14.8124
-    ]
-  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1569,6 +1569,16 @@
       -87.6378
     ]
   },
+  "67.144.152.112": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.0925,
+      -87.6709
+    ]
+  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1599,14 +1609,14 @@
       17.9155
     ]
   },
-  "71.79.18.164": {
+  "72.18.132.133": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Fairfield",
+    "city": "Denver",
     "coordinates": [
-      39.3202,
-      -84.552
+      39.7501,
+      -104.9957
     ]
   },
   "74.91.120.206": {
@@ -1649,14 +1659,14 @@
       -93.2458
     ]
   },
-  "75.192.179.58": {
+  "75.192.138.130": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Elizabethtown",
+    "city": "Philadelphia",
     "coordinates": [
-      40.1551,
-      -76.6021
+      39.934,
+      -75.16
     ]
   },
   "75.82.121.13": {
@@ -1789,16 +1799,6 @@
       20.9853
     ]
   },
-  "85.89.175.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Kutno",
-    "coordinates": [
-      52.2295,
-      19.3552
-    ]
-  },
   "86.168.160.202": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1825,8 +1825,8 @@
     "cc": "PL",
     "city": "Katowice",
     "coordinates": [
-      50.2494,
-      19.0209
+      50.2521,
+      19.0277
     ]
   },
   "89.108.64.237": {
