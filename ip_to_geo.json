@@ -689,16 +689,6 @@
       -0.1196
     ]
   },
-  "179.232.6.240": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
-    ]
-  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -757,16 +747,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
     ]
   },
   "185.73.44.100": {
@@ -1209,6 +1189,16 @@
       -95.8608
     ]
   },
+  "34.145.223.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1237,16 +1227,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "34.86.56.64": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1579,16 +1559,6 @@
       -87.6709
     ]
   },
-  "68.226.70.135": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lakewood",
-    "coordinates": [
-      41.4866,
-      -81.8037
-    ]
-  },
   "68.60.111.37": {
     "region": "North America",
     "country": "United States",
@@ -1627,6 +1597,16 @@
     "coordinates": [
       39.7501,
       -104.9957
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1847,6 +1827,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "87.206.223.6": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.2521,
+      19.0277
     ]
   },
   "89.108.64.237": {
