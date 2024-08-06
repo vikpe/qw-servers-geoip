@@ -1189,16 +1189,6 @@
       -95.8608
     ]
   },
-  "34.145.223.126": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1227,6 +1217,16 @@
     "coordinates": [
       53.3498,
       -6.26031
+    ]
+  },
+  "34.48.149.47": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1559,16 +1559,6 @@
       -87.6709
     ]
   },
-  "68.60.111.37": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Belleville",
-    "coordinates": [
-      42.1955,
-      -83.4894
-    ]
-  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1589,6 +1579,16 @@
       17.9155
     ]
   },
+  "72.109.24.115": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      40.0025,
+      -75.1134
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1597,16 +1597,6 @@
     "coordinates": [
       39.7501,
       -104.9957
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1659,14 +1649,14 @@
       -93.2458
     ]
   },
-  "75.192.138.130": {
+  "75.192.134.19": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Bath",
     "coordinates": [
-      39.934,
-      -75.16
+      40.7576,
+      -75.4046
     ]
   },
   "75.82.121.13": {
