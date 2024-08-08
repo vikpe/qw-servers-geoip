@@ -249,16 +249,6 @@
       11.3167
     ]
   },
-  "136.32.174.95": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Overland Park",
-    "coordinates": [
-      38.8615,
-      -94.6277
-    ]
-  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -659,7 +649,7 @@
       73.4001
     ]
   },
-  "177.144.184.220": {
+  "177.138.57.156": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -707,6 +697,16 @@
     "coordinates": [
       45.5235,
       -122.676
+    ]
+  },
+  "183.80.157.69": {
+    "region": "Asia",
+    "country": "Vietnam",
+    "cc": "VN",
+    "city": "Ho Chi Minh City",
+    "coordinates": [
+      10.822,
+      106.6257
     ]
   },
   "185.11.166.90": {
@@ -1229,16 +1229,6 @@
       -6.26031
     ]
   },
-  "34.86.68.150": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1257,6 +1247,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.245.231.177": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1377,6 +1377,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.204.12.126": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.2887,
+      18.9793
     ]
   },
   "46.227.68.148": {
@@ -1647,16 +1657,6 @@
     "coordinates": [
       37.1661,
       -93.2458
-    ]
-  },
-  "75.192.134.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bath",
-    "coordinates": [
-      40.7576,
-      -75.4046
     ]
   },
   "75.82.121.13": {
