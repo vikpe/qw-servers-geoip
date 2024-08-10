@@ -639,16 +639,6 @@
       73.4001
     ]
   },
-  "176.98.252.62": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0471,
-      14.4523
-    ]
-  },
   "177.138.57.156": {
     "region": "South America",
     "country": "Brazil",
@@ -699,26 +689,6 @@
       -122.676
     ]
   },
-  "181.230.28.220": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Punta Alta",
-    "coordinates": [
-      -38.8798,
-      -62.0647
-    ]
-  },
-  "183.80.157.69": {
-    "region": "Asia",
-    "country": "Vietnam",
-    "cc": "VN",
-    "city": "Ho Chi Minh City",
-    "coordinates": [
-      10.822,
-      106.6257
-    ]
-  },
   "185.11.166.90": {
     "region": "Europe",
     "country": "Portugal",
@@ -737,6 +707,16 @@
     "coordinates": [
       59.3293,
       18.0685
+    ]
+  },
+  "185.148.113.143": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Fortaleza",
+    "coordinates": [
+      -3.7139,
+      -38.5409
     ]
   },
   "185.189.139.18": {
@@ -1209,16 +1189,6 @@
       -80.013
     ]
   },
-  "34.150.232.37": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1259,6 +1229,16 @@
       -80.013
     ]
   },
+  "35.188.241.158": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1297,6 +1277,16 @@
     "coordinates": [
       39.911,
       116.395
+    ]
+  },
+  "42.117.33.100": {
+    "region": "Asia",
+    "country": "Vietnam",
+    "cc": "VN",
+    "city": "Ho Chi Minh City",
+    "coordinates": [
+      10.822,
+      106.6257
     ]
   },
   "45.147.98.159": {
@@ -1377,6 +1367,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.204.12.126": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.2887,
+      18.9793
     ]
   },
   "46.227.68.148": {
@@ -1607,6 +1607,16 @@
     "coordinates": [
       26.3763,
       -81.7344
+    ]
+  },
+  "74.49.247.122": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Beauharnois",
+    "coordinates": [
+      45.3151,
+      -73.8779
     ]
   },
   "74.91.120.206": {
