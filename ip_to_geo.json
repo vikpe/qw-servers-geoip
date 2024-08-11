@@ -1139,6 +1139,16 @@
       -96.8704
     ]
   },
+  "24.192.31.59": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Plymouth",
+    "coordinates": [
+      42.3695,
+      -83.4769
+    ]
+  },
   "24.87.1.123": {
     "region": "North America",
     "country": "Canada",
@@ -1229,7 +1239,7 @@
       -80.013
     ]
   },
-  "35.188.241.158": {
+  "35.221.21.13": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1277,16 +1287,6 @@
     "coordinates": [
       39.911,
       116.395
-    ]
-  },
-  "42.117.33.100": {
-    "region": "Asia",
-    "country": "Vietnam",
-    "cc": "VN",
-    "city": "Ho Chi Minh City",
-    "coordinates": [
-      10.822,
-      106.6257
     ]
   },
   "45.147.98.159": {
@@ -1367,16 +1367,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "46.204.12.126": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Katowice",
-    "coordinates": [
-      50.2887,
-      18.9793
     ]
   },
   "46.227.68.148": {
@@ -1609,16 +1599,6 @@
       -81.7344
     ]
   },
-  "74.49.247.122": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Beauharnois",
-    "coordinates": [
-      45.3151,
-      -73.8779
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1657,6 +1637,16 @@
     "coordinates": [
       37.1661,
       -93.2458
+    ]
+  },
+  "75.192.133.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Whitehall Township",
+    "coordinates": [
+      40.6543,
+      -75.5034
     ]
   },
   "75.82.121.13": {
