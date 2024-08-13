@@ -219,14 +219,14 @@
       -77.3429
     ]
   },
-  "135.180.50.254": {
+  "135.180.100.133": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Berkeley",
     "coordinates": [
-      37.8637,
-      -122.276
+      37.8611,
+      -122.2564
     ]
   },
   "135.181.0.160": {
@@ -337,6 +337,16 @@
     "coordinates": [
       51.1043,
       17.0335
+    ]
+  },
+  "146.148.88.40": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "147.135.209.225": {
@@ -609,6 +619,16 @@
       -80.1946
     ]
   },
+  "173.180.179.10": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Victoria",
+    "coordinates": [
+      48.4771,
+      -123.5313
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -707,16 +727,6 @@
     "coordinates": [
       38.7223,
       -9.13934
-    ]
-  },
-  "185.117.88.217": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0685
     ]
   },
   "185.148.113.143": {
@@ -1189,16 +1199,6 @@
       72.8777
     ]
   },
-  "34.123.141.35": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1207,16 +1207,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.150.232.171": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.201.64.11": {
@@ -1257,6 +1247,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.245.182.158": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1609,16 +1609,6 @@
       -104.9957
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1657,16 +1647,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.157.99.147": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Victoria",
-    "coordinates": [
-      48.4771,
-      -123.5313
     ]
   },
   "75.163.41.36": {
@@ -1847,6 +1827,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "87.206.223.6": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.2521,
+      19.0277
     ]
   },
   "89.108.64.237": {
