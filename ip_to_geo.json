@@ -1229,6 +1229,16 @@
       -6.26031
     ]
   },
+  "34.85.156.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1247,16 +1257,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.182.158": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1669,6 +1669,16 @@
       -75.5034
     ]
   },
+  "76.243.179.191": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Houston",
+    "coordinates": [
+      29.7912,
+      -95.4182
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1769,6 +1779,16 @@
       18.1223
     ]
   },
+  "85.230.199.12": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bandhagen",
+    "coordinates": [
+      59.2603,
+      18.0402
+    ]
+  },
   "85.242.107.149": {
     "region": "Europe",
     "country": "Portugal",
@@ -1799,6 +1819,16 @@
       19.4641
     ]
   },
+  "86.141.106.127": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Dungannon",
+    "coordinates": [
+      54.5256,
+      -6.6791
+    ]
+  },
   "86.158.79.119": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1807,16 +1837,6 @@
     "coordinates": [
       51.2483,
       -1.1266
-    ]
-  },
-  "86.168.160.202": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Craigavon",
-    "coordinates": [
-      54.385,
-      -6.3282
     ]
   },
   "87.128.111.190": {
