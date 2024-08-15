@@ -149,6 +149,16 @@
       -46.6361
     ]
   },
+  "129.148.62.213": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "13.245.119.116": {
     "region": "Africa",
     "country": "South Africa",
@@ -217,16 +227,6 @@
     "coordinates": [
       38.9609,
       -77.3429
-    ]
-  },
-  "135.180.100.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Berkeley",
-    "coordinates": [
-      37.8611,
-      -122.2564
     ]
   },
   "135.181.0.160": {
@@ -659,7 +659,7 @@
       73.4001
     ]
   },
-  "177.138.57.156": {
+  "177.144.184.232": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -999,16 +999,6 @@
       144.9669
     ]
   },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.2442,
-      153.1135
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1229,7 +1219,7 @@
       -6.26031
     ]
   },
-  "34.85.156.126": {
+  "34.48.107.189": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1779,16 +1769,6 @@
       18.1223
     ]
   },
-  "85.230.199.12": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bandhagen",
-    "coordinates": [
-      59.2603,
-      18.0402
-    ]
-  },
   "85.242.107.149": {
     "region": "Europe",
     "country": "Portugal",
@@ -1959,6 +1939,16 @@
       37.6171
     ]
   },
+  "95.194.198.159": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
+    ]
+  },
   "95.216.18.118": {
     "region": "Europe",
     "country": "Finland",
@@ -2017,16 +2007,6 @@
     "coordinates": [
       26.6681,
       -81.7646
-    ]
-  },
-  "98.97.32.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seattle",
-    "coordinates": [
-      47.6062,
-      -122.332
     ]
   },
   "99.72.255.45": {
