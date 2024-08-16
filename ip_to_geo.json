@@ -49,6 +49,16 @@
       -83.0458
     ]
   },
+  "104.198.220.87": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -139,6 +149,16 @@
       4.9392
     ]
   },
+  "129.146.253.163": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
+    ]
+  },
   "129.148.39.85": {
     "region": "South America",
     "country": "Brazil",
@@ -227,6 +247,16 @@
     "coordinates": [
       38.9609,
       -77.3429
+    ]
+  },
+  "135.180.100.135": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Berkeley",
+    "coordinates": [
+      37.8611,
+      -122.2564
     ]
   },
   "135.181.0.160": {
@@ -337,16 +367,6 @@
     "coordinates": [
       51.1043,
       17.0335
-    ]
-  },
-  "146.148.88.40": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "147.135.209.225": {
@@ -999,6 +1019,16 @@
       144.9669
     ]
   },
+  "202.63.65.43": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.2442,
+      153.1135
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1017,16 +1047,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "208.83.239.114": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Honolulu",
-    "coordinates": [
-      21.3513,
-      -157.8725
     ]
   },
   "212.193.49.233": {
@@ -1199,6 +1219,16 @@
       -80.013
     ]
   },
+  "34.150.249.190": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1217,16 +1247,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "34.48.107.189": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1297,6 +1317,16 @@
     "coordinates": [
       48.8323,
       2.4075
+    ]
+  },
+  "45.234.92.131": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Fortaleza",
+    "coordinates": [
+      -3.7139,
+      -38.5409
     ]
   },
   "45.32.196.50": {
@@ -1649,14 +1679,14 @@
       -93.2458
     ]
   },
-  "75.192.133.195": {
+  "75.192.158.153": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Whitehall Township",
+    "city": "Sinking Spring",
     "coordinates": [
-      40.6543,
-      -75.5034
+      40.3102,
+      -76.0388
     ]
   },
   "76.243.179.191": {
@@ -1809,16 +1839,6 @@
       -6.6791
     ]
   },
-  "86.158.79.119": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Basingstoke",
-    "coordinates": [
-      51.2483,
-      -1.1266
-    ]
-  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -1937,16 +1957,6 @@
     "coordinates": [
       55.7483,
       37.6171
-    ]
-  },
-  "95.194.198.159": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "95.216.18.118": {
