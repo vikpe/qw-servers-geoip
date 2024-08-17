@@ -169,16 +169,6 @@
       -46.6361
     ]
   },
-  "129.148.62.213": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
-    ]
-  },
   "13.245.119.116": {
     "region": "Africa",
     "country": "South Africa",
@@ -569,6 +559,16 @@
       174.7679
     ]
   },
+  "164.132.249.21": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Roubaix",
+    "coordinates": [
+      50.6927,
+      3.17785
+    ]
+  },
   "164.152.62.160": {
     "region": "South America",
     "country": "Brazil",
@@ -707,16 +707,6 @@
     "coordinates": [
       51.5074,
       -0.1196
-    ]
-  },
-  "179.232.6.240": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
     ]
   },
   "18.228.193.88": {
@@ -1219,16 +1209,6 @@
       -80.013
     ]
   },
-  "34.150.249.190": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1247,6 +1227,16 @@
     "coordinates": [
       53.3498,
       -6.26031
+    ]
+  },
+  "34.86.230.220": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1629,16 +1619,6 @@
       -104.9957
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -2017,6 +1997,16 @@
     "coordinates": [
       26.6681,
       -81.7646
+    ]
+  },
+  "98.97.32.54": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seattle",
+    "coordinates": [
+      47.6062,
+      -122.332
     ]
   },
   "99.72.255.45": {
