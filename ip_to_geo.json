@@ -49,7 +49,7 @@
       -83.0458
     ]
   },
-  "104.198.220.87": {
+  "104.198.37.93": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -679,16 +679,6 @@
       73.4001
     ]
   },
-  "177.144.184.232": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -837,6 +827,16 @@
     "coordinates": [
       50.475,
       12.365
+    ]
+  },
+  "191.17.53.94": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "191.253.64.50": {
@@ -1229,7 +1229,7 @@
       -6.26031
     ]
   },
-  "34.86.230.220": {
+  "34.86.125.105": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1537,6 +1537,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "58.186.218.157": {
+    "region": "Asia",
+    "country": "Vietnam",
+    "cc": "VN",
+    "city": "Hanoi",
+    "coordinates": [
+      21.0292,
+      105.8526
     ]
   },
   "62.80.247.69": {
@@ -1997,16 +2007,6 @@
     "coordinates": [
       26.6681,
       -81.7646
-    ]
-  },
-  "98.97.32.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seattle",
-    "coordinates": [
-      47.6062,
-      -122.332
     ]
   },
   "99.72.255.45": {
