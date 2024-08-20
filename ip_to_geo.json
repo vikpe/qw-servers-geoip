@@ -229,16 +229,6 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.180.100.135": {
     "region": "North America",
     "country": "United States",
@@ -659,16 +649,6 @@
       -74.0247
     ]
   },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -697,6 +677,16 @@
     "coordinates": [
       51.5074,
       -0.1196
+    ]
+  },
+  "179.232.6.240": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
     ]
   },
   "18.228.193.88": {
@@ -1239,7 +1229,7 @@
       -6.26031
     ]
   },
-  "34.86.185.242": {
+  "34.48.113.244": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1307,6 +1297,16 @@
     "coordinates": [
       39.911,
       116.395
+    ]
+  },
+  "44.210.138.174": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
     ]
   },
   "45.147.98.159": {
@@ -1529,6 +1529,16 @@
       -121.895
     ]
   },
+  "54.215.95.110": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
+    ]
+  },
   "54.252.183.87": {
     "region": "Oceania",
     "country": "Australia",
@@ -1637,16 +1647,6 @@
     "coordinates": [
       39.7501,
       -104.9957
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "74.91.120.206": {
