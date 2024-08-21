@@ -1229,16 +1229,6 @@
       -6.26031
     ]
   },
-  "34.48.113.244": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1257,6 +1247,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.245.15.14": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1857,16 +1857,6 @@
     "coordinates": [
       48.709,
       8.7399
-    ]
-  },
-  "87.206.223.6": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.117,
-      17.0401
     ]
   },
   "89.108.64.237": {
