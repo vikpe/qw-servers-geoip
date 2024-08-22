@@ -229,6 +229,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.180.100.135": {
     "region": "North America",
     "country": "United States",
@@ -1229,6 +1239,16 @@
       -6.26031
     ]
   },
+  "34.48.18.54": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1247,16 +1267,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.15.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1799,6 +1809,16 @@
       18.1223
     ]
   },
+  "85.230.199.12": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bandhagen",
+    "coordinates": [
+      59.2603,
+      18.0402
+    ]
+  },
   "85.242.107.149": {
     "region": "Europe",
     "country": "Portugal",
@@ -1857,6 +1877,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "87.206.223.6": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.117,
+      17.0401
     ]
   },
   "89.108.64.237": {
