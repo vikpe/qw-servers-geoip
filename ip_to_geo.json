@@ -389,6 +389,16 @@
       -74.4606
     ]
   },
+  "15.181.21.107": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Portland",
+    "coordinates": [
+      45.5235,
+      -122.676
+    ]
+  },
   "15.228.58.59": {
     "region": "South America",
     "country": "Brazil",
@@ -657,6 +667,16 @@
     "coordinates": [
       40.793,
       -74.0247
+    ]
+  },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
     ]
   },
   "176.210.100.6": {
@@ -1229,6 +1249,16 @@
       -77.4874
     ]
   },
+  "34.21.30.165": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1237,16 +1267,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "34.48.18.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1407,6 +1427,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.204.12.126": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.2744,
+      18.9933
     ]
   },
   "46.227.68.148": {
@@ -1619,6 +1649,16 @@
       -87.6709
     ]
   },
+  "69.221.115.25": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Boca Raton",
+    "coordinates": [
+      26.3432,
+      -80.2116
+    ]
+  },
   "70.34.202.147": {
     "region": "Europe",
     "country": "Sweden",
@@ -1657,6 +1697,16 @@
     "coordinates": [
       39.7501,
       -104.9957
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
     ]
   },
   "74.91.120.206": {
@@ -1807,16 +1857,6 @@
     "coordinates": [
       59.2484,
       18.1223
-    ]
-  },
-  "85.230.199.12": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bandhagen",
-    "coordinates": [
-      59.2603,
-      18.0402
     ]
   },
   "85.242.107.149": {
