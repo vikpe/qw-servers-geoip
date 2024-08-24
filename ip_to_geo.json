@@ -169,6 +169,16 @@
       -46.6361
     ]
   },
+  "129.148.62.213": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "13.245.119.116": {
     "region": "Africa",
     "country": "South Africa",
@@ -729,16 +739,6 @@
       -46.6333
     ]
   },
-  "18.236.84.139": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Portland",
-    "coordinates": [
-      45.5235,
-      -122.676
-    ]
-  },
   "185.11.166.90": {
     "region": "Europe",
     "country": "Portugal",
@@ -747,6 +747,16 @@
     "coordinates": [
       38.7223,
       -9.13934
+    ]
+  },
+  "185.117.88.217": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0685
     ]
   },
   "185.148.113.143": {
@@ -849,17 +859,7 @@
       12.3649
     ]
   },
-  "188.40.66.105": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Falkenstein",
-    "coordinates": [
-      50.4777,
-      12.3649
-    ]
-  },
-  "191.17.53.94": {
+  "189.46.113.4": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1129,6 +1129,16 @@
       -92.9035
     ]
   },
+  "217.197.202.211": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Chernogolovka",
+    "coordinates": [
+      56.0098,
+      38.3787
+    ]
+  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1249,16 +1259,6 @@
       -77.4874
     ]
   },
-  "34.21.30.165": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1287,6 +1287,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.245.76.146": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1427,16 +1437,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "46.204.12.126": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Katowice",
-    "coordinates": [
-      50.2744,
-      18.9933
     ]
   },
   "46.227.68.148": {
@@ -1829,16 +1829,6 @@
       6.1448
     ]
   },
-  "84.251.35.110": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1797,
-      24.9344
-    ]
-  },
   "85.227.200.13": {
     "region": "Europe",
     "country": "Sweden",
@@ -1917,16 +1907,6 @@
     "coordinates": [
       48.709,
       8.7399
-    ]
-  },
-  "87.206.223.6": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.117,
-      17.0401
     ]
   },
   "89.108.64.237": {
