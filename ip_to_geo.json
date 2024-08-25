@@ -49,16 +49,6 @@
       -83.0458
     ]
   },
-  "104.198.37.93": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -67,6 +57,16 @@
     "coordinates": [
       40.5511,
       -74.4606
+    ]
+  },
+  "108.181.43.71": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0544,
+      -118.2441
     ]
   },
   "108.61.117.210": {
@@ -659,16 +659,6 @@
       -80.1946
     ]
   },
-  "173.180.179.10": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Victoria",
-    "coordinates": [
-      48.4771,
-      -123.5313
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -859,16 +849,6 @@
       12.3649
     ]
   },
-  "189.46.113.4": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "191.253.64.50": {
     "region": "South America",
     "country": "Brazil",
@@ -877,6 +857,16 @@
     "coordinates": [
       -2.6495,
       -44.3044
+    ]
+  },
+  "191.9.111.99": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "192.9.173.60": {
@@ -1289,7 +1279,17 @@
       -80.013
     ]
   },
-  "35.245.76.146": {
+  "35.223.205.224": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
+  "35.245.162.4": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1957,16 +1957,6 @@
     "coordinates": [
       55.7483,
       37.6171
-    ]
-  },
-  "92.35.17.241": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Link\u00f6ping",
-    "coordinates": [
-      58.4016,
-      15.6462
     ]
   },
   "94.16.128.193": {
