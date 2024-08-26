@@ -339,6 +339,16 @@
       37.6171
     ]
   },
+  "142.161.219.108": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Winnipeg",
+    "coordinates": [
+      49.9716,
+      -97.1515
+    ]
+  },
   "144.22.145.206": {
     "region": "South America",
     "country": "Brazil",
@@ -1239,6 +1249,16 @@
       -80.013
     ]
   },
+  "34.150.162.212": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1289,16 +1309,6 @@
       -95.8608
     ]
   },
-  "35.245.162.4": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1329,16 +1339,6 @@
       -97.7467
     ]
   },
-  "39.106.228.43": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Beijing",
-    "coordinates": [
-      39.911,
-      116.395
-    ]
-  },
   "44.210.138.174": {
     "region": "North America",
     "country": "United States",
@@ -1347,6 +1347,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "45.128.199.216": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "45.147.98.159": {
@@ -1699,6 +1709,16 @@
       -104.9957
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1707,6 +1727,16 @@
     "coordinates": [
       26.3763,
       -81.7344
+    ]
+  },
+  "74.109.14.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Wayne",
+    "coordinates": [
+      40.0574,
+      -75.4017
     ]
   },
   "74.91.120.206": {
