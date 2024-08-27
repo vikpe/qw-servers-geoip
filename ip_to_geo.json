@@ -169,16 +169,6 @@
       -46.6361
     ]
   },
-  "129.148.62.213": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
-    ]
-  },
   "13.245.119.116": {
     "region": "Africa",
     "country": "South Africa",
@@ -237,16 +227,6 @@
     "coordinates": [
       59.342,
       18.0623
-    ]
-  },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
     ]
   },
   "135.180.100.135": {
@@ -799,16 +779,6 @@
       14.9942
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1249,16 +1219,6 @@
       -80.013
     ]
   },
-  "34.150.162.212": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1277,6 +1237,16 @@
     "coordinates": [
       53.3498,
       -6.26031
+    ]
+  },
+  "34.85.178.45": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1349,7 +1319,7 @@
       -77.4874
     ]
   },
-  "45.128.199.216": {
+  "45.128.199.11": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1709,16 +1679,6 @@
       -104.9957
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1727,16 +1687,6 @@
     "coordinates": [
       26.3763,
       -81.7344
-    ]
-  },
-  "74.109.14.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Wayne",
-    "coordinates": [
-      40.0574,
-      -75.4017
     ]
   },
   "74.91.120.206": {
@@ -1767,6 +1717,16 @@
     "coordinates": [
       41.8874,
       -87.6318
+    ]
+  },
+  "75.154.239.81": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Victoria",
+    "coordinates": [
+      48.4152,
+      -123.3655
     ]
   },
   "75.163.41.36": {
@@ -1879,16 +1839,6 @@
       18.1223
     ]
   },
-  "85.242.107.149": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
-    ]
-  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -1987,6 +1937,16 @@
     "coordinates": [
       55.7483,
       37.6171
+    ]
+  },
+  "92.35.17.241": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Link\u00f6ping",
+    "coordinates": [
+      58.4016,
+      15.6462
     ]
   },
   "94.16.128.193": {
