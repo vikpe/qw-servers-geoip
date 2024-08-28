@@ -229,6 +229,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.180.100.135": {
     "region": "North America",
     "country": "United States",
@@ -689,6 +699,16 @@
       -46.6333
     ]
   },
+  "177.93.135.160": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Franca",
+    "coordinates": [
+      -20.5395,
+      -47.4011
+    ]
+  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -829,16 +849,6 @@
       12.3649
     ]
   },
-  "191.253.64.50": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Lu\u00eds",
-    "coordinates": [
-      -2.6495,
-      -44.3044
-    ]
-  },
   "191.9.111.99": {
     "region": "South America",
     "country": "Brazil",
@@ -907,6 +917,16 @@
     "coordinates": [
       59.9139,
       10.7522
+    ]
+  },
+  "194.38.96.52": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Z\u00e1dorfalva",
+    "coordinates": [
+      48.3803,
+      20.4728
     ]
   },
   "195.201.133.22": {
@@ -1039,6 +1059,26 @@
       -96.8021
     ]
   },
+  "208.83.237.9": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Honolulu",
+    "coordinates": [
+      21.3513,
+      -157.8725
+    ]
+  },
+  "208.83.239.114": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Honolulu",
+    "coordinates": [
+      21.3513,
+      -157.8725
+    ]
+  },
   "212.193.49.233": {
     "region": "Europe",
     "country": "Russia",
@@ -1069,6 +1109,16 @@
       12.9982
     ]
   },
+  "213.190.221.189": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Funchal",
+    "coordinates": [
+      32.6333,
+      -16.9
+    ]
+  },
   "213.239.216.253": {
     "region": "Europe",
     "country": "Germany",
@@ -1087,16 +1137,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "216.160.28.148": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lake Elmo",
-    "coordinates": [
-      44.9935,
-      -92.9035
     ]
   },
   "217.197.202.211": {
@@ -1209,6 +1249,16 @@
       72.8777
     ]
   },
+  "3.94.62.64": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1217,6 +1267,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.150.203.171": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.201.64.11": {
@@ -1237,16 +1297,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "34.85.178.45": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1307,16 +1357,6 @@
     "coordinates": [
       30.2627,
       -97.7467
-    ]
-  },
-  "44.210.138.174": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "45.128.199.11": {
@@ -1689,6 +1729,16 @@
       -81.7344
     ]
   },
+  "74.109.14.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Wayne",
+    "coordinates": [
+      40.0574,
+      -75.4017
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1737,6 +1787,16 @@
     "coordinates": [
       37.1661,
       -93.2458
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "76.243.179.191": {
@@ -1807,16 +1867,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "83.243.129.163": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "\u00c5lesund",
-    "coordinates": [
-      62.4753,
-      6.1448
     ]
   },
   "85.227.200.13": {
