@@ -229,16 +229,6 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.180.100.135": {
     "region": "North America",
     "country": "United States",
@@ -267,16 +257,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "137.74.7.185": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0067
     ]
   },
   "138.68.21.116": {
@@ -657,6 +637,16 @@
     "coordinates": [
       25.7689,
       -80.1946
+    ]
+  },
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -1269,16 +1259,6 @@
       -80.013
     ]
   },
-  "34.150.203.171": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1327,6 +1307,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "35.245.142.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1669,26 +1659,6 @@
       -87.6709
     ]
   },
-  "69.221.115.25": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Boca Raton",
-    "coordinates": [
-      26.3432,
-      -80.2116
-    ]
-  },
-  "70.34.202.147": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sp\u00e5nga",
-    "coordinates": [
-      59.3779,
-      17.9155
-    ]
-  },
   "70.34.206.203": {
     "region": "Europe",
     "country": "Sweden",
@@ -1727,16 +1697,6 @@
     "coordinates": [
       26.3763,
       -81.7344
-    ]
-  },
-  "74.109.14.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Wayne",
-    "coordinates": [
-      40.0574,
-      -75.4017
     ]
   },
   "74.91.120.206": {
@@ -1960,6 +1920,16 @@
     ]
   },
   "89.66.140.31": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
+    ]
+  },
+  "89.68.198.17": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
