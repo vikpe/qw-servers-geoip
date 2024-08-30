@@ -229,6 +229,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.180.100.135": {
     "region": "North America",
     "country": "United States",
@@ -257,6 +267,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "137.74.7.185": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0067
     ]
   },
   "138.68.21.116": {
@@ -297,6 +317,16 @@
     "coordinates": [
       12.9634,
       77.5855
+    ]
+  },
+  "140.82.195.229": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "141.105.67.104": {
@@ -1129,6 +1159,16 @@
       -96.8021
     ]
   },
+  "216.160.28.148": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lake Elmo",
+    "coordinates": [
+      44.9935,
+      -92.9035
+    ]
+  },
   "217.197.202.211": {
     "region": "Europe",
     "country": "Russia",
@@ -1299,6 +1339,16 @@
       -80.013
     ]
   },
+  "35.221.33.76": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.223.205.224": {
     "region": "North America",
     "country": "United States",
@@ -1307,16 +1357,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "35.245.142.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1759,16 +1799,6 @@
       -118.0027
     ]
   },
-  "76.243.179.191": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Houston",
-    "coordinates": [
-      29.7738,
-      -95.406
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1917,16 +1947,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.66.140.31": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0067
     ]
   },
   "89.68.198.17": {
