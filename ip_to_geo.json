@@ -1339,16 +1339,6 @@
       -80.013
     ]
   },
-  "35.221.33.76": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.223.205.224": {
     "region": "North America",
     "country": "United States",
@@ -1357,6 +1347,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "35.245.82.100": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1797,6 +1797,16 @@
     "coordinates": [
       33.675,
       -118.0027
+    ]
+  },
+  "76.243.179.191": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Houston",
+    "coordinates": [
+      29.7738,
+      -95.406
     ]
   },
   "78.45.89.65": {
