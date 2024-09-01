@@ -669,16 +669,6 @@
       -80.1946
     ]
   },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
-    ]
-  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -689,16 +679,6 @@
       -74.0247
     ]
   },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.8864,
-      -79.7249
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -707,6 +687,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "177.144.187.221": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "177.71.158.196": {
@@ -867,16 +857,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "191.9.111.99": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
     ]
   },
   "192.9.173.60": {
@@ -1239,6 +1219,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "24.192.31.59": {
     "region": "North America",
     "country": "United States",
@@ -1319,6 +1309,16 @@
       -6.26031
     ]
   },
+  "34.85.161.223": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1347,16 +1347,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "35.245.82.100": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1487,6 +1477,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "45.77.113.133": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.8119,
+      -80.2318
     ]
   },
   "46.227.68.148": {
