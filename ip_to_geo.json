@@ -339,16 +339,6 @@
       37.6171
     ]
   },
-  "142.161.219.108": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Winnipeg",
-    "coordinates": [
-      49.9716,
-      -97.1515
-    ]
-  },
   "144.22.145.206": {
     "region": "South America",
     "country": "Brazil",
@@ -679,6 +669,16 @@
       -74.0247
     ]
   },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.8864,
+      -79.7249
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -727,16 +727,6 @@
     "coordinates": [
       51.5074,
       -0.1196
-    ]
-  },
-  "179.232.6.240": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
     ]
   },
   "18.228.193.88": {
@@ -1219,16 +1209,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "24.192.31.59": {
     "region": "North America",
     "country": "United States",
@@ -1309,7 +1289,7 @@
       -6.26031
     ]
   },
-  "34.85.161.223": {
+  "34.86.72.245": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1387,16 +1367,6 @@
     "coordinates": [
       52.3759,
       4.8975
-    ]
-  },
-  "45.147.98.159": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Paris",
-    "coordinates": [
-      48.8323,
-      2.4075
     ]
   },
   "45.234.92.131": {
@@ -1729,6 +1699,16 @@
       -104.9957
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1887,6 +1867,16 @@
     "coordinates": [
       59.2484,
       18.1223
+    ]
+  },
+  "85.230.199.12": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bandhagen",
+    "coordinates": [
+      59.2603,
+      18.0402
     ]
   },
   "85.28.131.207": {
