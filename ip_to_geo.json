@@ -43,10 +43,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Detroit",
+    "city": "Cleveland",
     "coordinates": [
-      42.3314,
-      -83.0458
+      41.4993,
+      -81.6944
     ]
   },
   "104.207.135.230": {
@@ -909,6 +909,16 @@
       10.7522
     ]
   },
+  "194.193.130.172": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1079,6 +1089,16 @@
       30.3261
     ]
   },
+  "212.227.245.192": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Karlsruhe",
+    "coordinates": [
+      48.9921,
+      8.40221
+    ]
+  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1215,18 +1235,8 @@
     "cc": "US",
     "city": "Westland",
     "coordinates": [
-      42.331,
-      -83.3785
-    ]
-  },
-  "24.87.1.123": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Vancouver",
-    "coordinates": [
-      49.2825,
-      -123.1291
+      42.2876,
+      -83.3734
     ]
   },
   "3.104.30.121": {
@@ -1289,16 +1299,6 @@
       -6.26031
     ]
   },
-  "34.86.72.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1319,6 +1319,16 @@
       -80.013
     ]
   },
+  "35.221.58.170": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.223.205.224": {
     "region": "North America",
     "country": "United States",
@@ -1329,14 +1339,24 @@
       -95.8608
     ]
   },
+  "37.123.190.229": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
+    ]
+  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1103,
-      8.7147
+      50.1382,
+      8.6183
     ]
   },
   "37.221.215.47": {
@@ -1357,16 +1377,6 @@
     "coordinates": [
       30.2627,
       -97.7467
-    ]
-  },
-  "45.128.199.11": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
     ]
   },
   "45.234.92.131": {
@@ -1457,6 +1467,16 @@
     "coordinates": [
       25.8119,
       -80.2318
+    ]
+  },
+  "45.8.17.142": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.2393,
+      6.1867
     ]
   },
   "46.227.68.148": {
@@ -1669,6 +1689,16 @@
       -87.6709
     ]
   },
+  "69.221.115.25": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Boca Raton",
+    "coordinates": [
+      26.3432,
+      -80.2116
+    ]
+  },
   "70.34.206.203": {
     "region": "Europe",
     "country": "Sweden",
@@ -1685,8 +1715,8 @@
     "cc": "US",
     "city": "Philadelphia",
     "coordinates": [
-      40.0345,
-      -75.1193
+      40.058,
+      -75.1876
     ]
   },
   "72.18.132.133": {
@@ -1697,16 +1727,6 @@
     "coordinates": [
       39.7501,
       -104.9957
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1869,16 +1889,6 @@
       18.1223
     ]
   },
-  "85.230.199.12": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bandhagen",
-    "coordinates": [
-      59.2603,
-      18.0402
-    ]
-  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -2003,10 +2013,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Malmo",
+    "city": "Limhamn",
     "coordinates": [
-      55.6078,
-      12.9982
+      55.5811,
+      12.9553
     ]
   },
   "95.165.130.151": {
