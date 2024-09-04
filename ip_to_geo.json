@@ -9,6 +9,16 @@
       -77.35
     ]
   },
+  "103.106.89.9": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.8888,
+      115.886
+    ]
+  },
   "103.151.65.11": {
     "region": "North America",
     "country": "United States",
@@ -729,6 +739,16 @@
       -0.1196
     ]
   },
+  "179.232.15.61": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
+    ]
+  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -1089,16 +1109,6 @@
       30.3261
     ]
   },
-  "212.227.245.192": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Karlsruhe",
-    "coordinates": [
-      48.9921,
-      8.40221
-    ]
-  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1299,6 +1309,16 @@
       -6.26031
     ]
   },
+  "34.48.168.46": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1317,16 +1337,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.221.58.170": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.223.205.224": {
@@ -1689,6 +1699,16 @@
       -87.6709
     ]
   },
+  "68.118.196.221": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "East Longmeadow",
+    "coordinates": [
+      42.0686,
+      -72.5006
+    ]
+  },
   "69.221.115.25": {
     "region": "North America",
     "country": "United States",
@@ -1707,16 +1727,6 @@
     "coordinates": [
       59.3779,
       17.9155
-    ]
-  },
-  "72.104.9.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      40.058,
-      -75.1876
     ]
   },
   "72.18.132.133": {
@@ -1787,6 +1797,16 @@
     "coordinates": [
       37.1661,
       -93.2458
+    ]
+  },
+  "75.3.247.6": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Oakland",
+    "coordinates": [
+      37.8487,
+      -122.2209
     ]
   },
   "75.82.121.13": {
