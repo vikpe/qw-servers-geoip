@@ -329,16 +329,6 @@
       77.5855
     ]
   },
-  "140.82.195.229": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "141.105.67.104": {
     "region": "Europe",
     "country": "Russia",
@@ -447,16 +437,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "156.247.189.2": {
-    "region": "Oceania",
-    "country": "Guam",
-    "cc": "GU",
-    "city": "Hag\u00e5t\u00f1a",
-    "coordinates": [
-      13.4763,
-      144.75
     ]
   },
   "157.245.35.15": {
@@ -737,16 +717,6 @@
     "coordinates": [
       51.5074,
       -0.1196
-    ]
-  },
-  "179.232.15.61": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
     ]
   },
   "18.228.193.88": {
@@ -1149,6 +1119,16 @@
       11.0783
     ]
   },
+  "213.80.111.176": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "H\u00e4sselby strand",
+    "coordinates": [
+      59.3634,
+      17.8509
+    ]
+  },
   "216.128.130.98": {
     "region": "North America",
     "country": "United States",
@@ -1309,7 +1289,7 @@
       -6.26031
     ]
   },
-  "34.48.168.46": {
+  "34.85.214.135": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1467,16 +1447,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "45.77.113.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.8119,
-      -80.2318
     ]
   },
   "45.8.17.142": {
@@ -1699,16 +1669,6 @@
       -87.6709
     ]
   },
-  "68.118.196.221": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "East Longmeadow",
-    "coordinates": [
-      42.0686,
-      -72.5006
-    ]
-  },
   "69.221.115.25": {
     "region": "North America",
     "country": "United States",
@@ -1797,16 +1757,6 @@
     "coordinates": [
       37.1661,
       -93.2458
-    ]
-  },
-  "75.3.247.6": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Oakland",
-    "coordinates": [
-      37.8487,
-      -122.2209
     ]
   },
   "75.82.121.13": {
