@@ -719,6 +719,16 @@
       -0.1196
     ]
   },
+  "179.232.6.52": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
+    ]
+  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -899,16 +909,6 @@
       10.7522
     ]
   },
-  "194.193.130.172": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1079,6 +1079,16 @@
       30.3261
     ]
   },
+  "212.227.245.192": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Karlsruhe",
+    "coordinates": [
+      48.9921,
+      8.40221
+    ]
+  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1147,6 +1157,16 @@
     "coordinates": [
       44.9935,
       -92.9035
+    ]
+  },
+  "216.238.120.104": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Osasco",
+    "coordinates": [
+      -23.5312,
+      -46.7901
     ]
   },
   "217.197.202.211": {
@@ -1289,16 +1309,6 @@
       -6.26031
     ]
   },
-  "34.85.214.135": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1317,6 +1327,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.221.55.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.223.205.224": {
@@ -1359,6 +1379,16 @@
       19.0658
     ]
   },
+  "38.140.16.188": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenixville",
+    "coordinates": [
+      40.1262,
+      -75.5268
+    ]
+  },
   "38.57.161.19": {
     "region": "North America",
     "country": "United States",
@@ -1367,6 +1397,16 @@
     "coordinates": [
       30.2627,
       -97.7467
+    ]
+  },
+  "45.128.199.243": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "45.234.92.131": {
@@ -1447,16 +1487,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "45.8.17.142": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.2393,
-      6.1867
     ]
   },
   "46.227.68.148": {
@@ -1570,6 +1600,16 @@
     ]
   },
   "54.153.115.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
+    ]
+  },
+  "54.177.148.230": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1757,16 +1797,6 @@
     "coordinates": [
       37.1661,
       -93.2458
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "76.243.179.191": {
