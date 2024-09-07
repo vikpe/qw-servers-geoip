@@ -19,6 +19,16 @@
       115.886
     ]
   },
+  "103.112.0.130": {
+    "region": "Asia",
+    "country": "Pakistan",
+    "cc": "PK",
+    "city": "Multan",
+    "coordinates": [
+      30.1977,
+      71.474
+    ]
+  },
   "103.151.65.11": {
     "region": "North America",
     "country": "United States",
@@ -57,6 +67,16 @@
     "coordinates": [
       41.4993,
       -81.6944
+    ]
+  },
+  "104.198.220.87": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "104.207.135.230": {
@@ -327,6 +347,16 @@
     "coordinates": [
       12.9634,
       77.5855
+    ]
+  },
+  "140.82.195.229": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "141.105.67.104": {
@@ -719,7 +749,7 @@
       -0.1196
     ]
   },
-  "179.232.6.52": {
+  "179.232.5.120": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -837,6 +867,16 @@
     "coordinates": [
       50.1169,
       8.6837
+    ]
+  },
+  "188.226.133.102": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
     ]
   },
   "188.40.103.81": {
@@ -1049,6 +1089,16 @@
       -96.8021
     ]
   },
+  "208.72.153.30": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Honolulu",
+    "coordinates": [
+      21.3513,
+      -157.8725
+    ]
+  },
   "208.83.237.9": {
     "region": "North America",
     "country": "United States",
@@ -1067,6 +1117,16 @@
     "coordinates": [
       21.3513,
       -157.8725
+    ]
+  },
+  "212.127.73.212": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1099,
+      17.057
     ]
   },
   "212.193.49.233": {
@@ -1239,6 +1299,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "24.192.31.59": {
     "region": "North America",
     "country": "United States",
@@ -1309,6 +1379,16 @@
       -6.26031
     ]
   },
+  "34.86.235.70": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1327,26 +1407,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.221.55.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
-  "35.223.205.224": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "37.123.190.229": {
@@ -1610,16 +1670,6 @@
     ]
   },
   "54.177.148.230": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
-    ]
-  },
-  "54.177.92.188": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -2007,16 +2057,6 @@
     "coordinates": [
       47.5053,
       7.5477
-    ]
-  },
-  "94.254.2.158": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Limhamn",
-    "coordinates": [
-      55.5811,
-      12.9553
     ]
   },
   "95.165.130.151": {
