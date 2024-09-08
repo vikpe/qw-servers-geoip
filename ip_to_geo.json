@@ -749,7 +749,7 @@
       -0.1196
     ]
   },
-  "179.232.5.120": {
+  "179.232.5.60": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1299,16 +1299,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "24.192.31.59": {
     "region": "North America",
     "country": "United States",
@@ -1379,7 +1369,7 @@
       -6.26031
     ]
   },
-  "34.86.235.70": {
+  "34.48.166.39": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1939,6 +1929,16 @@
       18.1223
     ]
   },
+  "85.230.199.12": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bandhagen",
+    "coordinates": [
+      59.275,
+      18.0435
+    ]
+  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -2057,6 +2057,16 @@
     "coordinates": [
       47.5053,
       7.5477
+    ]
+  },
+  "94.254.2.158": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Limhamn",
+    "coordinates": [
+      55.5811,
+      12.9553
     ]
   },
   "95.165.130.151": {
