@@ -709,6 +709,16 @@
       73.4001
     ]
   },
+  "177.144.187.119": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "177.144.187.221": {
     "region": "South America",
     "country": "Brazil",
@@ -1369,16 +1379,6 @@
       -6.26031
     ]
   },
-  "34.48.166.39": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1397,6 +1397,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.245.115.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1427,16 +1437,6 @@
     "coordinates": [
       47.5386,
       19.0658
-    ]
-  },
-  "38.140.16.188": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenixville",
-    "coordinates": [
-      40.1262,
-      -75.5268
     ]
   },
   "38.57.161.19": {
@@ -1779,6 +1779,16 @@
       -104.9957
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1927,16 +1937,6 @@
     "coordinates": [
       59.2484,
       18.1223
-    ]
-  },
-  "85.230.199.12": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bandhagen",
-    "coordinates": [
-      59.275,
-      18.0435
     ]
   },
   "85.28.131.207": {
