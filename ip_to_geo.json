@@ -259,16 +259,6 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.180.100.135": {
     "region": "North America",
     "country": "United States",
@@ -679,16 +669,6 @@
       -80.1946
     ]
   },
-  "174.138.43.249": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Bergen",
-    "coordinates": [
-      40.793,
-      -74.0247
-    ]
-  },
   "174.140.69.134": {
     "region": "North America",
     "country": "United States",
@@ -737,16 +717,6 @@
     "coordinates": [
       -20.5395,
       -47.4011
-    ]
-  },
-  "178.79.135.210": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5074,
-      -0.1196
     ]
   },
   "179.232.5.60": {
@@ -939,16 +909,6 @@
       10.7522
     ]
   },
-  "194.193.130.172": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1117,16 +1077,6 @@
     "coordinates": [
       21.3513,
       -157.8725
-    ]
-  },
-  "212.127.73.212": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.1099,
-      17.057
     ]
   },
   "212.193.49.233": {
@@ -1369,7 +1319,7 @@
       -6.26031
     ]
   },
-  "34.85.222.226": {
+  "34.86.152.148": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1439,7 +1389,7 @@
       -97.7467
     ]
   },
-  "45.128.199.243": {
+  "45.128.199.41": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1499,16 +1449,6 @@
       -96.7028
     ]
   },
-  "45.33.88.53": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cedar Knolls",
-    "coordinates": [
-      40.8229,
-      -74.4592
-    ]
-  },
   "45.76.26.183": {
     "region": "North America",
     "country": "United States",
@@ -1527,16 +1467,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "46.204.8.161": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Katowice",
-    "coordinates": [
-      50.2528,
-      19.0295
     ]
   },
   "46.227.68.148": {
@@ -1769,6 +1699,16 @@
       17.9155
     ]
   },
+  "72.104.9.220": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      40.058,
+      -75.1876
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1839,6 +1779,16 @@
       -93.2458
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1897,16 +1847,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.227.200.13": {
