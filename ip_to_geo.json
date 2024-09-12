@@ -259,6 +259,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.180.100.135": {
     "region": "North America",
     "country": "United States",
@@ -457,6 +467,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "155.4.244.44": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
     ]
   },
   "157.245.35.15": {
@@ -909,6 +929,16 @@
       10.7522
     ]
   },
+  "194.193.130.172": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1179,16 +1209,6 @@
       -46.7901
     ]
   },
-  "217.197.202.211": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Chernogolovka",
-    "coordinates": [
-      56.0098,
-      38.3787
-    ]
-  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1299,6 +1319,16 @@
       -80.013
     ]
   },
+  "34.150.174.170": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1317,16 +1347,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "34.86.152.148": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1467,6 +1487,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.204.8.161": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.2528,
+      19.0295
     ]
   },
   "46.227.68.148": {
