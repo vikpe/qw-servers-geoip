@@ -189,16 +189,6 @@
       4.9392
     ]
   },
-  "129.146.253.163": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.4656,
-      -111.9956
-    ]
-  },
   "129.148.39.85": {
     "region": "South America",
     "country": "Brazil",
@@ -699,16 +689,6 @@
       73.4001
     ]
   },
-  "177.144.187.119": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -727,6 +707,16 @@
     "coordinates": [
       -20.5395,
       -47.4011
+    ]
+  },
+  "178.79.135.210": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5074,
+      -0.1196
     ]
   },
   "179.232.5.60": {
@@ -809,6 +799,16 @@
       14.9942
     ]
   },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wo\u0142omin",
+    "coordinates": [
+      52.3521,
+      21.247
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -857,6 +857,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "191.13.206.175": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "192.9.173.60": {
@@ -917,6 +927,16 @@
     "coordinates": [
       59.9139,
       10.7522
+    ]
+  },
+  "194.193.130.172": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "194.38.96.52": {
@@ -1019,14 +1039,14 @@
       -58.4283
     ]
   },
-  "202.47.179.132": {
+  "202.63.65.43": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Melbourne",
+    "city": "Brisbane",
     "coordinates": [
-      -37.8159,
-      144.9669
+      -27.2442,
+      153.1135
     ]
   },
   "206.51.245.84": {
@@ -1239,16 +1259,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "24.192.31.59": {
     "region": "North America",
     "country": "United States",
@@ -1319,7 +1329,7 @@
       -6.26031
     ]
   },
-  "34.86.195.76": {
+  "34.48.123.215": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1447,6 +1457,16 @@
     "coordinates": [
       32.9473,
       -96.7028
+    ]
+  },
+  "45.33.88.53": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cedar Knolls",
+    "coordinates": [
+      40.8229,
+      -74.4592
     ]
   },
   "45.76.26.183": {
