@@ -159,6 +159,16 @@
       11.0783
     ]
   },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.5586,
+      153.0981
+    ]
+  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -829,6 +839,16 @@
       -0.1223
     ]
   },
+  "188.165.237.173": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Roubaix",
+    "coordinates": [
+      50.6918,
+      3.2021
+    ]
+  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1037,16 +1057,6 @@
     "coordinates": [
       -34.58,
       -58.4283
-    ]
-  },
-  "202.63.65.43": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.2442,
-      153.1135
     ]
   },
   "206.51.245.84": {
@@ -1349,16 +1359,6 @@
       -80.013
     ]
   },
-  "35.230.181.22": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "37.123.190.229": {
     "region": "Europe",
     "country": "Sweden",
@@ -1659,16 +1659,6 @@
       23.3289
     ]
   },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1737,16 +1727,6 @@
     "coordinates": [
       39.7501,
       -104.9957
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
