@@ -219,6 +219,16 @@
       -46.6361
     ]
   },
+  "13.245.119.116": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": [
+      -26.2041,
+      28.0473
+    ]
+  },
   "13.48.133.81": {
     "region": "Europe",
     "country": "Sweden",
@@ -1049,16 +1059,6 @@
       -104.816154
     ]
   },
-  "200.55.247.185": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Palermo",
-    "coordinates": [
-      -34.58,
-      -58.4283
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1337,6 +1337,16 @@
     "coordinates": [
       53.3498,
       -6.26031
+    ]
+  },
+  "34.86.233.44": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1659,6 +1669,16 @@
       23.3289
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1687,16 +1707,6 @@
     "coordinates": [
       45.0925,
       -87.6709
-    ]
-  },
-  "69.221.115.25": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Boca Raton",
-    "coordinates": [
-      26.3432,
-      -80.2116
     ]
   },
   "70.34.206.203": {
@@ -1929,6 +1939,16 @@
       8.7399
     ]
   },
+  "87.206.223.6": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.117,
+      17.0401
+    ]
+  },
   "89.108.64.237": {
     "region": "Europe",
     "country": "Russia",
@@ -2077,16 +2097,6 @@
     "coordinates": [
       59.3241,
       18.0517
-    ]
-  },
-  "98.208.219.227": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fort Myers",
-    "coordinates": [
-      26.6681,
-      -81.7646
     ]
   },
   "99.72.255.45": {
