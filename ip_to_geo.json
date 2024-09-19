@@ -279,16 +279,6 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.180.100.135": {
     "region": "North America",
     "country": "United States",
@@ -709,6 +699,16 @@
       -79.7249
     ]
   },
+  "174.73.34.53": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Roanoke",
+    "coordinates": [
+      37.3053,
+      -79.9252
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -847,6 +847,16 @@
     "coordinates": [
       51.4993,
       -0.1223
+    ]
+  },
+  "187.10.143.70": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5335,
+      -46.6359
     ]
   },
   "188.165.237.173": {
@@ -1059,6 +1069,26 @@
       -104.816154
     ]
   },
+  "200.55.247.185": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Palermo",
+    "coordinates": [
+      -34.58,
+      -58.4283
+    ]
+  },
+  "202.47.179.132": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1199,16 +1229,6 @@
       -92.9035
     ]
   },
-  "216.238.120.104": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Osasco",
-    "coordinates": [
-      -23.5312,
-      -46.7901
-    ]
-  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1339,16 +1359,6 @@
       -6.26031
     ]
   },
-  "34.86.233.44": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1367,6 +1377,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.245.7.73": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1719,16 +1739,6 @@
       17.9155
     ]
   },
-  "72.104.9.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      40.058,
-      -75.1876
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1737,16 +1747,6 @@
     "coordinates": [
       39.7501,
       -104.9957
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
     ]
   },
   "74.91.120.206": {
@@ -1797,6 +1797,16 @@
     "coordinates": [
       37.1661,
       -93.2458
+    ]
+  },
+  "75.192.190.230": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      39.9739,
+      -75.1456
     ]
   },
   "75.82.121.13": {
@@ -2097,6 +2107,16 @@
     "coordinates": [
       59.3241,
       18.0517
+    ]
+  },
+  "98.208.219.227": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fort Myers",
+    "coordinates": [
+      26.6681,
+      -81.7646
     ]
   },
   "99.72.255.45": {
