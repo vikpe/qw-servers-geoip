@@ -309,6 +309,16 @@
       12.3649
     ]
   },
+  "136.244.100.4": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3891,
+      4.6563
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -689,6 +699,16 @@
       -80.1946
     ]
   },
+  "174.138.43.249": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Bergen",
+    "coordinates": [
+      40.793,
+      -74.0247
+    ]
+  },
   "174.140.69.134": {
     "region": "North America",
     "country": "United States",
@@ -849,16 +869,6 @@
       -0.1223
     ]
   },
-  "187.10.143.70": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5335,
-      -46.6359
-    ]
-  },
   "188.165.237.173": {
     "region": "Europe",
     "country": "France",
@@ -977,6 +987,16 @@
     "coordinates": [
       59.9139,
       10.7522
+    ]
+  },
+  "194.193.130.172": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "194.38.96.52": {
@@ -1229,6 +1249,16 @@
       -92.9035
     ]
   },
+  "217.197.202.211": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Chernogolovka",
+    "coordinates": [
+      56.0098,
+      38.3787
+    ]
+  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1379,7 +1409,7 @@
       -80.013
     ]
   },
-  "35.245.7.73": {
+  "35.236.209.52": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1507,6 +1537,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.204.8.161": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Katowice",
+    "coordinates": [
+      50.2528,
+      19.0295
     ]
   },
   "46.227.68.148": {
@@ -1749,6 +1789,16 @@
       -104.9957
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1807,16 +1857,6 @@
     "coordinates": [
       39.9739,
       -75.1456
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1919,16 +1959,6 @@
       19.5014
     ]
   },
-  "86.141.106.127": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Dungannon",
-    "coordinates": [
-      54.5256,
-      -6.6791
-    ]
-  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -1947,16 +1977,6 @@
     "coordinates": [
       48.709,
       8.7399
-    ]
-  },
-  "87.206.223.6": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.117,
-      17.0401
     ]
   },
   "89.108.64.237": {
@@ -2117,6 +2137,16 @@
     "coordinates": [
       26.6681,
       -81.7646
+    ]
+  },
+  "99.213.86.242": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Markham",
+    "coordinates": [
+      43.9016,
+      -79.3427
     ]
   },
   "99.72.255.45": {
