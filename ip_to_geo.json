@@ -899,6 +899,16 @@
       8.6837
     ]
   },
+  "188.166.188.207": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.32123,
+      103.695
+    ]
+  },
   "188.226.133.102": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -919,7 +929,7 @@
       12.3649
     ]
   },
-  "191.13.206.175": {
+  "189.46.21.118": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -987,16 +997,6 @@
     "coordinates": [
       59.9139,
       10.7522
-    ]
-  },
-  "194.193.130.172": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
     ]
   },
   "194.38.96.52": {
@@ -1409,7 +1409,7 @@
       -80.013
     ]
   },
-  "35.236.209.52": {
+  "35.245.45.207": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1539,16 +1539,6 @@
       -96.8021
     ]
   },
-  "46.204.8.161": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Katowice",
-    "coordinates": [
-      50.2528,
-      19.0295
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1567,16 +1557,6 @@
     "coordinates": [
       39.0469,
       -77.4903
-    ]
-  },
-  "50.116.17.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Richardson",
-    "coordinates": [
-      32.9473,
-      -96.7028
     ]
   },
   "50.47.102.94": {
@@ -1707,16 +1687,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "61.245.153.149": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Adelaide",
-    "coordinates": [
-      -34.8782,
-      138.617
     ]
   },
   "62.80.247.69": {
@@ -1859,6 +1829,16 @@
       -75.1456
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1977,6 +1957,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "87.206.223.6": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.117,
+      17.0401
     ]
   },
   "89.108.64.237": {
