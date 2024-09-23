@@ -19,7 +19,7 @@
       18.4811
     ]
   },
-  "103.106.89.9": {
+  "103.106.90.157": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -200,16 +200,6 @@
     ]
   },
   "129.148.39.85": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
-    ]
-  },
-  "129.148.62.213": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1259,16 +1249,6 @@
       -92.9035
     ]
   },
-  "217.197.202.211": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Chernogolovka",
-    "coordinates": [
-      56.0098,
-      38.3787
-    ]
-  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1399,7 +1379,7 @@
       -6.26031
     ]
   },
-  "34.48.158.89": {
+  "34.48.162.127": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1769,6 +1749,16 @@
       -104.9957
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1969,16 +1959,6 @@
       8.7399
     ]
   },
-  "87.206.223.6": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.117,
-      17.0401
-    ]
-  },
   "89.108.64.237": {
     "region": "Europe",
     "country": "Russia",
@@ -2067,6 +2047,16 @@
     "coordinates": [
       55.5811,
       12.9553
+    ]
+  },
+  "94.254.94.4": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lund",
+    "coordinates": [
+      55.7037,
+      13.1946
     ]
   },
   "95.165.130.151": {
