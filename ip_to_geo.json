@@ -149,6 +149,16 @@
       -0.127586
     ]
   },
+  "114.35.54.116": {
+    "region": "Asia",
+    "country": "Taiwan",
+    "cc": "TW",
+    "city": "New Taipei City",
+    "coordinates": [
+      24.9466,
+      121.586
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -157,16 +167,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.5586,
-      153.0981
     ]
   },
   "118.67.199.81": {
@@ -207,16 +207,6 @@
     "coordinates": [
       -23.5475,
       -46.6361
-    ]
-  },
-  "13.245.119.116": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Johannesburg",
-    "coordinates": [
-      -26.2041,
-      28.0473
     ]
   },
   "13.48.133.81": {
@@ -909,6 +899,16 @@
       103.695
     ]
   },
+  "188.208.143.29": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Lisbon",
+    "coordinates": [
+      38.731,
+      -9.1373
+    ]
+  },
   "188.226.133.102": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1369,6 +1369,16 @@
       -77.4874
     ]
   },
+  "34.21.21.248": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1377,16 +1387,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "34.48.162.127": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1749,16 +1749,6 @@
       -104.9957
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -2019,16 +2009,6 @@
       14.0081
     ]
   },
-  "92.35.17.241": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Link\u00f6ping",
-    "coordinates": [
-      58.4016,
-      15.6462
-    ]
-  },
   "94.16.128.193": {
     "region": "Europe",
     "country": "Switzerland",
@@ -2047,16 +2027,6 @@
     "coordinates": [
       55.5811,
       12.9553
-    ]
-  },
-  "94.254.94.4": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Lund",
-    "coordinates": [
-      55.7037,
-      13.1946
     ]
   },
   "95.165.130.151": {
@@ -2127,16 +2097,6 @@
     "coordinates": [
       26.6681,
       -81.7646
-    ]
-  },
-  "99.213.86.242": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Markham",
-    "coordinates": [
-      43.9016,
-      -79.3427
     ]
   },
   "99.72.255.45": {
