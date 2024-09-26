@@ -409,6 +409,16 @@
       17.0335
     ]
   },
+  "147.135.208.107": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.0957,
+      17.0324
+    ]
+  },
   "147.135.209.225": {
     "region": "Europe",
     "country": "Poland",
@@ -557,6 +567,16 @@
     "coordinates": [
       35.6893,
       139.6899
+    ]
+  },
+  "162.19.231.86": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Limburg an der Lahn",
+    "coordinates": [
+      50.3986,
+      8.07958
     ]
   },
   "162.248.92.183": {
@@ -999,16 +1019,6 @@
       10.7522
     ]
   },
-  "194.193.130.172": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1257,6 +1267,26 @@
     "coordinates": [
       44.9935,
       -92.9035
+    ]
+  },
+  "216.249.103.87": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elkin",
+    "coordinates": [
+      36.2867,
+      -80.86
+    ]
+  },
+  "217.197.202.211": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Chernogolovka",
+    "coordinates": [
+      56.0098,
+      38.3787
     ]
   },
   "217.197.83.154": {
@@ -1579,6 +1609,26 @@
       7.75211
     ]
   },
+  "51.210.96.44": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Gravelines",
+    "coordinates": [
+      50.9959,
+      2.11757
+    ]
+  },
+  "51.68.45.110": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Gravelines",
+    "coordinates": [
+      50.9871,
+      2.12554
+    ]
+  },
   "51.77.239.26": {
     "region": "Europe",
     "country": "France",
@@ -1587,6 +1637,16 @@
     "coordinates": [
       50.6916,
       3.20151
+    ]
+  },
+  "51.91.100.231": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Strasbourg",
+    "coordinates": [
+      48.5734,
+      7.75211
     ]
   },
   "52.215.55.73": {
@@ -1759,16 +1819,6 @@
       -104.9957
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1819,24 +1869,14 @@
       -93.2458
     ]
   },
-  "75.192.190.230": {
+  "75.215.229.167": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Elkins Park",
     "coordinates": [
-      39.9739,
-      -75.1456
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
+      40.0782,
+      -75.1299
     ]
   },
   "78.45.89.65": {
@@ -1897,16 +1937,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.227.200.13": {
