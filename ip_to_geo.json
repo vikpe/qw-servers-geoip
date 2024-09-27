@@ -359,6 +359,16 @@
       77.5855
     ]
   },
+  "139.99.134.30": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
+    ]
+  },
   "140.82.195.229": {
     "region": "Oceania",
     "country": "Australia",
@@ -467,6 +477,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "15.235.206.103": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.27989,
+      103.849
     ]
   },
   "152.67.110.136": {
@@ -739,6 +759,16 @@
       -79.9252
     ]
   },
+  "176.120.74.41": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.4163,
+      -3.6934
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -747,6 +777,16 @@
     "coordinates": [
       54.9978,
       73.4001
+    ]
+  },
+  "177.45.218.213": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "177.71.158.196": {
@@ -857,16 +897,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
     ]
   },
   "185.73.44.100": {
@@ -1279,16 +1309,6 @@
       -80.86
     ]
   },
-  "217.197.202.211": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Chernogolovka",
-    "coordinates": [
-      56.0098,
-      38.3787
-    ]
-  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1479,6 +1499,16 @@
       -97.7467
     ]
   },
+  "45.128.199.41": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
+    ]
+  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1579,16 +1609,6 @@
       -77.4903
     ]
   },
-  "5.182.39.123": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Lisbon",
-    "coordinates": [
-      38.731,
-      -9.1373
-    ]
-  },
   "50.47.102.94": {
     "region": "North America",
     "country": "United States",
@@ -1609,14 +1629,14 @@
       7.75211
     ]
   },
-  "51.210.96.44": {
+  "51.68.212.3": {
     "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Gravelines",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Erith",
     "coordinates": [
-      50.9959,
-      2.11757
+      51.4808,
+      0.174675
     ]
   },
   "51.68.45.110": {
@@ -1749,6 +1769,16 @@
       -46.6333
     ]
   },
+  "61.245.153.149": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Adelaide",
+    "coordinates": [
+      -34.8782,
+      138.617
+    ]
+  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1819,6 +1849,16 @@
       -104.9957
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1877,6 +1917,16 @@
     "coordinates": [
       40.0782,
       -75.1299
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -1989,7 +2039,7 @@
       13.405
     ]
   },
-  "87.189.51.203": {
+  "87.189.56.32": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
