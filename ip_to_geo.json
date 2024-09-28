@@ -179,6 +179,16 @@
       153.0981
     ]
   },
+  "116.255.32.198": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8351,
+      145.1285
+    ]
+  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -237,6 +247,26 @@
     "coordinates": [
       59.3293,
       18.0686
+    ]
+  },
+  "13.57.199.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
+    ]
+  },
+  "13.71.126.240": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Chennai",
+    "coordinates": [
+      13.081185,
+      80.27178
     ]
   },
   "13.79.234.207": {
@@ -360,16 +390,6 @@
     ]
   },
   "139.99.134.30": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
-  "140.82.195.229": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -759,16 +779,6 @@
       -79.9252
     ]
   },
-  "176.120.74.41": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
-    "coordinates": [
-      40.4163,
-      -3.6934
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -979,16 +989,6 @@
       12.3649
     ]
   },
-  "189.46.21.118": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "192.9.173.60": {
     "region": "Oceania",
     "country": "Australia",
@@ -1049,6 +1049,16 @@
       10.7522
     ]
   },
+  "194.156.154.218": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.5196,
+      13.4069
+    ]
+  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1107,6 +1117,16 @@
     "coordinates": [
       35.68,
       139.77
+    ]
+  },
+  "20.244.95.169": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Pune",
+    "coordinates": [
+      18.5144,
+      73.864235
     ]
   },
   "20.245.6.70": {
@@ -1849,16 +1869,6 @@
       -104.9957
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1969,6 +1979,16 @@
       11.6091
     ]
   },
+  "80.92.205.159": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Secaucus",
+    "coordinates": [
+      40.7876,
+      -74.06
+    ]
+  },
   "81.169.207.127": {
     "region": "Europe",
     "country": "Germany",
@@ -1987,6 +2007,16 @@
     "coordinates": [
       62.3772,
       17.3203
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.227.200.13": {
