@@ -399,6 +399,16 @@
       151.2006
     ]
   },
+  "140.82.195.229": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
+    ]
+  },
   "141.105.67.104": {
     "region": "Europe",
     "country": "Russia",
@@ -789,16 +799,6 @@
       73.4001
     ]
   },
-  "177.45.218.213": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -807,6 +807,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "177.76.49.8": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "177.93.135.160": {
@@ -1159,16 +1169,6 @@
       -104.816154
     ]
   },
-  "200.55.247.185": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Palermo",
-    "coordinates": [
-      -34.58,
-      -58.4283
-    ]
-  },
   "202.47.179.132": {
     "region": "Oceania",
     "country": "Australia",
@@ -1409,16 +1409,6 @@
       151.2002
     ]
   },
-  "3.108.227.32": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.076,
-      72.8777
-    ]
-  },
   "3.94.62.64": {
     "region": "North America",
     "country": "United States",
@@ -1457,6 +1447,16 @@
     "coordinates": [
       53.3498,
       -6.26031
+    ]
+  },
+  "34.48.115.9": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1537,6 +1537,16 @@
     "coordinates": [
       -3.7139,
       -38.5409
+    ]
+  },
+  "45.235.98.10": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
     ]
   },
   "45.32.196.50": {
