@@ -169,16 +169,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.5586,
-      153.0981
-    ]
-  },
   "116.255.32.198": {
     "region": "Oceania",
     "country": "Australia",
@@ -259,16 +249,6 @@
       -121.895
     ]
   },
-  "13.71.126.240": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Chennai",
-    "coordinates": [
-      13.081185,
-      80.27178
-    ]
-  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -297,6 +277,16 @@
     "coordinates": [
       59.342,
       18.0623
+    ]
+  },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
     ]
   },
   "135.180.100.135": {
@@ -1129,16 +1119,6 @@
       139.77
     ]
   },
-  "20.244.95.169": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Pune",
-    "coordinates": [
-      18.5144,
-      73.864235
-    ]
-  },
   "20.245.6.70": {
     "region": "North America",
     "country": "United States",
@@ -1419,6 +1399,16 @@
       -77.4874
     ]
   },
+  "34.145.160.180": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1447,16 +1437,6 @@
     "coordinates": [
       53.3498,
       -6.26031
-    ]
-  },
-  "34.48.115.9": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1799,16 +1779,6 @@
       -46.6333
     ]
   },
-  "61.245.153.149": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Adelaide",
-    "coordinates": [
-      -34.8782,
-      138.617
-    ]
-  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1877,6 +1847,36 @@
     "coordinates": [
       39.7501,
       -104.9957
+    ]
+  },
+  "73.182.156.169": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
     ]
   },
   "74.91.120.206": {
@@ -2017,16 +2017,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.227.200.13": {
