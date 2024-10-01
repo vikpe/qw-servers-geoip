@@ -169,6 +169,16 @@
       11.0783
     ]
   },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.5586,
+      153.0981
+    ]
+  },
   "116.255.32.198": {
     "region": "Oceania",
     "country": "Australia",
@@ -989,6 +999,16 @@
       12.3649
     ]
   },
+  "190.20.203.20": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Santiago",
+    "coordinates": [
+      -33.4521,
+      -70.6536
+    ]
+  },
   "192.9.173.60": {
     "region": "Oceania",
     "country": "Australia",
@@ -1399,7 +1419,7 @@
       -77.4874
     ]
   },
-  "34.145.160.180": {
+  "34.145.230.148": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1849,34 +1869,14 @@
       -104.9957
     ]
   },
-  "73.182.156.169": {
+  "73.123.216.240": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Danbury",
+    "city": "Shelton",
     "coordinates": [
-      41.3908,
-      -73.4483
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
+      41.3054,
+      -73.1217
     ]
   },
   "74.91.120.206": {
@@ -2017,6 +2017,16 @@
     "coordinates": [
       62.3772,
       17.3203
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.227.200.13": {
