@@ -569,6 +569,16 @@
       -99.76158
     ]
   },
+  "158.248.13.196": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9016,
+      10.7343
+    ]
+  },
   "16.50.158.34": {
     "region": "Oceania",
     "country": "Australia",
@@ -759,16 +769,6 @@
       -79.7249
     ]
   },
-  "174.73.34.53": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Roanoke",
-    "coordinates": [
-      37.3053,
-      -79.9252
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -787,16 +787,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "177.76.49.8": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
     ]
   },
   "177.93.135.160": {
@@ -909,6 +899,16 @@
       -46.6359
     ]
   },
+  "185.47.255.101": {
+    "region": "North America",
+    "country": "Puerto Rico",
+    "cc": "PR",
+    "city": "San Juan",
+    "coordinates": [
+      18.4655,
+      -66.1057
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -989,7 +989,17 @@
       12.3649
     ]
   },
-  "190.20.203.20": {
+  "189.110.234.238": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
+  "190.20.215.65": {
     "region": "South America",
     "country": "Chile",
     "cc": "CL",
@@ -1017,16 +1027,6 @@
     "coordinates": [
       45.5029,
       -73.5723
-    ]
-  },
-  "193.124.114.151": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7483,
-      37.6171
     ]
   },
   "193.227.134.114": {
@@ -1067,6 +1067,16 @@
     "coordinates": [
       52.5196,
       13.4069
+    ]
+  },
+  "194.193.130.172": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "194.38.96.52": {
@@ -1459,7 +1469,7 @@
       -80.013
     ]
   },
-  "35.245.175.154": {
+  "35.221.58.127": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1859,16 +1869,6 @@
       -104.9957
     ]
   },
-  "73.123.216.240": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Shelton",
-    "coordinates": [
-      41.3054,
-      -73.1217
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1929,14 +1929,14 @@
       -93.2458
     ]
   },
-  "75.215.229.167": {
+  "75.215.225.162": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Elkins Park",
+    "city": "Villanova",
     "coordinates": [
-      40.0782,
-      -75.1299
+      40.0428,
+      -75.3506
     ]
   },
   "75.82.121.13": {
@@ -2017,16 +2017,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.227.200.13": {
@@ -2147,16 +2137,6 @@
     "coordinates": [
       51.5925,
       14.0081
-    ]
-  },
-  "92.35.17.241": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Link\u00f6ping",
-    "coordinates": [
-      58.4016,
-      15.6462
     ]
   },
   "94.16.128.193": {
