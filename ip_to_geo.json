@@ -79,16 +79,6 @@
       -83.0458
     ]
   },
-  "104.198.220.87": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -739,6 +729,16 @@
       -80.1946
     ]
   },
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -847,16 +847,6 @@
     "coordinates": [
       48.8909,
       2.2093
-    ]
-  },
-  "185.173.165.125": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Galway",
-    "coordinates": [
-      53.2689,
-      -9.0533
     ]
   },
   "185.189.139.18": {
@@ -979,16 +969,6 @@
       12.3649
     ]
   },
-  "189.110.234.238": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "190.20.215.65": {
     "region": "South America",
     "country": "Chile",
@@ -997,6 +977,16 @@
     "coordinates": [
       -33.4521,
       -70.6536
+    ]
+  },
+  "191.9.104.106": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "192.9.173.60": {
@@ -1057,16 +1047,6 @@
     "coordinates": [
       52.5196,
       13.4069
-    ]
-  },
-  "194.193.130.172": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.9088,
-      144.9953
     ]
   },
   "194.38.96.52": {
@@ -1319,6 +1299,16 @@
       13.4069
     ]
   },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8399,
+      151.0583
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1389,6 +1379,16 @@
       151.2002
     ]
   },
+  "3.108.227.32": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Mumbai",
+    "coordinates": [
+      19.076,
+      72.8777
+    ]
+  },
   "3.94.62.64": {
     "region": "North America",
     "country": "United States",
@@ -1407,16 +1407,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.150.163.7": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.201.64.11": {
@@ -1467,6 +1457,26 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.226.93.104": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
+  "35.245.2.255": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1869,16 +1879,6 @@
       -73.1217
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -1937,16 +1937,6 @@
     "coordinates": [
       39.9528,
       -75.1646
-    ]
-  },
-  "75.215.225.162": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Millersville",
-    "coordinates": [
-      39.9999,
-      -76.3612
     ]
   },
   "75.82.121.13": {
@@ -2029,14 +2019,14 @@
       17.3203
     ]
   },
-  "84.39.252.192": {
+  "83.245.190.207": {
     "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Nurmij\u00e4rvi",
     "coordinates": [
-      54.741,
-      55.9891
+      60.4666,
+      24.8233
     ]
   },
   "85.227.200.13": {
@@ -2147,6 +2137,16 @@
     "coordinates": [
       55.7483,
       37.6171
+    ]
+  },
+  "91.218.183.179": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5074,
+      -0.1196
     ]
   },
   "92.210.241.17": {
