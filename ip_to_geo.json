@@ -159,16 +159,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.028
-    ]
-  },
   "116.255.32.198": {
     "region": "Oceania",
     "country": "Australia",
@@ -879,6 +869,16 @@
       -46.6359
     ]
   },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wo\u0142omin",
+    "coordinates": [
+      52.3521,
+      21.247
+    ]
+  },
   "185.47.255.101": {
     "region": "North America",
     "country": "Puerto Rico",
@@ -969,7 +969,7 @@
       12.3649
     ]
   },
-  "190.20.215.65": {
+  "190.20.221.48": {
     "region": "South America",
     "country": "Chile",
     "cc": "CL",
@@ -1469,7 +1469,7 @@
       -95.8608
     ]
   },
-  "35.245.2.255": {
+  "35.236.209.98": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -2017,16 +2017,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "83.245.190.207": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Nurmij\u00e4rvi",
-    "coordinates": [
-      60.4666,
-      24.8233
     ]
   },
   "85.227.200.13": {
