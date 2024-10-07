@@ -159,6 +159,16 @@
       11.0783
     ]
   },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.028
+    ]
+  },
   "116.255.32.198": {
     "region": "Oceania",
     "country": "Australia",
@@ -1139,6 +1149,16 @@
       -104.816154
     ]
   },
+  "202.47.179.132": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1409,6 +1429,16 @@
       -80.013
     ]
   },
+  "34.150.239.9": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1459,7 +1489,7 @@
       -80.013
     ]
   },
-  "35.226.93.104": {
+  "35.232.41.85": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1467,16 +1497,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "35.236.209.98": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1879,6 +1899,26 @@
       -73.1217
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
+    ]
+  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -2017,6 +2057,16 @@
     "coordinates": [
       62.3772,
       17.3203
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.227.200.13": {
