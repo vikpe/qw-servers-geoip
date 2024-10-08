@@ -729,6 +729,16 @@
       -80.1946
     ]
   },
+  "172.234.195.42": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8874,
+      -87.6318
+    ]
+  },
   "173.218.133.145": {
     "region": "North America",
     "country": "United States",
@@ -1319,16 +1329,6 @@
       13.4069
     ]
   },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8399,
-      151.0583
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1377,6 +1377,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "24.192.31.59": {
@@ -1429,16 +1439,6 @@
       -80.013
     ]
   },
-  "34.150.239.9": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1467,6 +1467,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.85.255.10": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1899,16 +1909,6 @@
       -73.1217
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -2057,16 +2057,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.227.200.13": {
