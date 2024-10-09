@@ -809,6 +809,16 @@
       -0.1196
     ]
   },
+  "179.232.5.60": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
+    ]
+  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -857,6 +867,16 @@
     "coordinates": [
       48.8909,
       2.2093
+    ]
+  },
+  "185.173.165.125": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Galway",
+    "coordinates": [
+      53.2689,
+      -9.0533
     ]
   },
   "185.189.139.18": {
@@ -989,7 +1009,7 @@
       12.3649
     ]
   },
-  "190.20.221.48": {
+  "190.20.198.182": {
     "region": "South America",
     "country": "Chile",
     "cc": "CL",
@@ -1329,6 +1349,16 @@
       13.4069
     ]
   },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8399,
+      151.0583
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1377,16 +1407,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "24.192.31.59": {
@@ -1469,7 +1489,7 @@
       13.4049
     ]
   },
-  "34.85.255.10": {
+  "34.86.163.86": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1497,6 +1517,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.228.18.179": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Lappeenranta",
+    "coordinates": [
+      61.0549,
+      28.1896
     ]
   },
   "35.232.41.85": {
@@ -1709,16 +1739,6 @@
       2.12554
     ]
   },
-  "51.77.239.26": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Roubaix",
-    "coordinates": [
-      50.6924,
-      3.20113
-    ]
-  },
   "51.91.100.231": {
     "region": "Europe",
     "country": "France",
@@ -1909,16 +1929,6 @@
       -73.1217
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "74.91.120.206": {
     "region": "North America",
     "country": "United States",
@@ -2059,6 +2069,16 @@
       17.3203
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.227.200.13": {
     "region": "Europe",
     "country": "Sweden",
@@ -2187,16 +2207,6 @@
     "coordinates": [
       51.5925,
       14.0081
-    ]
-  },
-  "92.35.17.241": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Link\u00f6ping",
-    "coordinates": [
-      58.4016,
-      15.6462
     ]
   },
   "94.16.128.193": {
