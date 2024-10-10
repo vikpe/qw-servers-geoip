@@ -19,14 +19,14 @@
       18.4811
     ]
   },
-  "103.106.90.157": {
+  "103.106.91.80": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -32.0301,
-      115.973
+      -31.9114,
+      115.8876
     ]
   },
   "103.112.0.130": {
@@ -809,16 +809,6 @@
       -0.1196
     ]
   },
-  "179.232.5.60": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
-    ]
-  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -1059,6 +1049,16 @@
       37.8294
     ]
   },
+  "193.36.116.117": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6798,
+      12.4287
+    ]
+  },
   "193.42.36.145": {
     "region": "Europe",
     "country": "Poland",
@@ -1067,16 +1067,6 @@
     "coordinates": [
       52.2296,
       21.0122
-    ]
-  },
-  "194.102.175.79": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9139,
-      10.7522
     ]
   },
   "194.156.154.218": {
@@ -1329,16 +1319,6 @@
       -92.9035
     ]
   },
-  "216.249.103.87": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elkin",
-    "coordinates": [
-      36.2867,
-      -80.86
-    ]
-  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1489,16 +1469,6 @@
       13.4049
     ]
   },
-  "34.86.163.86": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1519,14 +1489,14 @@
       -80.013
     ]
   },
-  "35.228.18.179": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Lappeenranta",
+  "35.188.237.151": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
     "coordinates": [
-      61.0549,
-      28.1896
+      38.9071,
+      -77.0368
     ]
   },
   "35.232.41.85": {
@@ -2069,16 +2039,6 @@
       17.3203
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.227.200.13": {
     "region": "Europe",
     "country": "Sweden",
@@ -2089,14 +2049,14 @@
       16.7697
     ]
   },
-  "85.229.46.241": {
+  "85.229.1.195": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Sk\u00f6ndal",
+    "city": "Tr\u00e5ngsund",
     "coordinates": [
-      59.2484,
-      18.1223
+      59.2322,
+      18.1257
     ]
   },
   "85.28.131.207": {
@@ -2127,16 +2087,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "87.189.54.63": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "89.108.64.237": {
@@ -2199,14 +2149,24 @@
       -0.1196
     ]
   },
-  "92.210.241.17": {
+  "91.55.92.215": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Gro\u00dfr\u00e4schen",
+    "city": "Calw",
     "coordinates": [
-      51.5925,
-      14.0081
+      48.709,
+      8.7399
+    ]
+  },
+  "92.35.17.241": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Link\u00f6ping",
+    "coordinates": [
+      58.4016,
+      15.6462
     ]
   },
   "94.16.128.193": {
@@ -2297,16 +2257,6 @@
     "coordinates": [
       59.3241,
       18.0517
-    ]
-  },
-  "98.208.219.227": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fort Myers",
-    "coordinates": [
-      26.6681,
-      -81.7646
     ]
   },
   "99.72.255.45": {
