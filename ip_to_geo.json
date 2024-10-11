@@ -859,16 +859,6 @@
       2.2093
     ]
   },
-  "185.173.165.125": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Galway",
-    "coordinates": [
-      53.2689,
-      -9.0533
-    ]
-  },
   "185.189.139.18": {
     "region": "Europe",
     "country": "Poland",
@@ -1429,6 +1419,16 @@
       -77.4874
     ]
   },
+  "34.116.228.178": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0122
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1487,16 +1487,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.188.237.151": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.232.41.85": {
@@ -1897,6 +1887,16 @@
     "coordinates": [
       41.3054,
       -73.1217
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
     ]
   },
   "74.91.120.206": {
