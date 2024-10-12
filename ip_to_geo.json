@@ -989,7 +989,7 @@
       12.3649
     ]
   },
-  "190.20.198.182": {
+  "190.20.221.165": {
     "region": "South America",
     "country": "Chile",
     "cc": "CL",
@@ -1489,6 +1489,16 @@
       -80.013
     ]
   },
+  "35.186.182.153": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.232.41.85": {
     "region": "North America",
     "country": "United States",
@@ -1889,14 +1899,14 @@
       -73.1217
     ]
   },
-  "73.23.130.187": {
+  "73.23.203.172": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Bonita Springs",
+    "city": "Cape Coral",
     "coordinates": [
-      26.3763,
-      -81.7344
+      26.6292,
+      -81.968
     ]
   },
   "74.91.120.206": {
@@ -2087,6 +2097,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "87.206.223.6": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.117,
+      17.0401
     ]
   },
   "89.108.64.237": {
