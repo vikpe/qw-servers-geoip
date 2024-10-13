@@ -359,16 +359,6 @@
       103.82
     ]
   },
-  "139.84.135.106": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Bengaluru",
-    "coordinates": [
-      12.9634,
-      77.5855
-    ]
-  },
   "139.99.134.30": {
     "region": "Oceania",
     "country": "Australia",
@@ -709,6 +699,16 @@
       -74.0565
     ]
   },
+  "171.4.4.236": {
+    "region": "Asia",
+    "country": "Thailand",
+    "cc": "TH",
+    "city": "Hua Hin",
+    "coordinates": [
+      12.5667,
+      99.9667
+    ]
+  },
   "172.105.184.44": {
     "region": "Oceania",
     "country": "Australia",
@@ -887,26 +887,6 @@
     "coordinates": [
       -23.5335,
       -46.6359
-    ]
-  },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
-    ]
-  },
-  "185.47.255.101": {
-    "region": "North America",
-    "country": "Puerto Rico",
-    "cc": "PR",
-    "city": "San Juan",
-    "coordinates": [
-      18.4655,
-      -66.1057
     ]
   },
   "185.73.44.100": {
@@ -1309,6 +1289,16 @@
       -92.9035
     ]
   },
+  "216.249.103.87": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elkin",
+    "coordinates": [
+      36.2867,
+      -80.86
+    ]
+  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1317,16 +1307,6 @@
     "coordinates": [
       52.5196,
       13.4069
-    ]
-  },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8399,
-      151.0583
     ]
   },
   "223.165.64.141": {
@@ -1469,6 +1449,16 @@
       13.4049
     ]
   },
+  "34.46.247.30": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1489,7 +1479,7 @@
       -80.013
     ]
   },
-  "35.186.182.153": {
+  "35.245.229.181": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1497,16 +1487,6 @@
     "coordinates": [
       38.9071,
       -77.0368
-    ]
-  },
-  "35.232.41.85": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "37.123.190.229": {
@@ -1897,6 +1877,16 @@
     "coordinates": [
       41.3054,
       -73.1217
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
     ]
   },
   "73.23.203.172": {
