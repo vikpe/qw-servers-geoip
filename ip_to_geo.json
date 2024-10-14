@@ -459,16 +459,6 @@
       -74.4606
     ]
   },
-  "15.181.21.107": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Portland",
-    "coordinates": [
-      45.5235,
-      -122.676
-    ]
-  },
   "15.228.58.59": {
     "region": "South America",
     "country": "Brazil",
@@ -697,16 +687,6 @@
     "coordinates": [
       40.7895,
       -74.0565
-    ]
-  },
-  "171.4.4.236": {
-    "region": "Asia",
-    "country": "Thailand",
-    "cc": "TH",
-    "city": "Hua Hin",
-    "coordinates": [
-      12.5667,
-      99.9667
     ]
   },
   "172.105.184.44": {
@@ -1399,16 +1379,6 @@
       -77.4874
     ]
   },
-  "34.116.228.178": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0122
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1459,6 +1429,16 @@
       -95.8608
     ]
   },
+  "34.48.173.151": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1477,16 +1457,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.229.181": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1809,16 +1779,6 @@
       23.3289
     ]
   },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1877,6 +1837,16 @@
     "coordinates": [
       41.3054,
       -73.1217
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -2019,16 +1989,6 @@
       -74.06
     ]
   },
-  "81.169.207.127": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.5234,
-      13.3224
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -2087,16 +2047,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "87.206.223.6": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.117,
-      17.0401
     ]
   },
   "89.108.64.237": {
