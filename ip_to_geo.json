@@ -949,7 +949,7 @@
       12.3649
     ]
   },
-  "190.20.221.165": {
+  "190.20.195.100": {
     "region": "South America",
     "country": "Chile",
     "cc": "CL",
@@ -1259,16 +1259,6 @@
       -96.8021
     ]
   },
-  "216.160.28.148": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lake Elmo",
-    "coordinates": [
-      44.9935,
-      -92.9035
-    ]
-  },
   "216.249.103.87": {
     "region": "North America",
     "country": "United States",
@@ -1429,16 +1419,6 @@
       -95.8608
     ]
   },
-  "34.48.173.151": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1457,6 +1437,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.245.134.172": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1499,7 +1489,7 @@
       -97.7467
     ]
   },
-  "45.128.199.41": {
+  "45.128.199.202": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1779,6 +1769,16 @@
       23.3289
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1837,26 +1837,6 @@
     "coordinates": [
       41.3054,
       -73.1217
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
     ]
   },
   "73.23.203.172": {
@@ -1927,16 +1907,6 @@
     "coordinates": [
       39.9528,
       -75.1646
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
