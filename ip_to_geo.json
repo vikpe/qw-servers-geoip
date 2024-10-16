@@ -789,6 +789,16 @@
       -0.1196
     ]
   },
+  "179.232.5.60": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
+    ]
+  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -839,6 +849,16 @@
       2.2093
     ]
   },
+  "185.173.165.125": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Galway",
+    "coordinates": [
+      53.2689,
+      -9.0533
+    ]
+  },
   "185.189.139.18": {
     "region": "Europe",
     "country": "Poland",
@@ -877,16 +897,6 @@
     "coordinates": [
       51.4201,
       -0.0782
-    ]
-  },
-  "188.165.237.173": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Roubaix",
-    "coordinates": [
-      50.6918,
-      3.2021
     ]
   },
   "188.166.0.137": {
@@ -1029,6 +1039,16 @@
       13.4069
     ]
   },
+  "194.158.215.192": {
+    "region": "Europe",
+    "country": "Belarus",
+    "cc": "BY",
+    "city": "Minsk",
+    "coordinates": [
+      53.9007,
+      27.5709
+    ]
+  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1147,16 +1167,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "208.72.153.30": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Honolulu",
-    "coordinates": [
-      21.3513,
-      -157.8725
     ]
   },
   "208.83.237.9": {
@@ -1439,16 +1449,6 @@
       -80.013
     ]
   },
-  "35.245.134.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "37.123.190.229": {
     "region": "Europe",
     "country": "Sweden",
@@ -1489,7 +1489,7 @@
       -97.7467
     ]
   },
-  "45.128.199.202": {
+  "45.128.199.71": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -1839,6 +1839,16 @@
       -73.1217
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1907,6 +1917,16 @@
     "coordinates": [
       39.9528,
       -75.1646
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
