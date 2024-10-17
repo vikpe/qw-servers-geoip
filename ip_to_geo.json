@@ -19,14 +19,14 @@
       18.4811
     ]
   },
-  "103.106.91.80": {
+  "103.106.91.186": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.9114,
-      115.8876
+      -31.92,
+      115.861
     ]
   },
   "103.112.0.130": {
@@ -279,16 +279,6 @@
       -77.3429
     ]
   },
-  "135.180.100.135": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Berkeley",
-    "coordinates": [
-      37.8657,
-      -122.2571
-    ]
-  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -360,16 +350,6 @@
     ]
   },
   "139.99.134.30": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
-  "140.82.195.229": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -457,6 +437,16 @@
     "coordinates": [
       40.5511,
       -74.4606
+    ]
+  },
+  "15.181.21.107": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Portland",
+    "coordinates": [
+      45.5235,
+      -122.676
     ]
   },
   "15.228.58.59": {
@@ -847,16 +837,6 @@
     "coordinates": [
       48.8909,
       2.2093
-    ]
-  },
-  "185.173.165.125": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Galway",
-    "coordinates": [
-      53.2689,
-      -9.0533
     ]
   },
   "185.189.139.18": {
@@ -1269,6 +1249,16 @@
       -96.8021
     ]
   },
+  "216.160.28.148": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lake Elmo",
+    "coordinates": [
+      44.9935,
+      -92.9035
+    ]
+  },
   "216.249.103.87": {
     "region": "North America",
     "country": "United States",
@@ -1429,6 +1419,16 @@
       -95.8608
     ]
   },
+  "34.86.123.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1487,16 +1487,6 @@
     "coordinates": [
       30.2627,
       -97.7467
-    ]
-  },
-  "45.128.199.71": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
     ]
   },
   "45.234.92.131": {
@@ -2037,6 +2027,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "88.129.191.196": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
     ]
   },
   "89.108.64.237": {
