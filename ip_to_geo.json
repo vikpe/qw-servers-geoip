@@ -69,16 +69,6 @@
       138.6321
     ]
   },
-  "103.72.77.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Detroit",
-    "coordinates": [
-      42.3314,
-      -83.0458
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -839,6 +829,16 @@
       2.2093
     ]
   },
+  "185.173.166.125": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Galway",
+    "coordinates": [
+      53.2689,
+      -9.0533
+    ]
+  },
   "185.189.139.18": {
     "region": "Europe",
     "country": "Poland",
@@ -919,16 +919,6 @@
       -9.1373
     ]
   },
-  "188.226.133.102": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
-    ]
-  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -939,7 +929,7 @@
       12.3649
     ]
   },
-  "190.20.195.100": {
+  "190.20.217.78": {
     "region": "South America",
     "country": "Chile",
     "cc": "CL",
@@ -1419,7 +1409,7 @@
       -95.8608
     ]
   },
-  "34.86.123.65": {
+  "34.86.58.42": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1909,16 +1899,6 @@
       -75.1646
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1979,6 +1959,16 @@
       17.3203
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.227.200.13": {
     "region": "Europe",
     "country": "Sweden",
@@ -2037,16 +2027,6 @@
     "coordinates": [
       59.3293,
       18.0686
-    ]
-  },
-  "89.108.64.237": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.8338,
-      37.4025
     ]
   },
   "89.151.207.164": {
@@ -2147,6 +2127,16 @@
     "coordinates": [
       55.7037,
       13.1946
+    ]
+  },
+  "94.45.205.16": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Dolgoprudny",
+    "coordinates": [
+      55.9353,
+      37.5245
     ]
   },
   "95.165.130.151": {
