@@ -19,16 +19,6 @@
       18.4811
     ]
   },
-  "103.106.91.186": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.92,
-      115.861
-    ]
-  },
   "103.112.0.130": {
     "region": "North America",
     "country": "United States",
@@ -67,6 +57,16 @@
     "coordinates": [
       -34.9522,
       138.6321
+    ]
+  },
+  "103.72.77.220": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Detroit",
+    "coordinates": [
+      42.3314,
+      -83.0458
     ]
   },
   "104.207.135.230": {
@@ -147,16 +147,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.028
     ]
   },
   "116.255.32.198": {
@@ -869,6 +859,16 @@
       -46.6359
     ]
   },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wo\u0142omin",
+    "coordinates": [
+      52.3521,
+      21.247
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -877,6 +877,16 @@
     "coordinates": [
       51.4201,
       -0.0782
+    ]
+  },
+  "188.165.237.173": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Roubaix",
+    "coordinates": [
+      50.6918,
+      3.2021
     ]
   },
   "188.166.0.137": {
@@ -1409,16 +1419,6 @@
       -95.8608
     ]
   },
-  "34.86.58.42": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1899,6 +1899,16 @@
       -75.1646
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1959,16 +1969,6 @@
       17.3203
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.227.200.13": {
     "region": "Europe",
     "country": "Sweden",
@@ -2027,6 +2027,16 @@
     "coordinates": [
       59.3293,
       18.0686
+    ]
+  },
+  "89.108.64.237": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.8338,
+      37.4025
     ]
   },
   "89.151.207.164": {
