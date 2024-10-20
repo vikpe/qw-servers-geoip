@@ -19,6 +19,16 @@
       18.4811
     ]
   },
+  "103.106.91.219": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.92,
+      115.861
+    ]
+  },
   "103.112.0.130": {
     "region": "North America",
     "country": "United States",
@@ -147,6 +157,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.028
     ]
   },
   "116.255.32.198": {
@@ -719,6 +739,16 @@
       -79.7249
     ]
   },
+  "174.73.34.53": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Roanoke",
+    "coordinates": [
+      37.2555,
+      -80.0531
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -937,16 +967,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "190.20.217.78": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Santiago",
-    "coordinates": [
-      -33.4521,
-      -70.6536
     ]
   },
   "191.9.104.106": {
@@ -1439,6 +1459,16 @@
       -80.013
     ]
   },
+  "35.245.132.114": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "37.123.190.229": {
     "region": "Europe",
     "country": "Sweden",
@@ -1587,6 +1617,16 @@
     "coordinates": [
       39.0469,
       -77.4903
+    ]
+  },
+  "50.45.254.98": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Tigard",
+    "coordinates": [
+      45.4085,
+      -122.7981
     ]
   },
   "50.47.102.94": {
@@ -1969,6 +2009,16 @@
       17.3203
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.227.200.13": {
     "region": "Europe",
     "country": "Sweden",
@@ -2187,6 +2237,16 @@
     "coordinates": [
       37.5234,
       -120.8517
+    ]
+  },
+  "98.111.214.82": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Monroeville",
+    "coordinates": [
+      40.4242,
+      -79.7658
     ]
   },
   "98.128.174.153": {
