@@ -19,14 +19,14 @@
       18.4811
     ]
   },
-  "103.106.91.219": {
+  "103.106.91.11": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.92,
-      115.861
+      -31.9939,
+      115.7846
     ]
   },
   "103.112.0.130": {
@@ -487,6 +487,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "155.248.212.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.2329,
+      -121.7875
     ]
   },
   "158.101.16.37": {
@@ -1439,6 +1449,16 @@
       -95.8608
     ]
   },
+  "34.86.224.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1457,16 +1477,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.132.114": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1507,6 +1517,16 @@
     "coordinates": [
       30.2627,
       -97.7467
+    ]
+  },
+  "45.132.235.172": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "45.234.92.131": {
@@ -1779,6 +1799,16 @@
       -46.6333
     ]
   },
+  "60.241.134.217": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
+    ]
+  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1857,6 +1887,16 @@
     "coordinates": [
       41.3054,
       -73.1217
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -2009,14 +2049,14 @@
       17.3203
     ]
   },
-  "84.39.252.192": {
+  "84.251.35.110": {
     "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
     "coordinates": [
-      54.741,
-      55.9891
+      60.1797,
+      24.9344
     ]
   },
   "85.227.200.13": {
@@ -2037,6 +2077,16 @@
     "coordinates": [
       59.2322,
       18.1257
+    ]
+  },
+  "85.229.208.164": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "H\u00e4gersten",
+    "coordinates": [
+      59.3098,
+      17.9796
     ]
   },
   "85.28.131.207": {
