@@ -129,6 +129,16 @@
       -87.9954
     ]
   },
+  "109.173.238.46": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Poznan",
+    "coordinates": [
+      52.3988,
+      16.9023
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -489,16 +499,6 @@
       -96.8021
     ]
   },
-  "155.248.212.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.2329,
-      -121.7875
-    ]
-  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -699,16 +699,6 @@
       151.2006
     ]
   },
-  "172.233.178.155": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.7689,
-      -80.1946
-    ]
-  },
   "172.234.195.42": {
     "region": "North America",
     "country": "United States",
@@ -819,6 +809,16 @@
       -46.6333
     ]
   },
+  "185.101.93.185": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kamp-Lintfort",
+    "coordinates": [
+      51.5006,
+      6.55084
+    ]
+  },
   "185.11.166.90": {
     "region": "Europe",
     "country": "Portugal",
@@ -857,16 +857,6 @@
     "coordinates": [
       48.8909,
       2.2093
-    ]
-  },
-  "185.173.166.125": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Galway",
-    "coordinates": [
-      53.2689,
-      -9.0533
     ]
   },
   "185.189.139.18": {
@@ -1179,6 +1169,16 @@
       -96.8021
     ]
   },
+  "207.246.119.25": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.8119,
+      -80.2318
+    ]
+  },
   "208.83.237.9": {
     "region": "North America",
     "country": "United States",
@@ -1227,16 +1227,6 @@
     "coordinates": [
       55.7558,
       37.6173
-    ]
-  },
-  "213.164.209.174": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "213.190.221.189": {
@@ -1399,6 +1389,16 @@
       -77.4874
     ]
   },
+  "34.116.203.36": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0122
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1449,16 +1449,6 @@
       -95.8608
     ]
   },
-  "34.86.224.231": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1477,6 +1467,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.245.183.203": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1799,16 +1799,6 @@
       -46.6333
     ]
   },
-  "60.241.134.217": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1887,16 +1877,6 @@
     "coordinates": [
       41.3054,
       -73.1217
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -2049,7 +2029,7 @@
       17.3203
     ]
   },
-  "84.251.35.110": {
+  "84.251.40.124": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
