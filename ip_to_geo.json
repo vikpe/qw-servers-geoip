@@ -549,16 +549,6 @@
       144.9669
     ]
   },
-  "16.50.43.188": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "160.16.101.168": {
     "region": "Asia",
     "country": "Japan",
@@ -737,16 +727,6 @@
     "coordinates": [
       39.8864,
       -79.7249
-    ]
-  },
-  "174.73.34.53": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Roanoke",
-    "coordinates": [
-      37.2555,
-      -80.0531
     ]
   },
   "176.210.100.6": {
@@ -1469,7 +1449,7 @@
       -80.013
     ]
   },
-  "35.245.183.203": {
+  "35.236.231.195": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1877,16 +1857,6 @@
     "coordinates": [
       41.3054,
       -73.1217
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
     ]
   },
   "73.23.203.172": {
