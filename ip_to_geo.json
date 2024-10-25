@@ -689,6 +689,16 @@
       151.2006
     ]
   },
+  "172.233.178.155": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7689,
+      -80.1946
+    ]
+  },
   "172.234.195.42": {
     "region": "North America",
     "country": "United States",
@@ -777,6 +787,16 @@
     "coordinates": [
       -10.9094,
       -37.0716
+    ]
+  },
+  "18.222.125.9": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
     ]
   },
   "18.228.193.88": {
@@ -1159,6 +1179,16 @@
       -80.2318
     ]
   },
+  "208.72.153.30": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Honolulu",
+    "coordinates": [
+      21.3513,
+      -157.8725
+    ]
+  },
   "208.83.237.9": {
     "region": "North America",
     "country": "United States",
@@ -1429,6 +1459,16 @@
       -95.8608
     ]
   },
+  "34.48.158.151": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1447,16 +1487,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.221.37.193": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1567,16 +1597,6 @@
     "coordinates": [
       32.9473,
       -96.7028
-    ]
-  },
-  "45.33.88.53": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cedar Knolls",
-    "coordinates": [
-      40.8229,
-      -74.4592
     ]
   },
   "45.76.26.183": {
