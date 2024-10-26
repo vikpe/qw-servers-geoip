@@ -169,16 +169,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.028
-    ]
-  },
   "116.255.32.198": {
     "region": "Oceania",
     "country": "Australia",
@@ -909,16 +899,6 @@
       -0.0782
     ]
   },
-  "188.165.237.173": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Roubaix",
-    "coordinates": [
-      50.6918,
-      3.2021
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1027,16 +1007,6 @@
     "coordinates": [
       52.2296,
       21.0122
-    ]
-  },
-  "194.156.154.218": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.5196,
-      13.4069
     ]
   },
   "194.158.215.192": {
@@ -1459,7 +1429,7 @@
       -95.8608
     ]
   },
-  "34.48.158.151": {
+  "34.86.5.179": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -2057,16 +2027,6 @@
     "coordinates": [
       50.0196,
       20.9853
-    ]
-  },
-  "85.89.175.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Lodz",
-    "coordinates": [
-      51.753,
-      19.4857
     ]
   },
   "87.128.111.190": {
