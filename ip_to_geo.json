@@ -129,14 +129,14 @@
       -87.9954
     ]
   },
-  "109.173.238.46": {
+  "109.173.178.69": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Poznan",
+    "city": "Pal\u0119dzie",
     "coordinates": [
-      52.3988,
-      16.9023
+      52.368,
+      16.7416
     ]
   },
   "109.200.20.152": {
@@ -1449,7 +1449,7 @@
       -80.013
     ]
   },
-  "35.221.18.45": {
+  "35.221.56.235": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1847,6 +1847,26 @@
     "coordinates": [
       41.3054,
       -73.1217
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
     ]
   },
   "73.23.203.172": {
