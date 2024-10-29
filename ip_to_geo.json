@@ -169,16 +169,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.028
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -267,16 +257,6 @@
     "coordinates": [
       59.342,
       18.0623
-    ]
-  },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
     ]
   },
   "135.181.0.160": {
@@ -497,16 +477,6 @@
     "coordinates": [
       33.4656,
       -111.9956
-    ]
-  },
-  "158.101.195.75": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
     ]
   },
   "158.23.48.92": {
@@ -767,16 +737,6 @@
     "coordinates": [
       51.5074,
       -0.1196
-    ]
-  },
-  "179.232.5.60": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
     ]
   },
   "18.222.125.9": {
@@ -1279,6 +1239,16 @@
       13.4069
     ]
   },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8399,
+      151.0583
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1297,16 +1267,6 @@
     "coordinates": [
       40.6063,
       -74.1774
-    ]
-  },
-  "23.22.56.152": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "23.227.170.216": {
@@ -1337,6 +1297,16 @@
     "coordinates": [
       42.331,
       -83.3785
+    ]
+  },
+  "27.96.198.110": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8696,
+      151.206
     ]
   },
   "3.104.30.121": {
@@ -1449,7 +1419,7 @@
       -80.013
     ]
   },
-  "35.221.56.235": {
+  "35.245.68.110": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1607,16 +1577,6 @@
     "coordinates": [
       39.0469,
       -77.4903
-    ]
-  },
-  "50.45.254.98": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Tigard",
-    "coordinates": [
-      45.4085,
-      -122.7981
     ]
   },
   "50.47.102.94": {
@@ -1849,16 +1809,6 @@
       -73.1217
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1907,16 +1857,6 @@
     "coordinates": [
       41.8874,
       -87.6318
-    ]
-  },
-  "75.154.239.81": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Victoria",
-    "coordinates": [
-      48.4152,
-      -123.3655
     ]
   },
   "75.163.41.36": {
@@ -2139,7 +2079,7 @@
       -0.1196
     ]
   },
-  "91.55.92.215": {
+  "91.55.75.222": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
