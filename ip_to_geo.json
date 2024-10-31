@@ -129,16 +129,6 @@
       -87.9954
     ]
   },
-  "109.173.178.69": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Pal\u0119dzie",
-    "coordinates": [
-      52.368,
-      16.7416
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -167,6 +157,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.028
     ]
   },
   "118.67.199.81": {
@@ -257,6 +257,16 @@
     "coordinates": [
       59.342,
       18.0623
+    ]
+  },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
     ]
   },
   "135.181.0.160": {
@@ -909,7 +919,7 @@
       12.3649
     ]
   },
-  "191.9.104.106": {
+  "191.9.111.225": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1299,16 +1309,6 @@
       -83.3785
     ]
   },
-  "27.96.198.110": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8696,
-      151.206
-    ]
-  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1369,6 +1369,16 @@
       -77.4874
     ]
   },
+  "34.21.30.119": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1417,16 +1427,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.68.110": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1809,16 +1809,6 @@
       -73.1217
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1897,16 +1887,6 @@
     "coordinates": [
       50.0761,
       14.4479
-    ]
-  },
-  "79.139.57.116": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5636,
-      19.0947
     ]
   },
   "80.211.201.216": {
