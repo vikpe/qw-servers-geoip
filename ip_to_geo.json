@@ -999,6 +999,16 @@
       20.4728
     ]
   },
+  "194.68.23.204": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Norsj\u00f6",
+    "coordinates": [
+      64.9081,
+      19.4647
+    ]
+  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1209,16 +1219,6 @@
       17.8355
     ]
   },
-  "216.128.130.98": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7889,
-      -96.8021
-    ]
-  },
   "216.160.28.148": {
     "region": "North America",
     "country": "United States",
@@ -1299,16 +1299,6 @@
       -96.8704
     ]
   },
-  "24.192.31.59": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Westland",
-    "coordinates": [
-      42.331,
-      -83.3785
-    ]
-  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1369,16 +1359,6 @@
       -77.4874
     ]
   },
-  "34.21.30.119": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1427,6 +1407,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.245.240.66": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1487,16 +1477,6 @@
     "coordinates": [
       -3.7145,
       -38.5419
-    ]
-  },
-  "45.235.98.10": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1739,16 +1719,6 @@
       23.3289
     ]
   },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1869,16 +1839,6 @@
       -75.1646
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1887,6 +1847,16 @@
     "coordinates": [
       50.0761,
       14.4479
+    ]
+  },
+  "79.139.57.116": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5636,
+      19.0947
     ]
   },
   "80.211.201.216": {
