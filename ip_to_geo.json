@@ -749,6 +749,16 @@
       -0.1196
     ]
   },
+  "179.232.5.60": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
+    ]
+  },
   "18.222.125.9": {
     "region": "North America",
     "country": "United States",
@@ -847,16 +857,6 @@
     "coordinates": [
       -23.5335,
       -46.6359
-    ]
-  },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
     ]
   },
   "185.73.44.100": {
@@ -1319,16 +1319,6 @@
       72.8777
     ]
   },
-  "3.94.62.64": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
   "34.116.203.36": {
     "region": "Europe",
     "country": "Poland",
@@ -1389,6 +1379,16 @@
       -95.8608
     ]
   },
+  "34.85.161.44": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1407,16 +1407,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.240.66": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1477,6 +1467,16 @@
     "coordinates": [
       -3.7145,
       -38.5419
+    ]
+  },
+  "45.235.98.76": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1749,6 +1749,16 @@
       -87.6709
     ]
   },
+  "69.221.115.25": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Boca Raton",
+    "coordinates": [
+      26.3432,
+      -80.2116
+    ]
+  },
   "70.34.206.203": {
     "region": "Europe",
     "country": "Sweden",
@@ -1819,6 +1829,16 @@
       -87.6318
     ]
   },
+  "75.154.239.81": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Victoria",
+    "coordinates": [
+      48.4152,
+      -123.3655
+    ]
+  },
   "75.163.41.36": {
     "region": "North America",
     "country": "United States",
@@ -1837,6 +1857,16 @@
     "coordinates": [
       39.9528,
       -75.1646
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -2077,16 +2107,6 @@
     "coordinates": [
       55.7037,
       13.1946
-    ]
-  },
-  "94.45.205.16": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Dolgoprudny",
-    "coordinates": [
-      55.9353,
-      37.5245
     ]
   },
   "95.165.130.151": {
