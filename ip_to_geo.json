@@ -999,16 +999,6 @@
       20.4728
     ]
   },
-  "194.68.23.204": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Norsj\u00f6",
-    "coordinates": [
-      64.9081,
-      19.4647
-    ]
-  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1369,17 +1359,7 @@
       13.4049
     ]
   },
-  "34.46.247.30": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
-  "34.85.161.44": {
+  "34.85.248.134": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1407,6 +1387,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.223.205.224": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "37.123.190.229": {
@@ -1967,6 +1957,16 @@
     "coordinates": [
       50.0196,
       20.9853
+    ]
+  },
+  "85.76.104.53": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1797,
+      24.9344
     ]
   },
   "85.89.175.250": {
