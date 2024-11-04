@@ -859,6 +859,16 @@
       -46.6359
     ]
   },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wo\u0142omin",
+    "coordinates": [
+      52.3521,
+      21.247
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1359,7 +1369,7 @@
       13.4049
     ]
   },
-  "34.85.248.134": {
+  "34.48.213.99": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1709,6 +1719,16 @@
       23.3289
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1777,6 +1797,16 @@
     "coordinates": [
       41.3054,
       -73.1217
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.203.172": {
@@ -1957,16 +1987,6 @@
     "coordinates": [
       50.0196,
       20.9853
-    ]
-  },
-  "85.76.104.53": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1797,
-      24.9344
     ]
   },
   "85.89.175.250": {
