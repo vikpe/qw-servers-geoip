@@ -929,7 +929,7 @@
       12.3649
     ]
   },
-  "191.9.111.225": {
+  "191.9.106.115": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1369,16 +1369,6 @@
       13.4049
     ]
   },
-  "34.48.213.99": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1397,6 +1387,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.199.2.58": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.223.205.224": {
@@ -1759,6 +1759,16 @@
       -87.6709
     ]
   },
+  "68.179.190.76": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Westland",
+    "coordinates": [
+      42.331,
+      -83.3785
+    ]
+  },
   "69.221.115.25": {
     "region": "North America",
     "country": "United States",
@@ -1797,16 +1807,6 @@
     "coordinates": [
       41.3054,
       -73.1217
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.203.172": {
