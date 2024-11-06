@@ -929,16 +929,6 @@
       12.3649
     ]
   },
-  "191.9.106.115": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "192.9.173.60": {
     "region": "Oceania",
     "country": "Australia",
@@ -1089,6 +1079,16 @@
       -104.816154
     ]
   },
+  "200.232.229.100": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "202.47.179.132": {
     "region": "Oceania",
     "country": "Australia",
@@ -1209,6 +1209,16 @@
       11.0783
     ]
   },
+  "213.76.101.30": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2829,
+      20.932
+    ]
+  },
   "213.80.111.176": {
     "region": "Europe",
     "country": "Sweden",
@@ -1267,16 +1277,6 @@
     "coordinates": [
       -36.8906,
       174.794
-    ]
-  },
-  "23.159.160.34": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Staten Island",
-    "coordinates": [
-      40.6063,
-      -74.1774
     ]
   },
   "23.227.170.216": {
@@ -1389,16 +1389,6 @@
       -80.013
     ]
   },
-  "35.199.2.58": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.223.205.224": {
     "region": "North America",
     "country": "United States",
@@ -1407,6 +1397,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "35.245.109.10": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1877,16 +1877,6 @@
     "coordinates": [
       39.9528,
       -75.1646
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
