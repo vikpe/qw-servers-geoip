@@ -169,16 +169,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.028
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1299,6 +1289,16 @@
       174.794
     ]
   },
+  "23.159.160.34": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Staten Island",
+    "coordinates": [
+      40.6063,
+      -74.1774
+    ]
+  },
   "23.227.170.216": {
     "region": "North America",
     "country": "United States",
@@ -1317,16 +1317,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "3.104.30.121": {
@@ -1399,7 +1389,7 @@
       13.4049
     ]
   },
-  "34.48.170.211": {
+  "34.48.104.212": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1499,7 +1489,7 @@
       -38.5419
     ]
   },
-  "45.235.98.76": {
+  "45.235.98.10": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
