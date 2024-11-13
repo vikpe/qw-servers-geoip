@@ -1,14 +1,4 @@
 {
-  "1.145.160.121": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.857,
-      145.0345
-    ]
-  },
   "100.36.40.85": {
     "region": "North America",
     "country": "United States",
@@ -1109,6 +1099,16 @@
       -47.0565
     ]
   },
+  "202.47.179.132": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1259,16 +1259,6 @@
       13.4069
     ]
   },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8308,
-      151.2267
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1339,6 +1329,16 @@
       21.0122
     ]
   },
+  "34.145.255.214": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1387,16 +1387,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "34.48.52.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1479,7 +1469,7 @@
       -38.5419
     ]
   },
-  "45.235.98.10": {
+  "45.235.98.76": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1719,6 +1709,16 @@
       -46.6333
     ]
   },
+  "60.241.134.217": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
+    ]
+  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1887,16 +1887,6 @@
     "coordinates": [
       39.9486,
       -75.2339
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.89.65": {
@@ -2159,6 +2149,16 @@
       37.6171
     ]
   },
+  "95.181.230.193": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7483,
+      37.6171
+    ]
+  },
   "95.216.18.118": {
     "region": "Europe",
     "country": "Finland",
@@ -2189,14 +2189,14 @@
       -120.8517
     ]
   },
-  "98.128.174.153": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
+  "98.111.214.82": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Monroeville",
     "coordinates": [
-      57.7065,
-      11.967
+      40.4212,
+      -79.7881
     ]
   },
   "98.128.186.18": {
