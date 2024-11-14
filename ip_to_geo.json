@@ -1329,7 +1329,7 @@
       21.0122
     ]
   },
-  "34.145.255.214": {
+  "34.145.170.189": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1459,6 +1459,16 @@
       12.9982
     ]
   },
+  "45.136.70.213": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Middelfart",
+    "coordinates": [
+      55.488,
+      9.9009
+    ]
+  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1469,7 +1479,7 @@
       -38.5419
     ]
   },
-  "45.235.98.76": {
+  "45.235.98.10": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1709,16 +1719,6 @@
       -46.6333
     ]
   },
-  "60.241.134.217": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1727,16 +1727,6 @@
     "coordinates": [
       55.9318,
       23.3289
-    ]
-  },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
     ]
   },
   "64.227.18.147": {
@@ -1909,6 +1899,16 @@
       19.0947
     ]
   },
+  "79.208.191.228": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.5422,
+      13.3495
+    ]
+  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1947,16 +1947,6 @@
     "coordinates": [
       60.1797,
       24.9344
-    ]
-  },
-  "85.227.200.13": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sandviken",
-    "coordinates": [
-      60.6204,
-      16.7697
     ]
   },
   "85.229.1.195": {
@@ -2037,6 +2027,16 @@
     "coordinates": [
       64.0161,
       11.4985
+    ]
+  },
+  "89.166.50.4": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Oulu",
+    "coordinates": [
+      65.0412,
+      25.4225
     ]
   },
   "89.68.198.17": {
@@ -2197,6 +2197,16 @@
     "coordinates": [
       40.4212,
       -79.7881
+    ]
+  },
+  "98.128.174.153": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
     ]
   },
   "98.128.186.18": {
