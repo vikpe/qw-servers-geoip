@@ -749,6 +749,16 @@
       -46.6333
     ]
   },
+  "177.76.217.210": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "177.93.135.160": {
     "region": "South America",
     "country": "Brazil",
@@ -1089,16 +1099,6 @@
       -104.816154
     ]
   },
-  "200.232.229.100": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "202.47.179.132": {
     "region": "Oceania",
     "country": "Australia",
@@ -1299,6 +1299,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1327,16 +1337,6 @@
     "coordinates": [
       52.2296,
       21.0122
-    ]
-  },
-  "34.145.170.189": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1409,6 +1409,16 @@
       -80.013
     ]
   },
+  "35.199.15.70": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "37.123.190.229": {
     "region": "Europe",
     "country": "Sweden",
@@ -1459,16 +1469,6 @@
       12.9982
     ]
   },
-  "45.136.70.213": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Middelfart",
-    "coordinates": [
-      55.488,
-      9.9009
-    ]
-  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1479,7 +1479,7 @@
       -38.5419
     ]
   },
-  "45.235.98.10": {
+  "45.235.98.76": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1527,16 +1527,6 @@
     "coordinates": [
       32.9473,
       -96.7028
-    ]
-  },
-  "45.76.26.183": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elk Grove Village",
-    "coordinates": [
-      42.0048,
-      -87.9954
     ]
   },
   "45.76.56.39": {
@@ -1729,6 +1719,16 @@
       23.3289
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1797,16 +1797,6 @@
     "coordinates": [
       41.3908,
       -73.4483
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
     ]
   },
   "73.23.203.172": {
@@ -1899,16 +1889,6 @@
       19.0947
     ]
   },
-  "79.208.191.228": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.5422,
-      13.3495
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1947,6 +1927,16 @@
     "coordinates": [
       60.1797,
       24.9344
+    ]
+  },
+  "85.227.200.13": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sandviken",
+    "coordinates": [
+      60.6204,
+      16.7697
     ]
   },
   "85.229.1.195": {
@@ -2027,16 +2017,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.166.50.4": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Oulu",
-    "coordinates": [
-      65.0412,
-      25.4225
     ]
   },
   "89.68.198.17": {
