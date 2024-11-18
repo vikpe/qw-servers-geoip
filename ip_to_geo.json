@@ -739,16 +739,6 @@
       -46.6333
     ]
   },
-  "177.76.217.210": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "177.93.135.160": {
     "region": "South America",
     "country": "Brazil",
@@ -927,6 +917,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "191.9.105.183": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "192.9.173.60": {
@@ -1299,16 +1299,6 @@
       151.2002
     ]
   },
-  "3.108.227.32": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Mumbai",
-    "coordinates": [
-      19.076,
-      72.8777
-    ]
-  },
   "34.116.203.36": {
     "region": "Europe",
     "country": "Poland",
@@ -1369,6 +1359,16 @@
       -95.8608
     ]
   },
+  "34.86.124.236": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1387,16 +1387,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.82.224": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1459,7 +1449,7 @@
       -38.5419
     ]
   },
-  "45.235.98.76": {
+  "45.235.98.10": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1767,6 +1757,16 @@
     "coordinates": [
       41.3908,
       -73.4483
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
