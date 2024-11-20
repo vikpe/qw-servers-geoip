@@ -509,6 +509,16 @@
       -111.9956
     ]
   },
+  "158.101.195.75": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.23.48.92": {
     "region": "North America",
     "country": "Mexico",
@@ -1319,6 +1329,16 @@
       -77.4874
     ]
   },
+  "34.21.11.218": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1367,16 +1387,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.124.254": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.229": {
@@ -1439,7 +1449,7 @@
       -38.5419
     ]
   },
-  "45.235.98.76": {
+  "45.235.98.10": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1689,16 +1699,6 @@
       -87.6378
     ]
   },
-  "67.144.152.112": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.1,
-      -87.6307
-    ]
-  },
   "68.179.190.76": {
     "region": "North America",
     "country": "United States",
@@ -1887,16 +1887,6 @@
     "coordinates": [
       60.1797,
       24.9344
-    ]
-  },
-  "85.227.200.13": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sandviken",
-    "coordinates": [
-      60.6204,
-      16.7697
     ]
   },
   "85.229.1.195": {
