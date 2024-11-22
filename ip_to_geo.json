@@ -1349,7 +1349,7 @@
       -95.8608
     ]
   },
-  "34.86.3.62": {
+  "34.86.217.52": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1439,7 +1439,7 @@
       -38.5419
     ]
   },
-  "45.235.98.76": {
+  "45.235.98.10": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1509,6 +1509,16 @@
       18.0517
     ]
   },
+  "5.150.206.177": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Ume\u00e5",
+    "coordinates": [
+      63.8247,
+      20.2559
+    ]
+  },
   "5.161.189.133": {
     "region": "North America",
     "country": "United States",
@@ -1517,6 +1527,16 @@
     "coordinates": [
       39.0469,
       -77.4903
+    ]
+  },
+  "50.35.97.252": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lynnwood",
+    "coordinates": [
+      47.8022,
+      -122.286
     ]
   },
   "51.68.212.3": {
@@ -1719,6 +1739,16 @@
       17.9155
     ]
   },
+  "70.57.103.110": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Springfield",
+    "coordinates": [
+      37.168,
+      -93.3039
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1799,24 +1829,14 @@
       -123.4206
     ]
   },
-  "75.163.38.242": {
+  "75.192.169.66": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Springfield",
+    "city": "Allentown",
     "coordinates": [
-      37.2103,
-      -93.3046
-    ]
-  },
-  "75.192.163.23": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      39.9486,
-      -75.2339
+      40.6367,
+      -75.4397
     ]
   },
   "75.82.121.13": {
