@@ -909,6 +909,16 @@
       12.3649
     ]
   },
+  "192.226.170.169": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Montreal",
+    "coordinates": [
+      45.4724,
+      -73.6141
+    ]
+  },
   "192.9.173.60": {
     "region": "Oceania",
     "country": "Australia",
@@ -1299,6 +1309,16 @@
       21.0122
     ]
   },
+  "34.145.181.45": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1347,16 +1367,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "34.86.217.52": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1439,7 +1449,7 @@
       -38.5419
     ]
   },
-  "45.235.98.10": {
+  "45.235.98.76": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1769,16 +1779,6 @@
       -73.4483
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1907,6 +1907,16 @@
     "coordinates": [
       60.1797,
       24.9344
+    ]
+  },
+  "85.209.118.137": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6494,
+      12.5298
     ]
   },
   "85.227.200.13": {
