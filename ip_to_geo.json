@@ -25,8 +25,8 @@
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.9307,
-      115.8398
+      -31.9028,
+      115.855
     ]
   },
   "103.112.0.130": {
@@ -875,8 +875,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1184,
-      8.6827
+      50.1187,
+      8.6842
     ]
   },
   "188.166.188.207": {
@@ -1213,20 +1213,20 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "H\u00e4sselby strand",
     "coordinates": [
-      59.3603,
-      17.797
+      59.3634,
+      17.8509
     ]
   },
   "216.160.28.148": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Plymouth",
+    "city": "Minneapolis",
     "coordinates": [
-      45.0076,
-      -93.4206
+      44.9427,
+      -93.2871
     ]
   },
   "216.249.103.87": {
@@ -1309,7 +1309,7 @@
       21.0122
     ]
   },
-  "34.145.181.45": {
+  "34.145.163.48": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1393,10 +1393,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Enskede-\u00c5rsta-Vant\u00f6r",
     "coordinates": [
-      59.3241,
-      18.0517
+      59.2857,
+      18.0611
     ]
   },
   "37.201.131.70": {
@@ -1405,8 +1405,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.121,
-      8.747
+      50.1382,
+      8.6183
     ]
   },
   "37.221.215.47": {
@@ -1449,7 +1449,7 @@
       -38.5419
     ]
   },
-  "45.235.98.76": {
+  "45.235.98.10": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1537,16 +1537,6 @@
     "coordinates": [
       39.0469,
       -77.4903
-    ]
-  },
-  "50.35.97.252": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lynnwood",
-    "coordinates": [
-      47.8022,
-      -122.286
     ]
   },
   "51.68.212.3": {
@@ -1755,8 +1745,8 @@
     "cc": "US",
     "city": "Springfield",
     "coordinates": [
-      37.168,
-      -93.3039
+      37.1661,
+      -93.2458
     ]
   },
   "72.18.132.133": {
@@ -1775,8 +1765,18 @@
     "cc": "US",
     "city": "Danbury",
     "coordinates": [
-      41.3908,
-      -73.4483
+      41.4235,
+      -73.4724
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
     ]
   },
   "73.23.203.172": {
@@ -1825,18 +1825,18 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.4518,
-      -123.4206
+      48.4248,
+      -123.3709
     ]
   },
   "75.192.169.66": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Allentown",
+    "city": "Philadelphia",
     "coordinates": [
-      40.6367,
-      -75.4397
+      40.0149,
+      -75.1439
     ]
   },
   "75.82.121.13": {
@@ -1933,10 +1933,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Tr\u00e5ngsund",
+    "city": "Skarpn\u00e4ck",
     "coordinates": [
-      59.2322,
-      18.1257
+      59.2688,
+      18.1182
     ]
   },
   "85.229.208.164": {
@@ -1965,8 +1965,8 @@
     "cc": "PL",
     "city": "Lodz",
     "coordinates": [
-      51.753,
-      19.4857
+      51.7714,
+      19.4031
     ]
   },
   "87.128.111.190": {
@@ -2003,10 +2003,10 @@
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
-    "city": "Oulu",
+    "city": "Helsinki",
     "coordinates": [
-      65.0412,
-      25.4225
+      60.1711,
+      24.9672
     ]
   },
   "89.68.198.17": {
@@ -2023,10 +2023,10 @@
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
-    "city": "Hyvink\u00e4\u00e4",
+    "city": "Espoo",
     "coordinates": [
-      60.6239,
-      24.8141
+      60.1738,
+      24.6772
     ]
   },
   "91.206.14.17": {
@@ -2073,20 +2073,20 @@
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Aesch",
+    "city": "Oberwil",
     "coordinates": [
-      47.4702,
-      7.6011
+      47.5119,
+      7.5579
     ]
   },
   "94.254.2.158": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Limhamn",
+    "city": "Malmo",
     "coordinates": [
-      55.5811,
-      12.9553
+      55.6078,
+      12.9982
     ]
   },
   "94.254.94.4": {
@@ -2097,16 +2097,6 @@
     "coordinates": [
       55.7037,
       13.1946
-    ]
-  },
-  "94.45.205.16": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Dolgoprudny",
-    "coordinates": [
-      55.9353,
-      37.5245
     ]
   },
   "95.165.130.151": {
@@ -2155,8 +2145,8 @@
     "cc": "US",
     "city": "Turlock",
     "coordinates": [
-      37.5234,
-      -120.8517
+      37.4912,
+      -120.8559
     ]
   },
   "98.111.214.82": {
@@ -2185,8 +2175,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3241,
-      18.0517
+      59.3287,
+      18.0717
     ]
   },
   "99.72.255.45": {
