@@ -89,6 +89,16 @@
       -74.4606
     ]
   },
+  "107.171.174.218": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Montreal",
+    "coordinates": [
+      45.4724,
+      -73.6141
+    ]
+  },
   "107.23.236.19": {
     "region": "North America",
     "country": "United States",
@@ -909,16 +919,6 @@
       12.3649
     ]
   },
-  "192.226.170.169": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Montreal",
-    "coordinates": [
-      45.4724,
-      -73.6141
-    ]
-  },
   "192.9.173.60": {
     "region": "Oceania",
     "country": "Australia",
@@ -1077,16 +1077,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "200.232.229.143": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
     ]
   },
   "202.47.179.132": {
@@ -1309,16 +1299,6 @@
       21.0122
     ]
   },
-  "34.145.163.48": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1389,6 +1369,16 @@
       -80.013
     ]
   },
+  "35.221.58.235": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "37.123.190.229": {
     "region": "Europe",
     "country": "Sweden",
@@ -1449,7 +1439,7 @@
       -38.5419
     ]
   },
-  "45.235.98.10": {
+  "45.235.98.76": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1767,6 +1757,16 @@
     "coordinates": [
       41.4235,
       -73.4724
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
