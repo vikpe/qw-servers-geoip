@@ -919,6 +919,16 @@
       12.3649
     ]
   },
+  "189.18.215.217": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "192.9.173.60": {
     "region": "Oceania",
     "country": "Australia",
@@ -1369,7 +1379,7 @@
       -80.013
     ]
   },
-  "35.221.58.235": {
+  "35.245.84.169": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1439,7 +1449,7 @@
       -38.5419
     ]
   },
-  "45.235.98.76": {
+  "45.235.98.10": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1527,6 +1537,16 @@
     "coordinates": [
       39.0469,
       -77.4903
+    ]
+  },
+  "50.35.97.252": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lynnwood",
+    "coordinates": [
+      47.8022,
+      -122.286
     ]
   },
   "51.68.212.3": {
@@ -1757,16 +1777,6 @@
     "coordinates": [
       41.4235,
       -73.4724
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
