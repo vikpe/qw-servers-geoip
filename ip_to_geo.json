@@ -1359,6 +1359,16 @@
       -95.8608
     ]
   },
+  "34.88.89.167": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Lappeenranta",
+    "coordinates": [
+      61.0549,
+      28.1896
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1379,7 +1389,7 @@
       -80.013
     ]
   },
-  "35.245.84.169": {
+  "35.245.165.73": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1449,7 +1459,7 @@
       -38.5419
     ]
   },
-  "45.235.98.10": {
+  "45.235.98.76": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1849,16 +1859,6 @@
       -75.1439
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1907,6 +1907,16 @@
     "coordinates": [
       62.3772,
       17.3203
+    ]
+  },
+  "83.249.52.36": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sundbyberg",
+    "coordinates": [
+      59.3565,
+      17.9651
     ]
   },
   "84.251.40.124": {
@@ -2007,6 +2017,16 @@
     "coordinates": [
       64.0161,
       11.4985
+    ]
+  },
+  "89.153.184.17": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1459,
+      -8.6169
     ]
   },
   "89.166.50.4": {
