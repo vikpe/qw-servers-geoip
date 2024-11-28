@@ -89,16 +89,6 @@
       -74.4606
     ]
   },
-  "107.171.174.218": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Montreal",
-    "coordinates": [
-      45.4724,
-      -73.6141
-    ]
-  },
   "107.23.236.19": {
     "region": "North America",
     "country": "United States",
@@ -509,6 +499,26 @@
       -96.8021
     ]
   },
+  "155.4.103.227": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sala",
+    "coordinates": [
+      59.9225,
+      16.6005
+    ]
+  },
+  "157.245.82.116": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Bergen",
+    "coordinates": [
+      40.7924,
+      -74.0096
+    ]
+  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -627,16 +637,6 @@
     "coordinates": [
       -36.8506,
       174.7679
-    ]
-  },
-  "164.132.249.21": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Antibes",
-    "coordinates": [
-      43.5828,
-      7.10624
     ]
   },
   "164.152.62.160": {
@@ -1389,7 +1389,7 @@
       -80.013
     ]
   },
-  "35.245.165.73": {
+  "35.199.42.166": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1459,7 +1459,7 @@
       -38.5419
     ]
   },
-  "45.235.98.76": {
+  "45.235.98.10": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1959,16 +1959,6 @@
       18.1182
     ]
   },
-  "85.229.208.164": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Saltsj\u00f6baden",
-    "coordinates": [
-      59.2834,
-      18.2934
-    ]
-  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -1999,6 +1989,16 @@
       13.405
     ]
   },
+  "87.189.48.228": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "88.129.191.196": {
     "region": "Europe",
     "country": "Sweden",
@@ -2017,26 +2017,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.153.184.17": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1459,
-      -8.6169
-    ]
-  },
-  "89.166.50.4": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1711,
-      24.9672
     ]
   },
   "89.68.198.17": {
