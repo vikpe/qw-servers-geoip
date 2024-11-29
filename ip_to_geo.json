@@ -499,16 +499,6 @@
       -96.8021
     ]
   },
-  "155.4.103.227": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sala",
-    "coordinates": [
-      59.9225,
-      16.6005
-    ]
-  },
   "157.245.82.116": {
     "region": "North America",
     "country": "United States",
@@ -929,6 +919,16 @@
       -47.0565
     ]
   },
+  "192.227.152.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Buffalo",
+    "coordinates": [
+      42.8856,
+      -78.8736
+    ]
+  },
   "192.9.173.60": {
     "region": "Oceania",
     "country": "Australia",
@@ -1127,6 +1127,16 @@
     "coordinates": [
       25.8119,
       -80.2318
+    ]
+  },
+  "207.38.254.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Queens",
+    "coordinates": [
+      40.7787,
+      -73.9132
     ]
   },
   "208.72.153.30": {
@@ -1389,7 +1399,7 @@
       -80.013
     ]
   },
-  "35.199.42.166": {
+  "35.221.53.21": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1459,7 +1469,7 @@
       -38.5419
     ]
   },
-  "45.235.98.10": {
+  "45.235.98.76": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -2057,16 +2067,6 @@
     "coordinates": [
       51.5074,
       -0.1196
-    ]
-  },
-  "91.55.94.12": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "92.35.17.241": {
