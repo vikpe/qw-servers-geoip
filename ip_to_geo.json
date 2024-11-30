@@ -429,6 +429,16 @@
       17.0324
     ]
   },
+  "147.219.218.6": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Saint Cloud",
+    "coordinates": [
+      45.5428,
+      -94.1871
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -1299,6 +1309,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1369,6 +1389,16 @@
       -95.8608
     ]
   },
+  "34.48.187.9": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.88.89.167": {
     "region": "Europe",
     "country": "Finland",
@@ -1399,17 +1429,7 @@
       -80.013
     ]
   },
-  "35.221.53.21": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
-  "37.123.190.229": {
+  "37.123.190.226": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -1469,7 +1489,7 @@
       -38.5419
     ]
   },
-  "45.235.98.76": {
+  "45.235.98.10": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1907,6 +1927,16 @@
     "coordinates": [
       48.1077,
       11.6091
+    ]
+  },
+  "82.115.5.137": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3675,
+      4.9041
     ]
   },
   "82.196.112.57": {
