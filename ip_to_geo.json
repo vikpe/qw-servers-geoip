@@ -109,6 +109,16 @@
       -118.2441
     ]
   },
+  "108.215.101.200": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Madisonville",
+    "coordinates": [
+      30.4044,
+      -90.157
+    ]
+  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -197,6 +207,16 @@
     "coordinates": [
       -37.5823,
       144.109
+    ]
+  },
+  "123.243.234.244": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.834,
+      144.9832
     ]
   },
   "128.199.52.100": {
@@ -427,16 +447,6 @@
     "coordinates": [
       51.0957,
       17.0324
-    ]
-  },
-  "147.219.218.6": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Saint Cloud",
-    "coordinates": [
-      45.5428,
-      -94.1871
     ]
   },
   "148.135.104.18": {
@@ -1309,16 +1319,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1389,7 +1389,7 @@
       -95.8608
     ]
   },
-  "34.48.187.9": {
+  "34.48.26.60": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1489,7 +1489,7 @@
       -38.5419
     ]
   },
-  "45.235.98.10": {
+  "45.235.98.76": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1759,16 +1759,6 @@
       -87.6378
     ]
   },
-  "67.144.152.112": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.1,
-      -87.6307
-    ]
-  },
   "68.179.190.76": {
     "region": "North America",
     "country": "United States",
@@ -1947,16 +1937,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "83.249.52.36": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundbyberg",
-    "coordinates": [
-      59.3565,
-      17.9651
     ]
   },
   "84.251.40.124": {
