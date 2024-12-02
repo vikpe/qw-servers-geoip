@@ -109,16 +109,6 @@
       -118.2441
     ]
   },
-  "108.215.101.200": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Madisonville",
-    "coordinates": [
-      30.4044,
-      -90.157
-    ]
-  },
   "108.61.117.210": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -207,16 +197,6 @@
     "coordinates": [
       -37.5823,
       144.109
-    ]
-  },
-  "123.243.234.244": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.834,
-      144.9832
     ]
   },
   "128.199.52.100": {
@@ -617,16 +597,6 @@
     "coordinates": [
       34.0511,
       -118.266
-    ]
-  },
-  "162.248.94.117": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seattle",
-    "coordinates": [
-      47.6144,
-      -122.339
     ]
   },
   "163.172.90.127": {
@@ -1389,7 +1359,7 @@
       -95.8608
     ]
   },
-  "34.48.26.60": {
+  "34.48.144.161": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1489,7 +1459,7 @@
       -38.5419
     ]
   },
-  "45.235.98.76": {
+  "45.235.98.10": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1809,6 +1779,16 @@
       -73.4724
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1869,16 +1849,6 @@
       -123.3709
     ]
   },
-  "75.192.169.66": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      40.0149,
-      -75.1439
-    ]
-  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1937,6 +1907,16 @@
     "coordinates": [
       62.3772,
       17.3203
+    ]
+  },
+  "83.249.52.36": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sundbyberg",
+    "coordinates": [
+      59.3565,
+      17.9651
     ]
   },
   "84.251.40.124": {
