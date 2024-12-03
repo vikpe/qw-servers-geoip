@@ -69,6 +69,16 @@
       138.6321
     ]
   },
+  "103.235.197.27": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7105,
+      85.3146
+    ]
+  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -107,6 +117,16 @@
     "coordinates": [
       34.0544,
       -118.2441
+    ]
+  },
+  "108.215.101.200": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Madisonville",
+    "coordinates": [
+      30.4044,
+      -90.157
     ]
   },
   "108.61.117.210": {
@@ -769,16 +789,6 @@
       -9.13934
     ]
   },
-  "185.117.88.217": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0685
-    ]
-  },
   "185.148.113.143": {
     "region": "South America",
     "country": "Brazil",
@@ -1079,16 +1089,6 @@
       -104.816154
     ]
   },
-  "202.47.179.132": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1359,7 +1359,7 @@
       -95.8608
     ]
   },
-  "34.48.144.161": {
+  "34.86.73.180": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1449,17 +1449,7 @@
       12.9982
     ]
   },
-  "45.234.92.131": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Fortaleza",
-    "coordinates": [
-      -3.7145,
-      -38.5419
-    ]
-  },
-  "45.235.98.10": {
+  "45.235.98.76": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1659,16 +1649,6 @@
       -121.895
     ]
   },
-  "54.215.95.110": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
-    ]
-  },
   "54.252.183.87": {
     "region": "Oceania",
     "country": "Australia",
@@ -1729,6 +1709,16 @@
       -87.6378
     ]
   },
+  "67.144.152.112": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.1,
+      -87.6307
+    ]
+  },
   "68.179.190.76": {
     "region": "North America",
     "country": "United States",
@@ -1777,16 +1767,6 @@
     "coordinates": [
       41.4235,
       -73.4724
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
