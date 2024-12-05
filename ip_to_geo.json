@@ -165,8 +165,8 @@
     "cc": "TW",
     "city": "Taipei",
     "coordinates": [
-      25.0504,
-      121.5324
+      25.0566,
+      121.5054
     ]
   },
   "116.203.97.160": {
@@ -485,7 +485,7 @@
     "cc": "SG",
     "city": "Singapore",
     "coordinates": [
-      1.27989,
+      1.27994,
       103.849
     ]
   },
@@ -577,6 +577,16 @@
     "coordinates": [
       35.6893,
       139.6899
+    ]
+  },
+  "161.29.75.216": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": [
+      -36.8506,
+      174.7679
     ]
   },
   "162.19.231.86": {
@@ -985,8 +995,8 @@
     "cc": "BY",
     "city": "Minsk",
     "coordinates": [
-      53.9007,
-      27.5709
+      53.9,
+      27.5667
     ]
   },
   "194.38.96.52": {
@@ -1115,8 +1125,8 @@
     "cc": "US",
     "city": "Queens",
     "coordinates": [
-      40.7787,
-      -73.9132
+      40.7706,
+      -73.9283
     ]
   },
   "208.72.153.30": {
@@ -1205,8 +1215,8 @@
     "cc": "SE",
     "city": "H\u00e4sselby strand",
     "coordinates": [
-      59.3634,
-      17.8509
+      59.3603,
+      17.797
     ]
   },
   "216.160.28.148": {
@@ -1299,6 +1309,16 @@
       21.0122
     ]
   },
+  "34.145.142.112": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1349,16 +1369,6 @@
       -95.8608
     ]
   },
-  "34.86.14.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.88.89.167": {
     "region": "Europe",
     "country": "Finland",
@@ -1405,8 +1415,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1382,
-      8.6183
+      50.1376,
+      8.6776
     ]
   },
   "37.221.215.47": {
@@ -1449,16 +1459,6 @@
       -38.5419
     ]
   },
-  "45.235.98.10": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
-    ]
-  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1485,8 +1485,8 @@
     "cc": "US",
     "city": "Los Angeles",
     "coordinates": [
-      34.0544,
-      -118.244
+      34.046,
+      -118.2297
     ]
   },
   "45.33.29.156": {
@@ -1563,20 +1563,20 @@
     "region": "Europe",
     "country": "France",
     "cc": "FR",
-    "city": "Gravelines",
+    "city": "Roubaix",
     "coordinates": [
-      50.9871,
-      2.12554
+      50.6924,
+      3.20113
     ]
   },
   "51.91.100.231": {
     "region": "Europe",
     "country": "France",
     "cc": "FR",
-    "city": "Strasbourg",
+    "city": "Roubaix",
     "coordinates": [
-      48.5734,
-      7.75211
+      50.6924,
+      3.20113
     ]
   },
   "52.215.55.73": {
@@ -1785,8 +1785,8 @@
     "cc": "US",
     "city": "Cape Coral",
     "coordinates": [
-      26.6292,
-      -81.968
+      26.6909,
+      -81.9483
     ]
   },
   "74.91.120.206": {
@@ -1983,10 +1983,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Malmo",
     "coordinates": [
-      59.3293,
-      18.0686
+      55.605,
+      13.0038
     ]
   },
   "89.151.207.164": {
@@ -2005,8 +2005,8 @@
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.2041,
-      21.025
+      52.2003,
+      20.974
     ]
   },
   "91.152.15.241": {
@@ -2129,16 +2129,6 @@
       -120.8559
     ]
   },
-  "98.111.214.82": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Monroeville",
-    "coordinates": [
-      40.4212,
-      -79.7881
-    ]
-  },
   "98.128.174.153": {
     "region": "Europe",
     "country": "Sweden",
@@ -2163,10 +2153,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Memphis",
+    "city": "Collierville",
     "coordinates": [
-      35.2345,
-      -89.8502
+      35.0644,
+      -89.6759
     ]
   }
 }
