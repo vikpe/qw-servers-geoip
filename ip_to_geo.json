@@ -579,7 +579,7 @@
       139.6899
     ]
   },
-  "161.29.75.216": {
+  "161.29.74.70": {
     "region": "Oceania",
     "country": "New Zealand",
     "cc": "NZ",
@@ -937,16 +937,6 @@
     "coordinates": [
       -33.8688,
       151.209
-    ]
-  },
-  "192.99.32.215": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Montreal",
-    "coordinates": [
-      45.5029,
-      -73.5723
     ]
   },
   "193.124.9.205": {
@@ -1309,16 +1299,6 @@
       21.0122
     ]
   },
-  "34.145.142.112": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1367,6 +1347,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "34.48.60.136": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.88.89.167": {
@@ -1457,6 +1447,16 @@
     "coordinates": [
       -3.7145,
       -38.5419
+    ]
+  },
+  "45.235.98.10": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1829,6 +1829,16 @@
       -123.3709
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -1969,16 +1979,6 @@
       13.405
     ]
   },
-  "87.189.50.192": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "88.129.191.196": {
     "region": "Europe",
     "country": "Sweden",
@@ -2039,6 +2039,16 @@
       -0.1196
     ]
   },
+  "91.55.88.232": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "92.35.17.241": {
     "region": "Europe",
     "country": "Sweden",
@@ -2057,16 +2067,6 @@
     "coordinates": [
       47.5119,
       7.5579
-    ]
-  },
-  "94.254.2.158": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "94.254.94.4": {
