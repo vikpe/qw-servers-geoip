@@ -939,6 +939,16 @@
       151.209
     ]
   },
+  "192.99.32.215": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Montreal",
+    "coordinates": [
+      45.5029,
+      -73.5723
+    ]
+  },
   "193.124.9.205": {
     "region": "Europe",
     "country": "Russia",
@@ -1349,7 +1359,7 @@
       -95.8608
     ]
   },
-  "34.48.60.136": {
+  "34.86.110.18": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -2067,6 +2077,16 @@
     "coordinates": [
       47.5119,
       7.5579
+    ]
+  },
+  "94.254.2.158": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "94.254.94.4": {
