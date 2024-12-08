@@ -89,6 +89,16 @@
       -83.0458
     ]
   },
+  "104.190.163.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fort Worth",
+    "coordinates": [
+      32.8619,
+      -97.3427
+    ]
+  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -1359,16 +1369,6 @@
       -95.8608
     ]
   },
-  "34.86.110.18": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.88.89.167": {
     "region": "Europe",
     "country": "Finland",
@@ -1397,6 +1397,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.186.183.219": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.226": {
