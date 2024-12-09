@@ -1399,7 +1399,7 @@
       -80.013
     ]
   },
-  "35.186.183.219": {
+  "35.236.242.213": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1497,6 +1497,16 @@
     "coordinates": [
       33.7838,
       -84.4455
+    ]
+  },
+  "45.32.70.91": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.046,
+      -118.2297
     ]
   },
   "45.32.75.169": {
@@ -1787,6 +1797,16 @@
     "coordinates": [
       41.4235,
       -73.4724
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
