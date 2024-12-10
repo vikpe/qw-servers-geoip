@@ -979,16 +979,6 @@
       37.8294
     ]
   },
-  "193.36.116.117": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6798,
-      12.4287
-    ]
-  },
   "193.42.36.145": {
     "region": "Europe",
     "country": "Poland",
@@ -1369,6 +1359,16 @@
       -95.8608
     ]
   },
+  "34.48.177.43": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.88.89.167": {
     "region": "Europe",
     "country": "Finland",
@@ -1397,16 +1397,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.236.242.213": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1547,6 +1537,16 @@
     "coordinates": [
       59.3241,
       18.0517
+    ]
+  },
+  "46.26.199.52": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.4942,
+      -3.6832
     ]
   },
   "5.150.206.177": {
@@ -1797,16 +1797,6 @@
     "coordinates": [
       41.4235,
       -73.4724
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
