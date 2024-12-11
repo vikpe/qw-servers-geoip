@@ -89,16 +89,6 @@
       -83.0458
     ]
   },
-  "104.190.163.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fort Worth",
-    "coordinates": [
-      32.8619,
-      -97.3427
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -197,6 +187,16 @@
     "coordinates": [
       -27.4679,
       153.028
+    ]
+  },
+  "118.148.104.140": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": [
+      -36.8867,
+      174.769
     ]
   },
   "118.67.199.81": {
@@ -587,16 +587,6 @@
     "coordinates": [
       35.6893,
       139.6899
-    ]
-  },
-  "161.29.74.70": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8506,
-      174.7679
     ]
   },
   "162.19.231.86": {
@@ -1119,16 +1109,6 @@
       -80.2318
     ]
   },
-  "207.38.254.232": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Queens",
-    "coordinates": [
-      40.7706,
-      -73.9283
-    ]
-  },
   "208.72.153.30": {
     "region": "North America",
     "country": "United States",
@@ -1319,6 +1299,16 @@
       -80.013
     ]
   },
+  "34.150.217.220": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1357,16 +1347,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "34.48.177.43": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.88.89.167": {
@@ -1537,16 +1517,6 @@
     "coordinates": [
       59.3241,
       18.0517
-    ]
-  },
-  "46.26.199.52": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
-    "coordinates": [
-      40.4942,
-      -3.6832
     ]
   },
   "5.150.206.177": {
@@ -1949,6 +1919,16 @@
       24.9344
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -1997,6 +1977,16 @@
     "coordinates": [
       51.7714,
       19.4031
+    ]
+  },
+  "86.155.80.110": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Craigavon",
+    "coordinates": [
+      54.385,
+      -6.3282
     ]
   },
   "87.128.111.190": {
