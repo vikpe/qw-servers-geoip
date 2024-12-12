@@ -89,6 +89,16 @@
       -83.0458
     ]
   },
+  "104.190.163.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fort Worth",
+    "coordinates": [
+      32.8619,
+      -97.3427
+    ]
+  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -337,6 +347,16 @@
     "coordinates": [
       52.3891,
       4.6563
+    ]
+  },
+  "136.37.100.159": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Olathe",
+    "coordinates": [
+      38.8715,
+      -94.7713
     ]
   },
   "137.74.7.185": {
@@ -1299,16 +1319,6 @@
       -80.013
     ]
   },
-  "34.150.217.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1339,14 +1349,14 @@
       13.4049
     ]
   },
-  "34.46.247.30": {
+  "34.48.24.106": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Council Bluffs",
+    "city": "Washington",
     "coordinates": [
-      41.2619,
-      -95.8608
+      38.9071,
+      -77.0368
     ]
   },
   "34.88.89.167": {
@@ -1377,6 +1387,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.223.205.224": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "37.123.190.226": {
@@ -1769,16 +1789,6 @@
       -73.4724
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3763,
-      -81.7344
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -2107,6 +2117,16 @@
     "coordinates": [
       55.7037,
       13.1946
+    ]
+  },
+  "94.45.205.16": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Sheremet'yevskiy",
+    "coordinates": [
+      55.9758,
+      37.4942
     ]
   },
   "95.165.130.151": {
