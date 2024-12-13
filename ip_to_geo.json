@@ -199,7 +199,7 @@
       153.028
     ]
   },
-  "118.148.104.140": {
+  "118.148.107.248": {
     "region": "Oceania",
     "country": "New Zealand",
     "cc": "NZ",
@@ -347,16 +347,6 @@
     "coordinates": [
       52.3891,
       4.6563
-    ]
-  },
-  "136.37.100.159": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Olathe",
-    "coordinates": [
-      38.8715,
-      -94.7713
     ]
   },
   "137.74.7.185": {
@@ -1349,7 +1339,7 @@
       13.4049
     ]
   },
-  "34.48.24.106": {
+  "34.85.140.206": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1819,16 +1809,6 @@
       -77.4874
     ]
   },
-  "75.102.17.203": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8874,
-      -87.6318
-    ]
-  },
   "75.154.239.81": {
     "region": "North America",
     "country": "Canada",
@@ -1839,14 +1819,14 @@
       -123.3709
     ]
   },
-  "75.82.121.13": {
+  "75.215.207.34": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Huntington Beach",
+    "city": "Philadelphia",
     "coordinates": [
-      33.675,
-      -118.0027
+      39.9943,
+      -75.1181
     ]
   },
   "78.45.89.65": {
