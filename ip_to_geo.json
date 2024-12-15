@@ -299,6 +299,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -707,16 +717,6 @@
     "coordinates": [
       25.7689,
       -80.1946
-    ]
-  },
-  "172.92.246.87": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "174.138.43.249": {
@@ -1309,6 +1309,16 @@
       -80.013
     ]
   },
+  "34.150.243.243": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1367,16 +1377,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.194.77.168": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.223.205.224": {
@@ -1917,16 +1917,6 @@
     "coordinates": [
       60.1797,
       24.9344
-    ]
-  },
-  "85.209.118.137": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6494,
-      12.5298
     ]
   },
   "85.229.1.195": {
