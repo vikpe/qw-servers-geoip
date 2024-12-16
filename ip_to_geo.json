@@ -1309,16 +1309,6 @@
       -80.013
     ]
   },
-  "34.150.243.243": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1327,6 +1317,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "34.21.31.245": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.242.30.72": {
@@ -1347,6 +1347,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.46.247.30": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "34.88.89.167": {
@@ -1377,16 +1387,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.223.205.224": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "37.123.190.226": {
@@ -1779,6 +1779,26 @@
       -73.4724
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1917,6 +1937,16 @@
     "coordinates": [
       60.1797,
       24.9344
+    ]
+  },
+  "85.209.118.137": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6494,
+      12.5298
     ]
   },
   "85.229.1.195": {
