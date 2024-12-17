@@ -849,16 +849,6 @@
       -46.6359
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wo\u0142omin",
-    "coordinates": [
-      52.3521,
-      21.247
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1279,6 +1269,16 @@
       -96.8704
     ]
   },
+  "23.95.214.18": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Santa Clara",
+    "coordinates": [
+      37.353,
+      -121.9543
+    ]
+  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1317,16 +1317,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "34.21.31.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.242.30.72": {
@@ -1369,6 +1359,16 @@
       28.1896
     ]
   },
+  "35.132.120.6": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Luis Obispo",
+    "coordinates": [
+      35.2612,
+      -120.655
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1387,6 +1387,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.236.242.141": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1779,16 +1789,6 @@
       -73.4724
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -2129,16 +2129,6 @@
       37.6171
     ]
   },
-  "95.181.230.193": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7483,
-      37.6171
-    ]
-  },
   "95.216.18.118": {
     "region": "Europe",
     "country": "Finland",
@@ -2157,6 +2147,16 @@
     "coordinates": [
       60.1797,
       24.9344
+    ]
+  },
+  "97.148.133.72": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Nashville",
+    "coordinates": [
+      36.0711,
+      -86.7196
     ]
   },
   "97.94.129.234": {
