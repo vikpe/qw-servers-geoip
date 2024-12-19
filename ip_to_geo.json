@@ -199,16 +199,6 @@
       153.028
     ]
   },
-  "118.148.107.248": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8867,
-      174.769
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -407,6 +397,16 @@
     "coordinates": [
       55.7483,
       37.6171
+    ]
+  },
+  "141.148.150.255": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
     ]
   },
   "144.22.145.206": {
@@ -797,6 +797,26 @@
     "coordinates": [
       38.7223,
       -9.13934
+    ]
+  },
+  "185.148.113.143": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Fortaleza",
+    "coordinates": [
+      -3.7145,
+      -38.5419
+    ]
+  },
+  "185.148.113.2": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Fortaleza",
+    "coordinates": [
+      -3.7145,
+      -38.5419
     ]
   },
   "185.157.244.204": {
@@ -1379,6 +1399,16 @@
       -80.013
     ]
   },
+  "35.199.36.172": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "37.123.190.226": {
     "region": "Europe",
     "country": "Sweden",
@@ -1819,6 +1849,16 @@
       -123.3709
     ]
   },
+  "75.208.150.224": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Nashville",
+    "coordinates": [
+      36.1988,
+      -86.7881
+    ]
+  },
   "75.215.207.34": {
     "region": "North America",
     "country": "United States",
@@ -1837,6 +1877,16 @@
     "coordinates": [
       33.675,
       -118.0027
+    ]
+  },
+  "77.37.96.64": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "N\u00f8rre \u00c5by",
+    "coordinates": [
+      55.4669,
+      9.8842
     ]
   },
   "78.45.89.65": {
@@ -2117,16 +2167,6 @@
     "coordinates": [
       60.1797,
       24.9344
-    ]
-  },
-  "97.148.133.72": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Nashville",
-    "coordinates": [
-      36.0711,
-      -86.7196
     ]
   },
   "97.94.129.234": {
