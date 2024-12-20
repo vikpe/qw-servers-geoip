@@ -439,6 +439,16 @@
       17.039
     ]
   },
+  "146.70.80.24": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Christianshavn",
+    "coordinates": [
+      55.6738,
+      12.5954
+    ]
+  },
   "147.135.208.107": {
     "region": "Europe",
     "country": "Poland",
@@ -749,6 +759,16 @@
       73.3729
     ]
   },
+  "177.188.140.118": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -809,7 +829,7 @@
       -38.5419
     ]
   },
-  "185.148.113.2": {
+  "185.148.113.77": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1399,16 +1419,6 @@
       -80.013
     ]
   },
-  "35.199.36.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "37.123.190.226": {
     "region": "Europe",
     "country": "Sweden",
@@ -1699,6 +1709,16 @@
       -46.6333
     ]
   },
+  "62.220.162.124": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Skara",
+    "coordinates": [
+      58.3869,
+      13.4449
+    ]
+  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1969,6 +1989,16 @@
       24.9344
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2197,6 +2227,16 @@
     "coordinates": [
       59.3287,
       18.0717
+    ]
+  },
+  "98.168.28.117": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Tucson",
+    "coordinates": [
+      32.185,
+      -110.8171
     ]
   },
   "99.72.255.45": {
