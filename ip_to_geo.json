@@ -489,6 +489,16 @@
       -74.4606
     ]
   },
+  "149.50.216.231": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
+    ]
+  },
   "15.181.21.107": {
     "region": "North America",
     "country": "United States",
@@ -939,16 +949,6 @@
       12.3649
     ]
   },
-  "189.18.215.217": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "192.227.152.195": {
     "region": "North America",
     "country": "United States",
@@ -1309,14 +1309,14 @@
       -96.8704
     ]
   },
-  "23.95.214.18": {
+  "24.143.70.225": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Santa Clara",
+    "city": "Camano",
     "coordinates": [
-      37.353,
-      -121.9543
+      48.1789,
+      -122.5181
     ]
   },
   "3.104.30.121": {
@@ -1869,16 +1869,6 @@
       -123.3709
     ]
   },
-  "75.208.150.224": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Nashville",
-    "coordinates": [
-      36.1988,
-      -86.7881
-    ]
-  },
   "75.215.207.34": {
     "region": "North America",
     "country": "United States",
@@ -1907,6 +1897,16 @@
     "coordinates": [
       55.4669,
       9.8842
+    ]
+  },
+  "78.44.115.18": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "P\u0159\u00edbram",
+    "coordinates": [
+      49.6987,
+      14.1948
     ]
   },
   "78.45.89.65": {
@@ -1969,14 +1969,14 @@
       17.3203
     ]
   },
-  "83.249.52.36": {
+  "83.172.66.214": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Sundbyberg",
+    "city": "Enk\u00f6ping",
     "coordinates": [
-      59.3565,
-      17.9651
+      59.6323,
+      17.0761
     ]
   },
   "84.251.40.124": {
@@ -1987,16 +1987,6 @@
     "coordinates": [
       60.1797,
       24.9344
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2227,16 +2217,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "98.168.28.117": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Tucson",
-    "coordinates": [
-      32.185,
-      -110.8171
     ]
   },
   "99.72.255.45": {
