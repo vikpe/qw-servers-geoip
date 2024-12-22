@@ -739,6 +739,16 @@
       -80.1946
     ]
   },
+  "172.234.108.206": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -1307,16 +1317,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "3.104.30.121": {
@@ -1987,6 +1987,16 @@
     "coordinates": [
       60.1797,
       24.9344
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
