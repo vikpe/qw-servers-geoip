@@ -3,10 +3,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Reston",
+    "city": "Oakton",
     "coordinates": [
-      38.93,
-      -77.35
+      38.8809,
+      -77.3008
     ]
   },
   "102.222.22.173": {
@@ -67,6 +67,16 @@
     "coordinates": [
       -34.9522,
       138.6321
+    ]
+  },
+  "103.214.68.150": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "103.235.197.27": {
@@ -437,16 +447,6 @@
     "coordinates": [
       51.104,
       17.039
-    ]
-  },
-  "146.70.80.24": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Christianshavn",
-    "coordinates": [
-      55.6738,
-      12.5954
     ]
   },
   "147.135.208.107": {
@@ -1033,10 +1033,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Egerbocs",
+    "city": "Szeged",
     "coordinates": [
-      48.033,
-      20.2722
+      46.2527,
+      20.154
     ]
   },
   "195.201.133.22": {
@@ -1233,10 +1233,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Malmo",
+    "city": "Farsta",
     "coordinates": [
-      55.6078,
-      12.9982
+      59.2415,
+      18.108
     ]
   },
   "213.80.111.176": {
@@ -1423,10 +1423,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Enskede-\u00c5rsta-Vant\u00f6r",
+    "city": "Stockholm",
     "coordinates": [
-      59.2857,
-      18.0611
+      59.3241,
+      18.0517
     ]
   },
   "37.201.131.70": {
@@ -1435,8 +1435,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1376,
-      8.6776
+      50.1821,
+      8.6341
     ]
   },
   "37.221.215.47": {
@@ -1713,10 +1713,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Skara",
+    "city": "Lidk\u00f6ping",
     "coordinates": [
-      58.3869,
-      13.4449
+      58.5338,
+      13.1395
     ]
   },
   "62.80.247.69": {
@@ -1747,6 +1747,16 @@
     "coordinates": [
       40.7924,
       -74.0096
+    ]
+  },
+  "66.235.53.28": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Morton",
+    "coordinates": [
+      46.5584,
+      -122.2751
     ]
   },
   "66.85.80.160": {
@@ -1795,8 +1805,8 @@
     "cc": "US",
     "city": "Springfield",
     "coordinates": [
-      37.1661,
-      -93.2458
+      37.168,
+      -93.3039
     ]
   },
   "72.18.132.133": {
@@ -1813,10 +1823,20 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Danbury",
+    "city": "Shelton",
     "coordinates": [
-      41.4235,
-      -73.4724
+      41.3219,
+      -73.0816
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1865,8 +1885,8 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.4248,
-      -123.3709
+      48.4518,
+      -123.4206
     ]
   },
   "75.215.207.34": {
@@ -1875,8 +1895,8 @@
     "cc": "US",
     "city": "Philadelphia",
     "coordinates": [
-      39.9943,
-      -75.1181
+      39.9544,
+      -75.1657
     ]
   },
   "75.82.121.13": {
@@ -1903,10 +1923,10 @@
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
-    "city": "P\u0159\u00edbram",
+    "city": "Prague",
     "coordinates": [
-      49.6987,
-      14.1948
+      50.0805,
+      14.467
     ]
   },
   "78.45.89.65": {
@@ -1989,16 +2009,6 @@
       24.9344
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2035,8 +2045,8 @@
     "cc": "PL",
     "city": "Lodz",
     "coordinates": [
-      51.7714,
-      19.4031
+      51.7643,
+      19.4627
     ]
   },
   "87.128.111.190": {
@@ -2085,8 +2095,8 @@
     "cc": "FI",
     "city": "Espoo",
     "coordinates": [
-      60.1738,
-      24.6772
+      60.1731,
+      24.6665
     ]
   },
   "91.206.14.17": {
@@ -2203,10 +2213,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Turlock",
+    "city": "Riverbank",
     "coordinates": [
-      37.4912,
-      -120.8559
+      37.7399,
+      -120.9347
     ]
   },
   "98.128.174.153": {
@@ -2225,8 +2235,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3241,
+      18.0517
     ]
   },
   "99.72.255.45": {
