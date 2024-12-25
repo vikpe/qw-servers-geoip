@@ -1249,16 +1249,6 @@
       17.797
     ]
   },
-  "213.89.249.164": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Karlstad",
-    "coordinates": [
-      59.3974,
-      13.5055
-    ]
-  },
   "216.160.28.148": {
     "region": "North America",
     "country": "United States",
@@ -1897,16 +1887,6 @@
     "coordinates": [
       33.675,
       -118.0027
-    ]
-  },
-  "76.204.125.214": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fort Worth",
-    "coordinates": [
-      32.8619,
-      -97.3427
     ]
   },
   "77.37.96.64": {
