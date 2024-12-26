@@ -1579,16 +1579,6 @@
       -77.4903
     ]
   },
-  "50.35.97.252": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lynnwood",
-    "coordinates": [
-      47.8022,
-      -122.286
-    ]
-  },
   "51.68.212.3": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -2097,6 +2087,16 @@
     "coordinates": [
       51.5074,
       -0.1196
+    ]
+  },
+  "91.55.73.55": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "92.35.17.241": {
