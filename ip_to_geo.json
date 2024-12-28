@@ -189,16 +189,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.028
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1129,6 +1119,16 @@
       -104.816154
     ]
   },
+  "202.47.179.132": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1749,6 +1749,16 @@
       -74.0096
     ]
   },
+  "66.235.53.28": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Morton",
+    "coordinates": [
+      46.5584,
+      -122.2751
+    ]
+  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1809,6 +1819,16 @@
       -104.9957
     ]
   },
+  "72.216.20.4": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cantonment",
+    "coordinates": [
+      30.6085,
+      -87.34
+    ]
+  },
   "73.123.216.240": {
     "region": "North America",
     "country": "United States",
@@ -1817,6 +1837,16 @@
     "coordinates": [
       41.3219,
       -73.0816
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3763,
+      -81.7344
     ]
   },
   "73.23.203.172": {
@@ -1987,16 +2017,6 @@
     "coordinates": [
       55.6494,
       12.5298
-    ]
-  },
-  "85.229.1.195": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Skarpn\u00e4ck",
-    "coordinates": [
-      59.2688,
-      18.1182
     ]
   },
   "85.28.131.207": {
