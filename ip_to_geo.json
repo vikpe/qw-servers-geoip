@@ -19,14 +19,14 @@
       18.4811
     ]
   },
-  "103.106.89.183": {
+  "103.106.91.94": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.9028,
-      115.855
+      -31.9643,
+      115.8595
     ]
   },
   "103.112.0.130": {
@@ -189,6 +189,16 @@
       11.0783
     ]
   },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.028
+    ]
+  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -217,16 +227,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "129.148.39.85": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
     ]
   },
   "13.48.133.81": {
@@ -577,6 +577,16 @@
     "coordinates": [
       59.9016,
       10.7343
+    ]
+  },
+  "159.69.87.212": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Nuremberg",
+    "coordinates": [
+      49.4527,
+      11.0783
     ]
   },
   "16.50.158.34": {
@@ -1449,16 +1459,6 @@
       8.6341
     ]
   },
-  "37.221.215.47": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5386,
-      19.0658
-    ]
-  },
   "38.57.161.19": {
     "region": "North America",
     "country": "United States",
@@ -1749,16 +1749,6 @@
       -74.0096
     ]
   },
-  "66.235.53.28": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Morton",
-    "coordinates": [
-      46.5584,
-      -122.2751
-    ]
-  },
   "66.85.80.160": {
     "region": "North America",
     "country": "United States",
@@ -1969,16 +1959,6 @@
       11.6091
     ]
   },
-  "82.115.5.137": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3675,
-      4.9041
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -2017,6 +1997,16 @@
     "coordinates": [
       55.6494,
       12.5298
+    ]
+  },
+  "85.229.14.86": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Skarpn\u00e4ck",
+    "coordinates": [
+      59.2688,
+      18.1182
     ]
   },
   "85.28.131.207": {
