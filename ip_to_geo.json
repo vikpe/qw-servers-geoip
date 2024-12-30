@@ -379,6 +379,16 @@
       151.2006
     ]
   },
+  "140.238.180.126": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "141.105.67.104": {
     "region": "Europe",
     "country": "Russia",
@@ -877,6 +887,16 @@
     "coordinates": [
       48.8909,
       2.2093
+    ]
+  },
+  "185.185.40.21": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "185.189.139.18": {
@@ -1409,6 +1429,16 @@
       -95.8608
     ]
   },
+  "34.48.148.215": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.88.89.167": {
     "region": "Europe",
     "country": "Finland",
@@ -1829,6 +1859,16 @@
       -73.0816
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1887,16 +1927,6 @@
     "coordinates": [
       39.9544,
       -75.1657
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.37.96.64": {
