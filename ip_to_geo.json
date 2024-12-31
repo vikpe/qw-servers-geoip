@@ -1279,16 +1279,6 @@
       18.108
     ]
   },
-  "213.80.111.176": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "H\u00e4sselby strand",
-    "coordinates": [
-      59.3603,
-      17.797
-    ]
-  },
   "216.160.28.148": {
     "region": "North America",
     "country": "United States",
@@ -1399,6 +1389,16 @@
       -77.4874
     ]
   },
+  "34.21.13.171": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1427,16 +1427,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "34.48.148.215": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.88.89.167": {
@@ -1857,16 +1847,6 @@
     "coordinates": [
       41.3219,
       -73.0816
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2478,
-      -122.6192
     ]
   },
   "73.23.130.187": {
