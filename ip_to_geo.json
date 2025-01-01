@@ -779,6 +779,16 @@
       -80.0531
     ]
   },
+  "174.86.44.53": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "St Louis",
+    "coordinates": [
+      38.5793,
+      -90.422
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1249,6 +1259,16 @@
       37.6173
     ]
   },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
+    ]
+  },
   "213.190.221.189": {
     "region": "Europe",
     "country": "Portugal",
@@ -1359,7 +1379,7 @@
       151.2002
     ]
   },
-  "34.116.203.36": {
+  "34.118.72.161": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
@@ -1389,16 +1409,6 @@
       -77.4874
     ]
   },
-  "34.21.13.171": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1409,7 +1419,7 @@
       -6.26031
     ]
   },
-  "34.32.2.12": {
+  "34.32.86.32": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -1427,16 +1437,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "34.88.89.167": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Lappeenranta",
-    "coordinates": [
-      61.0549,
-      28.1896
     ]
   },
   "35.178.200.80": {
@@ -1457,6 +1457,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.228.75.239": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Lappeenranta",
+    "coordinates": [
+      61.0549,
+      28.1896
     ]
   },
   "37.123.190.226": {
