@@ -39,16 +39,6 @@
       -95.7129
     ]
   },
-  "103.151.65.11": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bartlesville",
-    "coordinates": [
-      37.0902,
-      -95.7129
-    ]
-  },
   "103.151.65.19": {
     "region": "North America",
     "country": "United States",
@@ -779,16 +769,6 @@
       -80.0531
     ]
   },
-  "174.86.44.53": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "St Louis",
-    "coordinates": [
-      38.5793,
-      -90.422
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -797,16 +777,6 @@
     "coordinates": [
       54.9896,
       73.3729
-    ]
-  },
-  "177.188.140.118": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
     ]
   },
   "177.71.158.196": {
@@ -997,6 +967,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "191.9.106.183": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "192.227.152.195": {
@@ -1997,6 +1977,16 @@
     "coordinates": [
       59.6323,
       17.0761
+    ]
+  },
+  "84.217.173.132": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Link\u00f6ping",
+    "coordinates": [
+      58.4016,
+      15.6462
     ]
   },
   "84.251.40.124": {
