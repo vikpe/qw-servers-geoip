@@ -209,6 +209,16 @@
       144.109
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2007,
+      174.7708
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -757,6 +767,16 @@
     "coordinates": [
       37.2555,
       -80.0531
+    ]
+  },
+  "174.86.44.53": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "St Louis",
+    "coordinates": [
+      38.5793,
+      -90.422
     ]
   },
   "176.210.100.6": {
@@ -1347,6 +1367,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "3.104.30.121": {
@@ -1989,6 +2019,16 @@
       24.9344
     ]
   },
+  "84.68.225.96": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Glasgow",
+    "coordinates": [
+      55.9025,
+      -4.1085
+    ]
+  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2210,6 +2250,16 @@
     ]
   },
   "98.128.186.18": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
+    ]
+  },
+  "98.128.228.181": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
