@@ -739,6 +739,26 @@
       18.0517
     ]
   },
+  "172.56.208.100": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Las Vegas",
+    "coordinates": [
+      36.115,
+      -115.2165
+    ]
+  },
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8308,
+      -90.7023
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -767,16 +787,6 @@
     "coordinates": [
       37.2555,
       -80.0531
-    ]
-  },
-  "174.86.44.53": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "St Louis",
-    "coordinates": [
-      38.5793,
-      -90.422
     ]
   },
   "176.210.100.6": {
@@ -1369,16 +1379,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1629,6 +1629,16 @@
       -77.4903
     ]
   },
+  "50.35.97.252": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lynnwood",
+    "coordinates": [
+      47.8022,
+      -122.286
+    ]
+  },
   "51.68.212.3": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1829,14 +1839,14 @@
       17.9155
     ]
   },
-  "70.57.103.110": {
+  "70.57.94.18": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Springfield",
     "coordinates": [
-      37.168,
-      -93.3039
+      37.2103,
+      -93.3046
     ]
   },
   "72.18.132.133": {
@@ -2017,16 +2027,6 @@
     "coordinates": [
       60.1797,
       24.9344
-    ]
-  },
-  "84.68.225.96": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Glasgow",
-    "coordinates": [
-      55.9025,
-      -4.1085
     ]
   },
   "85.209.118.137": {
