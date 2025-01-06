@@ -539,16 +539,6 @@
       -96.8021
     ]
   },
-  "157.245.82.116": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Bergen",
-    "coordinates": [
-      40.7924,
-      -74.0096
-    ]
-  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -737,26 +727,6 @@
     "coordinates": [
       59.3241,
       18.0517
-    ]
-  },
-  "172.56.208.100": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Las Vegas",
-    "coordinates": [
-      36.115,
-      -115.2165
-    ]
-  },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8308,
-      -90.7023
     ]
   },
   "174.138.43.249": {
@@ -1879,6 +1849,16 @@
       -73.0816
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2478,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -2007,16 +1987,6 @@
     "coordinates": [
       62.3772,
       17.3203
-    ]
-  },
-  "84.217.173.132": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Link\u00f6ping",
-    "coordinates": [
-      58.4016,
-      15.6462
     ]
   },
   "84.251.40.124": {
@@ -2250,16 +2220,6 @@
     ]
   },
   "98.128.186.18": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3241,
-      18.0517
-    ]
-  },
-  "98.128.228.181": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
