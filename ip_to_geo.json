@@ -839,16 +839,6 @@
       -38.5419
     ]
   },
-  "185.148.113.77": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Fortaleza",
-    "coordinates": [
-      -3.7145,
-      -38.5419
-    ]
-  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -897,6 +887,16 @@
     "coordinates": [
       -23.5335,
       -46.6359
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.1841,
+      21.0003
     ]
   },
   "185.73.44.100": {
@@ -1967,6 +1967,16 @@
     "coordinates": [
       48.1077,
       11.6091
+    ]
+  },
+  "81.232.45.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lund",
+    "coordinates": [
+      55.7047,
+      13.191
     ]
   },
   "82.196.112.57": {
