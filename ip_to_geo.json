@@ -209,16 +209,6 @@
       144.109
     ]
   },
-  "121.99.166.164": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Wellington",
-    "coordinates": [
-      -41.2007,
-      174.7708
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -477,6 +467,16 @@
     "coordinates": [
       40.5511,
       -74.4606
+    ]
+  },
+  "149.50.216.208": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3241,
+      18.0517
     ]
   },
   "15.181.21.107": {
@@ -747,6 +747,16 @@
     "coordinates": [
       37.2555,
       -80.0531
+    ]
+  },
+  "174.86.44.53": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "St Louis",
+    "coordinates": [
+      38.5793,
+      -90.422
     ]
   },
   "176.210.100.6": {
@@ -1347,6 +1357,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "3.104.30.121": {
@@ -2077,6 +2097,16 @@
     "coordinates": [
       64.0161,
       11.4985
+    ]
+  },
+  "89.152.100.46": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Maia",
+    "coordinates": [
+      41.2345,
+      -8.6182
     ]
   },
   "89.68.198.17": {
