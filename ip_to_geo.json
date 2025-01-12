@@ -949,7 +949,7 @@
       12.3649
     ]
   },
-  "191.9.106.183": {
+  "189.111.230.132": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1339,6 +1339,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1399,26 +1409,6 @@
       13.4049
     ]
   },
-  "34.46.247.30": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
-  "34.48.111.173": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1427,6 +1417,16 @@
     "coordinates": [
       51.5074,
       -0.127758
+    ]
+  },
+  "35.184.112.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "35.185.44.174": {
@@ -1839,16 +1839,6 @@
       -104.9957
     ]
   },
-  "72.216.20.4": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cantonment",
-    "coordinates": [
-      30.6085,
-      -87.34
-    ]
-  },
   "73.123.216.240": {
     "region": "North America",
     "country": "United States",
@@ -1989,6 +1979,16 @@
       17.3203
     ]
   },
+  "83.172.66.214": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Enk\u00f6ping",
+    "coordinates": [
+      59.6323,
+      17.0761
+    ]
+  },
   "84.251.40.124": {
     "region": "Europe",
     "country": "Finland",
@@ -1997,6 +1997,16 @@
     "coordinates": [
       60.1797,
       24.9344
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
