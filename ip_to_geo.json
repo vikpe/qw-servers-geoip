@@ -709,6 +709,16 @@
       18.0517
     ]
   },
+  "172.236.100.99": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8874,
+      -87.6318
+    ]
+  },
   "174.138.43.249": {
     "region": "North America",
     "country": "United States",
@@ -829,16 +839,6 @@
       2.2093
     ]
   },
-  "185.185.40.21": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
-    ]
-  },
   "185.189.139.18": {
     "region": "Europe",
     "country": "Poland",
@@ -939,7 +939,7 @@
       12.3649
     ]
   },
-  "189.111.230.132": {
+  "189.46.113.185": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1107,16 +1107,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "203.220.86.238": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8661,
-      144.981
     ]
   },
   "206.51.245.84": {
@@ -1399,6 +1389,16 @@
       13.4049
     ]
   },
+  "34.85.233.104": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1427,6 +1427,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.199.1.27": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.228.75.239": {
@@ -1829,16 +1839,6 @@
       -73.0816
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Livermore",
-    "coordinates": [
-      37.7562,
-      -121.77
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -2017,6 +2017,16 @@
     "coordinates": [
       59.2688,
       18.1182
+    ]
+  },
+  "85.28.131.207": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Tarn\u00f3w",
+    "coordinates": [
+      50.0196,
+      20.9853
     ]
   },
   "85.89.175.250": {
