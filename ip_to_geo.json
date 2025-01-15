@@ -559,16 +559,6 @@
       -99.76158
     ]
   },
-  "158.248.13.196": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9016,
-      10.7343
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -837,6 +827,16 @@
     "coordinates": [
       48.8909,
       2.2093
+    ]
+  },
+  "185.185.40.21": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "185.189.139.18": {
@@ -1389,16 +1389,6 @@
       13.4049
     ]
   },
-  "34.85.233.104": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1427,16 +1417,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.199.1.27": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.228.75.239": {
@@ -1997,6 +1977,16 @@
     "coordinates": [
       60.1797,
       24.9344
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
