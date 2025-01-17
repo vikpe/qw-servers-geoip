@@ -559,16 +559,6 @@
       -99.76158
     ]
   },
-  "158.248.13.196": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9016,
-      10.7343
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -1009,6 +999,16 @@
       20.154
     ]
   },
+  "194.87.98.11": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Korolyov",
+    "coordinates": [
+      55.9155,
+      37.8263
+    ]
+  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1087,16 +1087,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "202.186.90.162": {
-    "region": "Asia",
-    "country": "Malaysia",
-    "cc": "MY",
-    "city": "Petaling Jaya",
-    "coordinates": [
-      3.1201,
-      101.5981
     ]
   },
   "202.47.179.132": {
@@ -1227,16 +1217,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "213.67.2.169": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Farsta",
-    "coordinates": [
-      59.2415,
-      18.108
     ]
   },
   "213.80.111.176": {
@@ -1419,16 +1399,6 @@
       -80.013
     ]
   },
-  "35.194.90.141": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.228.75.239": {
     "region": "Europe",
     "country": "Finland",
@@ -1437,6 +1407,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.245.17.110": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1959,16 +1939,6 @@
       11.6091
     ]
   },
-  "82.196.112.57": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3772,
-      17.3203
-    ]
-  },
   "83.172.66.214": {
     "region": "Europe",
     "country": "Sweden",
@@ -1987,16 +1957,6 @@
     "coordinates": [
       60.1797,
       24.9344
-    ]
-  },
-  "85.209.118.137": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6494,
-      12.5298
     ]
   },
   "85.229.14.86": {
@@ -2160,16 +2120,6 @@
     ]
   },
   "95.165.130.151": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7483,
-      37.6171
-    ]
-  },
-  "95.165.157.205": {
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
