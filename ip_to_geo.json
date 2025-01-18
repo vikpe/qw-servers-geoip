@@ -69,6 +69,16 @@
       4.8975
     ]
   },
+  "103.216.220.44": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4679,
+      153.0325
+    ]
+  },
   "103.235.197.27": {
     "region": "Asia",
     "country": "Nepal",
@@ -177,16 +187,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Mango Hill",
-    "coordinates": [
-      -27.2435,
-      153.024
     ]
   },
   "118.67.199.81": {
@@ -557,6 +557,16 @@
     "coordinates": [
       20.890005,
       -99.76158
+    ]
+  },
+  "158.248.13.196": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9016,
+      10.7343
     ]
   },
   "159.69.87.212": {
@@ -1149,16 +1159,6 @@
       -157.8725
     ]
   },
-  "208.83.239.114": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Honolulu",
-    "coordinates": [
-      21.3513,
-      -157.8725
-    ]
-  },
   "212.193.49.233": {
     "region": "Europe",
     "country": "Russia",
@@ -1409,14 +1409,14 @@
       28.1896
     ]
   },
-  "35.245.17.110": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
+  "37.123.143.242": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sundsvall",
     "coordinates": [
-      38.9071,
-      -77.0368
+      62.3772,
+      17.3203
     ]
   },
   "37.123.190.226": {
@@ -1957,6 +1957,26 @@
     "coordinates": [
       60.1797,
       24.9344
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
+  "85.209.118.137": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6494,
+      12.5298
     ]
   },
   "85.229.14.86": {
