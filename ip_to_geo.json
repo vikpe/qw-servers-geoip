@@ -69,7 +69,7 @@
       4.8975
     ]
   },
-  "103.216.220.44": {
+  "103.216.220.28": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -149,6 +149,16 @@
       8.7147
     ]
   },
+  "108.61.229.191": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Elk Grove Village",
+    "coordinates": [
+      42.0048,
+      -87.9954
+    ]
+  },
   "108.61.242.130": {
     "region": "North America",
     "country": "United States",
@@ -187,6 +197,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Mango Hill",
+    "coordinates": [
+      -27.2435,
+      153.024
     ]
   },
   "118.67.199.81": {
@@ -1949,6 +1969,16 @@
       17.0761
     ]
   },
+  "84.217.173.132": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Link\u00f6ping",
+    "coordinates": [
+      58.4016,
+      15.6462
+    ]
+  },
   "84.251.40.124": {
     "region": "Europe",
     "country": "Finland",
@@ -1957,16 +1987,6 @@
     "coordinates": [
       60.1797,
       24.9344
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
