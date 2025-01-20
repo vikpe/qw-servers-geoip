@@ -69,16 +69,6 @@
       4.8975
     ]
   },
-  "103.216.220.28": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4679,
-      153.0325
-    ]
-  },
   "103.235.197.27": {
     "region": "Asia",
     "country": "Nepal",
@@ -489,16 +479,6 @@
       -74.4606
     ]
   },
-  "149.50.216.208": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3241,
-      18.0517
-    ]
-  },
   "15.181.21.107": {
     "region": "North America",
     "country": "United States",
@@ -577,16 +557,6 @@
     "coordinates": [
       20.890005,
       -99.76158
-    ]
-  },
-  "158.248.13.196": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9016,
-      10.7343
     ]
   },
   "159.69.87.212": {
@@ -790,6 +760,16 @@
     ]
   },
   "178.79.135.210": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5074,
+      -0.1196
+    ]
+  },
+  "178.79.180.136": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
@@ -1329,6 +1309,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1829,6 +1819,16 @@
       -73.0816
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Livermore",
+    "coordinates": [
+      37.7562,
+      -121.77
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1969,16 +1969,6 @@
       17.0761
     ]
   },
-  "84.217.173.132": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Link\u00f6ping",
-    "coordinates": [
-      58.4016,
-      15.6462
-    ]
-  },
   "84.251.40.124": {
     "region": "Europe",
     "country": "Finland",
@@ -1997,6 +1987,16 @@
     "coordinates": [
       55.6494,
       12.5298
+    ]
+  },
+  "85.227.200.13": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sandviken",
+    "coordinates": [
+      60.6204,
+      16.7697
     ]
   },
   "85.229.14.86": {
