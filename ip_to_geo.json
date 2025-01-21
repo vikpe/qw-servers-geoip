@@ -559,6 +559,16 @@
       -99.76158
     ]
   },
+  "158.248.13.196": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9016,
+      10.7343
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -1309,16 +1319,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "3.104.30.121": {
     "region": "Oceania",
     "country": "Australia",
@@ -1379,6 +1379,16 @@
       13.4049
     ]
   },
+  "34.44.207.46": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1387,16 +1397,6 @@
     "coordinates": [
       51.5074,
       -0.127758
-    ]
-  },
-  "35.184.112.106": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.185.44.174": {
@@ -1819,16 +1819,6 @@
       -73.0816
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Livermore",
-    "coordinates": [
-      37.7562,
-      -121.77
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1987,16 +1977,6 @@
     "coordinates": [
       55.6494,
       12.5298
-    ]
-  },
-  "85.227.200.13": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sandviken",
-    "coordinates": [
-      60.6204,
-      16.7697
     ]
   },
   "85.229.14.86": {
