@@ -1229,6 +1229,16 @@
       11.0783
     ]
   },
+  "213.67.2.169": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Farsta",
+    "coordinates": [
+      59.2415,
+      18.108
+    ]
+  },
   "213.80.111.176": {
     "region": "Europe",
     "country": "Sweden",
@@ -1359,6 +1369,16 @@
       -77.4874
     ]
   },
+  "34.21.42.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1419,16 +1439,6 @@
       28.1896
     ]
   },
-  "37.123.143.242": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3772,
-      17.3203
-    ]
-  },
   "37.123.190.226": {
     "region": "Europe",
     "country": "Sweden",
@@ -1477,16 +1487,6 @@
     "coordinates": [
       -3.7145,
       -38.5419
-    ]
-  },
-  "45.235.98.10": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1969,6 +1969,16 @@
       24.9344
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2117,16 +2127,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "94.254.94.4": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Lund",
-    "coordinates": [
-      55.7037,
-      13.1946
     ]
   },
   "94.45.205.16": {
