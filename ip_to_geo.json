@@ -219,6 +219,16 @@
       144.109
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2007,
+      174.7708
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1359,6 +1369,16 @@
       21.0122
     ]
   },
+  "34.145.178.98": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1367,6 +1387,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.174.230.157": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
     ]
   },
   "34.201.64.11": {
