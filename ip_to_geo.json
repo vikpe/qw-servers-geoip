@@ -189,16 +189,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Mango Hill",
-    "coordinates": [
-      -27.2435,
-      153.024
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -237,6 +227,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "129.148.34.9": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
     ]
   },
   "13.48.133.81": {
@@ -1019,6 +1019,16 @@
       27.5667
     ]
   },
+  "194.223.52.111": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1339,14 +1349,14 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
+  "24.3.215.0": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Camano",
+    "city": "West Mifflin",
     "coordinates": [
-      48.1789,
-      -122.5181
+      40.3633,
+      -79.8633
     ]
   },
   "3.104.30.121": {
@@ -1369,16 +1379,6 @@
       21.0122
     ]
   },
-  "34.145.178.98": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1387,16 +1387,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.174.230.157": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
     ]
   },
   "34.201.64.11": {
@@ -1467,6 +1457,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.230.172.128": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.143.242": {
@@ -2107,6 +2107,16 @@
     "coordinates": [
       52.2003,
       20.974
+    ]
+  },
+  "91.132.92.54": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Ballerup Municipality",
+    "coordinates": [
+      55.7339,
+      12.362
     ]
   },
   "91.152.15.241": {
