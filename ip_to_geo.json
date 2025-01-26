@@ -799,16 +799,6 @@
       -0.1196
     ]
   },
-  "179.232.5.60": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
-    ]
-  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -1019,16 +1009,6 @@
       27.5667
     ]
   },
-  "194.223.52.111": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1227,16 +1207,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "213.190.221.189": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
     ]
   },
   "213.239.216.253": {
@@ -1457,16 +1427,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.230.172.128": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.143.242": {
@@ -1927,16 +1887,6 @@
     "coordinates": [
       40.009,
       -76.3631
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.37.96.64": {
