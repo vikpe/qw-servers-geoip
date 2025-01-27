@@ -39,6 +39,16 @@
       -95.7129
     ]
   },
+  "103.112.0.146": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": [
+      35.6893,
+      139.6899
+    ]
+  },
   "103.151.65.19": {
     "region": "North America",
     "country": "United States",
@@ -67,16 +77,6 @@
     "coordinates": [
       52.3759,
       4.8975
-    ]
-  },
-  "103.235.197.27": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7105,
-      85.3146
     ]
   },
   "103.72.77.220": {
@@ -187,6 +187,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Mango Hill",
+    "coordinates": [
+      -27.2435,
+      153.024
     ]
   },
   "118.67.199.81": {
@@ -1359,6 +1369,16 @@
       -80.013
     ]
   },
+  "34.174.17.40": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1389,7 +1409,7 @@
       13.4049
     ]
   },
-  "34.44.207.46": {
+  "34.46.247.30": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1557,6 +1577,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "45.79.64.245": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fremont",
+    "coordinates": [
+      37.5625,
+      -122.0004
     ]
   },
   "46.227.68.148": {
@@ -1829,6 +1859,16 @@
       -73.0816
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Livermore",
+    "coordinates": [
+      37.7562,
+      -121.77
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1887,6 +1927,16 @@
     "coordinates": [
       40.009,
       -76.3631
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.37.96.64": {
@@ -1969,16 +2019,6 @@
       24.9344
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2039,6 +2079,16 @@
       13.0038
     ]
   },
+  "89.109.83.239": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Funchal",
+    "coordinates": [
+      32.6333,
+      -16.9
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2069,16 +2119,6 @@
       12.362
     ]
   },
-  "91.152.15.241": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Espoo",
-    "coordinates": [
-      60.1731,
-      24.6665
-    ]
-  },
   "91.206.14.17": {
     "region": "Europe",
     "country": "Russia",
@@ -2099,7 +2139,7 @@
       -0.1196
     ]
   },
-  "91.55.74.121": {
+  "91.55.75.247": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
