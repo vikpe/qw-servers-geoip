@@ -1379,6 +1379,16 @@
       -95.8608
     ]
   },
+  "34.48.114.153": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1407,16 +1417,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "37.123.143.242": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3924,
-      17.3006
     ]
   },
   "37.123.190.226": {
@@ -1869,16 +1869,6 @@
       -123.3655
     ]
   },
-  "75.192.129.142": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      39.9233,
-      -75.2313
-    ]
-  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1949,6 +1939,26 @@
       11.6091
     ]
   },
+  "81.232.45.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bor\u00e5s",
+    "coordinates": [
+      57.7192,
+      12.9412
+    ]
+  },
+  "82.196.112.57": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sundsvall",
+    "coordinates": [
+      62.3924,
+      17.3006
+    ]
+  },
   "83.172.66.214": {
     "region": "Europe",
     "country": "Sweden",
@@ -1967,6 +1977,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
