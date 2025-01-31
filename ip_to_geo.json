@@ -919,6 +919,16 @@
       -9.1398
     ]
   },
+  "188.253.26.68": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3675,
+      4.9041
+    ]
+  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -929,7 +939,7 @@
       12.3649
     ]
   },
-  "191.13.177.39": {
+  "189.78.78.42": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1209,6 +1219,16 @@
       11.0783
     ]
   },
+  "213.67.2.169": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Farsta",
+    "coordinates": [
+      59.2415,
+      18.108
+    ]
+  },
   "213.80.111.176": {
     "region": "Europe",
     "country": "Sweden",
@@ -1399,16 +1419,6 @@
       -80.013
     ]
   },
-  "35.188.227.7": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.228.75.239": {
     "region": "Europe",
     "country": "Finland",
@@ -1417,6 +1427,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.236.246.95": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1939,6 +1959,16 @@
       11.6091
     ]
   },
+  "81.169.207.127": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.5234,
+      13.3224
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1967,16 +1997,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2057,6 +2077,26 @@
     "coordinates": [
       64.0161,
       11.4985
+    ]
+  },
+  "89.152.100.46": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1459,
+      -8.6169
+    ]
+  },
+  "89.35.124.150": {
+    "region": "Asia",
+    "country": "Kazakhstan",
+    "cc": "KZ",
+    "city": "Astana",
+    "coordinates": [
+      51.1625,
+      71.3668
     ]
   },
   "89.68.198.17": {
