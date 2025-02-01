@@ -69,16 +69,6 @@
       138.6321
     ]
   },
-  "103.214.68.150": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
-    ]
-  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -347,6 +337,16 @@
     "coordinates": [
       52.3891,
       4.6563
+    ]
+  },
+  "136.244.85.37": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1103,
+      8.7147
     ]
   },
   "137.74.7.185": {
@@ -919,6 +919,16 @@
       -9.1398
     ]
   },
+  "188.226.133.102": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "188.253.26.68": {
     "region": "Europe",
     "country": "Netherlands",
@@ -1317,6 +1327,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "24.3.215.0": {
