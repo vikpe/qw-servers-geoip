@@ -179,16 +179,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.6188,
-      153.0051
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1049,6 +1039,16 @@
       11.0783
     ]
   },
+  "2.135.154.206": {
+    "region": "Asia",
+    "country": "Kazakhstan",
+    "cc": "KZ",
+    "city": "Almaty",
+    "coordinates": [
+      43.238,
+      76.8829
+    ]
+  },
   "20.106.48.249": {
     "region": "North America",
     "country": "United States",
@@ -1160,16 +1160,6 @@
     ]
   },
   "208.72.153.30": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Honolulu",
-    "coordinates": [
-      21.3513,
-      -157.8725
-    ]
-  },
-  "208.83.237.9": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1329,16 +1319,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "24.3.215.0": {
     "region": "North America",
     "country": "United States",
@@ -1379,6 +1359,16 @@
       -80.013
     ]
   },
+  "34.170.186.173": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1407,16 +1397,6 @@
     "coordinates": [
       52.52,
       13.4049
-    ]
-  },
-  "34.46.247.30": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.178.200.80": {
@@ -1907,16 +1887,6 @@
     "coordinates": [
       48.4152,
       -123.3655
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.37.96.64": {
