@@ -179,6 +179,16 @@
       11.0783
     ]
   },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.6188,
+      153.0051
+    ]
+  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -939,7 +949,7 @@
       12.3649
     ]
   },
-  "189.78.78.42": {
+  "191.9.107.26": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1359,16 +1369,6 @@
       -80.013
     ]
   },
-  "34.170.186.173": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1399,6 +1399,16 @@
       13.4049
     ]
   },
+  "34.48.195.215": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1419,6 +1429,16 @@
       -80.013
     ]
   },
+  "35.226.251.31": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.228.75.239": {
     "region": "Europe",
     "country": "Finland",
@@ -1427,16 +1447,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.236.246.95": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1819,14 +1829,14 @@
       -75.2303
     ]
   },
-  "72.18.132.133": {
+  "73.11.41.108": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Denver",
+    "city": "Damascus",
     "coordinates": [
-      39.7491,
-      -104.9945
+      45.4145,
+      -122.4616
     ]
   },
   "73.123.216.240": {
@@ -1837,6 +1847,16 @@
     "coordinates": [
       41.3219,
       -73.0816
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2479,
+      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1897,16 +1917,6 @@
     "coordinates": [
       55.4669,
       9.8842
-    ]
-  },
-  "78.44.115.18": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.1113,
-      14.4063
     ]
   },
   "78.45.89.65": {
