@@ -25,8 +25,8 @@
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.8103,
-      115.7946
+      -31.8418,
+      115.8872
     ]
   },
   "103.112.0.130": {
@@ -73,10 +73,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Cleveland",
+    "city": "Toledo",
     "coordinates": [
-      41.4993,
-      -81.6944
+      41.6528,
+      -83.5379
     ]
   },
   "104.207.135.230": {
@@ -189,16 +189,6 @@
       153.0051
     ]
   },
-  "118.67.199.81": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "North Shore",
-    "coordinates": [
-      -36.7178,
-      174.7365
-    ]
-  },
   "119.17.137.95": {
     "region": "Oceania",
     "country": "Australia",
@@ -215,8 +205,8 @@
     "cc": "NZ",
     "city": "Wellington",
     "coordinates": [
-      -41.3159,
-      174.8185
+      -41.2007,
+      174.7708
     ]
   },
   "128.199.52.100": {
@@ -705,8 +695,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "172.236.100.99": {
@@ -855,8 +845,8 @@
     "cc": "BR",
     "city": "S\u00e3o Paulo",
     "coordinates": [
-      -23.5475,
-      -46.6361
+      -7.2333,
+      -62.9
     ]
   },
   "185.236.108.250": {
@@ -1233,10 +1223,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Farsta",
+    "city": "Lund",
     "coordinates": [
-      59.2415,
-      18.108
+      55.7037,
+      13.1946
     ]
   },
   "213.80.111.176": {
@@ -1245,8 +1235,8 @@
     "cc": "SE",
     "city": "H\u00e4sselby strand",
     "coordinates": [
-      59.15,
-      16.85
+      59.3634,
+      17.8509
     ]
   },
   "216.160.28.148": {
@@ -1465,8 +1455,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.16,
-      8.6333
+      50.1821,
+      8.6341
     ]
   },
   "38.57.161.19": {
@@ -1575,8 +1565,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3274,
-      18.0653
+      59.3287,
+      18.0717
     ]
   },
   "5.150.206.177": {
@@ -1633,10 +1623,10 @@
     "region": "Europe",
     "country": "France",
     "cc": "FR",
-    "city": "Roubaix",
+    "city": "Strasbourg",
     "coordinates": [
-      50.6924,
-      3.20113
+      48.5839,
+      7.74553
     ]
   },
   "52.215.55.73": {
@@ -1823,20 +1813,20 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Wilmington",
     "coordinates": [
-      39.9612,
-      -75.2303
+      39.7666,
+      -75.5093
     ]
   },
-  "73.11.41.108": {
+  "72.18.132.133": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Damascus",
+    "city": "Denver",
     "coordinates": [
-      45.4145,
-      -122.4616
+      39.7491,
+      -104.9945
     ]
   },
   "73.123.216.240": {
@@ -1847,16 +1837,6 @@
     "coordinates": [
       41.3219,
       -73.0816
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2479,
-      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1875,8 +1855,8 @@
     "cc": "US",
     "city": "Cape Coral",
     "coordinates": [
-      26.6909,
-      -81.9483
+      26.6284,
+      -82.0197
     ]
   },
   "74.91.120.206": {
@@ -1905,8 +1885,8 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.4152,
-      -123.3655
+      48.4518,
+      -123.4206
     ]
   },
   "77.37.96.64": {
@@ -1999,6 +1979,16 @@
       24.9347
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2079,16 +2069,6 @@
       11.4985
     ]
   },
-  "89.152.100.46": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1459,
-      -8.6169
-    ]
-  },
   "89.35.124.150": {
     "region": "Asia",
     "country": "Kazakhstan",
@@ -2163,10 +2143,10 @@
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Aesch",
+    "city": "Therwil",
     "coordinates": [
-      47.4638,
-      7.5887
+      47.5053,
+      7.5477
     ]
   },
   "94.254.2.158": {
@@ -2223,10 +2203,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Turlock",
+    "city": "Riverbank",
     "coordinates": [
-      37.4912,
-      -120.8559
+      37.7399,
+      -120.9347
     ]
   },
   "98.128.174.153": {
