@@ -339,6 +339,16 @@
       8.7147
     ]
   },
+  "136.37.100.159": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Prairie Village",
+    "coordinates": [
+      38.9887,
+      -94.6341
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -669,16 +679,6 @@
       -74.0565
     ]
   },
-  "172.105.184.44": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "172.233.178.155": {
     "region": "North America",
     "country": "United States",
@@ -687,16 +687,6 @@
     "coordinates": [
       25.7701,
       -80.1928
-    ]
-  },
-  "172.234.108.206": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
     ]
   },
   "172.236.100.99": {
@@ -1589,6 +1579,16 @@
       -77.4903
     ]
   },
+  "5.78.126.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Hillsboro",
+    "coordinates": [
+      45.526,
+      -122.9874
+    ]
+  },
   "50.35.97.252": {
     "region": "North America",
     "country": "United States",
@@ -2097,6 +2097,16 @@
     "coordinates": [
       55.7339,
       12.362
+    ]
+  },
+  "91.152.15.241": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Espoo",
+    "coordinates": [
+      60.1731,
+      24.6665
     ]
   },
   "91.206.14.17": {
