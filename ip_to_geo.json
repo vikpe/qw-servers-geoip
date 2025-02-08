@@ -1129,16 +1129,6 @@
       144.9669
     ]
   },
-  "206.109.231.223": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Royse City",
-    "coordinates": [
-      32.9751,
-      -96.3325
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1369,6 +1359,16 @@
       -80.013
     ]
   },
+  "34.174.125.118": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1499,16 +1499,6 @@
       -38.5419
     ]
   },
-  "45.235.98.10": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
-    ]
-  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1600,16 +1590,6 @@
     ]
   },
   "50.35.108.108": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Edmonds",
-    "coordinates": [
-      47.803,
-      -122.3739
-    ]
-  },
-  "50.35.97.252": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1829,16 +1809,6 @@
       -93.299
     ]
   },
-  "72.109.16.124": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Wilmington",
-    "coordinates": [
-      39.7666,
-      -75.5093
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1929,6 +1899,16 @@
       9.8842
     ]
   },
+  "77.38.86.232": {
+    "region": "Europe",
+    "country": "Slovenia",
+    "cc": "SI",
+    "city": "Celje",
+    "coordinates": [
+      46.2286,
+      15.2577
+    ]
+  },
   "78.45.89.65": {
     "region": "Europe",
     "country": "Czechia",
@@ -2007,16 +1987,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
