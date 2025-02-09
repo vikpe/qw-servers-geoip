@@ -779,16 +779,6 @@
       -46.6333
     ]
   },
-  "180.150.110.112": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.4437,
-      153.0244
-    ]
-  },
   "185.11.166.90": {
     "region": "Europe",
     "country": "Portugal",
@@ -1329,7 +1319,7 @@
       -79.8633
     ]
   },
-  "3.104.30.121": {
+  "3.107.77.249": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -1429,16 +1419,6 @@
       -80.013
     ]
   },
-  "35.226.251.31": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "35.228.75.239": {
     "region": "Europe",
     "country": "Finland",
@@ -1447,6 +1427,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.238.125.6": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "37.123.190.226": {
@@ -1497,6 +1487,16 @@
     "coordinates": [
       -3.7145,
       -38.5419
+    ]
+  },
+  "45.235.98.10": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1599,6 +1599,16 @@
       -122.3739
     ]
   },
+  "51.20.1.244": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
+    ]
+  },
   "51.68.212.3": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1699,6 +1709,16 @@
       -121.895
     ]
   },
+  "54.249.218.185": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": [
+      35.6895,
+      139.692
+    ]
+  },
   "54.252.183.87": {
     "region": "Oceania",
     "country": "Australia",
@@ -1767,16 +1787,6 @@
     "coordinates": [
       41.8868,
       -87.6386
-    ]
-  },
-  "67.144.152.112": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.1,
-      -87.6307
     ]
   },
   "68.179.190.76": {
@@ -1977,6 +1987,16 @@
     "coordinates": [
       59.6323,
       17.0761
+    ]
+  },
+  "83.44.212.245": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Vilanova i la Geltr\u00fa",
+    "coordinates": [
+      41.2203,
+      1.7227
     ]
   },
   "84.251.40.124": {
