@@ -89,6 +89,16 @@
       -74.4606
     ]
   },
+  "104.220.219.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Woodland",
+    "coordinates": [
+      38.6829,
+      -121.7969
+    ]
+  },
   "107.23.236.19": {
     "region": "North America",
     "country": "United States",
@@ -1349,16 +1359,6 @@
       -80.013
     ]
   },
-  "34.174.125.118": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1419,6 +1419,16 @@
       -80.013
     ]
   },
+  "35.226.251.31": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.228.75.239": {
     "region": "Europe",
     "country": "Finland",
@@ -1427,16 +1437,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.238.125.6": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "37.123.190.226": {
@@ -1739,6 +1739,16 @@
       -46.6333
     ]
   },
+  "62.102.171.176": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Harstad",
+    "coordinates": [
+      68.7708,
+      16.5681
+    ]
+  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1837,6 +1847,16 @@
     "coordinates": [
       41.3219,
       -73.0816
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2479,
+      -122.6192
     ]
   },
   "73.23.130.187": {
@@ -1989,16 +2009,6 @@
       17.0761
     ]
   },
-  "83.44.212.245": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Vilanova i la Geltr\u00fa",
-    "coordinates": [
-      41.2203,
-      1.7227
-    ]
-  },
   "84.251.40.124": {
     "region": "Europe",
     "country": "Finland",
@@ -2117,16 +2127,6 @@
     "coordinates": [
       55.7339,
       12.362
-    ]
-  },
-  "91.152.15.241": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Espoo",
-    "coordinates": [
-      60.1731,
-      24.6665
     ]
   },
   "91.206.14.17": {
