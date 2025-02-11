@@ -1339,6 +1339,16 @@
       151.2002
     ]
   },
+  "3.72.78.20": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1109,
+      8.68213
+    ]
+  },
   "34.118.72.161": {
     "region": "Europe",
     "country": "Poland",
@@ -1389,14 +1399,14 @@
       13.4049
     ]
   },
-  "34.48.195.215": {
+  "35.141.119.220": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Washington",
+    "city": "Groveland",
     "coordinates": [
-      38.9071,
-      -77.0368
+      28.5581,
+      -81.8512
     ]
   },
   "35.178.200.80": {
@@ -1437,6 +1447,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.230.183.76": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1549,6 +1569,16 @@
       -96.8021
     ]
   },
+  "46.139.180.199": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Tokodalt\u00e1r\u00f3",
+    "coordinates": [
+      47.7377,
+      18.6876
+    ]
+  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1597,16 +1627,6 @@
     "coordinates": [
       47.803,
       -122.3739
-    ]
-  },
-  "51.20.1.244": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
     ]
   },
   "51.68.212.3": {
@@ -1847,16 +1867,6 @@
     "coordinates": [
       41.3219,
       -73.0816
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2479,
-      -122.6192
     ]
   },
   "73.23.130.187": {
