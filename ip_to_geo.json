@@ -929,7 +929,7 @@
       12.3649
     ]
   },
-  "191.9.107.26": {
+  "191.9.105.236": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1127,6 +1127,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "205.134.215.74": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eatonville",
+    "coordinates": [
+      46.87,
+      -122.2723
     ]
   },
   "206.51.245.84": {
@@ -1397,16 +1407,6 @@
     "coordinates": [
       52.52,
       13.4049
-    ]
-  },
-  "35.141.119.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Groveland",
-    "coordinates": [
-      28.5581,
-      -81.8512
     ]
   },
   "35.178.200.80": {
@@ -1817,6 +1817,16 @@
     "coordinates": [
       41.8868,
       -87.6386
+    ]
+  },
+  "67.144.152.112": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.1,
+      -87.6307
     ]
   },
   "68.179.190.76": {
