@@ -89,16 +89,6 @@
       -74.4606
     ]
   },
-  "104.220.219.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Woodland",
-    "coordinates": [
-      38.6829,
-      -121.7969
-    ]
-  },
   "107.23.236.19": {
     "region": "North America",
     "country": "United States",
@@ -167,6 +157,16 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "111.167.210.173": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1424,
+      117.1727
     ]
   },
   "114.35.54.116": {
@@ -669,16 +669,6 @@
       12.3649
     ]
   },
-  "170.39.226.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Secaucus",
-    "coordinates": [
-      40.7895,
-      -74.0565
-    ]
-  },
   "172.233.178.155": {
     "region": "North America",
     "country": "United States",
@@ -760,16 +750,6 @@
     ]
   },
   "178.79.135.210": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5081,
-      -0.1278
-    ]
-  },
-  "178.79.180.136": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
@@ -1379,6 +1359,16 @@
       -80.013
     ]
   },
+  "34.174.142.171": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1447,16 +1437,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.230.183.76": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1597,16 +1577,6 @@
     "coordinates": [
       63.8247,
       20.2559
-    ]
-  },
-  "5.161.189.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0469,
-      -77.4903
     ]
   },
   "5.78.126.237": {
@@ -1759,14 +1729,14 @@
       -46.6333
     ]
   },
-  "62.102.171.176": {
+  "62.16.141.173": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
     "city": "Harstad",
     "coordinates": [
-      68.7708,
-      16.5681
+      68.8017,
+      16.5468
     ]
   },
   "62.220.162.124": {
@@ -1879,16 +1849,6 @@
       -73.0816
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1969,16 +1929,6 @@
       14.4464
     ]
   },
-  "79.139.57.116": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5,
-      19.0412
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -2007,6 +1957,16 @@
     "coordinates": [
       52.5234,
       13.3224
+    ]
+  },
+  "81.234.135.90": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
     ]
   },
   "82.196.112.57": {
