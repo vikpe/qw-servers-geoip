@@ -1,4 +1,14 @@
 {
+  "1.145.171.131": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "100.36.40.85": {
     "region": "North America",
     "country": "United States",
@@ -187,16 +197,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.6188,
-      153.0051
     ]
   },
   "118.67.199.81": {
@@ -759,6 +759,16 @@
       -0.1278
     ]
   },
+  "178.79.180.136": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5081,
+      -0.1278
+    ]
+  },
   "18.228.193.88": {
     "region": "South America",
     "country": "Brazil",
@@ -1099,16 +1109,6 @@
       -104.816154
     ]
   },
-  "202.47.179.132": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "205.134.215.74": {
     "region": "North America",
     "country": "United States",
@@ -1359,16 +1359,6 @@
       -80.013
     ]
   },
-  "34.174.142.171": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1377,6 +1367,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "34.21.56.43": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.242.30.72": {
@@ -1959,16 +1959,6 @@
       13.3224
     ]
   },
-  "81.234.135.90": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -2009,14 +1999,14 @@
       12.5298
     ]
   },
-  "85.229.14.86": {
+  "85.229.41.96": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Tr\u00e5ngsund",
+    "city": "Stockholm",
     "coordinates": [
-      59.2322,
-      18.1257
+      59.2688,
+      18.1182
     ]
   },
   "85.28.131.207": {
@@ -2237,6 +2227,16 @@
     "coordinates": [
       59.3274,
       18.0653
+    ]
+  },
+  "99.213.86.242": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Markham",
+    "coordinates": [
+      43.8784,
+      -79.2642
     ]
   },
   "99.72.255.45": {
