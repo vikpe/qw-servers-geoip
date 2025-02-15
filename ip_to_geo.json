@@ -1,14 +1,4 @@
 {
-  "1.145.171.131": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "100.36.40.85": {
     "region": "North America",
     "country": "United States",
@@ -169,16 +159,6 @@
       -0.127586
     ]
   },
-  "111.167.210.173": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1424,
-      117.1727
-    ]
-  },
   "114.35.54.116": {
     "region": "Asia",
     "country": "Taiwan",
@@ -197,6 +177,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.6188,
+      153.0051
     ]
   },
   "118.67.199.81": {
@@ -779,6 +769,16 @@
       -46.6333
     ]
   },
+  "180.150.110.112": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.4437,
+      153.0244
+    ]
+  },
   "185.11.166.90": {
     "region": "Europe",
     "country": "Portugal",
@@ -1009,16 +1009,6 @@
       20.2667
     ]
   },
-  "194.87.98.11": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Korolyov",
-    "coordinates": [
-      55.9155,
-      37.8263
-    ]
-  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1107,6 +1097,16 @@
     "coordinates": [
       41.13925,
       -104.816154
+    ]
+  },
+  "202.47.179.132": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "205.134.215.74": {
@@ -1729,14 +1729,14 @@
       -46.6333
     ]
   },
-  "62.16.141.173": {
+  "62.16.142.167": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
     "city": "Harstad",
     "coordinates": [
-      68.8017,
-      16.5468
+      68.7892,
+      16.5446
     ]
   },
   "62.220.162.124": {
@@ -1849,6 +1849,16 @@
       -73.0816
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1919,7 +1929,7 @@
       15.2577
     ]
   },
-  "78.45.89.65": {
+  "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
     "cc": "CZ",
@@ -1927,6 +1937,16 @@
     "coordinates": [
       50.0766,
       14.4464
+    ]
+  },
+  "79.139.57.116": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5,
+      19.0412
     ]
   },
   "80.211.201.216": {
