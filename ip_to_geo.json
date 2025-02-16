@@ -179,16 +179,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.6188,
-      153.0051
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -777,6 +767,16 @@
     "coordinates": [
       -27.4437,
       153.0244
+    ]
+  },
+  "184.179.169.159": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Maricopa",
+    "coordinates": [
+      33.0073,
+      -111.9324
     ]
   },
   "185.11.166.90": {
@@ -1867,6 +1867,16 @@
     "coordinates": [
       26.6284,
       -82.0197
+    ]
+  },
+  "73.26.139.66": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Albuquerque",
+    "coordinates": [
+      35.1871,
+      -106.6659
     ]
   },
   "74.91.120.206": {
