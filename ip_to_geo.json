@@ -179,6 +179,16 @@
       11.0783
     ]
   },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.6188,
+      153.0051
+    ]
+  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -569,6 +579,16 @@
       10.7487
     ]
   },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.7884,
+      151.0811
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -677,16 +697,6 @@
     "coordinates": [
       40.7964,
       -74.0203
-    ]
-  },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.9001,
-      -79.7164
     ]
   },
   "176.210.100.6": {
@@ -1349,6 +1359,16 @@
       21.0122
     ]
   },
+  "34.147.32.51": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Groningen",
+    "coordinates": [
+      53.2193,
+      6.5665
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1847,6 +1867,16 @@
     "coordinates": [
       41.3219,
       -73.0816
+    ]
+  },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2479,
+      -122.6192
     ]
   },
   "73.23.130.187": {
