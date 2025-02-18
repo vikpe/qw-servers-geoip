@@ -579,16 +579,6 @@
       10.7487
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7884,
-      151.0811
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -637,6 +627,16 @@
     "coordinates": [
       41.8868,
       -87.6386
+    ]
+  },
+  "162.81.27.245": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Knoxville",
+    "coordinates": [
+      35.9819,
+      -84.0019
     ]
   },
   "163.47.21.45": {
@@ -777,16 +777,6 @@
     "coordinates": [
       -27.4437,
       153.0244
-    ]
-  },
-  "184.179.169.159": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Maricopa",
-    "coordinates": [
-      33.0073,
-      -111.9324
     ]
   },
   "185.11.166.90": {
@@ -1219,16 +1209,6 @@
       11.0783
     ]
   },
-  "213.67.2.169": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Lund",
-    "coordinates": [
-      55.7037,
-      13.1946
-    ]
-  },
   "213.80.111.176": {
     "region": "Europe",
     "country": "Sweden",
@@ -1317,6 +1297,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "24.3.215.0": {
@@ -1867,16 +1857,6 @@
     "coordinates": [
       41.3219,
       -73.0816
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2479,
-      -122.6192
     ]
   },
   "73.23.130.187": {
