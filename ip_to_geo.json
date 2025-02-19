@@ -629,16 +629,6 @@
       -87.6386
     ]
   },
-  "162.81.27.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Knoxville",
-    "coordinates": [
-      35.9819,
-      -84.0019
-    ]
-  },
   "163.47.21.45": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -669,16 +659,6 @@
       12.3649
     ]
   },
-  "172.233.178.155": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.7701,
-      -80.1928
-    ]
-  },
   "172.236.100.99": {
     "region": "North America",
     "country": "United States",
@@ -697,6 +677,16 @@
     "coordinates": [
       40.7964,
       -74.0203
+    ]
+  },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.9001,
+      -79.7164
     ]
   },
   "176.210.100.6": {
@@ -897,16 +887,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "188.253.26.68": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3675,
-      4.9041
     ]
   },
   "188.40.103.81": {
@@ -1149,16 +1129,6 @@
       -80.2318
     ]
   },
-  "208.72.153.30": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Honolulu",
-    "coordinates": [
-      21.3513,
-      -157.8725
-    ]
-  },
   "212.193.49.233": {
     "region": "Europe",
     "country": "Russia",
@@ -1207,6 +1177,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "213.67.2.169": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lund",
+    "coordinates": [
+      55.7037,
+      13.1946
     ]
   },
   "213.80.111.176": {
@@ -1297,16 +1277,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "24.3.215.0": {
@@ -1817,6 +1787,16 @@
     "coordinates": [
       42.2859,
       -83.3714
+    ]
+  },
+  "68.226.69.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Broadview Heights",
+    "coordinates": [
+      41.314,
+      -81.6756
     ]
   },
   "70.34.206.203": {
