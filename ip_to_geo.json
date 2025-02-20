@@ -179,16 +179,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.6188,
-      153.0051
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -337,6 +327,16 @@
     "coordinates": [
       50.1103,
       8.7147
+    ]
+  },
+  "136.37.100.159": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Prairie Village",
+    "coordinates": [
+      38.9887,
+      -94.6341
     ]
   },
   "137.74.7.185": {
@@ -667,6 +667,16 @@
     "coordinates": [
       41.8835,
       -87.6305
+    ]
+  },
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8363,
+      -90.6999
     ]
   },
   "174.138.43.249": {
@@ -1789,16 +1799,6 @@
       -83.3714
     ]
   },
-  "68.226.69.65": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Broadview Heights",
-    "coordinates": [
-      41.314,
-      -81.6756
-    ]
-  },
   "70.34.206.203": {
     "region": "Europe",
     "country": "Sweden",
@@ -2007,6 +2007,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2247,16 +2257,6 @@
     "coordinates": [
       59.3274,
       18.0653
-    ]
-  },
-  "99.213.86.242": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Markham",
-    "coordinates": [
-      43.8784,
-      -79.2642
     ]
   },
   "99.72.255.45": {
