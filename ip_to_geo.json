@@ -329,16 +329,6 @@
       8.7147
     ]
   },
-  "136.37.100.159": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Prairie Village",
-    "coordinates": [
-      38.9887,
-      -94.6341
-    ]
-  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -487,16 +477,6 @@
     "coordinates": [
       40.5511,
       -74.4606
-    ]
-  },
-  "15.181.21.107": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Portland",
-    "coordinates": [
-      45.5235,
-      -122.676
     ]
   },
   "15.228.58.59": {
@@ -667,16 +647,6 @@
     "coordinates": [
       41.8835,
       -87.6305
-    ]
-  },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8363,
-      -90.6999
     ]
   },
   "174.138.43.249": {
@@ -1097,16 +1067,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "205.134.215.74": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Eatonville",
-    "coordinates": [
-      46.87,
-      -122.2723
     ]
   },
   "206.51.245.84": {
@@ -2007,16 +1967,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
