@@ -419,6 +419,16 @@
       -46.6361
     ]
   },
+  "145.100.135.31": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Veldhoven",
+    "coordinates": [
+      51.4299,
+      5.3918
+    ]
+  },
   "145.220.10.99": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -879,7 +889,7 @@
       12.3649
     ]
   },
-  "191.9.105.236": {
+  "189.46.20.199": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1067,6 +1077,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "205.134.215.74": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eatonville",
+    "coordinates": [
+      46.87,
+      -122.2723
     ]
   },
   "206.51.245.84": {
@@ -1937,6 +1957,16 @@
     "coordinates": [
       52.5234,
       13.3224
+    ]
+  },
+  "81.232.45.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lund",
+    "coordinates": [
+      55.7047,
+      13.191
     ]
   },
   "82.196.112.57": {
