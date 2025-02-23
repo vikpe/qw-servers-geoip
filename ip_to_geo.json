@@ -179,6 +179,16 @@
       11.0783
     ]
   },
+  "116.255.1.146": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.6188,
+      153.0051
+    ]
+  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -327,6 +337,16 @@
     "coordinates": [
       50.1103,
       8.7147
+    ]
+  },
+  "136.37.100.159": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Prairie Village",
+    "coordinates": [
+      38.9887,
+      -94.6341
     ]
   },
   "137.74.7.185": {
@@ -1519,16 +1539,6 @@
       -96.8021
     ]
   },
-  "46.139.180.199": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Tokodalt\u00e1r\u00f3",
-    "coordinates": [
-      47.7377,
-      18.6876
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1959,16 +1969,6 @@
       13.3224
     ]
   },
-  "81.232.45.252": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Lund",
-    "coordinates": [
-      55.7047,
-      13.191
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -2077,16 +2077,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.35.124.150": {
-    "region": "Asia",
-    "country": "Kazakhstan",
-    "cc": "KZ",
-    "city": "Astana",
-    "coordinates": [
-      51.1625,
-      71.3668
     ]
   },
   "89.68.198.17": {
