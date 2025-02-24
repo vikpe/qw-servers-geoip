@@ -339,16 +339,6 @@
       8.7147
     ]
   },
-  "136.37.100.159": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Prairie Village",
-    "coordinates": [
-      38.9887,
-      -94.6341
-    ]
-  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -999,6 +989,16 @@
       20.2667
     ]
   },
+  "195.133.145.176": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Korolyov",
+    "coordinates": [
+      55.9155,
+      37.8263
+    ]
+  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1569,16 +1569,6 @@
       -122.9874
     ]
   },
-  "50.35.108.108": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Edmonds",
-    "coordinates": [
-      47.803,
-      -122.3739
-    ]
-  },
   "51.68.212.3": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1829,6 +1819,16 @@
       -73.0816
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2479,
+      -122.6192
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1847,16 +1847,6 @@
     "coordinates": [
       26.6284,
       -82.0197
-    ]
-  },
-  "73.26.139.66": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Albuquerque",
-    "coordinates": [
-      35.1871,
-      -106.6659
     ]
   },
   "74.91.120.206": {
@@ -1887,16 +1877,6 @@
     "coordinates": [
       48.4518,
       -123.4206
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.37.96.64": {
