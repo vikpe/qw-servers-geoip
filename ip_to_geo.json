@@ -339,6 +339,16 @@
       8.7147
     ]
   },
+  "136.37.100.159": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Prairie Village",
+    "coordinates": [
+      38.9887,
+      -94.6341
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -517,6 +527,16 @@
     "coordinates": [
       1.27994,
       103.849
+    ]
+  },
+  "151.177.73.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
     ]
   },
   "152.67.110.136": {
@@ -1349,6 +1369,16 @@
       -80.013
     ]
   },
+  "34.174.82.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1359,14 +1389,14 @@
       -77.4874
     ]
   },
-  "34.21.56.43": {
+  "34.207.134.169": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Washington",
+    "city": "Ashburn",
     "coordinates": [
-      38.9071,
-      -77.0368
+      39.0438,
+      -77.4874
     ]
   },
   "34.242.30.72": {
@@ -1399,6 +1429,16 @@
       -0.127758
     ]
   },
+  "35.184.216.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1409,16 +1449,6 @@
       -80.013
     ]
   },
-  "35.226.251.31": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "35.228.75.239": {
     "region": "Europe",
     "country": "Finland",
@@ -1427,6 +1457,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.245.133.105": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1537,6 +1577,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.139.165.96": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5,
+      19.0412
     ]
   },
   "46.227.68.148": {
@@ -1819,16 +1869,6 @@
       -73.0816
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2479,
-      -122.6192
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1857,16 +1897,6 @@
     "coordinates": [
       32.7908,
       -96.8336
-    ]
-  },
-  "75.101.225.142": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "75.154.239.81": {
@@ -1919,6 +1949,16 @@
       19.0412
     ]
   },
+  "79.161.4.202": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Stavanger",
+    "coordinates": [
+      58.9731,
+      5.7427
+    ]
+  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1949,6 +1989,16 @@
       13.3224
     ]
   },
+  "81.232.45.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lund",
+    "coordinates": [
+      55.7047,
+      13.191
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1967,16 +2017,6 @@
     "coordinates": [
       59.6323,
       17.0761
-    ]
-  },
-  "84.251.40.124": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1719,
-      24.9347
     ]
   },
   "85.209.118.137": {
