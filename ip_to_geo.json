@@ -339,16 +339,6 @@
       8.7147
     ]
   },
-  "136.37.100.159": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Prairie Village",
-    "coordinates": [
-      38.9887,
-      -94.6341
-    ]
-  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -507,6 +497,16 @@
     "coordinates": [
       40.5511,
       -74.4606
+    ]
+  },
+  "15.181.21.107": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Portland",
+    "coordinates": [
+      45.5235,
+      -122.676
     ]
   },
   "15.228.58.59": {
@@ -919,7 +919,7 @@
       12.3649
     ]
   },
-  "189.46.20.199": {
+  "191.9.106.213": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1369,16 +1369,6 @@
       -80.013
     ]
   },
-  "34.174.82.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1429,16 +1419,6 @@
       -0.127758
     ]
   },
-  "35.184.216.176": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1459,7 +1439,17 @@
       28.1896
     ]
   },
-  "35.245.133.105": {
+  "35.238.125.6": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
+  "35.245.160.154": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1577,16 +1567,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "46.139.165.96": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5,
-      19.0412
     ]
   },
   "46.227.68.148": {
@@ -1869,6 +1849,16 @@
       -73.0816
     ]
   },
+  "73.207.108.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Monroe",
+    "coordinates": [
+      33.7853,
+      -83.7033
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1979,6 +1969,16 @@
       11.6091
     ]
   },
+  "80.251.138.245": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7558,
+      37.6173
+    ]
+  },
   "81.169.207.127": {
     "region": "Europe",
     "country": "Germany",
@@ -1987,16 +1987,6 @@
     "coordinates": [
       52.5234,
       13.3224
-    ]
-  },
-  "81.232.45.252": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Lund",
-    "coordinates": [
-      55.7047,
-      13.191
     ]
   },
   "82.196.112.57": {
@@ -2017,6 +2007,26 @@
     "coordinates": [
       59.6323,
       17.0761
+    ]
+  },
+  "83.233.117.214": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "V\u00e4ster\u00e5s",
+    "coordinates": [
+      59.6146,
+      16.5528
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2139,7 +2149,7 @@
       -0.1278
     ]
   },
-  "91.55.82.194": {
+  "91.55.69.120": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
