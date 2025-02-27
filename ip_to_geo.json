@@ -419,16 +419,6 @@
       -111.9956
     ]
   },
-  "144.22.145.206": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
-    ]
-  },
   "145.100.135.31": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -527,16 +517,6 @@
     "coordinates": [
       1.27994,
       103.849
-    ]
-  },
-  "151.177.73.252": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "152.67.110.136": {
@@ -979,16 +959,6 @@
       21.0122
     ]
   },
-  "194.145.194.3": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3676,
-      4.90414
-    ]
-  },
   "194.158.215.192": {
     "region": "Europe",
     "country": "Belarus",
@@ -1147,16 +1117,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "207.246.119.25": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.8119,
-      -80.2318
     ]
   },
   "212.193.49.233": {
@@ -1369,6 +1329,16 @@
       -80.013
     ]
   },
+  "34.174.196.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1449,7 +1419,7 @@
       -95.8608
     ]
   },
-  "35.245.160.154": {
+  "35.245.110.87": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1577,6 +1547,16 @@
     "coordinates": [
       59.3287,
       18.0717
+    ]
+  },
+  "46.9.225.4": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Harstad",
+    "coordinates": [
+      68.7892,
+      16.5446
     ]
   },
   "5.150.206.177": {
@@ -1727,16 +1707,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "62.16.142.167": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Harstad",
-    "coordinates": [
-      68.7892,
-      16.5446
     ]
   },
   "62.220.162.124": {
