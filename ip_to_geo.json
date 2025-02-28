@@ -389,6 +389,16 @@
       151.2006
     ]
   },
+  "14.2.37.42": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.9378,
+      145.0075
+    ]
+  },
   "140.238.180.126": {
     "region": "South America",
     "country": "Brazil",
@@ -577,6 +587,16 @@
     "coordinates": [
       59.905,
       10.7487
+    ]
+  },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.7884,
+      151.0811
     ]
   },
   "159.69.87.212": {
@@ -899,7 +919,7 @@
       12.3649
     ]
   },
-  "191.9.106.213": {
+  "189.46.20.151": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1329,7 +1349,7 @@
       -80.013
     ]
   },
-  "34.174.196.145": {
+  "34.174.66.47": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1417,16 +1437,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "35.245.110.87": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1549,7 +1559,7 @@
       18.0717
     ]
   },
-  "46.9.225.4": {
+  "46.9.225.86": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
@@ -1577,6 +1587,16 @@
     "coordinates": [
       45.526,
       -122.9874
+    ]
+  },
+  "50.47.16.20": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Edmonds",
+    "coordinates": [
+      47.8302,
+      -122.3331
     ]
   },
   "51.68.212.3": {
@@ -1989,16 +2009,6 @@
       16.5528
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2137,6 +2147,16 @@
     "coordinates": [
       58.416,
       15.6288
+    ]
+  },
+  "94.132.119.61": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1459,
+      -8.6169
     ]
   },
   "94.16.128.193": {
