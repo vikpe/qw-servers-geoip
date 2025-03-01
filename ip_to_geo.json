@@ -389,16 +389,6 @@
       151.2006
     ]
   },
-  "14.2.37.42": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.9378,
-      145.0075
-    ]
-  },
   "140.238.180.126": {
     "region": "South America",
     "country": "Brazil",
@@ -427,6 +417,16 @@
     "coordinates": [
       33.4656,
       -111.9956
+    ]
+  },
+  "144.172.113.102": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7838,
+      -80.1823
     ]
   },
   "145.100.135.31": {
@@ -587,16 +587,6 @@
     "coordinates": [
       59.905,
       10.7487
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7884,
-      151.0811
     ]
   },
   "159.69.87.212": {
@@ -919,7 +909,7 @@
       12.3649
     ]
   },
-  "189.46.20.151": {
+  "191.9.109.81": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1377,6 +1367,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "34.21.108.175": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.242.30.72": {
@@ -1959,16 +1959,6 @@
       11.6091
     ]
   },
-  "80.251.138.245": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7558,
-      37.6173
-    ]
-  },
   "81.169.207.127": {
     "region": "Europe",
     "country": "Germany",
@@ -2007,6 +1997,16 @@
     "coordinates": [
       59.6146,
       16.5528
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
