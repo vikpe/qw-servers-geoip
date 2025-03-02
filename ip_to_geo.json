@@ -529,6 +529,16 @@
       103.849
     ]
   },
+  "151.177.73.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -1279,6 +1289,16 @@
       -96.8704
     ]
   },
+  "24.107.228.140": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Plattsburgh",
+    "coordinates": [
+      44.6996,
+      -73.4473
+    ]
+  },
   "24.3.215.0": {
     "region": "North America",
     "country": "United States",
@@ -1369,16 +1389,6 @@
       -77.4874
     ]
   },
-  "34.21.108.175": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1409,6 +1419,16 @@
       -0.127758
     ]
   },
+  "35.184.216.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1427,16 +1447,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.238.125.6": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "37.123.190.226": {
@@ -1889,6 +1899,16 @@
       -123.4206
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "77.37.96.64": {
     "region": "Europe",
     "country": "Denmark",
@@ -1997,16 +2017,6 @@
     "coordinates": [
       59.6146,
       16.5528
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2147,16 +2157,6 @@
     "coordinates": [
       58.416,
       15.6288
-    ]
-  },
-  "94.132.119.61": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1459,
-      -8.6169
     ]
   },
   "94.16.128.193": {
