@@ -19,14 +19,14 @@
       18.4259
     ]
   },
-  "103.106.91.94": {
+  "103.106.89.26": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.8418,
-      115.8872
+      -31.9114,
+      115.8876
     ]
   },
   "103.112.0.130": {
@@ -597,6 +597,16 @@
     "coordinates": [
       59.905,
       10.7487
+    ]
+  },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.7884,
+      151.0811
     ]
   },
   "159.69.87.212": {
@@ -1289,26 +1299,6 @@
       -96.8704
     ]
   },
-  "24.107.228.140": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Plattsburgh",
-    "coordinates": [
-      44.6996,
-      -73.4473
-    ]
-  },
-  "24.3.215.0": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "West Mifflin",
-    "coordinates": [
-      40.3633,
-      -79.8633
-    ]
-  },
   "3.107.77.249": {
     "region": "Oceania",
     "country": "Australia",
@@ -1359,16 +1349,6 @@
       -80.013
     ]
   },
-  "34.174.66.47": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1407,6 +1387,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.48.37.111": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1569,14 +1559,14 @@
       18.0717
     ]
   },
-  "46.9.225.86": {
+  "46.9.238.9": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
     "city": "Harstad",
     "coordinates": [
-      68.7892,
-      16.5446
+      68.8017,
+      16.5468
     ]
   },
   "5.150.206.177": {
@@ -1849,6 +1839,16 @@
       -73.0816
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2479,
+      -122.6192
+    ]
+  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -2017,6 +2017,16 @@
     "coordinates": [
       59.6146,
       16.5528
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
