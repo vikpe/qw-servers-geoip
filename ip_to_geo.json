@@ -349,6 +349,16 @@
       8.7147
     ]
   },
+  "136.37.100.159": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Prairie Village",
+    "coordinates": [
+      38.9887,
+      -94.6341
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -1209,16 +1219,6 @@
       11.0783
     ]
   },
-  "213.67.2.169": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Lund",
-    "coordinates": [
-      55.7037,
-      13.1946
-    ]
-  },
   "213.80.111.176": {
     "region": "Europe",
     "country": "Sweden",
@@ -1359,6 +1359,16 @@
       -80.013
     ]
   },
+  "34.150.201.142": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1377,16 +1387,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "34.21.0.228": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.242.30.72": {
@@ -1587,6 +1587,16 @@
     "coordinates": [
       63.8247,
       20.2559
+    ]
+  },
+  "5.196.28.199": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Roubaix",
+    "coordinates": [
+      50.6924,
+      3.20113
     ]
   },
   "5.78.126.237": {
@@ -1919,16 +1929,6 @@
       9.8842
     ]
   },
-  "77.38.86.232": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Celje",
-    "coordinates": [
-      46.2286,
-      15.2577
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1947,6 +1947,16 @@
     "coordinates": [
       47.5,
       19.0412
+    ]
+  },
+  "79.161.4.202": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Stavanger",
+    "coordinates": [
+      58.9731,
+      5.7427
     ]
   },
   "80.211.201.216": {
