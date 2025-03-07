@@ -189,16 +189,6 @@
       153.0051
     ]
   },
-  "118.148.97.36": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8677,
-      174.778
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -489,6 +479,16 @@
       17.0324
     ]
   },
+  "146.148.40.47": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "147.135.208.107": {
     "region": "Europe",
     "country": "Poland",
@@ -617,6 +617,16 @@
     "coordinates": [
       59.905,
       10.7487
+    ]
+  },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.766,
+      151.1575
     ]
   },
   "159.69.87.212": {
@@ -1399,16 +1409,6 @@
       -0.127758
     ]
   },
-  "35.184.216.176": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1419,16 +1419,6 @@
       -80.013
     ]
   },
-  "35.221.55.38": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.228.75.239": {
     "region": "Europe",
     "country": "Finland",
@@ -1437,6 +1427,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.236.252.139": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1899,6 +1899,16 @@
       -123.3655
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "77.37.96.64": {
     "region": "Europe",
     "country": "Denmark",
@@ -1999,14 +2009,14 @@
       16.5528
     ]
   },
-  "85.209.118.137": {
+  "84.39.252.192": {
     "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
     "coordinates": [
-      55.6494,
-      12.5298
+      54.741,
+      55.9891
     ]
   },
   "85.229.41.96": {
@@ -2089,6 +2099,16 @@
       20.9841
     ]
   },
+  "90.226.100.70": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "M\u00f6lnbo",
+    "coordinates": [
+      59.0536,
+      17.4138
+    ]
+  },
   "91.132.92.54": {
     "region": "Europe",
     "country": "Denmark",
@@ -2147,6 +2167,16 @@
     "coordinates": [
       47.5119,
       7.5579
+    ]
+  },
+  "94.254.2.158": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Limhamn",
+    "coordinates": [
+      55.5811,
+      12.9553
     ]
   },
   "94.45.205.16": {
