@@ -39,16 +39,6 @@
       -95.7129
     ]
   },
-  "103.112.0.146": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.6893,
-      139.6899
-    ]
-  },
   "103.151.65.19": {
     "region": "North America",
     "country": "United States",
@@ -449,16 +439,6 @@
       -80.1823
     ]
   },
-  "145.100.135.31": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Ospel",
-    "coordinates": [
-      51.3041,
-      5.786
-    ]
-  },
   "145.220.10.99": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -559,6 +539,16 @@
       103.849
     ]
   },
+  "151.177.73.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -617,16 +607,6 @@
     "coordinates": [
       59.905,
       10.7487
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.766,
-      151.1575
     ]
   },
   "159.69.87.212": {
@@ -807,16 +787,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "180.150.110.112": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.3535,
-      153.0643
     ]
   },
   "185.11.166.90": {
@@ -1139,16 +1109,6 @@
       144.9669
     ]
   },
-  "205.134.215.74": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Eatonville",
-    "coordinates": [
-      46.87,
-      -122.2723
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1339,6 +1299,16 @@
       21.0122
     ]
   },
+  "34.145.168.227": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.147.32.51": {
     "region": "Europe",
     "country": "Netherlands",
@@ -1357,6 +1327,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.174.187.80": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
     ]
   },
   "34.201.64.11": {
@@ -1429,16 +1409,6 @@
       28.1896
     ]
   },
-  "35.236.252.139": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "37.123.190.226": {
     "region": "Europe",
     "country": "Sweden",
@@ -1487,16 +1457,6 @@
     "coordinates": [
       -3.7145,
       -38.5419
-    ]
-  },
-  "45.235.98.10": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1919,6 +1879,16 @@
       9.8842
     ]
   },
+  "77.38.86.232": {
+    "region": "Europe",
+    "country": "Slovenia",
+    "cc": "SI",
+    "city": "Celje",
+    "coordinates": [
+      46.2286,
+      15.2577
+    ]
+  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -2019,6 +1989,16 @@
       55.9891
     ]
   },
+  "85.209.118.137": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6494,
+      12.5298
+    ]
+  },
   "85.229.41.96": {
     "region": "Europe",
     "country": "Sweden",
@@ -2037,16 +2017,6 @@
     "coordinates": [
       50.0196,
       20.9853
-    ]
-  },
-  "85.89.175.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Lodz",
-    "coordinates": [
-      51.7888,
-      19.4314
     ]
   },
   "87.128.111.190": {
@@ -2157,6 +2127,16 @@
     "coordinates": [
       58.416,
       15.6288
+    ]
+  },
+  "94.132.119.61": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1459,
+      -8.6169
     ]
   },
   "94.16.128.193": {
