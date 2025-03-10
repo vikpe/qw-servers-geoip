@@ -279,6 +279,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -589,6 +599,26 @@
       -99.76158
     ]
   },
+  "158.248.13.196": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.905,
+      10.7487
+    ]
+  },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.766,
+      151.1575
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -890,16 +920,6 @@
     ]
   },
   "191.13.206.83": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
-  "191.9.109.81": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1259,16 +1279,6 @@
       -96.8704
     ]
   },
-  "24.3.215.0": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "West Mifflin",
-    "coordinates": [
-      40.3633,
-      -79.8633
-    ]
-  },
   "3.107.77.249": {
     "region": "Oceania",
     "country": "Australia",
@@ -1319,7 +1329,7 @@
       -80.013
     ]
   },
-  "34.174.17.179": {
+  "34.174.144.97": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1369,16 +1379,6 @@
       13.4049
     ]
   },
-  "34.48.119.209": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1407,6 +1407,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.245.146.172": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1819,6 +1829,16 @@
       -73.0816
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2479,
+      -122.6192
+    ]
+  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -1867,6 +1887,16 @@
     "coordinates": [
       48.4152,
       -123.3655
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.37.96.64": {
@@ -1959,16 +1989,6 @@
       13.1946
     ]
   },
-  "82.196.112.57": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3924,
-      17.3006
-    ]
-  },
   "83.172.66.214": {
     "region": "Europe",
     "country": "Sweden",
@@ -1987,16 +2007,6 @@
     "coordinates": [
       59.6146,
       16.5528
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
