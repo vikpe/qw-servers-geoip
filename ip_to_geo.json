@@ -219,6 +219,16 @@
       -46.6361
     ]
   },
+  "13.247.30.86": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": [
+      -26.2041,
+      28.0473
+    ]
+  },
   "13.48.133.81": {
     "region": "Europe",
     "country": "Sweden",
@@ -607,16 +617,6 @@
     "coordinates": [
       59.905,
       10.7487
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.766,
-      151.1575
     ]
   },
   "159.69.87.212": {
@@ -1329,14 +1329,14 @@
       -80.013
     ]
   },
-  "34.174.144.97": {
+  "34.150.244.36": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Dallas",
+    "city": "Washington",
     "coordinates": [
-      32.7766,
-      -96.7969
+      38.9071,
+      -77.0368
     ]
   },
   "34.201.64.11": {
@@ -1407,16 +1407,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.245.146.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1527,6 +1517,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.175.224.203": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Gdynia",
+    "coordinates": [
+      54.4742,
+      18.5024
     ]
   },
   "46.227.68.148": {
@@ -1829,16 +1829,6 @@
       -73.0816
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2479,
-      -122.6192
-    ]
-  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -1989,6 +1979,16 @@
       13.1946
     ]
   },
+  "82.196.112.57": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sundsvall",
+    "coordinates": [
+      62.3924,
+      17.3006
+    ]
+  },
   "83.172.66.214": {
     "region": "Europe",
     "country": "Sweden",
@@ -1997,16 +1997,6 @@
     "coordinates": [
       59.6323,
       17.0761
-    ]
-  },
-  "83.233.117.214": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "V\u00e4ster\u00e5s",
-    "coordinates": [
-      59.6146,
-      16.5528
     ]
   },
   "85.209.118.137": {
