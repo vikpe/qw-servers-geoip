@@ -9,16 +9,6 @@
       -77.35
     ]
   },
-  "102.222.22.173": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Cape Town",
-    "coordinates": [
-      -33.9258,
-      18.4259
-    ]
-  },
   "103.106.89.26": {
     "region": "Oceania",
     "country": "Australia",
@@ -889,16 +879,6 @@
       103.695
     ]
   },
-  "188.208.143.29": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Lisbon",
-    "coordinates": [
-      38.7219,
-      -9.1398
-    ]
-  },
   "188.226.133.102": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1329,16 +1309,6 @@
       -80.013
     ]
   },
-  "34.150.244.36": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.201.64.11": {
     "region": "North America",
     "country": "United States",
@@ -1377,6 +1347,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.85.218.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.178.200.80": {
@@ -1517,16 +1497,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "46.175.224.203": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Gdynia",
-    "coordinates": [
-      54.4742,
-      18.5024
     ]
   },
   "46.227.68.148": {
@@ -1769,16 +1739,6 @@
       -87.6386
     ]
   },
-  "67.144.152.112": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.1,
-      -87.6307
-    ]
-  },
   "68.179.190.76": {
     "region": "North America",
     "country": "United States",
@@ -1999,6 +1959,16 @@
       17.0761
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2137,6 +2107,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "91.55.65.18": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "91.55.69.120": {
