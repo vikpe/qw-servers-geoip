@@ -459,16 +459,6 @@
       17.0324
     ]
   },
-  "146.148.40.47": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "147.135.208.107": {
     "region": "Europe",
     "country": "Poland",
@@ -697,16 +687,6 @@
     "coordinates": [
       41.8835,
       -87.6305
-    ]
-  },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.9001,
-      -79.7164
     ]
   },
   "176.210.100.6": {
@@ -1349,16 +1329,6 @@
       13.4049
     ]
   },
-  "34.85.218.237": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1369,6 +1339,16 @@
       -0.127758
     ]
   },
+  "35.184.216.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1377,6 +1357,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.221.33.98": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.228.75.239": {
@@ -1759,7 +1749,7 @@
       17.9155
     ]
   },
-  "70.57.94.18": {
+  "70.57.110.135": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1797,16 +1787,6 @@
     "coordinates": [
       33.7853,
       -83.7033
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -1969,16 +1949,6 @@
       55.9891
     ]
   },
-  "85.209.118.137": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6494,
-      12.5298
-    ]
-  },
   "85.229.41.96": {
     "region": "Europe",
     "country": "Sweden",
@@ -2110,16 +2080,6 @@
     ]
   },
   "91.55.65.18": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
-  "91.55.69.120": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
