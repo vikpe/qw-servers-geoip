@@ -399,6 +399,16 @@
       151.2006
     ]
   },
+  "14.2.37.42": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -38.0224,
+      145.1018
+    ]
+  },
   "140.238.180.126": {
     "region": "South America",
     "country": "Brazil",
@@ -687,6 +697,16 @@
     "coordinates": [
       41.8835,
       -87.6305
+    ]
+  },
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
+    "coordinates": [
+      39.9001,
+      -79.7164
     ]
   },
   "176.210.100.6": {
@@ -1329,6 +1349,16 @@
       13.4049
     ]
   },
+  "34.86.22.181": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.178.200.80": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1337,16 +1367,6 @@
     "coordinates": [
       51.5074,
       -0.127758
-    ]
-  },
-  "35.184.216.176": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.185.44.174": {
@@ -1359,14 +1379,14 @@
       -80.013
     ]
   },
-  "35.221.33.98": {
+  "35.193.23.221": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Washington",
+    "city": "Council Bluffs",
     "coordinates": [
-      38.9071,
-      -77.0368
+      41.2619,
+      -95.8608
     ]
   },
   "35.228.75.239": {
@@ -1729,6 +1749,16 @@
       -87.6386
     ]
   },
+  "67.83.105.162": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Hoboken",
+    "coordinates": [
+      40.7424,
+      -74.0325
+    ]
+  },
   "68.179.190.76": {
     "region": "North America",
     "country": "United States",
@@ -1869,16 +1899,6 @@
       19.0412
     ]
   },
-  "79.161.4.202": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.905,
-      10.7487
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1947,6 +1967,16 @@
     "coordinates": [
       54.741,
       55.9891
+    ]
+  },
+  "85.209.118.137": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6494,
+      12.5298
     ]
   },
   "85.229.41.96": {
