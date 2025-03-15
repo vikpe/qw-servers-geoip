@@ -199,16 +199,6 @@
       4.9392
     ]
   },
-  "129.148.34.9": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
-    ]
-  },
   "13.247.30.86": {
     "region": "Africa",
     "country": "South Africa",
@@ -397,16 +387,6 @@
     "coordinates": [
       -33.8715,
       151.2006
-    ]
-  },
-  "14.2.37.42": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -38.0224,
-      145.1018
     ]
   },
   "140.238.180.126": {
@@ -689,6 +669,16 @@
       12.3649
     ]
   },
+  "167.88.51.247": {
+    "region": "Africa",
+    "country": "Nigeria",
+    "cc": "NG",
+    "city": "Lagos",
+    "coordinates": [
+      6.4474,
+      3.3903
+    ]
+  },
   "172.236.100.99": {
     "region": "North America",
     "country": "United States",
@@ -767,16 +757,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "18.228.193.88": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5505,
-      -46.6333
     ]
   },
   "185.11.166.90": {
@@ -897,16 +877,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "191.13.206.83": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
     ]
   },
   "192.227.152.195": {
@@ -1307,16 +1277,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.201.64.11": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "34.207.134.169": {
@@ -1749,16 +1709,6 @@
       -87.6386
     ]
   },
-  "67.83.105.162": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Hoboken",
-    "coordinates": [
-      40.7424,
-      -74.0325
-    ]
-  },
   "68.179.190.76": {
     "region": "North America",
     "country": "United States",
@@ -1847,16 +1797,6 @@
     "coordinates": [
       48.4152,
       -123.3655
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.37.96.64": {
@@ -1959,16 +1899,6 @@
       17.0761
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2069,16 +1999,6 @@
       20.9841
     ]
   },
-  "90.226.100.70": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "M\u00f6lnbo",
-    "coordinates": [
-      59.0536,
-      17.4138
-    ]
-  },
   "91.132.92.54": {
     "region": "Europe",
     "country": "Denmark",
@@ -2087,6 +2007,16 @@
     "coordinates": [
       55.7339,
       12.362
+    ]
+  },
+  "91.152.15.99": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Espoo",
+    "coordinates": [
+      60.1738,
+      24.6772
     ]
   },
   "91.206.14.17": {
@@ -2180,6 +2110,16 @@
     ]
   },
   "95.216.202.86": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1719,
+      24.9347
+    ]
+  },
+  "95.216.8.8": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
