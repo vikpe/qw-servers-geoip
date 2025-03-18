@@ -69,16 +69,6 @@
       -74.4606
     ]
   },
-  "105.243.30.208": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Johannesburg",
-    "coordinates": [
-      -26.2309,
-      28.0583
-    ]
-  },
   "107.23.236.19": {
     "region": "North America",
     "country": "United States",
@@ -419,16 +409,6 @@
       -111.9956
     ]
   },
-  "144.172.113.102": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.7838,
-      -80.1823
-    ]
-  },
   "145.220.10.99": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -589,16 +569,6 @@
       10.7487
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.766,
-      151.1575
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -707,16 +677,6 @@
     "coordinates": [
       39.9001,
       -79.7164
-    ]
-  },
-  "176.165.51.16": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Villeneuve-d'Ascq",
-    "coordinates": [
-      50.6159,
-      3.1648
     ]
   },
   "176.210.100.6": {
@@ -1329,16 +1289,6 @@
       -80.013
     ]
   },
-  "34.150.180.56": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.207.134.169": {
     "region": "North America",
     "country": "United States",
@@ -1529,16 +1479,6 @@
       18.0717
     ]
   },
-  "46.9.238.9": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Harstad",
-    "coordinates": [
-      68.8017,
-      16.5468
-    ]
-  },
   "5.150.206.177": {
     "region": "Europe",
     "country": "Sweden",
@@ -1709,6 +1649,16 @@
       -46.6333
     ]
   },
+  "62.102.166.235": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Harstad",
+    "coordinates": [
+      68.7892,
+      16.5446
+    ]
+  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1769,6 +1719,16 @@
       -83.3714
     ]
   },
+  "69.23.214.248": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Springfield",
+    "coordinates": [
+      39.9126,
+      -83.7821
+    ]
+  },
   "70.34.206.203": {
     "region": "Europe",
     "country": "Sweden",
@@ -1809,16 +1769,6 @@
       -73.0816
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2479,
-      -122.6192
-    ]
-  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -1827,6 +1777,16 @@
     "coordinates": [
       33.7853,
       -83.7033
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -1857,6 +1817,16 @@
     "coordinates": [
       48.4152,
       -123.3655
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.37.96.64": {
@@ -1957,16 +1927,6 @@
     "coordinates": [
       59.6323,
       17.0761
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
