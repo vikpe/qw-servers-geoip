@@ -9,14 +9,14 @@
       -77.35
     ]
   },
-  "103.106.91.181": {
+  "103.106.91.235": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.9621,
-      115.8966
+      -31.9474,
+      115.8648
     ]
   },
   "103.112.0.130": {
@@ -47,6 +47,16 @@
     "coordinates": [
       -34.9522,
       138.6321
+    ]
+  },
+  "103.235.197.27": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7105,
+      85.3146
     ]
   },
   "103.72.77.220": {
@@ -749,16 +759,6 @@
       -0.8777
     ]
   },
-  "180.150.110.112": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.3535,
-      153.0643
-    ]
-  },
   "185.11.166.90": {
     "region": "Europe",
     "country": "Portugal",
@@ -1289,16 +1289,6 @@
       -77.4874
     ]
   },
-  "34.21.99.20": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.242.30.72": {
     "region": "Europe",
     "country": "Ireland",
@@ -1819,6 +1809,16 @@
       -123.3655
     ]
   },
+  "75.192.174.148": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "York",
+    "coordinates": [
+      40.0008,
+      -76.7697
+    ]
+  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1867,6 +1867,16 @@
     "coordinates": [
       47.5,
       19.0412
+    ]
+  },
+  "79.161.4.202": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.905,
+      10.7487
     ]
   },
   "80.211.201.216": {
@@ -2039,16 +2049,6 @@
       20.9841
     ]
   },
-  "91.132.92.54": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Ballerup Municipality",
-    "coordinates": [
-      55.7339,
-      12.362
-    ]
-  },
   "91.152.15.99": {
     "region": "Europe",
     "country": "Finland",
@@ -2079,7 +2079,7 @@
       -0.1278
     ]
   },
-  "91.55.65.18": {
+  "91.55.80.70": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
