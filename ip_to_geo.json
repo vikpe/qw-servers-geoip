@@ -9,16 +9,6 @@
       -77.35
     ]
   },
-  "103.106.91.235": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9474,
-      115.8648
-    ]
-  },
   "103.112.0.130": {
     "region": "North America",
     "country": "United States",
@@ -467,6 +457,16 @@
     "coordinates": [
       34.0515,
       -118.2707
+    ]
+  },
+  "148.222.0.45": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "149.28.62.121": {
@@ -1239,16 +1239,6 @@
       151.2002
     ]
   },
-  "3.72.78.20": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1109,
-      8.68213
-    ]
-  },
   "34.118.72.161": {
     "region": "Europe",
     "country": "Poland",
@@ -1347,6 +1337,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.245.179.100": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.123.190.226": {
