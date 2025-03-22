@@ -459,16 +459,6 @@
       -118.2707
     ]
   },
-  "148.222.0.45": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -1329,6 +1319,16 @@
       -80.013
     ]
   },
+  "35.221.40.10": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.228.75.239": {
     "region": "Europe",
     "country": "Finland",
@@ -1337,16 +1337,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.245.179.100": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.190.226": {
@@ -1497,6 +1487,16 @@
     "coordinates": [
       45.5397,
       -122.9638
+    ]
+  },
+  "50.237.61.66": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9105,
+      -93.2156
     ]
   },
   "50.47.16.20": {
@@ -1977,6 +1977,16 @@
     "coordinates": [
       50.0196,
       20.9853
+    ]
+  },
+  "85.76.102.105": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.2059,
+      24.8552
     ]
   },
   "85.89.175.250": {
