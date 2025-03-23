@@ -1169,6 +1169,16 @@
       13.4069
     ]
   },
+  "220.253.7.236": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -2087,6 +2097,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "91.40.218.246": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Erlangen",
+    "coordinates": [
+      49.5985,
+      10.9718
     ]
   },
   "91.55.80.70": {
