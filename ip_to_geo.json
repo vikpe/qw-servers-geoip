@@ -9,14 +9,14 @@
       -77.35
     ]
   },
-  "103.106.89.67": {
+  "103.106.89.196": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.9191,
-      115.8562
+      -31.9474,
+      115.8648
     ]
   },
   "103.112.0.130": {
@@ -207,16 +207,6 @@
     "coordinates": [
       -26.2041,
       28.0473
-    ]
-  },
-  "13.48.133.81": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
     ]
   },
   "13.57.199.211": {
@@ -569,14 +559,14 @@
       -99.76158
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
+  "158.248.13.196": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
     "coordinates": [
-      -33.766,
-      151.1575
+      59.905,
+      10.7487
     ]
   },
   "159.69.87.212": {
@@ -1179,6 +1169,16 @@
       13.4069
     ]
   },
+  "220.253.7.236": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1229,6 +1229,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.107.77.249": {
     "region": "Oceania",
     "country": "Australia",
@@ -1237,6 +1247,26 @@
     "coordinates": [
       -33.8591,
       151.2002
+    ]
+  },
+  "31.40.212.182": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6176,
+      -58.3809
+    ]
+  },
+  "34.116.169.226": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0122
     ]
   },
   "34.118.72.161": {
@@ -1249,16 +1279,6 @@
       21.0122
     ]
   },
-  "34.147.32.51": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Groningen",
-    "coordinates": [
-      53.2193,
-      6.5665
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1267,6 +1287,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.174.83.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
     ]
   },
   "34.207.134.169": {
@@ -1279,17 +1309,7 @@
       -77.4874
     ]
   },
-  "34.242.30.72": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3498,
-      -6.26031
-    ]
-  },
-  "34.32.86.32": {
+  "34.32.84.157": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -1299,17 +1319,17 @@
       13.4049
     ]
   },
-  "34.45.194.242": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
+  "34.65.191.221": {
+    "region": "Europe",
+    "country": "Switzerland",
+    "cc": "CH",
+    "city": "Zurich",
     "coordinates": [
-      41.2619,
-      -95.8608
+      47.3595,
+      8.6356
     ]
   },
-  "34.48.5.106": {
+  "34.86.124.184": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1317,6 +1337,26 @@
     "coordinates": [
       38.9071,
       -77.0368
+    ]
+  },
+  "34.88.69.161": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Lappeenranta",
+    "coordinates": [
+      61.0549,
+      28.1896
+    ]
+  },
+  "34.90.150.188": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Groningen",
+    "coordinates": [
+      53.2193,
+      6.5665
     ]
   },
   "35.178.200.80": {
@@ -1329,6 +1369,16 @@
       -0.127758
     ]
   },
+  "35.184.216.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1337,16 +1387,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.228.75.239": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Lappeenranta",
-    "coordinates": [
-      61.0549,
-      28.1896
     ]
   },
   "37.123.190.226": {
@@ -1397,16 +1437,6 @@
     "coordinates": [
       -3.7145,
       -38.5419
-    ]
-  },
-  "45.235.98.10": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1729,16 +1759,6 @@
       17.9155
     ]
   },
-  "70.57.110.135": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Springfield",
-    "coordinates": [
-      37.2117,
-      -93.299
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1757,16 +1777,6 @@
     "coordinates": [
       41.3219,
       -73.0816
-    ]
-  },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2479,
-      -122.6192
     ]
   },
   "73.207.108.187": {
