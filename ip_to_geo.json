@@ -9,16 +9,6 @@
       -77.35
     ]
   },
-  "103.106.89.196": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9474,
-      115.8648
-    ]
-  },
   "103.112.0.130": {
     "region": "North America",
     "country": "United States",
@@ -457,6 +447,16 @@
     "coordinates": [
       34.0515,
       -118.2707
+    ]
+  },
+  "148.222.0.61": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8715,
+      151.2006
     ]
   },
   "149.28.62.121": {
@@ -899,6 +899,16 @@
       -73.6147
     ]
   },
+  "193.181.23.11": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "193.227.134.114": {
     "region": "Europe",
     "country": "Russia",
@@ -1229,16 +1239,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "3.107.77.249": {
     "region": "Oceania",
     "country": "Australia",
@@ -1279,6 +1279,16 @@
       21.0122
     ]
   },
+  "34.145.205.72": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1287,16 +1297,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.174.83.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
     ]
   },
   "34.207.134.169": {
@@ -1329,16 +1329,6 @@
       8.6356
     ]
   },
-  "34.86.124.184": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.88.69.161": {
     "region": "Europe",
     "country": "Finland",
@@ -1357,16 +1347,6 @@
     "coordinates": [
       53.2193,
       6.5665
-    ]
-  },
-  "35.178.200.80": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5074,
-      -0.127758
     ]
   },
   "35.184.216.176": {
@@ -1527,16 +1507,6 @@
     "coordinates": [
       45.5397,
       -122.9638
-    ]
-  },
-  "50.237.61.66": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9105,
-      -93.2156
     ]
   },
   "50.47.16.20": {
@@ -1929,14 +1899,14 @@
       13.3224
     ]
   },
-  "81.224.203.90": {
+  "81.232.45.252": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Lund",
+    "city": "Bor\u00e5s",
     "coordinates": [
-      55.7037,
-      13.1946
+      57.7192,
+      12.9412
     ]
   },
   "82.196.112.57": {
@@ -2017,16 +1987,6 @@
     "coordinates": [
       51.7888,
       19.4314
-    ]
-  },
-  "86.27.70.69": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Westgate on Sea",
-    "coordinates": [
-      51.3842,
-      1.331
     ]
   },
   "87.128.111.190": {
