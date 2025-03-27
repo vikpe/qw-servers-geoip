@@ -9,6 +9,16 @@
       -77.35
     ]
   },
+  "103.106.91.1": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9114,
+      115.8876
+    ]
+  },
   "103.112.0.130": {
     "region": "North America",
     "country": "United States",
@@ -157,6 +167,16 @@
     "coordinates": [
       -27.6188,
       153.0051
+    ]
+  },
+  "118.209.9.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.658,
+      152.8915
     ]
   },
   "118.67.199.81": {
@@ -449,16 +469,6 @@
       -118.2707
     ]
   },
-  "148.222.0.61": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8715,
-      151.2006
-    ]
-  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -497,16 +507,6 @@
     "coordinates": [
       1.27994,
       103.849
-    ]
-  },
-  "151.177.73.252": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "152.67.110.136": {
@@ -659,6 +659,16 @@
       3.3903
     ]
   },
+  "168.205.94.18": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6037,
+      -58.3816
+    ]
+  },
   "172.236.100.99": {
     "region": "North America",
     "country": "United States",
@@ -747,6 +757,16 @@
     "coordinates": [
       41.6579,
       -0.8777
+    ]
+  },
+  "184.4.93.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Springfield",
+    "coordinates": [
+      37.168,
+      -93.3039
     ]
   },
   "185.11.166.90": {
@@ -1179,16 +1199,6 @@
       13.4069
     ]
   },
-  "220.253.7.236": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1239,7 +1249,7 @@
       -96.8704
     ]
   },
-  "3.107.77.249": {
+  "3.26.55.53": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -1247,16 +1257,6 @@
     "coordinates": [
       -33.8591,
       151.2002
-    ]
-  },
-  "31.40.212.182": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6176,
-      -58.3809
     ]
   },
   "34.116.169.226": {
@@ -1269,26 +1269,6 @@
       21.0122
     ]
   },
-  "34.118.72.161": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2296,
-      21.0122
-    ]
-  },
-  "34.145.205.72": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1297,16 +1277,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.207.134.169": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
     ]
   },
   "34.32.84.157": {
@@ -1327,6 +1297,16 @@
     "coordinates": [
       47.3595,
       8.6356
+    ]
+  },
+  "34.86.117.171": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.88.69.161": {
@@ -1367,6 +1347,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.78.210.164": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Tokyo",
+    "coordinates": [
+      35.6895,
+      139.692
     ]
   },
   "37.123.190.226": {
@@ -1529,16 +1519,6 @@
       0.174675
     ]
   },
-  "51.68.45.110": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Roubaix",
-    "coordinates": [
-      50.6924,
-      3.20113
-    ]
-  },
   "51.91.100.231": {
     "region": "Europe",
     "country": "France",
@@ -1609,16 +1589,6 @@
       -121.895
     ]
   },
-  "54.249.218.185": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.6895,
-      139.692
-    ]
-  },
   "54.252.183.87": {
     "region": "Oceania",
     "country": "Australia",
@@ -1627,6 +1597,16 @@
     "coordinates": [
       -33.8591,
       151.2002
+    ]
+  },
+  "54.92.145.18": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
     ]
   },
   "54.94.165.196": {
@@ -1897,16 +1877,6 @@
     "coordinates": [
       52.5234,
       13.3224
-    ]
-  },
-  "81.232.45.252": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bor\u00e5s",
-    "coordinates": [
-      57.7192,
-      12.9412
     ]
   },
   "82.196.112.57": {
