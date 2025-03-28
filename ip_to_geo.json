@@ -1199,6 +1199,16 @@
       13.4069
     ]
   },
+  "220.253.7.236": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1279,6 +1289,16 @@
       -80.013
     ]
   },
+  "34.174.149.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
+    ]
+  },
   "34.32.84.157": {
     "region": "Europe",
     "country": "Germany",
@@ -1297,16 +1317,6 @@
     "coordinates": [
       47.3595,
       8.6356
-    ]
-  },
-  "34.86.117.171": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.88.69.161": {
@@ -1347,6 +1357,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.230.164.180": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.78.210.164": {
@@ -1829,6 +1849,16 @@
       14.4464
     ]
   },
+  "78.92.202.255": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
   "79.139.57.116": {
     "region": "Europe",
     "country": "Hungary",
@@ -1957,6 +1987,16 @@
     "coordinates": [
       51.7888,
       19.4314
+    ]
+  },
+  "86.27.70.69": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Westgate on Sea",
+    "coordinates": [
+      51.3842,
+      1.331
     ]
   },
   "87.128.111.190": {
