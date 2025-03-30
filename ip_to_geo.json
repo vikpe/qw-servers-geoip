@@ -9,14 +9,14 @@
       -77.35
     ]
   },
-  "103.106.91.1": {
+  "103.106.91.219": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.9114,
-      115.8876
+      -32.06,
+      115.955
     ]
   },
   "103.112.0.130": {
@@ -1639,16 +1639,6 @@
       13.1585
     ]
   },
-  "62.33.17.203": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7558,
-      37.6173
-    ]
-  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1789,14 +1779,14 @@
       -123.3655
     ]
   },
-  "75.192.174.148": {
+  "75.192.153.182": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "York",
+    "city": "Mountville",
     "coordinates": [
-      40.0008,
-      -76.7697
+      40.0428,
+      -76.4286
     ]
   },
   "75.82.121.13": {
@@ -1857,16 +1847,6 @@
     "coordinates": [
       47.5,
       19.0412
-    ]
-  },
-  "79.161.4.202": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.905,
-      10.7487
     ]
   },
   "80.211.201.216": {
@@ -1959,6 +1939,16 @@
       18.1182
     ]
   },
+  "85.247.1.56": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Funchal",
+    "coordinates": [
+      32.6333,
+      -16.9
+    ]
+  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -1977,6 +1967,16 @@
     "coordinates": [
       51.7888,
       19.4314
+    ]
+  },
+  "86.141.228.145": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Craigavon",
+    "coordinates": [
+      54.385,
+      -6.3282
     ]
   },
   "86.27.70.69": {
