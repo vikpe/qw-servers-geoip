@@ -499,6 +499,16 @@
       -46.6333
     ]
   },
+  "15.229.19.183": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5505,
+      -46.6333
+    ]
+  },
   "15.235.206.103": {
     "region": "Asia",
     "country": "Singapore",
@@ -659,16 +669,6 @@
       3.3903
     ]
   },
-  "168.205.94.18": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6037,
-      -58.3816
-    ]
-  },
   "172.236.100.99": {
     "region": "North America",
     "country": "United States",
@@ -757,16 +757,6 @@
     "coordinates": [
       41.6579,
       -0.8777
-    ]
-  },
-  "180.150.110.112": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.3535,
-      153.0643
     ]
   },
   "184.4.93.237": {
@@ -1109,6 +1099,16 @@
       -122.2723
     ]
   },
+  "206.51.245.84": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8835,
+      -87.6305
+    ]
+  },
   "207.148.5.167": {
     "region": "North America",
     "country": "United States",
@@ -1117,6 +1117,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "207.246.68.236": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.8119,
+      -80.2318
     ]
   },
   "212.193.49.233": {
@@ -1289,16 +1299,6 @@
       -80.013
     ]
   },
-  "34.21.126.203": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.84.157": {
     "region": "Europe",
     "country": "Germany",
@@ -1359,6 +1359,16 @@
       -80.013
     ]
   },
+  "35.245.44.107": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.78.210.164": {
     "region": "Asia",
     "country": "Japan",
@@ -1417,6 +1427,16 @@
     "coordinates": [
       -3.7145,
       -38.5419
+    ]
+  },
+  "45.235.98.10": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1739,16 +1759,6 @@
       -73.0816
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2479,
-      -122.6192
-    ]
-  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -1807,16 +1817,6 @@
     "coordinates": [
       40.0428,
       -76.4286
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.37.96.64": {
@@ -1929,6 +1929,16 @@
       17.0761
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -1997,6 +2007,16 @@
     "coordinates": [
       54.385,
       -6.3282
+    ]
+  },
+  "86.27.70.69": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Westgate on Sea",
+    "coordinates": [
+      51.3842,
+      1.331
     ]
   },
   "87.128.111.190": {
