@@ -579,16 +579,6 @@
       10.7487
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.766,
-      151.1575
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -1319,16 +1309,6 @@
       -80.013
     ]
   },
-  "34.21.68.120": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.84.157": {
     "region": "Europe",
     "country": "Germany",
@@ -1449,6 +1429,26 @@
       -38.5419
     ]
   },
+  "45.235.98.10": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
+    ]
+  },
+  "45.235.98.76": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
+    ]
+  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1507,6 +1507,16 @@
     "coordinates": [
       59.3287,
       18.0717
+    ]
+  },
+  "46.9.99.6": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Harstad",
+    "coordinates": [
+      68.7861,
+      16.5489
     ]
   },
   "5.150.206.177": {
@@ -1657,16 +1667,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "62.102.166.235": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Harstad",
-    "coordinates": [
-      68.7892,
-      16.5446
     ]
   },
   "62.80.247.69": {
@@ -1939,14 +1939,14 @@
       17.0761
     ]
   },
-  "85.209.118.137": {
+  "84.39.252.192": {
     "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
     "coordinates": [
-      55.6494,
-      12.5298
+      54.741,
+      55.9891
     ]
   },
   "85.229.41.96": {
@@ -1957,16 +1957,6 @@
     "coordinates": [
       59.2688,
       18.1182
-    ]
-  },
-  "85.247.1.56": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
     ]
   },
   "85.28.131.207": {
@@ -2047,16 +2037,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.153.113.163": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1459,
-      -8.6169
     ]
   },
   "89.68.198.17": {
@@ -2217,6 +2197,16 @@
     "coordinates": [
       59.35,
       17.9167
+    ]
+  },
+  "99.42.37.115": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Alpharetta",
+    "coordinates": [
+      34.0782,
+      -84.2281
     ]
   },
   "99.72.255.45": {
