@@ -1,5 +1,5 @@
 {
-  "100.36.40.85": {
+  "100.36.39.144": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -669,6 +669,16 @@
       3.3903
     ]
   },
+  "167.99.124.241": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Clifton",
+    "coordinates": [
+      40.8364,
+      -74.1403
+    ]
+  },
   "172.236.100.99": {
     "region": "North America",
     "country": "United States",
@@ -1079,16 +1089,6 @@
       -104.816154
     ]
   },
-  "202.47.179.132": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "205.134.215.74": {
     "region": "North America",
     "country": "United States",
@@ -1309,6 +1309,16 @@
       -80.013
     ]
   },
+  "34.21.92.238": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.32.84.157": {
     "region": "Europe",
     "country": "Germany",
@@ -1430,16 +1440,6 @@
     ]
   },
   "45.235.98.10": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
-    ]
-  },
-  "45.235.98.76": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -1819,6 +1819,16 @@
       -76.4286
     ]
   },
+  "75.215.210.118": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Willingboro",
+    "coordinates": [
+      40.0296,
+      -74.8834
+    ]
+  },
   "77.37.96.64": {
     "region": "Europe",
     "country": "Denmark",
@@ -1949,6 +1959,16 @@
       55.9891
     ]
   },
+  "85.209.118.137": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6494,
+      12.5298
+    ]
+  },
   "85.229.41.96": {
     "region": "Europe",
     "country": "Sweden",
@@ -1987,16 +2007,6 @@
     "coordinates": [
       54.385,
       -6.3282
-    ]
-  },
-  "86.27.70.69": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Westgate on Sea",
-    "coordinates": [
-      51.3842,
-      1.331
     ]
   },
   "87.128.111.190": {
