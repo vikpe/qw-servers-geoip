@@ -769,6 +769,16 @@
       -0.8777
     ]
   },
+  "180.150.110.112": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.3535,
+      153.0643
+    ]
+  },
   "184.4.93.237": {
     "region": "North America",
     "country": "United States",
@@ -1809,16 +1819,6 @@
       -123.3655
     ]
   },
-  "75.192.153.182": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Mountville",
-    "coordinates": [
-      40.0428,
-      -76.4286
-    ]
-  },
   "75.215.210.118": {
     "region": "North America",
     "country": "United States",
@@ -1937,36 +1937,6 @@
     "coordinates": [
       62.3924,
       17.3006
-    ]
-  },
-  "83.172.66.214": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Enk\u00f6ping",
-    "coordinates": [
-      59.6323,
-      17.0761
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
-  "85.209.118.137": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6494,
-      12.5298
     ]
   },
   "85.229.41.96": {
