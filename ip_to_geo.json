@@ -9,14 +9,14 @@
       -77.35
     ]
   },
-  "103.106.91.219": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
+  "101.127.115.31": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
     "coordinates": [
-      -32.06,
-      115.955
+      1.31973,
+      103.903
     ]
   },
   "103.112.0.130": {
@@ -719,6 +719,16 @@
       -46.6333
     ]
   },
+  "177.76.49.180": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "177.93.135.160": {
     "region": "South America",
     "country": "Brazil",
@@ -1099,6 +1109,16 @@
       -104.816154
     ]
   },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Morwell",
+    "coordinates": [
+      -38.2276,
+      146.415
+    ]
+  },
   "205.134.215.74": {
     "region": "North America",
     "country": "United States",
@@ -1319,16 +1339,6 @@
       -80.013
     ]
   },
-  "34.21.92.238": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.84.157": {
     "region": "Europe",
     "country": "Germany",
@@ -1427,16 +1437,6 @@
     "coordinates": [
       30.2627,
       -97.7467
-    ]
-  },
-  "45.132.235.172": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "45.234.92.131": {
@@ -1829,6 +1829,16 @@
       -74.8834
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "77.37.96.64": {
     "region": "Europe",
     "country": "Denmark",
@@ -1937,6 +1947,26 @@
     "coordinates": [
       62.3924,
       17.3006
+    ]
+  },
+  "83.172.66.214": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Enk\u00f6ping",
+    "coordinates": [
+      59.6323,
+      17.0761
+    ]
+  },
+  "85.209.118.137": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6494,
+      12.5298
     ]
   },
   "85.229.41.96": {
