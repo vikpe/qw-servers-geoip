@@ -49,6 +49,16 @@
       138.6321
     ]
   },
+  "103.235.197.27": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7105,
+      85.3146
+    ]
+  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -559,6 +569,16 @@
       -99.76158
     ]
   },
+  "158.248.13.196": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.905,
+      10.7487
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -689,6 +709,16 @@
       73.3729
     ]
   },
+  "177.144.186.5": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "177.71.158.196": {
     "region": "South America",
     "country": "Brazil",
@@ -697,16 +727,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "177.76.49.180": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
     ]
   },
   "177.93.135.160": {
@@ -847,16 +867,6 @@
     "coordinates": [
       51.5072,
       -0.127586
-    ]
-  },
-  "188.120.163.79": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Uppsala",
-    "coordinates": [
-      59.856,
-      17.6403
     ]
   },
   "188.166.0.137": {
@@ -1237,6 +1247,16 @@
     "coordinates": [
       -36.8906,
       174.794
+    ]
+  },
+  "23.119.64.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Decatur",
+    "coordinates": [
+      34.5891,
+      -86.9909
     ]
   },
   "23.159.160.34": {
@@ -1739,16 +1759,6 @@
       -73.0816
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2479,
-      -122.6192
-    ]
-  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -2187,6 +2197,16 @@
     "coordinates": [
       59.35,
       17.9167
+    ]
+  },
+  "99.228.129.142": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Richmond Hill",
+    "coordinates": [
+      43.8985,
+      -79.4143
     ]
   },
   "99.42.37.115": {
