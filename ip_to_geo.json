@@ -229,6 +229,16 @@
       -121.895
     ]
   },
+  "13.60.231.115": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
+    ]
+  },
   "13.74.254.86": {
     "region": "Europe",
     "country": "Ireland",
@@ -357,16 +367,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "139.162.45.192": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.35208,
-      103.82
     ]
   },
   "139.84.135.106": {
@@ -667,16 +667,6 @@
     "coordinates": [
       6.4474,
       3.3903
-    ]
-  },
-  "167.99.124.241": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Clifton",
-    "coordinates": [
-      40.8364,
-      -74.1403
     ]
   },
   "172.236.100.99": {
@@ -997,16 +987,6 @@
     "coordinates": [
       47.5,
       19.0412
-    ]
-  },
-  "195.133.145.176": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Korolyov",
-    "coordinates": [
-      55.9155,
-      37.8263
     ]
   },
   "195.201.133.22": {
@@ -1379,7 +1359,7 @@
       -80.013
     ]
   },
-  "35.221.32.223": {
+  "35.245.162.7": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1819,6 +1799,16 @@
       -74.8834
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "77.37.96.64": {
     "region": "Europe",
     "country": "Denmark",
@@ -1959,16 +1949,6 @@
       12.5298
     ]
   },
-  "85.229.41.96": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Skarpn\u00e4ck",
-    "coordinates": [
-      59.2688,
-      18.1182
-    ]
-  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -2079,7 +2059,7 @@
       -0.1278
     ]
   },
-  "91.55.80.70": {
+  "91.55.81.124": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2187,16 +2167,6 @@
     "coordinates": [
       57.7065,
       11.967
-    ]
-  },
-  "98.128.186.18": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bromma",
-    "coordinates": [
-      59.35,
-      17.9167
     ]
   },
   "99.228.129.142": {
