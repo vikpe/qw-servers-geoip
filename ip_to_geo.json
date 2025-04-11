@@ -9,7 +9,7 @@
       -77.35
     ]
   },
-  "101.127.115.31": {
+  "101.127.4.77": {
     "region": "Asia",
     "country": "Singapore",
     "cc": "SG",
@@ -279,16 +279,6 @@
       18.0623
     ]
   },
-  "135.148.59.26": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Reston",
-    "coordinates": [
-      38.9609,
-      -77.3429
-    ]
-  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -509,6 +499,16 @@
       103.849
     ]
   },
+  "151.177.73.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -559,14 +559,14 @@
       -99.76158
     ]
   },
-  "158.248.13.196": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
     "coordinates": [
-      59.905,
-      10.7487
+      -33.766,
+      151.1575
     ]
   },
   "159.69.87.212": {
@@ -1259,6 +1259,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.26.55.53": {
     "region": "Oceania",
     "country": "Australia",
@@ -1619,16 +1629,6 @@
       -121.895
     ]
   },
-  "54.252.183.87": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
-    ]
-  },
   "54.92.145.18": {
     "region": "North America",
     "country": "United States",
@@ -1657,16 +1657,6 @@
     "coordinates": [
       55.9399,
       23.3132
-    ]
-  },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
     ]
   },
   "64.227.18.147": {
@@ -1909,6 +1899,16 @@
       13.1946
     ]
   },
+  "81.226.25.230": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Trollh\u00e4ttan",
+    "coordinates": [
+      58.2835,
+      12.2858
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1927,16 +1927,6 @@
     "coordinates": [
       59.6323,
       17.0761
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2187,26 +2177,6 @@
     "coordinates": [
       59.35,
       17.9167
-    ]
-  },
-  "99.228.129.142": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Richmond Hill",
-    "coordinates": [
-      43.8985,
-      -79.4143
-    ]
-  },
-  "99.42.37.115": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Alpharetta",
-    "coordinates": [
-      34.0782,
-      -84.2281
     ]
   },
   "99.72.255.45": {
