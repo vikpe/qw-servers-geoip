@@ -159,16 +159,6 @@
       11.0783
     ]
   },
-  "116.255.1.146": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.6188,
-      153.0051
-    ]
-  },
   "118.209.9.7": {
     "region": "Oceania",
     "country": "Australia",
@@ -279,6 +269,16 @@
       18.0623
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
   "135.181.0.160": {
     "region": "Europe",
     "country": "Finland",
@@ -337,6 +337,16 @@
     "coordinates": [
       52.2299,
       21.0093
+    ]
+  },
+  "138.197.99.172": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Clifton",
+    "coordinates": [
+      40.8364,
+      -74.1403
     ]
   },
   "138.68.21.116": {
@@ -407,6 +417,16 @@
     "coordinates": [
       33.4656,
       -111.9956
+    ]
+  },
+  "142.54.178.42": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Kansas City",
+    "coordinates": [
+      39.0945,
+      -94.5812
     ]
   },
   "145.220.10.99": {
@@ -559,14 +579,14 @@
       -99.76158
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
+  "158.248.13.196": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
     "coordinates": [
-      -33.766,
-      151.1575
+      59.905,
+      10.7487
     ]
   },
   "159.69.87.212": {
@@ -1259,16 +1279,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "3.26.55.53": {
     "region": "Oceania",
     "country": "Australia",
@@ -1659,6 +1669,16 @@
       23.3132
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1739,16 +1759,6 @@
       -83.7033
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1789,14 +1799,14 @@
       -84.345
     ]
   },
-  "75.215.210.118": {
+  "75.192.139.159": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Willingboro",
+    "city": "Landisville",
     "coordinates": [
-      40.0296,
-      -74.8834
+      40.0899,
+      -76.4154
     ]
   },
   "77.37.96.64": {
@@ -1919,14 +1929,14 @@
       17.3006
     ]
   },
-  "83.172.66.214": {
+  "84.39.252.192": {
     "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Enk\u00f6ping",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
     "coordinates": [
-      59.6323,
-      17.0761
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2099,16 +2109,6 @@
       12.9553
     ]
   },
-  "94.45.205.16": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Dolgoprudny",
-    "coordinates": [
-      55.9536,
-      37.5019
-    ]
-  },
   "95.165.130.151": {
     "region": "Europe",
     "country": "Russia",
@@ -2177,6 +2177,16 @@
     "coordinates": [
       59.35,
       17.9167
+    ]
+  },
+  "99.228.129.142": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Richmond Hill",
+    "coordinates": [
+      43.8985,
+      -79.4143
     ]
   },
   "99.72.255.45": {
