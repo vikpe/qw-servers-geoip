@@ -1089,6 +1089,16 @@
       -104.816154
     ]
   },
+  "203.29.240.182": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.8575,
+      115.8913
+    ]
+  },
   "205.134.215.74": {
     "region": "North America",
     "country": "United States",
@@ -1929,6 +1939,16 @@
       17.3006
     ]
   },
+  "83.172.66.214": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Enk\u00f6ping",
+    "coordinates": [
+      59.6323,
+      17.0761
+    ]
+  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1987,6 +2007,16 @@
     "coordinates": [
       54.385,
       -6.3282
+    ]
+  },
+  "86.27.70.69": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Westgate on Sea",
+    "coordinates": [
+      51.3842,
+      1.331
     ]
   },
   "87.128.111.190": {
