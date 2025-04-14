@@ -79,6 +79,16 @@
       -74.4606
     ]
   },
+  "107.172.132.154": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Buffalo",
+    "coordinates": [
+      42.8864,
+      -78.8784
+    ]
+  },
   "107.23.236.19": {
     "region": "North America",
     "country": "United States",
@@ -767,16 +777,6 @@
     "coordinates": [
       41.6579,
       -0.8777
-    ]
-  },
-  "180.150.110.112": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.3535,
-      153.0643
     ]
   },
   "184.4.93.237": {
@@ -1759,6 +1759,16 @@
       -73.0816
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2479,
+      -122.6192
+    ]
+  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -1767,6 +1777,16 @@
     "coordinates": [
       33.7853,
       -83.7033
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -1969,6 +1989,16 @@
       12.5298
     ]
   },
+  "85.209.118.60": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6494,
+      12.5298
+    ]
+  },
   "85.229.41.96": {
     "region": "Europe",
     "country": "Sweden",
@@ -2027,6 +2057,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "87.159.106.195": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Baiersdorf",
+    "coordinates": [
+      49.6601,
+      11.0475
     ]
   },
   "88.129.191.196": {
