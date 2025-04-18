@@ -839,16 +839,6 @@
       -62.9
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.26,
-      21.0792
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1247,6 +1237,16 @@
     "coordinates": [
       -36.8906,
       174.794
+    ]
+  },
+  "23.119.64.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Birmingham",
+    "coordinates": [
+      33.5463,
+      -86.6631
     ]
   },
   "23.159.160.34": {
