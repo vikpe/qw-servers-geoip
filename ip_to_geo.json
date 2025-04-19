@@ -629,6 +629,16 @@
       139.6899
     ]
   },
+  "161.97.142.198": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "D\u00fcsseldorf",
+    "coordinates": [
+      51.1864,
+      6.8624
+    ]
+  },
   "162.19.231.86": {
     "region": "Europe",
     "country": "Germany",
@@ -1987,6 +1997,16 @@
     "coordinates": [
       59.2688,
       18.1182
+    ]
+  },
+  "85.242.36.233": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Quinta Do Conde",
+    "coordinates": [
+      38.5657,
+      -9.0367
     ]
   },
   "85.28.131.207": {
