@@ -1999,16 +1999,6 @@
       18.1182
     ]
   },
-  "85.242.36.233": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Quinta Do Conde",
-    "coordinates": [
-      38.5657,
-      -9.0367
-    ]
-  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -2027,16 +2017,6 @@
     "coordinates": [
       51.771,
       19.4649
-    ]
-  },
-  "86.141.228.145": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Ballymoney",
-    "coordinates": [
-      55.0708,
-      -6.5101
     ]
   },
   "86.27.70.69": {
