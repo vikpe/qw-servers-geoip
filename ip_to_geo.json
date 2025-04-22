@@ -1109,16 +1109,6 @@
       -122.2723
     ]
   },
-  "206.168.213.8": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1407,16 +1397,6 @@
     "coordinates": [
       35.6895,
       139.692
-    ]
-  },
-  "37.123.190.226": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3274,
-      18.0653
     ]
   },
   "37.201.131.70": {
