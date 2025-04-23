@@ -599,6 +599,16 @@
       11.1728
     ]
   },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.7283,
+      151.168
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -907,6 +917,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "191.13.177.102": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "192.227.152.195": {
@@ -1299,6 +1319,16 @@
       151.2002
     ]
   },
+  "3.82.110.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
+    ]
+  },
   "34.116.169.226": {
     "region": "Europe",
     "country": "Poland",
@@ -1369,16 +1399,6 @@
       6.5665
     ]
   },
-  "35.184.216.176": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1387,6 +1407,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.202.201.160": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "35.78.210.164": {
@@ -1739,16 +1769,6 @@
       -104.9945
     ]
   },
-  "73.123.216.240": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Shelton",
-    "coordinates": [
-      41.3219,
-      -73.0816
-    ]
-  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -1777,6 +1797,16 @@
     "coordinates": [
       26.6909,
       -81.9483
+    ]
+  },
+  "73.47.176.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ridgefield",
+    "coordinates": [
+      41.298,
+      -73.4963
     ]
   },
   "74.91.120.206": {
@@ -1819,6 +1849,16 @@
       -76.1817
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "77.37.96.64": {
     "region": "Europe",
     "country": "Denmark",
@@ -1857,6 +1897,16 @@
     "coordinates": [
       47.4277,
       18.9191
+    ]
+  },
+  "79.117.24.199": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.394,
+      -3.7188
     ]
   },
   "79.139.57.116": {
