@@ -589,16 +589,6 @@
       11.1728
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7283,
-      151.168
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -709,14 +699,14 @@
       -87.6305
     ]
   },
-  "176.210.100.6": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Omsk",
+  "174.140.69.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Uniontown",
     "coordinates": [
-      54.9896,
-      73.3729
+      39.9001,
+      -79.7164
     ]
   },
   "177.93.135.160": {
@@ -757,6 +747,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "179.232.5.60": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Aracaju",
+    "coordinates": [
+      -10.9094,
+      -37.0716
     ]
   },
   "18.100.128.150": {
@@ -1237,6 +1237,16 @@
     "coordinates": [
       -36.8906,
       174.794
+    ]
+  },
+  "23.119.64.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Birmingham",
+    "coordinates": [
+      33.5463,
+      -86.6631
     ]
   },
   "23.159.160.34": {
