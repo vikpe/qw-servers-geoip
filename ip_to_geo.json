@@ -699,16 +699,6 @@
       -87.6305
     ]
   },
-  "174.140.69.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Uniontown",
-    "coordinates": [
-      39.9001,
-      -79.7164
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -989,6 +979,16 @@
       27.559
     ]
   },
+  "194.223.58.76": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.828,
+      144.9548
+    ]
+  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1247,6 +1247,16 @@
     "coordinates": [
       -36.8906,
       174.794
+    ]
+  },
+  "23.119.64.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Birmingham",
+    "coordinates": [
+      33.5463,
+      -86.6631
     ]
   },
   "23.159.160.34": {
@@ -1839,16 +1849,6 @@
       9.8842
     ]
   },
-  "77.38.86.232": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Celje",
-    "coordinates": [
-      46.2286,
-      15.2577
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1957,6 +1957,26 @@
     "coordinates": [
       59.6323,
       17.0761
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
+  "85.209.118.137": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6494,
+      12.5298
     ]
   },
   "85.209.118.60": {
