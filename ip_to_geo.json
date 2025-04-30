@@ -759,16 +759,6 @@
       -46.6333
     ]
   },
-  "184.4.93.237": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Springfield",
-    "coordinates": [
-      37.168,
-      -93.3039
-    ]
-  },
   "185.11.166.90": {
     "region": "Europe",
     "country": "Portugal",
@@ -1309,6 +1299,16 @@
       13.4049
     ]
   },
+  "34.48.43.250": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.65.191.221": {
     "region": "Europe",
     "country": "Switzerland",
@@ -1317,16 +1317,6 @@
     "coordinates": [
       47.3595,
       8.6356
-    ]
-  },
-  "34.86.231.212": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.88.69.161": {
@@ -1959,16 +1949,6 @@
       12.5298
     ]
   },
-  "85.227.202.83": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sandviken",
-    "coordinates": [
-      60.6204,
-      16.7697
-    ]
-  },
   "85.229.0.4": {
     "region": "Europe",
     "country": "Sweden",
@@ -2197,16 +2177,6 @@
     "coordinates": [
       37.7399,
       -120.9347
-    ]
-  },
-  "98.128.174.153": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "98.128.186.18": {
