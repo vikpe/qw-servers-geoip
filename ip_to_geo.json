@@ -509,6 +509,16 @@
       103.849
     ]
   },
+  "151.177.73.252": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.6442,
+      11.9332
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -577,6 +587,16 @@
     "coordinates": [
       59.9315,
       11.1728
+    ]
+  },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.7283,
+      151.168
     ]
   },
   "159.69.87.212": {
@@ -879,6 +899,16 @@
       -47.0565
     ]
   },
+  "191.17.53.150": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "192.227.152.195": {
     "region": "North America",
     "country": "United States",
@@ -1087,16 +1117,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "207.246.68.236": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.8119,
-      -80.2318
     ]
   },
   "208.83.232.203": {
@@ -2177,6 +2197,16 @@
     "coordinates": [
       37.7399,
       -120.9347
+    ]
+  },
+  "98.128.174.153": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
     ]
   },
   "98.128.186.18": {
