@@ -889,16 +889,6 @@
       12.3649
     ]
   },
-  "191.13.177.102": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "191.17.53.150": {
     "region": "South America",
     "country": "Brazil",
@@ -1809,16 +1799,6 @@
       -76.1817
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "77.37.96.64": {
     "region": "Europe",
     "country": "Denmark",
@@ -1939,16 +1919,6 @@
       17.0761
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2057,6 +2027,26 @@
     "coordinates": [
       64.4676,
       11.7433
+    ]
+  },
+  "89.214.112.238": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Almada",
+    "coordinates": [
+      38.6821,
+      -9.162
+    ]
+  },
+  "89.214.118.188": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Almada",
+    "coordinates": [
+      38.6821,
+      -9.162
     ]
   },
   "89.68.198.17": {
