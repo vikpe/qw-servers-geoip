@@ -589,16 +589,6 @@
       11.1728
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7283,
-      151.168
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -699,6 +689,16 @@
       3.3903
     ]
   },
+  "170.239.85.153": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Curic\u00f3",
+    "coordinates": [
+      -34.9826,
+      -71.2344
+    ]
+  },
   "172.236.100.99": {
     "region": "North America",
     "country": "United States",
@@ -777,6 +777,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "184.4.93.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Springfield",
+    "coordinates": [
+      37.168,
+      -93.3039
     ]
   },
   "185.11.166.90": {
@@ -2027,16 +2037,6 @@
     "coordinates": [
       64.4676,
       11.7433
-    ]
-  },
-  "89.214.112.238": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Almada",
-    "coordinates": [
-      38.6821,
-      -9.162
     ]
   },
   "89.214.118.188": {
