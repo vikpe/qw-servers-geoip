@@ -49,16 +49,6 @@
       138.6321
     ]
   },
-  "103.235.197.27": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7105,
-      85.3146
-    ]
-  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -759,16 +749,6 @@
       -0.1278
     ]
   },
-  "179.232.5.60": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Aracaju",
-    "coordinates": [
-      -10.9094,
-      -37.0716
-    ]
-  },
   "18.228.3.244": {
     "region": "South America",
     "country": "Brazil",
@@ -777,6 +757,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "180.150.110.112": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Brisbane",
+    "coordinates": [
+      -27.6551,
+      153.1136
     ]
   },
   "184.4.93.237": {
@@ -1139,16 +1129,6 @@
       30.3261
     ]
   },
-  "212.227.245.192": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.52,
-      13.405
-    ]
-  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1289,6 +1269,16 @@
       -77.4874
     ]
   },
+  "31.40.212.167": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6176,
+      -58.3809
+    ]
+  },
   "34.116.169.226": {
     "region": "Europe",
     "country": "Poland",
@@ -1427,16 +1417,6 @@
     "coordinates": [
       -3.7145,
       -38.5419
-    ]
-  },
-  "45.235.98.10": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1989,16 +1969,6 @@
       19.4649
     ]
   },
-  "86.27.70.69": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Westgate on Sea",
-    "coordinates": [
-      51.3842,
-      1.331
-    ]
-  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -2037,16 +2007,6 @@
     "coordinates": [
       64.4676,
       11.7433
-    ]
-  },
-  "89.214.118.188": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Almada",
-    "coordinates": [
-      38.6821,
-      -9.162
     ]
   },
   "89.68.198.17": {
