@@ -49,6 +49,16 @@
       138.6321
     ]
   },
+  "103.235.197.27": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7105,
+      85.3146
+    ]
+  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -709,16 +719,6 @@
       73.3729
     ]
   },
-  "177.93.135.160": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Fortaleza",
-    "coordinates": [
-      -3.73272,
-      -38.527
-    ]
-  },
   "178.164.124.230": {
     "region": "Europe",
     "country": "Norway",
@@ -1199,6 +1199,16 @@
       13.4069
     ]
   },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.9332,
+      151.0732
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1247,6 +1257,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "3.26.55.53": {
@@ -1479,7 +1499,7 @@
       18.0717
     ]
   },
-  "46.9.99.6": {
+  "46.9.99.38": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
@@ -1779,16 +1799,6 @@
       -84.345
     ]
   },
-  "75.192.139.159": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ephrata",
-    "coordinates": [
-      40.175,
-      -76.1817
-    ]
-  },
   "77.37.96.64": {
     "region": "Europe",
     "country": "Denmark",
@@ -1907,6 +1917,16 @@
     "coordinates": [
       59.6323,
       17.0761
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
