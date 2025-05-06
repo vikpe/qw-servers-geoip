@@ -49,16 +49,6 @@
       138.6321
     ]
   },
-  "103.235.197.27": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7105,
-      85.3146
-    ]
-  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -147,6 +137,16 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "111.119.49.205": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Patan",
+    "coordinates": [
+      27.6766,
+      85.3142
     ]
   },
   "116.203.97.160": {
@@ -579,16 +579,6 @@
       -99.76158
     ]
   },
-  "158.248.13.196": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Fetsund",
-    "coordinates": [
-      59.9315,
-      11.1728
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -757,16 +747,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "180.150.110.112": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.6551,
-      153.1136
     ]
   },
   "184.4.93.237": {
@@ -967,6 +947,16 @@
     "coordinates": [
       53.9006,
       27.559
+    ]
+  },
+  "194.223.58.76": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.828,
+      144.9548
     ]
   },
   "194.38.96.52": {
@@ -1189,6 +1179,16 @@
       -80.7521
     ]
   },
+  "217.154.198.229": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1109,
+      8.68213
+    ]
+  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1257,16 +1257,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "3.26.55.53": {
