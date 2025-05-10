@@ -19,16 +19,6 @@
       103.903
     ]
   },
-  "103.112.0.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bartlesville",
-    "coordinates": [
-      37.0902,
-      -95.7129
-    ]
-  },
   "103.151.65.19": {
     "region": "North America",
     "country": "United States",
@@ -39,7 +29,7 @@
       -95.7129
     ]
   },
-  "103.163.182.106": {
+  "103.163.182.160": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -577,16 +567,6 @@
     "coordinates": [
       59.9315,
       11.1728
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7283,
-      151.168
     ]
   },
   "159.69.87.212": {
@@ -1929,6 +1909,16 @@
       17.0761
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2027,16 +2017,6 @@
     "coordinates": [
       64.4676,
       11.7433
-    ]
-  },
-  "89.153.184.142": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1459,
-      -8.6169
     ]
   },
   "89.68.198.17": {
