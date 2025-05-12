@@ -29,7 +29,7 @@
       -95.7129
     ]
   },
-  "103.163.182.160": {
+  "103.163.182.89": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -1269,6 +1269,16 @@
       21.0122
     ]
   },
+  "34.123.73.9": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1317,16 +1327,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "34.9.172.147": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "34.90.150.188": {
@@ -1619,6 +1619,16 @@
       -46.6333
     ]
   },
+  "60.241.110.46": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1889,16 +1899,6 @@
       17.3006
     ]
   },
-  "83.172.66.214": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Enk\u00f6ping",
-    "coordinates": [
-      59.6323,
-      17.0761
-    ]
-  },
   "84.39.252.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1907,16 +1907,6 @@
     "coordinates": [
       54.741,
       55.9891
-    ]
-  },
-  "85.209.118.137": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6494,
-      12.5298
     ]
   },
   "85.209.118.60": {
