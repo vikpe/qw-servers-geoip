@@ -429,6 +429,16 @@
       17.0323
     ]
   },
+  "148.135.104.18": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0515,
+      -118.2707
+    ]
+  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -1309,6 +1319,16 @@
       28.1896
     ]
   },
+  "34.9.172.147": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.90.150.188": {
     "region": "Europe",
     "country": "Netherlands",
@@ -1327,16 +1347,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.202.201.160": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.78.210.164": {
@@ -2007,16 +2017,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.153.184.142": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1459,
-      -8.6169
     ]
   },
   "89.68.198.17": {
