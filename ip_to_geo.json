@@ -409,6 +409,16 @@
       5.12142
     ]
   },
+  "145.224.75.67": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.52,
+      13.4049
+    ]
+  },
   "145.239.94.156": {
     "region": "Europe",
     "country": "Poland",
@@ -867,6 +877,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "189.29.90.145": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Atibaia",
+    "coordinates": [
+      -23.1325,
+      -46.5932
     ]
   },
   "191.17.53.150": {
@@ -1379,16 +1399,6 @@
       8.6776
     ]
   },
-  "38.180.186.120": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6142,
-      -58.3811
-    ]
-  },
   "38.57.161.19": {
     "region": "North America",
     "country": "United States",
@@ -1669,6 +1679,16 @@
       -80.7294
     ]
   },
+  "64.181.167.17": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1859,6 +1879,16 @@
       5.7427
     ]
   },
+  "79.97.198.96": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Galway",
+    "coordinates": [
+      53.2702,
+      -9.0503
+    ]
+  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1919,17 +1949,17 @@
       17.3006
     ]
   },
-  "85.209.118.137": {
+  "84.39.252.192": {
     "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
     "coordinates": [
-      55.6494,
-      12.5298
+      54.741,
+      55.9891
     ]
   },
-  "85.209.118.60": {
+  "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
     "cc": "DK",
