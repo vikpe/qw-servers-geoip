@@ -29,7 +29,7 @@
       -95.7129
     ]
   },
-  "103.163.182.108": {
+  "103.163.182.52": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -939,6 +939,16 @@
       18.1364
     ]
   },
+  "194.223.58.76": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "194.38.96.52": {
     "region": "Europe",
     "country": "Hungary",
@@ -1479,14 +1489,14 @@
       20.2559
     ]
   },
-  "5.173.172.62": {
+  "5.173.31.61": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.2377,
-      20.9872
+      52.2299,
+      21.0093
     ]
   },
   "5.196.28.199": {
@@ -1809,7 +1819,7 @@
       14.4464
     ]
   },
-  "78.92.202.255": {
+  "78.92.193.180": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1857,6 +1867,16 @@
     "coordinates": [
       48.1077,
       11.6091
+    ]
+  },
+  "81.153.251.159": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Craigavon",
+    "coordinates": [
+      54.4539,
+      -6.383
     ]
   },
   "81.169.207.127": {
