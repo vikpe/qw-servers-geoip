@@ -439,6 +439,16 @@
       -74.4606
     ]
   },
+  "15.181.21.196": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Portland",
+    "coordinates": [
+      45.5235,
+      -122.676
+    ]
+  },
   "15.229.19.183": {
     "region": "South America",
     "country": "Brazil",
@@ -937,16 +947,6 @@
     "coordinates": [
       46.8034,
       18.1364
-    ]
-  },
-  "194.223.58.76": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
     ]
   },
   "194.38.96.52": {
@@ -1779,16 +1779,6 @@
       -84.345
     ]
   },
-  "75.192.139.159": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North East",
-    "coordinates": [
-      39.6022,
-      -75.9529
-    ]
-  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1889,6 +1879,16 @@
       13.3224
     ]
   },
+  "81.175.133.26": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Lahti",
+    "coordinates": [
+      60.9915,
+      25.6535
+    ]
+  },
   "81.224.203.90": {
     "region": "Europe",
     "country": "Sweden",
@@ -1917,16 +1917,6 @@
     "coordinates": [
       62.3924,
       17.3006
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
