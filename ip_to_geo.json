@@ -29,16 +29,6 @@
       -95.7129
     ]
   },
-  "103.163.182.52": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -137,6 +127,16 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "111.119.49.253": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Patan",
+    "coordinates": [
+      27.6766,
+      85.3142
     ]
   },
   "116.203.97.160": {
@@ -719,6 +719,16 @@
       -0.1278
     ]
   },
+  "18.100.128.150": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Zaragoza",
+    "coordinates": [
+      41.6579,
+      -0.8777
+    ]
+  },
   "18.228.3.244": {
     "region": "South America",
     "country": "Brazil",
@@ -1059,6 +1069,16 @@
       115.8765
     ]
   },
+  "205.134.215.74": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eatonville",
+    "coordinates": [
+      46.87,
+      -122.2723
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1379,16 +1399,6 @@
       -97.7463
     ]
   },
-  "45.132.235.172": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
-    ]
-  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1639,16 +1649,6 @@
       23.3132
     ]
   },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1779,6 +1779,16 @@
       -84.345
     ]
   },
+  "75.192.139.159": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North East",
+    "coordinates": [
+      39.6022,
+      -75.9529
+    ]
+  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1877,16 +1887,6 @@
     "coordinates": [
       52.5234,
       13.3224
-    ]
-  },
-  "81.175.133.26": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Lahti",
-    "coordinates": [
-      60.9915,
-      25.6535
     ]
   },
   "81.224.203.90": {
