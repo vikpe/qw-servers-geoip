@@ -789,16 +789,6 @@
       -62.9
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.26,
-      21.0792
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1087,16 +1077,6 @@
     "coordinates": [
       41.8835,
       -87.6305
-    ]
-  },
-  "207.148.5.167": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7889,
-      -96.8021
     ]
   },
   "208.83.232.203": {
@@ -1639,6 +1619,16 @@
       -46.6333
     ]
   },
+  "60.241.110.46": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1647,6 +1637,16 @@
     "coordinates": [
       55.9399,
       23.3132
+    ]
+  },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
     ]
   },
   "64.227.18.147": {
@@ -1919,6 +1919,16 @@
       17.3006
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2087,16 +2097,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "94.45.205.16": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Dolgoprudny",
-    "coordinates": [
-      55.9536,
-      37.5019
     ]
   },
   "95.165.130.151": {
