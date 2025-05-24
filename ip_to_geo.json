@@ -129,7 +129,7 @@
       -0.127586
     ]
   },
-  "111.119.49.253": {
+  "111.119.49.139": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -277,6 +277,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "136.0.141.215": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Haarlem",
+    "coordinates": [
+      52.3891,
+      4.6563
     ]
   },
   "136.243.174.101": {
@@ -1079,6 +1089,16 @@
       -87.6305
     ]
   },
+  "207.148.5.167": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
+    ]
+  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1779,14 +1799,14 @@
       -84.345
     ]
   },
-  "75.192.139.159": {
+  "75.192.160.212": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "North East",
+    "city": "Philadelphia",
     "coordinates": [
-      39.6022,
-      -75.9529
+      39.9934,
+      -75.1425
     ]
   },
   "75.82.121.13": {
@@ -1909,6 +1929,16 @@
       16.3569
     ]
   },
+  "82.163.190.0": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Buckingham",
+    "coordinates": [
+      52.0012,
+      -0.9784
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1917,16 +1947,6 @@
     "coordinates": [
       62.3924,
       17.3006
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
