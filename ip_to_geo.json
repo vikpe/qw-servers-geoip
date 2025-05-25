@@ -429,6 +429,16 @@
       17.0323
     ]
   },
+  "147.28.69.55": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -749,16 +759,6 @@
       -46.6333
     ]
   },
-  "184.4.93.237": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Springfield",
-    "coordinates": [
-      37.168,
-      -93.3039
-    ]
-  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -867,6 +867,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "191.13.206.129": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.8951,
+      -47.0439
     ]
   },
   "191.17.53.150": {
@@ -1929,16 +1939,6 @@
       16.3569
     ]
   },
-  "82.163.190.0": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Buckingham",
-    "coordinates": [
-      52.0012,
-      -0.9784
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1947,6 +1947,16 @@
     "coordinates": [
       62.3924,
       17.3006
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
