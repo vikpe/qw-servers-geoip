@@ -29,6 +29,16 @@
       -95.7129
     ]
   },
+  "103.163.182.45": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -127,16 +137,6 @@
     "coordinates": [
       51.5072,
       -0.127586
-    ]
-  },
-  "111.119.49.139": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Patan",
-    "coordinates": [
-      27.6766,
-      85.3142
     ]
   },
   "116.203.97.160": {
@@ -429,16 +429,6 @@
       17.0323
     ]
   },
-  "147.28.69.55": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -679,6 +669,16 @@
       -71.2344
     ]
   },
+  "170.39.226.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Secaucus",
+    "coordinates": [
+      40.7895,
+      -74.0565
+    ]
+  },
   "170.80.110.38": {
     "region": "South America",
     "country": "Brazil",
@@ -757,6 +757,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "184.4.93.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Springfield",
+    "coordinates": [
+      37.168,
+      -93.3039
     ]
   },
   "185.157.244.204": {
@@ -879,17 +889,17 @@
       -47.0439
     ]
   },
-  "191.17.53.150": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
+  "192.227.152.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Buffalo",
     "coordinates": [
-      -22.8951,
-      -47.0439
+      42.8864,
+      -78.8784
     ]
   },
-  "192.227.152.195": {
+  "192.227.214.224": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1697,6 +1707,16 @@
     "coordinates": [
       41.8868,
       -87.6386
+    ]
+  },
+  "67.6.152.34": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Columbia",
+    "coordinates": [
+      38.9336,
+      -92.363
     ]
   },
   "68.179.190.76": {
