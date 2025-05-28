@@ -29,16 +29,6 @@
       -95.7129
     ]
   },
-  "103.163.182.45": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -257,16 +247,6 @@
     "coordinates": [
       38.9609,
       -77.3429
-    ]
-  },
-  "135.181.0.160": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1719,
-      24.9347
     ]
   },
   "135.181.96.161": {
@@ -1089,6 +1069,16 @@
       115.8765
     ]
   },
+  "203.9.210.245": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "205.134.215.74": {
     "region": "North America",
     "country": "United States",
@@ -1339,6 +1329,16 @@
       -77.0368
     ]
   },
+  "34.9.226.255": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1347,16 +1347,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.223.182.228": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.78.210.164": {
@@ -1629,16 +1619,6 @@
       -46.6333
     ]
   },
-  "60.241.110.46": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1837,16 +1817,6 @@
     "coordinates": [
       50.0766,
       14.4464
-    ]
-  },
-  "78.92.193.180": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
     ]
   },
   "78.92.199.245": {
