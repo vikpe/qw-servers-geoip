@@ -59,16 +59,6 @@
       -74.4606
     ]
   },
-  "107.171.174.20": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Montreal",
-    "coordinates": [
-      45.4724,
-      -73.6141
-    ]
-  },
   "107.23.236.19": {
     "region": "North America",
     "country": "United States",
@@ -1079,16 +1069,6 @@
       85.3251
     ]
   },
-  "205.134.215.74": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Eatonville",
-    "coordinates": [
-      46.87,
-      -122.2723
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1479,16 +1459,6 @@
       20.2559
     ]
   },
-  "5.173.31.61": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2299,
-      21.0093
-    ]
-  },
   "5.196.28.199": {
     "region": "Europe",
     "country": "France",
@@ -1709,6 +1679,16 @@
       -104.9945
     ]
   },
+  "73.202.0.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Petaluma",
+    "coordinates": [
+      38.2479,
+      -122.6192
+    ]
+  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -1917,16 +1897,6 @@
     "coordinates": [
       62.3924,
       17.3006
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
