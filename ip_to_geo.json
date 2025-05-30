@@ -129,6 +129,16 @@
       -0.127586
     ]
   },
+  "111.119.49.190": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Patan",
+    "coordinates": [
+      27.6766,
+      85.3142
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -1059,14 +1069,14 @@
       115.8765
     ]
   },
-  "203.9.210.245": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
+  "205.134.215.74": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eatonville",
     "coordinates": [
-      27.7108,
-      85.3251
+      46.87,
+      -122.2723
     ]
   },
   "206.51.245.84": {
@@ -1679,16 +1689,6 @@
       -104.9945
     ]
   },
-  "73.202.0.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Petaluma",
-    "coordinates": [
-      38.2479,
-      -122.6192
-    ]
-  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -1799,16 +1799,6 @@
       14.4464
     ]
   },
-  "78.92.199.245": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
   "79.139.57.116": {
     "region": "Europe",
     "country": "Hungary",
@@ -1897,6 +1887,16 @@
     "coordinates": [
       62.3924,
       17.3006
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
