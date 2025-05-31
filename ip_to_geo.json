@@ -19,6 +19,16 @@
       103.903
     ]
   },
+  "103.112.0.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Tulsa",
+    "coordinates": [
+      37.0902,
+      -95.7129
+    ]
+  },
   "103.151.65.19": {
     "region": "North America",
     "country": "United States",
@@ -167,6 +177,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "129.148.39.85": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
     ]
   },
   "13.247.30.86": {
@@ -1469,6 +1489,16 @@
       20.2559
     ]
   },
+  "5.182.87.88": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1169,
+      8.6837
+    ]
+  },
   "5.196.28.199": {
     "region": "Europe",
     "country": "France",
@@ -1999,14 +2029,14 @@
       21.0644
     ]
   },
-  "91.152.15.99": {
+  "90.227.110.175": {
     "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Hyvink\u00e4\u00e4",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Danderyd",
     "coordinates": [
-      60.6239,
-      24.8141
+      59.3952,
+      18.0168
     ]
   },
   "91.206.14.17": {
