@@ -139,7 +139,7 @@
       -0.127586
     ]
   },
-  "111.119.49.190": {
+  "111.119.49.69": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -367,16 +367,6 @@
     "coordinates": [
       -33.8672,
       151.1997
-    ]
-  },
-  "140.238.180.126": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
     ]
   },
   "141.105.67.104": {
@@ -1239,16 +1229,6 @@
       174.794
     ]
   },
-  "23.119.64.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Birmingham",
-    "coordinates": [
-      33.5699,
-      -86.724
-    ]
-  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1359,6 +1339,16 @@
       -80.013
     ]
   },
+  "35.228.119.54": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Lappeenranta",
+    "coordinates": [
+      61.0549,
+      28.1896
+    ]
+  },
   "35.78.210.164": {
     "region": "Asia",
     "country": "Japan",
@@ -1387,6 +1377,16 @@
     "coordinates": [
       30.2625,
       -97.7463
+    ]
+  },
+  "45.132.235.172": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "45.234.92.131": {
@@ -1487,16 +1487,6 @@
     "coordinates": [
       63.8247,
       20.2559
-    ]
-  },
-  "5.182.87.88": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1169,
-      8.6837
     ]
   },
   "5.196.28.199": {
@@ -1909,6 +1899,16 @@
       16.3569
     ]
   },
+  "82.163.190.0": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Buckingham",
+    "coordinates": [
+      52.0012,
+      -0.9784
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1917,16 +1917,6 @@
     "coordinates": [
       62.3924,
       17.3006
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
