@@ -139,14 +139,14 @@
       -0.127586
     ]
   },
-  "111.119.49.69": {
+  "111.119.49.101": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
-    "city": "Patan",
+    "city": "Chapali Bhadrakali",
     "coordinates": [
-      27.6766,
-      85.3142
+      27.7821,
+      85.3743
     ]
   },
   "116.203.97.160": {
@@ -387,6 +387,16 @@
     "coordinates": [
       33.4656,
       -111.9956
+    ]
+  },
+  "141.98.252.189": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Whitechapel",
+    "coordinates": [
+      51.5128,
+      -0.0638
     ]
   },
   "145.220.10.99": {
@@ -859,6 +869,16 @@
       4.9392
     ]
   },
+  "188.243.158.208": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Pargolovo",
+    "coordinates": [
+      60.032,
+      30.285
+    ]
+  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -1299,6 +1319,26 @@
       -80.013
     ]
   },
+  "34.174.52.90": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
+    ]
+  },
+  "34.29.244.212": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.32.57.9": {
     "region": "Europe",
     "country": "Germany",
@@ -1317,16 +1357,6 @@
     "coordinates": [
       38.9071,
       -77.0368
-    ]
-  },
-  "34.9.226.255": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.185.44.174": {
@@ -1899,16 +1929,6 @@
       16.3569
     ]
   },
-  "82.163.190.0": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Buckingham",
-    "coordinates": [
-      52.0012,
-      -0.9784
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1917,6 +1937,16 @@
     "coordinates": [
       62.3924,
       17.3006
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2087,6 +2117,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "95.159.168.231": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Yuzhno-Sakhalinsk",
+    "coordinates": [
+      46.957,
+      142.73
     ]
   },
   "95.165.130.151": {
