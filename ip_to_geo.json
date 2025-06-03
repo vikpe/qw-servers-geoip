@@ -389,16 +389,6 @@
       -111.9956
     ]
   },
-  "141.98.252.189": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Whitechapel",
-    "coordinates": [
-      51.5128,
-      -0.0638
-    ]
-  },
   "145.220.10.99": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -477,16 +467,6 @@
     "coordinates": [
       1.27994,
       103.849
-    ]
-  },
-  "151.177.73.252": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "152.67.110.136": {
@@ -657,6 +637,16 @@
     "coordinates": [
       6.4474,
       3.3903
+    ]
+  },
+  "169.224.171.42": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Lisbon",
+    "coordinates": [
+      38.7219,
+      -9.1398
     ]
   },
   "170.239.85.153": {
@@ -1129,6 +1119,16 @@
       -96.8021
     ]
   },
+  "207.255.21.186": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Kingwood",
+    "coordinates": [
+      39.4718,
+      -79.6834
+    ]
+  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1317,16 +1317,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.174.52.90": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
     ]
   },
   "34.29.244.212": {
@@ -1799,16 +1789,6 @@
       -123.3709
     ]
   },
-  "75.187.82.228": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cincinnati",
-    "coordinates": [
-      39.1811,
-      -84.345
-    ]
-  },
   "75.192.160.212": {
     "region": "North America",
     "country": "United States",
@@ -1927,6 +1907,16 @@
     "coordinates": [
       56.6591,
       16.3569
+    ]
+  },
+  "82.163.190.0": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Buckingham",
+    "coordinates": [
+      52.0012,
+      -0.9784
     ]
   },
   "82.196.112.57": {
@@ -2117,16 +2107,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "95.159.168.231": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Yuzhno-Sakhalinsk",
-    "coordinates": [
-      46.957,
-      142.73
     ]
   },
   "95.165.130.151": {
