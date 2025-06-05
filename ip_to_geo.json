@@ -1059,7 +1059,7 @@
       -104.816154
     ]
   },
-  "201.92.189.126": {
+  "200.232.229.64": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1939,16 +1939,6 @@
       17.3006
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2117,6 +2107,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "95.159.168.231": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Yuzhno-Sakhalinsk",
+    "coordinates": [
+      46.957,
+      142.73
     ]
   },
   "95.165.130.151": {
