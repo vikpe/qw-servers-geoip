@@ -39,6 +39,16 @@
       -95.7129
     ]
   },
+  "103.163.182.61": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -629,6 +639,16 @@
       3.3903
     ]
   },
+  "169.224.171.63": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Lisbon",
+    "coordinates": [
+      38.7219,
+      -9.1398
+    ]
+  },
   "170.239.85.153": {
     "region": "South America",
     "country": "Chile",
@@ -1077,16 +1097,6 @@
     "coordinates": [
       -31.8512,
       115.8765
-    ]
-  },
-  "203.9.210.73": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
     ]
   },
   "205.134.215.74": {
@@ -1939,14 +1949,24 @@
       17.3006
     ]
   },
-  "85.209.118.137": {
+  "83.233.218.134": {
     "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lomma",
     "coordinates": [
-      55.6494,
-      12.5298
+      55.6727,
+      13.0615
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.229.0.4": {
@@ -1997,16 +2017,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "88.129.191.196": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.605,
-      13.0038
     ]
   },
   "89.109.83.239": {
@@ -2109,14 +2119,14 @@
       12.9982
     ]
   },
-  "95.159.168.231": {
+  "94.45.205.16": {
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "Yuzhno-Sakhalinsk",
+    "city": "Dolgoprudny",
     "coordinates": [
-      46.957,
-      142.73
+      55.9536,
+      37.5019
     ]
   },
   "95.165.130.151": {
