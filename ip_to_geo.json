@@ -39,16 +39,6 @@
       -95.7129
     ]
   },
-  "103.163.182.61": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -1089,6 +1079,16 @@
       115.8765
     ]
   },
+  "203.9.210.120": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "205.134.215.74": {
     "region": "North America",
     "country": "United States",
@@ -1819,16 +1819,6 @@
       -75.1425
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "77.37.96.64": {
     "region": "Europe",
     "country": "Denmark",
@@ -1837,6 +1827,16 @@
     "coordinates": [
       55.4669,
       9.8842
+    ]
+  },
+  "78.45.199.104": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0766,
+      14.4464
     ]
   },
   "78.92.199.245": {
@@ -1947,6 +1947,16 @@
     "coordinates": [
       55.6727,
       13.0615
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2107,6 +2117,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "94.45.205.16": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Dolgoprudny",
+    "coordinates": [
+      55.9536,
+      37.5019
     ]
   },
   "95.165.130.151": {
