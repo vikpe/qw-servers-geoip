@@ -379,16 +379,6 @@
       -111.9956
     ]
   },
-  "141.98.252.189": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Whitechapel",
-    "coordinates": [
-      51.5128,
-      -0.0638
-    ]
-  },
   "145.220.10.99": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1089,16 +1079,6 @@
       -47.0439
     ]
   },
-  "200.61.165.122": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1109,7 +1089,7 @@
       115.8765
     ]
   },
-  "203.9.210.120": {
+  "203.9.210.168": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -1369,16 +1349,6 @@
       -80.013
     ]
   },
-  "34.174.219.43": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "34.29.23.29": {
     "region": "North America",
     "country": "United States",
@@ -1557,16 +1527,6 @@
     "coordinates": [
       68.7892,
       16.5446
-    ]
-  },
-  "47.186.151.82": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Irving",
-    "coordinates": [
-      32.799,
-      -96.956
     ]
   },
   "5.150.206.177": {
@@ -1869,16 +1829,6 @@
       -75.1425
     ]
   },
-  "77.37.96.64": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "N\u00f8rre \u00c5by",
-    "coordinates": [
-      55.4669,
-      9.8842
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1979,16 +1929,6 @@
       11.4833
     ]
   },
-  "82.163.190.0": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Buckingham",
-    "coordinates": [
-      52.0012,
-      -0.9784
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -2029,7 +1969,7 @@
       12.5298
     ]
   },
-  "85.229.0.4": {
+  "85.229.6.53": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -2157,6 +2097,16 @@
     "coordinates": [
       58.416,
       15.6288
+    ]
+  },
+  "93.95.230.175": {
+    "region": "Europe",
+    "country": "Iceland",
+    "cc": "IS",
+    "city": "Reykjavik",
+    "coordinates": [
+      64.1476,
+      -21.9392
     ]
   },
   "94.16.128.193": {
