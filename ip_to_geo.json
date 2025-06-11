@@ -839,6 +839,16 @@
       4.9392
     ]
   },
+  "188.233.27.17": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Volgograd",
+    "coordinates": [
+      48.8073,
+      44.5817
+    ]
+  },
   "188.243.158.208": {
     "region": "Europe",
     "country": "Russia",
@@ -979,6 +989,16 @@
       20.454
     ]
   },
+  "195.178.161.246": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3326,
+      18.0651
+    ]
+  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1077,6 +1097,16 @@
     "coordinates": [
       -22.8951,
       -47.0439
+    ]
+  },
+  "200.61.165.122": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
     ]
   },
   "203.29.240.182": {
@@ -1769,16 +1799,6 @@
       -84.6884
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1869,6 +1889,16 @@
       5.6178
     ]
   },
+  "79.97.198.96": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Galway",
+    "coordinates": [
+      53.2702,
+      -9.0503
+    ]
+  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1909,16 +1939,6 @@
       13.3224
     ]
   },
-  "81.224.203.90": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.605,
-      13.0038
-    ]
-  },
   "81.226.25.230": {
     "region": "Europe",
     "country": "Sweden",
@@ -1927,6 +1947,16 @@
     "coordinates": [
       58.3833,
       11.4833
+    ]
+  },
+  "82.163.190.0": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Buckingham",
+    "coordinates": [
+      52.0012,
+      -0.9784
     ]
   },
   "82.196.112.57": {
@@ -2057,6 +2087,16 @@
     "coordinates": [
       59.3327,
       18.0656
+    ]
+  },
+  "91.152.15.99": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Hyvink\u00e4\u00e4",
+    "coordinates": [
+      60.6239,
+      24.8141
     ]
   },
   "91.206.14.17": {
