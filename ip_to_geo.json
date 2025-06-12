@@ -139,6 +139,16 @@
       -0.127586
     ]
   },
+  "111.119.49.84": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -989,16 +999,6 @@
       20.454
     ]
   },
-  "195.178.161.246": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
-    ]
-  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1099,16 +1099,6 @@
       -47.0439
     ]
   },
-  "200.61.165.122": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1117,16 +1107,6 @@
     "coordinates": [
       -31.8512,
       115.8765
-    ]
-  },
-  "203.9.210.168": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
     ]
   },
   "205.134.215.74": {
@@ -1339,14 +1319,14 @@
       -77.4874
     ]
   },
-  "31.183.172.177": {
+  "31.183.177.191": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
     "city": "Lodz",
     "coordinates": [
-      51.754,
-      19.4673
+      51.7607,
+      19.4517
     ]
   },
   "31.184.218.192": {
@@ -1889,16 +1869,6 @@
       5.6178
     ]
   },
-  "79.97.198.96": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Galway",
-    "coordinates": [
-      53.2702,
-      -9.0503
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1947,16 +1917,6 @@
     "coordinates": [
       58.3833,
       11.4833
-    ]
-  },
-  "82.163.190.0": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Buckingham",
-    "coordinates": [
-      52.0012,
-      -0.9784
     ]
   },
   "82.196.112.57": {
