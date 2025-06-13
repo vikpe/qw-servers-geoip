@@ -739,16 +739,6 @@
       -46.6333
     ]
   },
-  "184.4.93.237": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Springfield",
-    "coordinates": [
-      37.2567,
-      -93.2944
-    ]
-  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -877,6 +867,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "191.255.7.13": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.8951,
+      -47.0439
     ]
   },
   "192.121.119.117": {
@@ -1089,16 +1089,6 @@
       -104.816154
     ]
   },
-  "200.232.229.64": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.8951,
-      -47.0439
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1137,16 +1127,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "207.255.21.186": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Kingwood",
-    "coordinates": [
-      39.4718,
-      -79.6834
     ]
   },
   "208.83.232.203": {
@@ -1357,6 +1337,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.174.250.109": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
     ]
   },
   "34.29.23.29": {
@@ -1909,6 +1899,26 @@
       13.3224
     ]
   },
+  "81.209.182.26": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Hamburg",
+    "coordinates": [
+      53.5488,
+      9.98717
+    ]
+  },
+  "81.224.203.90": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.605,
+      13.0038
+    ]
+  },
   "81.226.25.230": {
     "region": "Europe",
     "country": "Sweden",
@@ -2007,6 +2017,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "88.115.53.78": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4966,
+      23.7831
     ]
   },
   "89.109.83.239": {
