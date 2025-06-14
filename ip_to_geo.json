@@ -139,16 +139,6 @@
       -0.127586
     ]
   },
-  "111.119.49.84": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -739,6 +729,16 @@
       -46.6333
     ]
   },
+  "184.4.93.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Springfield",
+    "coordinates": [
+      37.2567,
+      -93.2944
+    ]
+  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -889,6 +889,16 @@
       12.2926
     ]
   },
+  "192.121.209.251": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Solna",
+    "coordinates": [
+      59.3661,
+      18.0113
+    ]
+  },
   "192.227.152.195": {
     "region": "North America",
     "country": "United States",
@@ -957,16 +967,6 @@
     "coordinates": [
       52.2296,
       21.0122
-    ]
-  },
-  "193.77.69.2": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
     ]
   },
   "194.158.215.192": {
@@ -1089,6 +1089,16 @@
       -104.816154
     ]
   },
+  "200.61.165.122": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6049,
+      -58.4455
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1097,6 +1107,16 @@
     "coordinates": [
       -31.8512,
       115.8765
+    ]
+  },
+  "203.9.210.152": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
     ]
   },
   "205.134.215.74": {
@@ -1337,16 +1357,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.174.250.109": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
     ]
   },
   "34.29.23.29": {
@@ -1829,16 +1839,6 @@
       14.4464
     ]
   },
-  "78.92.199.245": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
   "79.139.57.116": {
     "region": "Europe",
     "country": "Hungary",
@@ -1899,6 +1899,16 @@
       13.3224
     ]
   },
+  "81.183.195.168": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5,
+      19.0412
+    ]
+  },
   "81.209.182.26": {
     "region": "Europe",
     "country": "Germany",
@@ -1907,16 +1917,6 @@
     "coordinates": [
       53.5488,
       9.98717
-    ]
-  },
-  "81.224.203.90": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.605,
-      13.0038
     ]
   },
   "81.226.25.230": {
@@ -2017,16 +2017,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "88.115.53.78": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4966,
-      23.7831
     ]
   },
   "89.109.83.239": {
