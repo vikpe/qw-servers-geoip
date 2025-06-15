@@ -579,16 +579,6 @@
       8.07958
     ]
   },
-  "162.248.92.183": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8868,
-      -87.6386
-    ]
-  },
   "163.47.21.45": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -617,16 +607,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "167.88.51.247": {
-    "region": "Africa",
-    "country": "Nigeria",
-    "cc": "NG",
-    "city": "Lagos",
-    "coordinates": [
-      6.4474,
-      3.3903
     ]
   },
   "170.239.85.153": {
@@ -1087,16 +1067,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "200.61.165.122": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
     ]
   },
   "203.29.240.182": {
@@ -1779,6 +1749,16 @@
       -84.6884
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1949,16 +1929,6 @@
       13.0615
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2047,6 +2017,16 @@
     "coordinates": [
       52.1363,
       21.0644
+    ]
+  },
+  "90.224.85.5": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.605,
+      13.0038
     ]
   },
   "90.227.110.175": {
