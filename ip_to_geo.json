@@ -39,6 +39,16 @@
       -95.7129
     ]
   },
+  "103.163.182.152": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -197,16 +207,6 @@
     "coordinates": [
       37.3394,
       -121.895
-    ]
-  },
-  "13.60.231.115": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
     ]
   },
   "13.74.254.86": {
@@ -819,16 +819,6 @@
       4.9392
     ]
   },
-  "188.233.27.17": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Volgograd",
-    "coordinates": [
-      48.8073,
-      44.5817
-    ]
-  },
   "188.243.158.208": {
     "region": "Europe",
     "country": "Russia",
@@ -1079,16 +1069,6 @@
       115.8765
     ]
   },
-  "203.9.210.152": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "205.134.215.74": {
     "region": "North America",
     "country": "United States",
@@ -1117,6 +1097,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "208.72.153.183": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Honolulu",
+    "coordinates": [
+      21.3513,
+      -157.8725
     ]
   },
   "208.83.232.203": {
@@ -1389,6 +1379,16 @@
       139.692
     ]
   },
+  "36.106.226.127": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1424,
+      117.1727
+    ]
+  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1659,16 +1659,6 @@
       23.3132
     ]
   },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1909,6 +1899,16 @@
       11.4833
     ]
   },
+  "82.163.190.0": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Buckingham",
+    "coordinates": [
+      52.0012,
+      -0.9784
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1927,6 +1927,16 @@
     "coordinates": [
       55.6727,
       13.0615
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
