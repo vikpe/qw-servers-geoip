@@ -49,6 +49,16 @@
       85.3251
     ]
   },
+  "103.179.143.12": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5081,
+      -0.1278
+    ]
+  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -1339,16 +1349,6 @@
       13.4049
     ]
   },
-  "34.48.43.250": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1357,6 +1357,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.194.68.98": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.228.119.54": {
@@ -1377,16 +1387,6 @@
     "coordinates": [
       35.6895,
       139.692
-    ]
-  },
-  "36.106.226.127": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1424,
-      117.1727
     ]
   },
   "37.201.131.70": {
@@ -1507,16 +1507,6 @@
     "coordinates": [
       68.7892,
       16.5446
-    ]
-  },
-  "5.150.206.177": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Ume\u00e5",
-    "coordinates": [
-      63.8247,
-      20.2559
     ]
   },
   "5.196.28.199": {
@@ -1677,16 +1667,6 @@
     "coordinates": [
       41.8868,
       -87.6386
-    ]
-  },
-  "67.6.152.34": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Columbia",
-    "coordinates": [
-      38.9361,
-      -92.3056
     ]
   },
   "68.179.190.76": {
@@ -1899,16 +1879,6 @@
       11.4833
     ]
   },
-  "82.163.190.0": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Buckingham",
-    "coordinates": [
-      52.0012,
-      -0.9784
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1927,16 +1897,6 @@
     "coordinates": [
       55.6727,
       13.0615
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2049,16 +2009,6 @@
       18.0656
     ]
   },
-  "91.152.15.99": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Hyvink\u00e4\u00e4",
-    "coordinates": [
-      60.6239,
-      24.8141
-    ]
-  },
   "91.206.14.17": {
     "region": "Europe",
     "country": "Russia",
@@ -2067,16 +2017,6 @@
     "coordinates": [
       55.7487,
       37.6187
-    ]
-  },
-  "91.218.183.179": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5081,
-      -0.1278
     ]
   },
   "91.55.81.124": {
