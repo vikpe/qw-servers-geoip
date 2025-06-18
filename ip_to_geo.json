@@ -39,16 +39,6 @@
       -95.7129
     ]
   },
-  "103.163.182.152": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -87,6 +77,16 @@
     "coordinates": [
       40.5511,
       -74.4606
+    ]
+  },
+  "107.175.32.175": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Buffalo",
+    "coordinates": [
+      42.8864,
+      -78.8784
     ]
   },
   "107.23.236.19": {
@@ -159,6 +159,16 @@
       -0.127586
     ]
   },
+  "111.119.49.22": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -207,16 +217,6 @@
     "coordinates": [
       -26.2041,
       28.0473
-    ]
-  },
-  "13.57.199.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
     ]
   },
   "13.74.254.86": {
@@ -487,6 +487,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "155.4.206.139": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Ume\u00e5",
+    "coordinates": [
+      63.8247,
+      20.2559
     ]
   },
   "155.4.245.58": {
@@ -1329,7 +1339,7 @@
       -80.013
     ]
   },
-  "34.29.23.29": {
+  "34.29.244.212": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1879,6 +1889,16 @@
       11.4833
     ]
   },
+  "82.163.190.0": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Buckingham",
+    "coordinates": [
+      52.0012,
+      -0.9784
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -2007,6 +2027,16 @@
     "coordinates": [
       59.3327,
       18.0656
+    ]
+  },
+  "91.152.15.99": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Hyvink\u00e4\u00e4",
+    "coordinates": [
+      60.6239,
+      24.8141
     ]
   },
   "91.206.14.17": {
