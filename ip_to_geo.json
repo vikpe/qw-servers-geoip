@@ -1509,6 +1509,16 @@
       18.0717
     ]
   },
+  "46.62.137.189": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1699,
+      24.9384
+    ]
+  },
   "46.9.99.38": {
     "region": "Europe",
     "country": "Norway",
@@ -1657,6 +1667,16 @@
     "coordinates": [
       55.9399,
       23.3132
+    ]
+  },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
     ]
   },
   "64.227.18.147": {
