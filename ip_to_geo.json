@@ -159,7 +159,7 @@
       -0.127586
     ]
   },
-  "111.119.49.22": {
+  "111.119.49.157": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -1279,14 +1279,14 @@
       -96.8704
     ]
   },
-  "3.26.55.53": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
     "coordinates": [
-      -33.8591,
-      151.2002
+      48.1789,
+      -122.5181
     ]
   },
   "3.82.110.65": {
@@ -1387,16 +1387,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.78.210.164": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.6895,
-      139.692
     ]
   },
   "37.201.131.70": {
@@ -1909,16 +1899,6 @@
       11.4833
     ]
   },
-  "82.163.190.0": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Buckingham",
-    "coordinates": [
-      52.0012,
-      -0.9784
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -2029,16 +2009,6 @@
       21.0644
     ]
   },
-  "90.224.85.5": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.605,
-      13.0038
-    ]
-  },
   "90.227.110.175": {
     "region": "Europe",
     "country": "Sweden",
@@ -2057,16 +2027,6 @@
     "coordinates": [
       60.6239,
       24.8141
-    ]
-  },
-  "91.206.14.17": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
     ]
   },
   "91.55.81.124": {
