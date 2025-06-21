@@ -859,7 +859,7 @@
       12.3649
     ]
   },
-  "191.255.7.13": {
+  "191.255.7.230": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1279,14 +1279,14 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
+  "24.99.29.37": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Camano",
+    "city": "Loganville",
     "coordinates": [
-      48.1789,
-      -122.5181
+      33.839,
+      -83.9007
     ]
   },
   "3.82.110.65": {
@@ -1659,16 +1659,6 @@
       23.3132
     ]
   },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1729,16 +1719,6 @@
       -104.9945
     ]
   },
-  "73.207.108.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Powder Springs",
-    "coordinates": [
-      33.8607,
-      -84.6884
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1747,16 +1727,6 @@
     "coordinates": [
       26.3771,
       -81.7334
-    ]
-  },
-  "73.23.203.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cape Coral",
-    "coordinates": [
-      26.6909,
-      -81.9483
     ]
   },
   "73.47.176.11": {
@@ -1867,6 +1837,16 @@
     "coordinates": [
       52.5234,
       13.3224
+    ]
+  },
+  "81.183.195.16": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5,
+      19.0412
     ]
   },
   "81.183.195.168": {
