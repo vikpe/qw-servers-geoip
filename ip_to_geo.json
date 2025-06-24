@@ -159,16 +159,6 @@
       -0.127586
     ]
   },
-  "111.119.49.65": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -217,6 +207,16 @@
     "coordinates": [
       -26.2041,
       28.0473
+    ]
+  },
+  "13.57.199.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
     ]
   },
   "13.74.254.86": {
@@ -537,6 +537,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "158.174.87.178": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "158.23.48.92": {
@@ -1097,6 +1107,16 @@
     "coordinates": [
       -31.8512,
       115.8765
+    ]
+  },
+  "203.9.210.136": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
     ]
   },
   "205.134.215.74": {
@@ -1969,6 +1989,16 @@
       13.405
     ]
   },
+  "89.109.83.239": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Funchal",
+    "coordinates": [
+      32.6333,
+      -16.9
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1987,16 +2017,6 @@
     "coordinates": [
       52.1363,
       21.0644
-    ]
-  },
-  "90.224.85.5": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.605,
-      13.0038
     ]
   },
   "90.227.110.175": {
