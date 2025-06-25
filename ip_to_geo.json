@@ -749,16 +749,6 @@
       -46.6333
     ]
   },
-  "184.4.93.237": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Springfield",
-    "coordinates": [
-      37.2117,
-      -93.299
-    ]
-  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -947,16 +937,6 @@
     "coordinates": [
       45.3147,
       -73.8785
-    ]
-  },
-  "193.181.23.11": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
     ]
   },
   "193.227.134.114": {
@@ -1317,16 +1297,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "31.183.177.191": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Lodz",
-    "coordinates": [
-      51.7649,
-      19.4518
     ]
   },
   "31.184.218.192": {
@@ -1837,16 +1807,6 @@
     "coordinates": [
       68.6929,
       15.4193
-    ]
-  },
-  "80.211.201.216": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0883,
-      14.4124
     ]
   },
   "80.241.209.47": {
