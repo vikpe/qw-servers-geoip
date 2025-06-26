@@ -159,6 +159,16 @@
       -0.127586
     ]
   },
+  "111.119.49.119": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -1089,16 +1099,6 @@
       115.8765
     ]
   },
-  "203.9.210.136": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "205.134.215.74": {
     "region": "North America",
     "country": "United States",
@@ -1809,6 +1809,16 @@
       15.4193
     ]
   },
+  "80.211.201.216": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0883,
+      14.4124
+    ]
+  },
   "80.241.209.47": {
     "region": "Europe",
     "country": "Germany",
@@ -1857,16 +1867,6 @@
     "coordinates": [
       53.5488,
       9.98717
-    ]
-  },
-  "81.226.25.230": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Kalmar",
-    "coordinates": [
-      56.6591,
-      16.3569
     ]
   },
   "82.196.112.57": {
