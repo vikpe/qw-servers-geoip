@@ -659,6 +659,16 @@
       12.3649
     ]
   },
+  "169.224.171.41": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Lisbon",
+    "coordinates": [
+      38.7219,
+      -9.1398
+    ]
+  },
   "170.239.85.153": {
     "region": "South America",
     "country": "Chile",
@@ -949,6 +959,16 @@
       -73.8785
     ]
   },
+  "193.181.23.11": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "193.227.134.114": {
     "region": "Europe",
     "country": "Russia",
@@ -1017,6 +1037,16 @@
     "coordinates": [
       51.1876,
       71.4491
+    ]
+  },
+  "2.248.60.46": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.605,
+      13.0038
     ]
   },
   "20.106.48.249": {
@@ -1237,16 +1267,6 @@
     "coordinates": [
       52.5196,
       13.4069
-    ]
-  },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.858,
-      151.1687
     ]
   },
   "223.165.64.141": {
@@ -1949,6 +1969,26 @@
       13.405
     ]
   },
+  "88.115.53.241": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4966,
+      23.7831
+    ]
+  },
+  "88.80.28.3": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3289,
+      18.0649
+    ]
+  },
   "89.109.83.239": {
     "region": "Europe",
     "country": "Portugal",
@@ -1977,16 +2017,6 @@
     "coordinates": [
       52.1363,
       21.0644
-    ]
-  },
-  "90.227.110.175": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
     ]
   },
   "91.152.15.99": {
