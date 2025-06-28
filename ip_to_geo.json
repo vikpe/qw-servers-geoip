@@ -39,6 +39,16 @@
       -95.7129
     ]
   },
+  "103.163.182.222": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -159,16 +169,6 @@
       -0.127586
     ]
   },
-  "111.119.49.119": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -187,6 +187,16 @@
     "coordinates": [
       -36.7178,
       174.7365
+    ]
+  },
+  "124.198.128.15": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Belo Horizonte",
+    "coordinates": [
+      -19.9029,
+      -43.9572
     ]
   },
   "128.199.52.100": {
@@ -469,6 +479,16 @@
       -46.6333
     ]
   },
+  "15.235.104.148": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Montreal",
+    "coordinates": [
+      45.5029,
+      -73.5723
+    ]
+  },
   "15.235.206.103": {
     "region": "Asia",
     "country": "Singapore",
@@ -517,16 +537,6 @@
     "coordinates": [
       63.8247,
       20.2559
-    ]
-  },
-  "155.4.245.58": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
     ]
   },
   "158.101.16.37": {
@@ -657,16 +667,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "169.224.171.41": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Lisbon",
-    "coordinates": [
-      38.7219,
-      -9.1398
     ]
   },
   "170.239.85.153": {
@@ -1269,6 +1269,16 @@
       13.4069
     ]
   },
+  "220.233.95.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.858,
+      151.1687
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1409,6 +1419,16 @@
       8.6779
     ]
   },
+  "38.225.91.20": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Lo Barnechea",
+    "coordinates": [
+      -33.3637,
+      -70.506
+    ]
+  },
   "38.57.161.19": {
     "region": "North America",
     "country": "United States",
@@ -1437,16 +1457,6 @@
     "coordinates": [
       -3.7145,
       -38.5419
-    ]
-  },
-  "45.235.98.10": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6049,
-      -58.4455
     ]
   },
   "45.32.196.50": {
@@ -1789,16 +1799,6 @@
       -123.3655
     ]
   },
-  "75.192.160.212": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      39.9943,
-      -75.1181
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1807,6 +1807,16 @@
     "coordinates": [
       50.0766,
       14.4464
+    ]
+  },
+  "78.92.205.75": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
     ]
   },
   "79.139.57.116": {
@@ -1827,6 +1837,16 @@
     "coordinates": [
       68.6929,
       15.4193
+    ]
+  },
+  "79.97.198.96": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Thurles",
+    "coordinates": [
+      52.6849,
+      -7.7995
     ]
   },
   "80.211.201.216": {
@@ -1887,6 +1907,16 @@
     "coordinates": [
       53.5488,
       9.98717
+    ]
+  },
+  "81.226.25.230": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Kalmar",
+    "coordinates": [
+      56.6591,
+      16.3569
     ]
   },
   "82.196.112.57": {
