@@ -189,16 +189,6 @@
       174.7365
     ]
   },
-  "124.198.128.15": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Belo Horizonte",
-    "coordinates": [
-      -19.9029,
-      -43.9572
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -769,6 +759,16 @@
       -46.6333
     ]
   },
+  "184.4.93.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Springfield",
+    "coordinates": [
+      37.2117,
+      -93.299
+    ]
+  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -889,7 +889,7 @@
       12.3649
     ]
   },
-  "191.255.7.230": {
+  "191.255.7.84": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1889,16 +1889,6 @@
       13.3224
     ]
   },
-  "81.183.195.16": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5,
-      19.0412
-    ]
-  },
   "81.209.182.26": {
     "region": "Europe",
     "country": "Germany",
@@ -2037,6 +2027,16 @@
     "coordinates": [
       64.0161,
       11.4985
+    ]
+  },
+  "89.153.184.142": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Porto",
+    "coordinates": [
+      41.1459,
+      -8.6169
     ]
   },
   "89.68.252.42": {
