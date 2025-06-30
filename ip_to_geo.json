@@ -39,16 +39,6 @@
       -95.7129
     ]
   },
-  "103.163.182.222": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -167,6 +157,16 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "111.119.49.234": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
     ]
   },
   "116.203.97.160": {
@@ -427,16 +427,6 @@
     "coordinates": [
       51.0958,
       17.0323
-    ]
-  },
-  "148.135.104.18": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0515,
-      -118.2707
     ]
   },
   "149.28.62.121": {
@@ -817,6 +807,16 @@
     "coordinates": [
       52.1972,
       -0.8873
+    ]
+  },
+  "187.84.245.64": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Lagoa da Prata",
+    "coordinates": [
+      -20.0006,
+      -45.4964
     ]
   },
   "188.166.0.137": {
@@ -2027,16 +2027,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.153.184.142": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Porto",
-    "coordinates": [
-      41.1459,
-      -8.6169
     ]
   },
   "89.68.252.42": {
