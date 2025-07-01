@@ -429,6 +429,16 @@
       17.0323
     ]
   },
+  "148.135.104.18": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0515,
+      -118.2707
+    ]
+  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -769,6 +779,16 @@
       2.2093
     ]
   },
+  "185.184.195.147": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Naaldwijk",
+    "coordinates": [
+      51.9968,
+      4.2057
+    ]
+  },
   "185.189.139.18": {
     "region": "Europe",
     "country": "Poland",
@@ -799,6 +819,16 @@
       -62.9
     ]
   },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2324,
+      21.0757
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -807,16 +837,6 @@
     "coordinates": [
       52.1972,
       -0.8873
-    ]
-  },
-  "187.84.245.64": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Lagoa da Prata",
-    "coordinates": [
-      -20.0006,
-      -45.4964
     ]
   },
   "188.166.0.137": {
@@ -1797,6 +1817,16 @@
     "coordinates": [
       48.4152,
       -123.3655
+    ]
+  },
+  "75.192.160.212": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      39.9943,
+      -75.1181
     ]
   },
   "78.45.199.104": {
