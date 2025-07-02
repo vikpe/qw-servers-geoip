@@ -39,6 +39,16 @@
       -95.7129
     ]
   },
+  "103.163.182.142": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -157,16 +167,6 @@
     "coordinates": [
       51.5072,
       -0.127586
-    ]
-  },
-  "111.119.49.234": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
     ]
   },
   "116.203.97.160": {
@@ -357,16 +357,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "139.84.135.106": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Bengaluru",
-    "coordinates": [
-      12.9753,
-      77.591
     ]
   },
   "139.99.134.30": {
@@ -777,16 +767,6 @@
     "coordinates": [
       48.8909,
       2.2093
-    ]
-  },
-  "185.184.195.147": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Naaldwijk",
-    "coordinates": [
-      51.9968,
-      4.2057
     ]
   },
   "185.189.139.18": {
@@ -1849,16 +1829,6 @@
       18.9191
     ]
   },
-  "79.139.57.116": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5,
-      19.0412
-    ]
-  },
   "79.161.4.202": {
     "region": "Europe",
     "country": "Norway",
@@ -1867,16 +1837,6 @@
     "coordinates": [
       68.6929,
       15.4193
-    ]
-  },
-  "79.97.198.96": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Thurles",
-    "coordinates": [
-      52.6849,
-      -7.7995
     ]
   },
   "80.211.201.216": {
