@@ -689,6 +689,16 @@
       -87.6305
     ]
   },
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8363,
+      -90.6999
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1889,6 +1899,16 @@
       9.98717
     ]
   },
+  "81.211.8.202": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
+    ]
+  },
   "81.226.25.230": {
     "region": "Europe",
     "country": "Sweden",
@@ -1989,16 +2009,6 @@
       23.7831
     ]
   },
-  "88.80.28.3": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3289,
-      18.0649
-    ]
-  },
   "89.109.83.239": {
     "region": "Europe",
     "country": "Portugal",
@@ -2027,6 +2037,16 @@
     "coordinates": [
       52.1363,
       21.0644
+    ]
+  },
+  "90.227.110.175": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3326,
+      18.0651
     ]
   },
   "91.152.15.99": {
