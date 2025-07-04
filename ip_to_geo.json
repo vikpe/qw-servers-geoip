@@ -39,7 +39,7 @@
       -95.7129
     ]
   },
-  "103.163.182.142": {
+  "103.163.182.171": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -689,16 +689,6 @@
       -87.6305
     ]
   },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8363,
-      -90.6999
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1049,16 +1039,6 @@
       71.4491
     ]
   },
-  "2.248.60.46": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.605,
-      13.0038
-    ]
-  },
   "20.106.48.249": {
     "region": "North America",
     "country": "United States",
@@ -1289,6 +1269,16 @@
       151.1687
     ]
   },
+  "220.235.161.214": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.7842,
+      144.878
+    ]
+  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1329,6 +1319,16 @@
       -96.8704
     ]
   },
+  "24.21.206.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Salem",
+    "coordinates": [
+      44.9036,
+      -123.0461
+    ]
+  },
   "3.82.110.65": {
     "region": "North America",
     "country": "United States",
@@ -1337,6 +1337,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "3.96.203.186": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Toronto",
+    "coordinates": [
+      43.6532,
+      -79.3832
     ]
   },
   "31.184.218.192": {
@@ -1837,16 +1847,6 @@
     "coordinates": [
       47.4277,
       18.9191
-    ]
-  },
-  "79.161.4.202": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Sortland",
-    "coordinates": [
-      68.6929,
-      15.4193
     ]
   },
   "80.211.201.216": {
