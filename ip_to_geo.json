@@ -99,16 +99,6 @@
       -78.8784
     ]
   },
-  "107.23.236.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
   "108.181.43.71": {
     "region": "North America",
     "country": "United States",
@@ -449,6 +439,16 @@
       -122.676
     ]
   },
+  "15.222.236.17": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Toronto",
+    "coordinates": [
+      43.6532,
+      -79.3832
+    ]
+  },
   "15.229.19.183": {
     "region": "South America",
     "country": "Brazil",
@@ -687,6 +687,16 @@
     "coordinates": [
       41.8835,
       -87.6305
+    ]
+  },
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8363,
+      -90.6999
     ]
   },
   "176.210.100.6": {
@@ -1269,16 +1279,6 @@
       151.1687
     ]
   },
-  "220.235.161.214": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7842,
-      144.878
-    ]
-  },
   "223.165.64.141": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -1319,14 +1319,14 @@
       -96.8704
     ]
   },
-  "24.21.206.225": {
+  "3.212.223.70": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Salem",
+    "city": "Ashburn",
     "coordinates": [
-      44.9036,
-      -123.0461
+      39.0438,
+      -77.4874
     ]
   },
   "3.82.110.65": {
@@ -1337,16 +1337,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "3.96.203.186": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Toronto",
-    "coordinates": [
-      43.6532,
-      -79.3832
     ]
   },
   "31.184.218.192": {
@@ -1799,16 +1789,6 @@
       -72.8141
     ]
   },
-  "74.91.120.206": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7908,
-      -96.8336
-    ]
-  },
   "75.154.239.81": {
     "region": "North America",
     "country": "Canada",
@@ -1899,16 +1879,6 @@
       9.98717
     ]
   },
-  "81.211.8.202": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
-    ]
-  },
   "81.226.25.230": {
     "region": "Europe",
     "country": "Sweden",
@@ -1917,6 +1887,16 @@
     "coordinates": [
       56.6591,
       16.3569
+    ]
+  },
+  "81.232.55.208": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Kareby",
+    "coordinates": [
+      57.9136,
+      11.9048
     ]
   },
   "82.196.112.57": {
@@ -2089,16 +2069,6 @@
       -21.9392
     ]
   },
-  "94.16.128.193": {
-    "region": "Europe",
-    "country": "Switzerland",
-    "cc": "CH",
-    "city": "Therwil",
-    "coordinates": [
-      47.5053,
-      7.5477
-    ]
-  },
   "94.45.205.16": {
     "region": "Europe",
     "country": "Russia",
@@ -2157,6 +2127,16 @@
     "coordinates": [
       37.7399,
       -120.9347
+    ]
+  },
+  "98.101.65.167": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "High Point",
+    "coordinates": [
+      36.0284,
+      -79.9721
     ]
   },
   "98.128.174.153": {
