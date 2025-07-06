@@ -39,16 +39,6 @@
       -95.7129
     ]
   },
-  "103.163.182.171": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -689,16 +679,6 @@
       -87.6305
     ]
   },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8363,
-      -90.6999
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1127,6 +1107,16 @@
     "coordinates": [
       -31.8512,
       115.8765
+    ]
+  },
+  "203.9.210.14": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
     ]
   },
   "205.134.215.74": {
@@ -1689,6 +1679,16 @@
       -80.7294
     ]
   },
+  "64.181.167.17": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1707,16 +1707,6 @@
     "coordinates": [
       41.8868,
       -87.6386
-    ]
-  },
-  "68.179.190.76": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Westland",
-    "coordinates": [
-      42.2859,
-      -83.3714
     ]
   },
   "69.23.214.248": {
@@ -1829,6 +1819,16 @@
       18.9191
     ]
   },
+  "79.97.198.96": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Thurles",
+    "coordinates": [
+      52.6849,
+      -7.7995
+    ]
+  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1877,6 +1877,16 @@
     "coordinates": [
       53.5488,
       9.98717
+    ]
+  },
+  "81.211.8.202": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
     ]
   },
   "81.226.25.230": {
@@ -2067,6 +2077,16 @@
     "coordinates": [
       64.1476,
       -21.9392
+    ]
+  },
+  "94.16.128.193": {
+    "region": "Europe",
+    "country": "Switzerland",
+    "cc": "CH",
+    "city": "Therwil",
+    "coordinates": [
+      47.5053,
+      7.5477
     ]
   },
   "94.45.205.16": {
