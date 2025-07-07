@@ -879,7 +879,7 @@
       12.3649
     ]
   },
-  "191.255.7.84": {
+  "191.13.206.234": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1369,6 +1369,16 @@
       13.4049
     ]
   },
+  "34.48.142.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1387,16 +1397,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "35.194.68.98": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.228.119.54": {
@@ -1509,7 +1509,27 @@
       -96.8021
     ]
   },
+  "46.110.84.213": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bettendorf",
+    "coordinates": [
+      41.5245,
+      -90.5157
+    ]
+  },
   "46.227.68.148": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
+  "46.227.68.43": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -1859,6 +1879,16 @@
       -6.383
     ]
   },
+  "81.167.240.10": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Stavanger",
+    "coordinates": [
+      58.9731,
+      5.7427
+    ]
+  },
   "81.169.207.127": {
     "region": "Europe",
     "country": "Germany",
@@ -1927,6 +1957,16 @@
     "coordinates": [
       55.6727,
       13.0615
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
