@@ -39,6 +39,16 @@
       -95.7129
     ]
   },
+  "103.163.182.251": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -589,16 +599,6 @@
       139.6899
     ]
   },
-  "161.97.142.198": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "D\u00fcsseldorf",
-    "coordinates": [
-      51.1864,
-      6.8624
-    ]
-  },
   "162.19.231.86": {
     "region": "Europe",
     "country": "Germany",
@@ -1099,6 +1099,16 @@
       -104.816154
     ]
   },
+  "202.47.179.132": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1107,16 +1117,6 @@
     "coordinates": [
       -31.8512,
       115.8765
-    ]
-  },
-  "203.9.210.14": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
     ]
   },
   "205.134.215.74": {
@@ -1187,16 +1187,6 @@
     "coordinates": [
       55.7558,
       37.6173
-    ]
-  },
-  "213.100.216.255": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
     ]
   },
   "213.164.209.174": {
@@ -1529,16 +1519,6 @@
       18.0717
     ]
   },
-  "46.227.68.43": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "46.9.99.38": {
     "region": "Europe",
     "country": "Norway",
@@ -1657,6 +1637,16 @@
     "coordinates": [
       37.3394,
       -121.895
+    ]
+  },
+  "54.233.17.64": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5505,
+      -46.6333
     ]
   },
   "54.92.145.18": {
@@ -1929,16 +1919,6 @@
       16.3569
     ]
   },
-  "81.232.55.208": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Kareby",
-    "coordinates": [
-      57.9136,
-      11.9048
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1957,16 +1937,6 @@
     "coordinates": [
       55.6727,
       13.0615
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
