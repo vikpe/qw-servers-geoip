@@ -49,16 +49,6 @@
       -95.7129
     ]
   },
-  "103.163.182.251": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -167,6 +157,26 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "111.119.49.39": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
+  "114.198.101.90": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "116.203.97.160": {
@@ -407,16 +417,6 @@
     "coordinates": [
       51.0958,
       17.0323
-    ]
-  },
-  "147.28.69.55": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
     ]
   },
   "148.135.104.18": {
@@ -899,16 +899,6 @@
       -47.0439
     ]
   },
-  "192.121.119.117": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6514,
-      12.2926
-    ]
-  },
   "192.121.209.251": {
     "region": "Europe",
     "country": "Sweden",
@@ -1357,6 +1347,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.174.11.68": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
     ]
   },
   "34.32.57.9": {
@@ -1977,16 +1977,6 @@
     "coordinates": [
       55.6494,
       12.5298
-    ]
-  },
-  "85.227.207.169": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sandviken",
-    "coordinates": [
-      60.6204,
-      16.7697
     ]
   },
   "85.229.6.53": {
