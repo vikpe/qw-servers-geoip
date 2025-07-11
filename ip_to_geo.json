@@ -169,16 +169,6 @@
       85.3251
     ]
   },
-  "114.198.101.90": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -607,6 +597,16 @@
     "coordinates": [
       35.6893,
       139.6899
+    ]
+  },
+  "161.97.142.198": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "D\u00fcsseldorf",
+    "coordinates": [
+      51.1864,
+      6.8624
     ]
   },
   "162.19.231.86": {
@@ -1349,16 +1349,6 @@
       -80.013
     ]
   },
-  "34.174.11.68": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "34.32.57.9": {
     "region": "Europe",
     "country": "Germany",
@@ -1749,6 +1739,16 @@
       17.9155
     ]
   },
+  "70.34.242.113": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2299,
+      21.0093
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1767,6 +1767,16 @@
     "coordinates": [
       34.0344,
       -84.6002
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -1817,16 +1827,6 @@
     "coordinates": [
       39.9943,
       -75.1181
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "78.45.199.104": {
