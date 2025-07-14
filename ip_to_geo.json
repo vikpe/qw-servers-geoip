@@ -9,14 +9,14 @@
       -77.35
     ]
   },
-  "101.127.10.28": {
+  "101.127.22.2": {
     "region": "Asia",
     "country": "Singapore",
     "cc": "SG",
     "city": "Singapore",
     "coordinates": [
-      1.39167,
-      103.894
+      1.31973,
+      103.903
     ]
   },
   "101.179.14.191": {
@@ -157,6 +157,16 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "111.119.49.15": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
     ]
   },
   "116.203.97.160": {
@@ -1119,16 +1129,6 @@
       115.8765
     ]
   },
-  "203.9.210.21": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "205.134.215.74": {
     "region": "North America",
     "country": "United States",
@@ -1419,16 +1419,6 @@
       8.6779
     ]
   },
-  "38.225.91.20": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Lo Barnechea",
-    "coordinates": [
-      -33.3637,
-      -70.506
-    ]
-  },
   "38.57.161.19": {
     "region": "North America",
     "country": "United States",
@@ -1457,6 +1447,16 @@
     "coordinates": [
       -3.7145,
       -38.5419
+    ]
+  },
+  "45.236.90.182": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Macul",
+    "coordinates": [
+      -33.4761,
+      -70.6133
     ]
   },
   "45.32.196.50": {
@@ -1987,6 +1987,16 @@
     "coordinates": [
       55.6494,
       12.5298
+    ]
+  },
+  "85.227.207.169": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sandviken",
+    "coordinates": [
+      60.6204,
+      16.7697
     ]
   },
   "85.229.6.53": {
