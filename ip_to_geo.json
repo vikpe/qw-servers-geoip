@@ -159,7 +159,7 @@
       -0.127586
     ]
   },
-  "111.119.49.15": {
+  "111.119.49.8": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -759,6 +759,16 @@
       -46.6333
     ]
   },
+  "180.150.38.75": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8335,
+      145.0012
+    ]
+  },
   "184.4.93.237": {
     "region": "North America",
     "country": "United States",
@@ -1327,16 +1337,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "3.212.223.70": {
@@ -1959,26 +1959,6 @@
       16.3569
     ]
   },
-  "81.232.55.208": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Kareby",
-    "coordinates": [
-      57.9136,
-      11.9048
-    ]
-  },
-  "82.163.189.121": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Buckingham",
-    "coordinates": [
-      52.0012,
-      -0.9784
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1999,14 +1979,14 @@
       13.0615
     ]
   },
-  "84.39.252.192": {
+  "83.86.169.233": {
     "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Breda",
     "coordinates": [
-      54.741,
-      55.9891
+      51.5673,
+      4.7821
     ]
   },
   "85.209.118.137": {
@@ -2017,16 +1997,6 @@
     "coordinates": [
       55.6494,
       12.5298
-    ]
-  },
-  "85.227.207.169": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sandviken",
-    "coordinates": [
-      60.6204,
-      16.7697
     ]
   },
   "85.229.6.53": {
