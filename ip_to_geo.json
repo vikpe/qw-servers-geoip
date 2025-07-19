@@ -15,25 +15,35 @@
     "cc": "SG",
     "city": "Singapore",
     "coordinates": [
-      1.31973,
-      103.903
+      1.43333,
+      103.831
     ]
   },
-  "101.179.14.191": {
+  "101.185.38.214": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.8129,
-      145.068
+      -37.7204,
+      144.9103
+    ]
+  },
+  "102.39.68.47": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Durban",
+    "coordinates": [
+      -29.8427,
+      31.0141
     ]
   },
   "103.112.0.130": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Bartlesville",
+    "city": "Tulsa",
     "coordinates": [
       37.0902,
       -95.7129
@@ -43,7 +53,7 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Bartlesville",
+    "city": "Tulsa",
     "coordinates": [
       37.0902,
       -95.7129
@@ -83,10 +93,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Toledo",
+    "city": "Detroit",
     "coordinates": [
-      41.6528,
-      -83.5379
+      42.3314,
+      -83.0458
     ]
   },
   "104.207.135.230": {
@@ -167,6 +177,16 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "114.198.101.90": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8024,
+      144.9659
     ]
   },
   "116.203.97.160": {
@@ -553,10 +573,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Malmo",
+    "city": "Stockholm",
     "coordinates": [
-      55.6078,
-      12.9982
+      59.3326,
+      18.0651
     ]
   },
   "158.23.48.92": {
@@ -573,10 +593,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Oslo",
+    "city": "Fetsund",
     "coordinates": [
-      59.9133,
-      10.7389
+      59.9315,
+      11.1728
     ]
   },
   "159.69.87.212": {
@@ -635,8 +655,8 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8504,
-      174.7675
+      -36.8509,
+      174.764
     ]
   },
   "165.232.81.173": {
@@ -697,16 +717,6 @@
     "coordinates": [
       41.8835,
       -87.6305
-    ]
-  },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8363,
-      -90.6999
     ]
   },
   "176.210.100.6": {
@@ -835,8 +845,8 @@
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.2324,
-      21.0757
+      52.26,
+      21.0792
     ]
   },
   "185.73.44.100": {
@@ -1139,6 +1149,16 @@
       144.9669
     ]
   },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9028,
+      115.855
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1153,10 +1173,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Eatonville",
+    "city": "Graham",
     "coordinates": [
-      46.87,
-      -122.2723
+      47.0529,
+      -122.2943
     ]
   },
   "206.51.245.84": {
@@ -1243,10 +1263,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "J\u00e4rf\u00e4lla Municipality",
+    "city": "H\u00e4sselby",
     "coordinates": [
-      59.3497,
-      17.9738
+      59.15,
+      16.85
     ]
   },
   "216.160.28.148": {
@@ -1329,14 +1349,14 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
+  "24.86.203.52": {
     "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Vancouver",
     "coordinates": [
-      48.1789,
-      -122.5181
+      49.2825,
+      -123.1291
     ]
   },
   "3.212.223.70": {
@@ -1387,16 +1407,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.174.164.170": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
     ]
   },
   "34.32.57.9": {
@@ -1455,8 +1465,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1259,
-      8.6779
+      50.16,
+      8.6333
     ]
   },
   "38.57.161.19": {
@@ -1565,8 +1575,8 @@
     "cc": "NO",
     "city": "Harstad",
     "coordinates": [
-      68.7892,
-      16.5446
+      68.8075,
+      16.5511
     ]
   },
   "5.196.28.199": {
@@ -1765,18 +1775,18 @@
     "cc": "US",
     "city": "Springfield",
     "coordinates": [
-      39.9534,
-      -83.7801
+      39.9126,
+      -83.7821
     ]
   },
   "70.34.206.203": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Sp\u00e5nga",
+    "city": "Stockholm",
     "coordinates": [
-      59.3779,
-      17.9155
+      59.3287,
+      18.0717
     ]
   },
   "70.34.242.113": {
@@ -1803,10 +1813,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Kennesaw",
+    "city": "Atlanta",
     "coordinates": [
-      34.0344,
-      -84.6002
+      33.8895,
+      -84.2921
     ]
   },
   "73.23.130.187": {
@@ -1835,8 +1845,8 @@
     "cc": "US",
     "city": "Branford",
     "coordinates": [
-      41.2799,
-      -72.8141
+      41.2827,
+      -72.8105
     ]
   },
   "74.91.119.37": {
@@ -1855,18 +1865,18 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.4152,
-      -123.3655
+      48.4248,
+      -123.3709
     ]
   },
   "75.192.143.168": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Mount Laurel",
     "coordinates": [
-      40.0172,
-      -75.0883
+      39.9458,
+      -74.9042
     ]
   },
   "75.82.121.13": {
@@ -1903,10 +1913,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Sortland",
+    "city": "Stavanger",
     "coordinates": [
-      68.6929,
-      15.4193
+      58.9731,
+      5.7427
     ]
   },
   "79.97.198.96": {
@@ -2067,16 +2077,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "88.202.201.103": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Buckingham",
-    "coordinates": [
-      52.0012,
-      -0.9784
     ]
   },
   "89.109.83.239": {
