@@ -229,16 +229,6 @@
       28.0473
     ]
   },
-  "13.57.199.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
-    ]
-  },
   "13.74.254.86": {
     "region": "Europe",
     "country": "Ireland",
@@ -1019,16 +1009,6 @@
       37.8294
     ]
   },
-  "194.158.215.192": {
-    "region": "Europe",
-    "country": "Belarus",
-    "cc": "BY",
-    "city": "Minsk",
-    "coordinates": [
-      53.9006,
-      27.559
-    ]
-  },
   "194.180.16.113": {
     "region": "Europe",
     "country": "Hungary",
@@ -1259,6 +1239,16 @@
       -93.2871
     ]
   },
+  "216.249.103.87": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Charlotte",
+    "coordinates": [
+      35.0715,
+      -80.7521
+    ]
+  },
   "217.197.83.154": {
     "region": "Europe",
     "country": "Germany",
@@ -1319,6 +1309,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "24.86.203.52": {
     "region": "North America",
     "country": "Canada",
@@ -1377,6 +1377,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.174.214.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
     ]
   },
   "34.32.57.9": {
@@ -1879,16 +1889,6 @@
       18.9191
     ]
   },
-  "78.92.205.75": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
   "79.161.4.202": {
     "region": "Europe",
     "country": "Norway",
@@ -1997,16 +1997,6 @@
     "coordinates": [
       52.4635,
       13.3792
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
