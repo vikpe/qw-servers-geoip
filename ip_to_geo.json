@@ -179,6 +179,16 @@
       -0.127586
     ]
   },
+  "114.198.101.90": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8024,
+      144.9659
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -719,6 +729,16 @@
       73.3729
     ]
   },
+  "177.102.166.208": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.8951,
+      -47.0439
+    ]
+  },
   "178.164.124.230": {
     "region": "Europe",
     "country": "Norway",
@@ -927,16 +947,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "191.9.104.130": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.8951,
-      -47.0439
     ]
   },
   "192.121.119.117": {
@@ -1879,7 +1889,7 @@
       14.4464
     ]
   },
-  "78.92.196.194": {
+  "78.92.195.119": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2177,6 +2187,16 @@
     "coordinates": [
       37.7399,
       -120.9347
+    ]
+  },
+  "98.128.174.153": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
     ]
   },
   "98.128.186.18": {
