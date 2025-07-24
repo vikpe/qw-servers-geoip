@@ -59,16 +59,6 @@
       -95.7129
     ]
   },
-  "103.163.182.108": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -177,16 +167,6 @@
     "coordinates": [
       51.5072,
       -0.127586
-    ]
-  },
-  "114.198.101.90": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8024,
-      144.9659
     ]
   },
   "116.203.97.160": {
@@ -929,16 +909,6 @@
       4.9392
     ]
   },
-  "188.243.158.208": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "St Petersburg",
-    "coordinates": [
-      59.9417,
-      30.3096
-    ]
-  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -1169,6 +1139,16 @@
       115.8765
     ]
   },
+  "203.9.210.118": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1337,6 +1317,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "24.86.203.52": {
