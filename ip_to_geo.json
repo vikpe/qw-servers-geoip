@@ -59,6 +59,16 @@
       -95.7129
     ]
   },
+  "103.163.182.138": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -177,6 +187,16 @@
     "coordinates": [
       -36.7178,
       174.7365
+    ]
+  },
+  "121.99.187.238": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Hamilton",
+    "coordinates": [
+      -37.7888,
+      175.2876
     ]
   },
   "128.199.52.100": {
@@ -377,6 +397,16 @@
     "coordinates": [
       33.4656,
       -111.9956
+    ]
+  },
+  "144.6.14.154": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.0464,
+      150.7336
     ]
   },
   "145.220.10.99": {
@@ -899,6 +929,16 @@
       4.9392
     ]
   },
+  "188.243.158.208": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "St Petersburg",
+    "coordinates": [
+      59.8983,
+      30.2618
+    ]
+  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -1119,16 +1159,6 @@
       115.8765
     ]
   },
-  "203.9.210.118": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1297,16 +1327,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "24.86.203.52": {
@@ -1699,6 +1719,16 @@
       23.3132
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.181.167.17": {
     "region": "South America",
     "country": "Brazil",
@@ -1939,6 +1969,16 @@
       9.98717
     ]
   },
+  "81.232.55.208": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Kareby",
+    "coordinates": [
+      57.9136,
+      11.9048
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -2057,6 +2097,16 @@
     "coordinates": [
       52.1363,
       21.0644
+    ]
+  },
+  "91.152.15.27": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Hyvink\u00e4\u00e4",
+    "coordinates": [
+      60.6378,
+      24.8645
     ]
   },
   "91.152.15.99": {
