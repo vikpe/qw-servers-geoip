@@ -189,16 +189,6 @@
       174.7365
     ]
   },
-  "121.99.187.238": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Hamilton",
-    "coordinates": [
-      -37.7888,
-      175.2876
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -2099,26 +2089,6 @@
       21.0644
     ]
   },
-  "91.152.15.27": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Hyvink\u00e4\u00e4",
-    "coordinates": [
-      60.6378,
-      24.8645
-    ]
-  },
-  "91.152.15.99": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Hyvink\u00e4\u00e4",
-    "coordinates": [
-      60.6378,
-      24.8645
-    ]
-  },
   "91.55.81.124": {
     "region": "Europe",
     "country": "Germany",
@@ -2157,6 +2127,16 @@
     "coordinates": [
       47.5053,
       7.5477
+    ]
+  },
+  "94.45.205.16": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Dolgoprudny",
+    "coordinates": [
+      55.9389,
+      37.5085
     ]
   },
   "95.165.130.151": {
