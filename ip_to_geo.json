@@ -29,16 +29,6 @@
       144.8833
     ]
   },
-  "102.39.68.47": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Durban",
-    "coordinates": [
-      -29.8427,
-      31.0141
-    ]
-  },
   "103.112.0.130": {
     "region": "North America",
     "country": "United States",
@@ -57,16 +47,6 @@
     "coordinates": [
       37.0902,
       -95.7129
-    ]
-  },
-  "103.163.182.138": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
     ]
   },
   "103.179.143.12": {
@@ -97,6 +77,16 @@
     "coordinates": [
       42.3314,
       -83.0458
+    ]
+  },
+  "104.154.37.61": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "104.207.135.230": {
@@ -217,16 +207,6 @@
     "coordinates": [
       -26.2041,
       28.0473
-    ]
-  },
-  "13.57.199.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
     ]
   },
   "13.74.254.86": {
@@ -389,16 +369,6 @@
       -111.9956
     ]
   },
-  "144.6.14.154": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.0464,
-      150.7336
-    ]
-  },
   "145.220.10.99": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -557,16 +527,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "158.174.87.178": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "158.23.48.92": {
@@ -1129,16 +1089,6 @@
       144.9669
     ]
   },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -32.0313,
-      115.9703
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1147,6 +1097,16 @@
     "coordinates": [
       -31.8512,
       115.8765
+    ]
+  },
+  "203.9.210.108": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
     ]
   },
   "206.51.245.84": {
@@ -1407,16 +1367,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.192.146.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.228.119.54": {
@@ -1699,16 +1649,6 @@
       -46.6333
     ]
   },
-  "62.80.247.69": {
-    "region": "Europe",
-    "country": "Lithuania",
-    "cc": "LT",
-    "city": "\u0160iauliai",
-    "coordinates": [
-      55.9399,
-      23.3132
-    ]
-  },
   "64.118.226.47": {
     "region": "North America",
     "country": "Canada",
@@ -1757,6 +1697,16 @@
     "coordinates": [
       39.9534,
       -83.7801
+    ]
+  },
+  "70.34.200.204": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
     ]
   },
   "70.34.206.203": {
@@ -1959,6 +1909,16 @@
       9.98717
     ]
   },
+  "81.226.25.230": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "M\u00e4rsta",
+    "coordinates": [
+      59.6131,
+      17.8495
+    ]
+  },
   "81.232.55.208": {
     "region": "Europe",
     "country": "Sweden",
@@ -2087,6 +2047,16 @@
     "coordinates": [
       52.1363,
       21.0644
+    ]
+  },
+  "91.152.15.27": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Hyvink\u00e4\u00e4",
+    "coordinates": [
+      60.6378,
+      24.8645
     ]
   },
   "91.55.81.124": {
