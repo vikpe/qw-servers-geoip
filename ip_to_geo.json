@@ -209,6 +209,16 @@
       28.0473
     ]
   },
+  "13.57.199.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
+    ]
+  },
   "13.74.254.86": {
     "region": "Europe",
     "country": "Ireland",
@@ -877,16 +887,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "188.243.158.208": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "St Petersburg",
-    "coordinates": [
-      59.8983,
-      30.2618
     ]
   },
   "188.40.103.81": {
@@ -1649,6 +1649,16 @@
       -46.6333
     ]
   },
+  "62.80.247.69": {
+    "region": "Europe",
+    "country": "Lithuania",
+    "cc": "LT",
+    "city": "\u0160iauliai",
+    "coordinates": [
+      55.9399,
+      23.3132
+    ]
+  },
   "64.118.226.47": {
     "region": "North America",
     "country": "Canada",
@@ -1809,6 +1819,16 @@
       -74.9042
     ]
   },
+  "75.26.197.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lakewood",
+    "coordinates": [
+      41.4866,
+      -81.8037
+    ]
+  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1909,16 +1929,6 @@
       9.98717
     ]
   },
-  "81.226.25.230": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "M\u00e4rsta",
-    "coordinates": [
-      59.6131,
-      17.8495
-    ]
-  },
   "81.232.55.208": {
     "region": "Europe",
     "country": "Sweden",
@@ -1927,6 +1937,16 @@
     "coordinates": [
       57.9136,
       11.9048
+    ]
+  },
+  "81.235.4.191": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
     ]
   },
   "82.196.112.57": {
@@ -2177,6 +2197,16 @@
     "coordinates": [
       59.3326,
       18.0651
+    ]
+  },
+  "99.243.22.149": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "London",
+    "coordinates": [
+      42.9515,
+      -81.3386
     ]
   },
   "99.72.255.45": {
