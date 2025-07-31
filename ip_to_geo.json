@@ -19,14 +19,14 @@
       103.831
     ]
   },
-  "101.185.38.214": {
+  "101.191.97.34": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.6721,
-      144.8833
+      -37.8469,
+      145.2136
     ]
   },
   "103.112.0.130": {
@@ -1349,6 +1349,16 @@
       13.4049
     ]
   },
+  "34.32.95.193": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.52,
+      13.4049
+    ]
+  },
   "34.86.185.154": {
     "region": "North America",
     "country": "United States",
@@ -1837,16 +1847,6 @@
     "coordinates": [
       33.675,
       -118.0027
-    ]
-  },
-  "78.45.199.104": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0766,
-      14.4464
     ]
   },
   "78.92.196.218": {
