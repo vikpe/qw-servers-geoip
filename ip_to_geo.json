@@ -159,6 +159,16 @@
       -0.127586
     ]
   },
+  "111.119.49.219": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -829,14 +839,14 @@
       -0.8873
     ]
   },
-  "187.223.166.96": {
+  "187.223.114.5": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
     "city": "La Paz",
     "coordinates": [
-      24.1383,
-      -110.2849
+      24.0957,
+      -110.3232
     ]
   },
   "188.166.0.137": {
@@ -1097,16 +1107,6 @@
     "coordinates": [
       -31.8512,
       115.8765
-    ]
-  },
-  "203.9.210.204": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
     ]
   },
   "206.51.245.84": {
@@ -1849,7 +1849,27 @@
       -118.0027
     ]
   },
+  "78.45.199.104": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0766,
+      14.4464
+    ]
+  },
   "78.92.196.218": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
+  "78.92.202.112": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1937,16 +1957,6 @@
     "coordinates": [
       57.9136,
       11.9048
-    ]
-  },
-  "81.235.4.191": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "82.196.112.57": {
@@ -2067,6 +2077,16 @@
     "coordinates": [
       52.1363,
       21.0644
+    ]
+  },
+  "90.55.194.187": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Toulouse",
+    "coordinates": [
+      43.6046,
+      1.4451
     ]
   },
   "91.152.15.27": {
