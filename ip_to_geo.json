@@ -1339,16 +1339,6 @@
       -80.013
     ]
   },
-  "34.32.57.9": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.52,
-      13.4049
-    ]
-  },
   "34.32.95.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1377,16 +1367,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.228.119.54": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Lappeenranta",
-    "coordinates": [
-      61.0549,
-      28.1896
     ]
   },
   "37.201.131.70": {
@@ -1859,16 +1839,6 @@
       14.4464
     ]
   },
-  "78.92.196.218": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
   "78.92.202.112": {
     "region": "Europe",
     "country": "Hungary",
@@ -1989,16 +1959,6 @@
       13.3792
     ]
   },
-  "85.209.118.137": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6494,
-      12.5298
-    ]
-  },
   "85.229.6.53": {
     "region": "Europe",
     "country": "Sweden",
@@ -2077,16 +2037,6 @@
     "coordinates": [
       52.1363,
       21.0644
-    ]
-  },
-  "90.55.194.187": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Toulouse",
-    "coordinates": [
-      43.6046,
-      1.4451
     ]
   },
   "91.152.15.27": {
