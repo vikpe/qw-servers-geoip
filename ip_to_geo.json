@@ -79,16 +79,6 @@
       -83.0458
     ]
   },
-  "104.154.37.61": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -157,16 +147,6 @@
     "coordinates": [
       51.5072,
       -0.127586
-    ]
-  },
-  "111.119.49.219": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
     ]
   },
   "116.203.97.160": {
@@ -427,6 +407,16 @@
     "coordinates": [
       34.0515,
       -118.2707
+    ]
+  },
+  "148.222.1.38": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.811,
+      115.8468
     ]
   },
   "149.28.62.121": {
@@ -1099,6 +1089,16 @@
       144.9669
     ]
   },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -32.0313,
+      115.9703
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1107,6 +1107,16 @@
     "coordinates": [
       -31.8512,
       115.8765
+    ]
+  },
+  "203.9.210.33": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
     ]
   },
   "206.51.245.84": {
@@ -1337,6 +1347,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.29.23.29": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "34.32.95.193": {
@@ -1859,16 +1879,6 @@
       5.6312
     ]
   },
-  "79.97.198.96": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Thurles",
-    "coordinates": [
-      52.6849,
-      -7.7995
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1957,6 +1967,16 @@
     "coordinates": [
       52.4635,
       13.3792
+    ]
+  },
+  "85.209.118.137": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.6494,
+      12.5298
     ]
   },
   "85.229.6.53": {
