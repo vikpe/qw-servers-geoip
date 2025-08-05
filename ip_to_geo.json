@@ -49,6 +49,16 @@
       -95.7129
     ]
   },
+  "103.163.182.172": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -147,16 +157,6 @@
     "coordinates": [
       51.5072,
       -0.127586
-    ]
-  },
-  "114.198.101.90": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -38.1131,
-      145.2775
     ]
   },
   "116.203.97.160": {
@@ -427,16 +427,6 @@
     "coordinates": [
       -31.811,
       115.8468
-    ]
-  },
-  "149.28.244.22": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7889,
-      -96.8021
     ]
   },
   "149.28.62.121": {
@@ -1119,16 +1109,6 @@
       115.8765
     ]
   },
-  "203.9.210.33": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1669,16 +1649,6 @@
       -46.6333
     ]
   },
-  "62.80.247.69": {
-    "region": "Europe",
-    "country": "Lithuania",
-    "cc": "LT",
-    "city": "\u0160iauliai",
-    "coordinates": [
-      55.9399,
-      23.3132
-    ]
-  },
   "64.118.226.47": {
     "region": "North America",
     "country": "Canada",
@@ -1817,6 +1787,16 @@
     "coordinates": [
       41.8868,
       -87.6386
+    ]
+  },
+  "74.91.120.229": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7908,
+      -96.8336
     ]
   },
   "75.154.239.81": {
