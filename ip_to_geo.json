@@ -509,16 +509,6 @@
       -96.8021
     ]
   },
-  "155.4.133.6": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
-    ]
-  },
   "155.4.206.139": {
     "region": "Europe",
     "country": "Sweden",
@@ -909,6 +899,16 @@
       4.9392
     ]
   },
+  "188.243.158.208": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "St Petersburg",
+    "coordinates": [
+      59.8983,
+      30.2618
+    ]
+  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -1297,6 +1297,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "24.86.203.52": {
