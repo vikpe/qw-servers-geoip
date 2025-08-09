@@ -49,7 +49,7 @@
       -95.7129
     ]
   },
-  "103.163.182.118": {
+  "103.163.182.107": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -759,16 +759,6 @@
       -46.6333
     ]
   },
-  "184.4.93.237": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Springfield",
-    "coordinates": [
-      37.2117,
-      -93.299
-    ]
-  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -839,7 +829,7 @@
       -0.8873
     ]
   },
-  "187.223.114.5": {
+  "187.223.122.58": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
@@ -1299,16 +1289,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "24.86.203.52": {
     "region": "North America",
     "country": "Canada",
@@ -1499,6 +1479,16 @@
       -96.8021
     ]
   },
+  "46.113.8.18": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Ciechan\u00f3w",
+    "coordinates": [
+      52.8814,
+      20.62
+    ]
+  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1507,16 +1497,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "46.9.99.38": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Harstad",
-    "coordinates": [
-      68.8075,
-      16.5511
     ]
   },
   "5.196.28.199": {
@@ -1659,6 +1639,16 @@
       -46.6333
     ]
   },
+  "62.72.7.133": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4532,
+      -112.0748
+    ]
+  },
   "62.80.247.69": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1769,16 +1759,6 @@
       -83.9007
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1879,7 +1859,7 @@
       14.4464
     ]
   },
-  "78.92.202.112": {
+  "78.92.199.113": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1979,6 +1959,16 @@
       13.3792
     ]
   },
+  "84.234.226.138": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Harstad",
+    "coordinates": [
+      68.7859,
+      16.5211
+    ]
+  },
   "85.209.118.137": {
     "region": "Europe",
     "country": "Denmark",
@@ -2027,16 +2017,6 @@
     "coordinates": [
       51.7419,
       19.4976
-    ]
-  },
-  "86.167.166.238": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5072,
-      -0.127586
     ]
   },
   "87.128.111.190": {
