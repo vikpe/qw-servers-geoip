@@ -829,16 +829,6 @@
       -0.8873
     ]
   },
-  "187.223.122.58": {
-    "region": "North America",
-    "country": "Mexico",
-    "cc": "MX",
-    "city": "La Paz",
-    "coordinates": [
-      24.0957,
-      -110.3232
-    ]
-  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -857,16 +847,6 @@
     "coordinates": [
       50.1169,
       8.6837
-    ]
-  },
-  "188.166.188.207": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.32123,
-      103.695
     ]
   },
   "188.208.143.247": {
@@ -1289,6 +1269,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "24.86.203.52": {
     "region": "North America",
     "country": "Canada",
@@ -1339,6 +1329,16 @@
       -80.013
     ]
   },
+  "34.150.238.112": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.29.23.29": {
     "region": "North America",
     "country": "United States",
@@ -1357,16 +1357,6 @@
     "coordinates": [
       52.52,
       13.4049
-    ]
-  },
-  "34.86.185.154": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.185.44.174": {
