@@ -49,16 +49,6 @@
       -95.7129
     ]
   },
-  "103.163.182.107": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -87,6 +77,16 @@
     "coordinates": [
       42.3314,
       -83.0458
+    ]
+  },
+  "104.154.37.61": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "104.207.135.230": {
@@ -159,6 +159,16 @@
       -0.127586
     ]
   },
+  "111.119.49.63": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -167,6 +177,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "118.209.220.24": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "118.67.199.81": {
@@ -829,6 +849,16 @@
       -0.8873
     ]
   },
+  "187.223.122.58": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "La Paz",
+    "coordinates": [
+      24.0957,
+      -110.3232
+    ]
+  },
   "188.166.0.137": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1069,16 +1099,6 @@
       -104.816154
     ]
   },
-  "202.47.179.132": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "202.87.162.206": {
     "region": "Oceania",
     "country": "Australia",
@@ -1269,16 +1289,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "24.86.203.52": {
     "region": "North America",
     "country": "Canada",
@@ -1339,14 +1349,14 @@
       -77.0368
     ]
   },
-  "34.29.23.29": {
+  "34.174.86.69": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Council Bluffs",
+    "city": "Dallas",
     "coordinates": [
-      41.2619,
-      -95.8608
+      32.7766,
+      -96.7969
     ]
   },
   "34.32.95.193": {
@@ -1629,6 +1639,16 @@
       -46.6333
     ]
   },
+  "60.241.134.102": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8136,
+      144.963
+    ]
+  },
   "62.72.7.133": {
     "region": "North America",
     "country": "United States",
@@ -1657,16 +1677,6 @@
     "coordinates": [
       42.8568,
       -80.7294
-    ]
-  },
-  "64.181.167.17": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
     ]
   },
   "64.227.18.147": {
@@ -1739,6 +1749,16 @@
       -104.9945
     ]
   },
+  "72.239.228.235": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Merritt Island",
+    "coordinates": [
+      28.3888,
+      -80.7301
+    ]
+  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -1747,6 +1767,16 @@
     "coordinates": [
       33.839,
       -83.9007
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
