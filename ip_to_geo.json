@@ -29,6 +29,16 @@
       144.9393
     ]
   },
+  "103.106.89.51": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9192,
+      115.816
+    ]
+  },
   "103.112.0.130": {
     "region": "North America",
     "country": "United States",
@@ -177,16 +187,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "118.209.220.24": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
     ]
   },
   "118.67.199.81": {
@@ -439,16 +439,6 @@
       -118.2707
     ]
   },
-  "148.222.1.101": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -32.0666,
-      115.7872
-    ]
-  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -527,6 +517,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "155.4.133.6": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "155.4.206.139": {
@@ -1349,7 +1349,7 @@
       -77.0368
     ]
   },
-  "34.174.86.69": {
+  "34.174.223.28": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1667,16 +1667,6 @@
     "coordinates": [
       55.9399,
       23.3132
-    ]
-  },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
     ]
   },
   "64.227.18.147": {
