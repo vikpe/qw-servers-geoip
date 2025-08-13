@@ -29,16 +29,6 @@
       144.9393
     ]
   },
-  "103.106.89.51": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9192,
-      115.816
-    ]
-  },
   "103.112.0.130": {
     "region": "North America",
     "country": "United States",
@@ -57,6 +47,16 @@
     "coordinates": [
       37.0902,
       -95.7129
+    ]
+  },
+  "103.163.182.134": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
     ]
   },
   "103.179.143.12": {
@@ -169,14 +169,14 @@
       -0.127586
     ]
   },
-  "111.119.49.63": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
+  "115.129.108.7": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
     "coordinates": [
-      27.7108,
-      85.3251
+      -37.7673,
+      145.0043
     ]
   },
   "116.203.97.160": {
@@ -437,6 +437,16 @@
     "coordinates": [
       34.0515,
       -118.2707
+    ]
+  },
+  "148.222.0.4": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.8897,
+      115.8734
     ]
   },
   "149.28.62.121": {
@@ -1349,16 +1359,6 @@
       -77.0368
     ]
   },
-  "34.174.223.28": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "34.32.95.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1479,14 +1479,14 @@
       -96.8021
     ]
   },
-  "46.113.8.18": {
+  "46.113.8.151": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Ciechan\u00f3w",
+    "city": "Be\u0142chat\u00f3w",
     "coordinates": [
-      52.8814,
-      20.62
+      51.3688,
+      19.3567
     ]
   },
   "46.227.68.148": {
@@ -1637,16 +1637,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "60.241.134.102": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8136,
-      144.963
     ]
   },
   "62.72.7.133": {
