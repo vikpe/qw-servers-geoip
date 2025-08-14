@@ -849,6 +849,16 @@
       21.0093
     ]
   },
+  "185.252.234.92": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "D\u00fcsseldorf",
+    "coordinates": [
+      51.1864,
+      6.8624
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1107,16 +1117,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9815,
-      115.9214
     ]
   },
   "203.29.240.182": {
@@ -1479,16 +1479,6 @@
       -96.8021
     ]
   },
-  "46.113.8.151": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Be\u0142chat\u00f3w",
-    "coordinates": [
-      51.3688,
-      19.3567
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1747,16 +1737,6 @@
     "coordinates": [
       33.839,
       -83.9007
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -2107,6 +2087,16 @@
     "coordinates": [
       47.5053,
       7.5477
+    ]
+  },
+  "94.254.232.50": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Ciechan\u00f3w",
+    "coordinates": [
+      52.8814,
+      20.62
     ]
   },
   "94.45.205.16": {
