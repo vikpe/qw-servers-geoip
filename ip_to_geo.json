@@ -49,7 +49,7 @@
       -95.7129
     ]
   },
-  "103.163.182.134": {
+  "103.163.182.51": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -169,16 +169,6 @@
       -0.127586
     ]
   },
-  "115.129.108.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7673,
-      145.0043
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -197,6 +187,16 @@
     "coordinates": [
       -36.7178,
       174.7365
+    ]
+  },
+  "123.243.172.101": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8136,
+      144.963
     ]
   },
   "128.199.52.100": {
@@ -719,6 +719,16 @@
       -87.6305
     ]
   },
+  "172.56.12.94": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.9427,
+      -93.2871
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -839,26 +849,6 @@
       -46.6361
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2299,
-      21.0093
-    ]
-  },
-  "185.252.234.92": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "D\u00fcsseldorf",
-    "coordinates": [
-      51.1864,
-      6.8624
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -867,6 +857,16 @@
     "coordinates": [
       52.1972,
       -0.8873
+    ]
+  },
+  "186.29.53.142": {
+    "region": "South America",
+    "country": "Colombia",
+    "cc": "CO",
+    "city": "Bogot\u00e1",
+    "coordinates": [
+      4.6115,
+      -74.0833
     ]
   },
   "187.223.122.58": {
@@ -1117,6 +1117,16 @@
     "coordinates": [
       41.13925,
       -104.816154
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9815,
+      115.9214
     ]
   },
   "203.29.240.182": {
@@ -1739,6 +1749,16 @@
       -83.9007
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -2037,16 +2057,6 @@
     "coordinates": [
       52.1363,
       21.0644
-    ]
-  },
-  "91.152.15.27": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "North Helsinki",
-    "coordinates": [
-      60.6239,
-      24.8141
     ]
   },
   "91.55.81.124": {
