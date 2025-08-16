@@ -719,16 +719,6 @@
       -87.6305
     ]
   },
-  "172.56.12.94": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.9427,
-      -93.2871
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -857,16 +847,6 @@
     "coordinates": [
       52.1972,
       -0.8873
-    ]
-  },
-  "186.29.53.142": {
-    "region": "South America",
-    "country": "Colombia",
-    "cc": "CO",
-    "city": "Bogot\u00e1",
-    "coordinates": [
-      4.6115,
-      -74.0833
     ]
   },
   "187.223.122.58": {
@@ -1860,6 +1840,16 @@
     ]
   },
   "78.92.199.113": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
+  "78.92.204.152": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
