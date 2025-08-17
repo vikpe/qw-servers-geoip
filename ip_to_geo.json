@@ -49,16 +49,6 @@
       -95.7129
     ]
   },
-  "103.163.182.51": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -87,16 +77,6 @@
     "coordinates": [
       42.3314,
       -83.0458
-    ]
-  },
-  "104.154.37.61": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "104.207.135.230": {
@@ -167,6 +147,16 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "111.119.49.28": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
     ]
   },
   "116.203.97.160": {
@@ -539,16 +529,6 @@
       12.9982
     ]
   },
-  "155.4.206.139": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Ume\u00e5",
-    "coordinates": [
-      63.8247,
-      20.2559
-    ]
-  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -769,6 +749,16 @@
       -0.1278
     ]
   },
+  "179.32.79.8": {
+    "region": "South America",
+    "country": "Colombia",
+    "cc": "CO",
+    "city": "Ch\u00eda",
+    "coordinates": [
+      4.8588,
+      -74.0553
+    ]
+  },
   "18.100.128.150": {
     "region": "Europe",
     "country": "Spain",
@@ -787,6 +777,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "184.54.162.131": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fairfield",
+    "coordinates": [
+      39.3202,
+      -84.552
     ]
   },
   "185.157.244.204": {
@@ -1119,16 +1119,6 @@
       115.8765
     ]
   },
-  "206.51.245.84": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8835,
-      -87.6305
-    ]
-  },
   "207.148.5.167": {
     "region": "North America",
     "country": "United States",
@@ -1357,6 +1347,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.56.203.46": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "35.185.44.174": {
@@ -1729,16 +1729,6 @@
       -83.9007
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1837,16 +1827,6 @@
     "coordinates": [
       50.0766,
       14.4464
-    ]
-  },
-  "78.92.199.113": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
     ]
   },
   "78.92.204.152": {
