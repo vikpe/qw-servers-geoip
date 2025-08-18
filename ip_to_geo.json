@@ -429,14 +429,14 @@
       -118.2707
     ]
   },
-  "148.222.0.4": {
+  "148.222.1.80": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.8897,
-      115.8734
+      -32.0666,
+      115.7872
     ]
   },
   "149.28.62.121": {
@@ -527,6 +527,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "155.4.206.139": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Ume\u00e5",
+    "coordinates": [
+      63.8247,
+      20.2559
     ]
   },
   "158.101.16.37": {
@@ -1727,6 +1737,16 @@
     "coordinates": [
       33.839,
       -83.9007
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
