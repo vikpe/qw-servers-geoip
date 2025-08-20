@@ -25,8 +25,8 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.7647,
-      144.9393
+      -37.7886,
+      145.1513
     ]
   },
   "103.112.0.130": {
@@ -97,6 +97,16 @@
     "coordinates": [
       40.5511,
       -74.4606
+    ]
+  },
+  "106.47.92.76": {
+    "region": "Asia",
+    "country": "China",
+    "cc": "CN",
+    "city": "Tianjin",
+    "coordinates": [
+      39.1424,
+      117.1727
     ]
   },
   "108.181.43.71": {
@@ -187,16 +197,6 @@
     "coordinates": [
       -37.8136,
       144.963
-    ]
-  },
-  "124.170.205.171": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
     ]
   },
   "128.199.52.100": {
@@ -445,8 +445,8 @@
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -32.0666,
-      115.7872
+      -31.887,
+      115.9097
     ]
   },
   "149.28.62.121": {
@@ -855,8 +855,18 @@
     "cc": "CO",
     "city": "Bogot\u00e1",
     "coordinates": [
-      4.7088,
-      -74.0638
+      4.6913,
+      -74.032
+    ]
+  },
+  "187.190.28.50": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "Iztapalapa",
+    "coordinates": [
+      19.4036,
+      -99.0971
     ]
   },
   "187.223.122.58": {
@@ -999,6 +1009,16 @@
       37.8294
     ]
   },
+  "194.145.194.3": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3676,
+      4.90414
+    ]
+  },
   "194.180.16.113": {
     "region": "Europe",
     "country": "Hungary",
@@ -1115,8 +1135,8 @@
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.9815,
-      115.9214
+      -31.9518,
+      115.9111
     ]
   },
   "203.29.240.182": {
@@ -1223,10 +1243,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Minneapolis",
+    "city": "Stillwater",
     "coordinates": [
-      44.8769,
-      -93.2535
+      45.0648,
+      -92.8466
     ]
   },
   "216.249.103.87": {
@@ -1513,10 +1533,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Mountlake Terrace",
+    "city": "Lynnwood",
     "coordinates": [
-      47.7941,
-      -122.3066
+      47.8022,
+      -122.286
     ]
   },
   "51.68.212.3": {
@@ -1659,6 +1679,16 @@
       23.3132
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1685,8 +1715,8 @@
     "cc": "US",
     "city": "Springfield",
     "coordinates": [
-      39.9534,
-      -83.7801
+      39.9126,
+      -83.7821
     ]
   },
   "70.34.200.204": {
@@ -1773,10 +1803,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Danbury",
+    "city": "Branford",
     "coordinates": [
-      41.3908,
-      -73.4483
+      41.2827,
+      -72.8105
     ]
   },
   "74.91.119.37": {
@@ -1805,18 +1835,18 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.4248,
-      -123.3709
+      48.4518,
+      -123.4206
     ]
   },
   "75.192.143.168": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Camden",
+    "city": "Philadelphia",
     "coordinates": [
-      39.9203,
-      -75.1108
+      40.0172,
+      -75.0883
     ]
   },
   "75.26.197.11": {
@@ -1837,16 +1867,6 @@
     "coordinates": [
       33.675,
       -118.0027
-    ]
-  },
-  "76.118.40.159": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Brookline",
-    "coordinates": [
-      42.3268,
-      -71.1341
     ]
   },
   "78.45.199.104": {
@@ -1923,10 +1943,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Kareby",
+    "city": "Kung\u00e4lv",
     "coordinates": [
-      57.9136,
-      11.9048
+      57.8704,
+      11.9745
     ]
   },
   "82.196.112.57": {
@@ -1943,10 +1963,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Esl\u00f6v",
+    "city": "Lomma",
     "coordinates": [
-      55.8393,
-      13.3039
+      55.6727,
+      13.0615
     ]
   },
   "84.151.188.59": {
@@ -1955,8 +1975,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.4635,
-      13.3792
+      52.4433,
+      13.3937
     ]
   },
   "84.234.226.138": {
@@ -1965,8 +1985,8 @@
     "cc": "NO",
     "city": "Harstad",
     "coordinates": [
-      68.7859,
-      16.5211
+      68.7708,
+      16.5681
     ]
   },
   "85.209.118.137": {
@@ -2183,10 +2203,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "J\u00e4rf\u00e4lla Municipality",
     "coordinates": [
-      59.3326,
-      18.0651
+      59.3497,
+      17.9738
     ]
   },
   "99.72.255.45": {
@@ -2195,8 +2215,8 @@
     "cc": "US",
     "city": "Memphis",
     "coordinates": [
-      35.1285,
-      -89.9799
+      35.1387,
+      -90.0095
     ]
   }
 }
