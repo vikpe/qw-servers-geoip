@@ -29,6 +29,16 @@
       145.1513
     ]
   },
+  "103.106.89.29": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9474,
+      115.8648
+    ]
+  },
   "103.112.0.130": {
     "region": "North America",
     "country": "United States",
@@ -47,16 +57,6 @@
     "coordinates": [
       37.0902,
       -95.7129
-    ]
-  },
-  "103.163.182.170": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
     ]
   },
   "103.179.143.12": {
@@ -97,16 +97,6 @@
     "coordinates": [
       40.5511,
       -74.4606
-    ]
-  },
-  "106.47.92.76": {
-    "region": "Asia",
-    "country": "China",
-    "cc": "CN",
-    "city": "Tianjin",
-    "coordinates": [
-      39.1424,
-      117.1727
     ]
   },
   "108.181.43.71": {
@@ -437,16 +427,6 @@
     "coordinates": [
       34.0515,
       -118.2707
-    ]
-  },
-  "148.222.1.80": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.887,
-      115.9097
     ]
   },
   "149.28.62.121": {
@@ -1149,6 +1129,16 @@
       115.8765
     ]
   },
+  "203.9.210.215": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1317,6 +1307,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "24.86.203.52": {
