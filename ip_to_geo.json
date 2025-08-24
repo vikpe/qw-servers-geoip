@@ -489,16 +489,6 @@
       -46.6333
     ]
   },
-  "15.235.104.148": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Montreal",
-    "coordinates": [
-      45.5029,
-      -73.5723
-    ]
-  },
   "15.235.206.103": {
     "region": "Asia",
     "country": "Singapore",
@@ -837,16 +827,6 @@
     "coordinates": [
       52.1972,
       -0.8873
-    ]
-  },
-  "186.30.36.152": {
-    "region": "South America",
-    "country": "Colombia",
-    "cc": "CO",
-    "city": "Bogot\u00e1",
-    "coordinates": [
-      4.6913,
-      -74.032
     ]
   },
   "187.223.122.58": {
@@ -1329,6 +1309,16 @@
       30.3096
     ]
   },
+  "31.209.232.192": {
+    "region": "Europe",
+    "country": "Iceland",
+    "cc": "IS",
+    "city": "Kopavogur",
+    "coordinates": [
+      64.1172,
+      -21.9154
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1347,16 +1337,6 @@
     "coordinates": [
       38.9071,
       -77.0368
-    ]
-  },
-  "34.174.203.105": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
     ]
   },
   "34.32.95.193": {
@@ -1759,6 +1739,16 @@
       -83.9007
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1849,6 +1839,16 @@
       14.4464
     ]
   },
+  "78.92.198.204": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
   "78.92.204.152": {
     "region": "Europe",
     "country": "Hungary",
@@ -1919,6 +1919,16 @@
       17.8495
     ]
   },
+  "81.235.4.191": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1977,16 +1987,6 @@
     "coordinates": [
       59.2484,
       18.0782
-    ]
-  },
-  "85.242.36.233": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Quinta Do Conde",
-    "coordinates": [
-      38.5436,
-      -9.0473
     ]
   },
   "85.28.131.207": {
