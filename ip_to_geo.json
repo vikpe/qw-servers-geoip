@@ -189,16 +189,6 @@
       145.2136
     ]
   },
-  "123.243.172.101": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8136,
-      144.963
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -439,14 +429,14 @@
       -118.2707
     ]
   },
-  "148.222.0.250": {
+  "148.222.1.107": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.8393,
-      115.8441
+      -31.887,
+      115.9097
     ]
   },
   "149.28.62.121": {
@@ -829,6 +819,16 @@
       -0.8873
     ]
   },
+  "186.30.169.25": {
+    "region": "South America",
+    "country": "Colombia",
+    "cc": "CO",
+    "city": "Bogot\u00e1",
+    "coordinates": [
+      4.6351,
+      -74.0704
+    ]
+  },
   "187.190.24.50": {
     "region": "North America",
     "country": "Mexico",
@@ -847,16 +847,6 @@
     "coordinates": [
       24.0957,
       -110.3232
-    ]
-  },
-  "188.166.0.137": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.352,
-      4.9392
     ]
   },
   "188.166.161.185": {
@@ -1099,6 +1089,16 @@
       115.9111
     ]
   },
+  "203.221.12.36": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.7673,
+      145.0043
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1187,16 +1187,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "213.65.29.207": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "T\u00e4by",
-    "coordinates": [
-      59.4417,
-      18.0637
     ]
   },
   "213.80.111.176": {
@@ -1377,6 +1367,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "34.88.1.37": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Lappeenranta",
+    "coordinates": [
+      61.0549,
+      28.1896
     ]
   },
   "35.185.44.174": {
@@ -1689,6 +1689,16 @@
       -87.6386
     ]
   },
+  "69.226.253.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Olmsted",
+    "coordinates": [
+      41.4156,
+      -81.9235
+    ]
+  },
   "69.23.214.248": {
     "region": "North America",
     "country": "United States",
@@ -1909,16 +1919,6 @@
       13.3224
     ]
   },
-  "81.209.182.26": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Hamburg",
-    "coordinates": [
-      53.5488,
-      9.98717
-    ]
-  },
   "81.226.25.230": {
     "region": "Europe",
     "country": "Sweden",
@@ -1927,16 +1927,6 @@
     "coordinates": [
       59.6131,
       17.8495
-    ]
-  },
-  "81.235.4.191": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "82.196.112.57": {
@@ -2029,6 +2019,16 @@
       13.405
     ]
   },
+  "87.189.49.140": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "89.109.83.239": {
     "region": "Europe",
     "country": "Portugal",
@@ -2057,16 +2057,6 @@
     "coordinates": [
       52.1363,
       21.0644
-    ]
-  },
-  "91.55.68.188": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "92.35.17.241": {
