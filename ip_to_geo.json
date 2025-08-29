@@ -149,16 +149,6 @@
       -0.127586
     ]
   },
-  "111.119.49.209": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -177,16 +167,6 @@
     "coordinates": [
       -36.7178,
       174.7365
-    ]
-  },
-  "122.199.63.203": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8469,
-      145.2136
     ]
   },
   "128.199.52.100": {
@@ -429,14 +409,14 @@
       -118.2707
     ]
   },
-  "148.222.1.107": {
+  "148.222.0.243": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.887,
-      115.9097
+      -31.8393,
+      115.8441
     ]
   },
   "149.28.62.121": {
@@ -839,16 +819,6 @@
       -99.1935
     ]
   },
-  "187.223.122.58": {
-    "region": "North America",
-    "country": "Mexico",
-    "cc": "MX",
-    "city": "La Paz",
-    "coordinates": [
-      24.0957,
-      -110.3232
-    ]
-  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -1109,6 +1079,16 @@
       115.8765
     ]
   },
+  "203.9.210.93": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1279,6 +1259,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "24.86.203.52": {
     "region": "North America",
     "country": "Canada",
@@ -1369,6 +1359,16 @@
       28.1896
     ]
   },
+  "35.141.119.220": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Polk City",
+    "coordinates": [
+      28.1825,
+      -81.824
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1387,6 +1387,16 @@
     "coordinates": [
       38.9071,
       -77.0368
+    ]
+  },
+  "35.247.254.17": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Sao Paulo",
+    "coordinates": [
+      -23.5505,
+      -46.6333
     ]
   },
   "37.201.131.70": {
@@ -1749,16 +1759,6 @@
       -104.9945
     ]
   },
-  "72.239.228.235": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Merritt Island",
-    "coordinates": [
-      28.3888,
-      -80.7301
-    ]
-  },
   "73.207.108.187": {
     "region": "North America",
     "country": "United States",
@@ -1927,6 +1927,16 @@
     "coordinates": [
       53.5488,
       9.98717
+    ]
+  },
+  "81.226.25.230": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "M\u00e4rsta",
+    "coordinates": [
+      59.6131,
+      17.8495
     ]
   },
   "82.196.112.57": {
