@@ -169,6 +169,16 @@
       174.7365
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2869,
+      174.7804
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -629,16 +639,6 @@
       12.3649
     ]
   },
-  "168.232.167.33": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Curic\u00f3",
-    "coordinates": [
-      -34.9826,
-      -71.2344
-    ]
-  },
   "170.239.85.153": {
     "region": "South America",
     "country": "Chile",
@@ -727,16 +727,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "18.100.128.150": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Zaragoza",
-    "coordinates": [
-      41.6579,
-      -0.8777
     ]
   },
   "18.228.3.244": {
@@ -1359,16 +1349,6 @@
       28.1896
     ]
   },
-  "35.141.119.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Polk City",
-    "coordinates": [
-      28.1825,
-      -81.824
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1859,6 +1839,16 @@
       -71.1341
     ]
   },
+  "77.239.212.26": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tyumen",
+    "coordinates": [
+      57.1533,
+      65.5418
+    ]
+  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1877,6 +1867,16 @@
     "coordinates": [
       47.4277,
       18.9191
+    ]
+  },
+  "80.200.117.95": {
+    "region": "Europe",
+    "country": "Belgium",
+    "cc": "BE",
+    "city": "Antwerp",
+    "coordinates": [
+      51.2192,
+      4.3917
     ]
   },
   "80.211.201.216": {
@@ -1989,6 +1989,16 @@
       12.5298
     ]
   },
+  "85.227.207.169": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sandviken",
+    "coordinates": [
+      60.6204,
+      16.7697
+    ]
+  },
   "85.229.6.53": {
     "region": "Europe",
     "country": "Sweden",
@@ -2037,6 +2047,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "87.95.211.157": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4717,
+      23.8004
     ]
   },
   "89.109.83.239": {
