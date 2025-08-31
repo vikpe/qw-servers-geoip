@@ -149,6 +149,16 @@
       -0.127586
     ]
   },
+  "111.119.49.25": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -419,14 +429,14 @@
       -118.2707
     ]
   },
-  "148.222.0.243": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
+  "149.19.168.131": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "Mexico City",
     "coordinates": [
-      -31.8393,
-      115.8441
+      19.3783,
+      -99.1741
     ]
   },
   "149.28.62.121": {
@@ -1069,16 +1079,6 @@
       115.8765
     ]
   },
-  "203.9.210.93": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1247,16 +1247,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "24.86.203.52": {
@@ -1487,6 +1477,16 @@
     "coordinates": [
       59.3287,
       18.0717
+    ]
+  },
+  "5.173.152.56": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.1795,
+      21.0216
     ]
   },
   "5.196.28.199": {
@@ -1729,6 +1729,16 @@
       21.0093
     ]
   },
+  "72.109.30.81": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      40.2332,
+      -76.1372
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1737,6 +1747,16 @@
     "coordinates": [
       39.7491,
       -104.9945
+    ]
+  },
+  "72.239.228.235": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Merritt Island",
+    "coordinates": [
+      28.3888,
+      -80.7301
     ]
   },
   "73.207.108.187": {
@@ -1859,7 +1879,7 @@
       14.4464
     ]
   },
-  "78.92.198.204": {
+  "78.92.202.246": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1959,6 +1979,16 @@
       13.0615
     ]
   },
+  "83.233.64.30": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "V\u00e4ster\u00e5s",
+    "coordinates": [
+      59.6146,
+      16.5528
+    ]
+  },
   "84.151.188.59": {
     "region": "Europe",
     "country": "Germany",
@@ -1987,16 +2017,6 @@
     "coordinates": [
       55.6494,
       12.5298
-    ]
-  },
-  "85.227.207.169": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sandviken",
-    "coordinates": [
-      60.6204,
-      16.7697
     ]
   },
   "85.229.6.53": {
@@ -2119,16 +2139,6 @@
       7.5477
     ]
   },
-  "94.254.232.50": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Ciechan\u00f3w",
-    "coordinates": [
-      52.8814,
-      20.62
-    ]
-  },
   "94.45.205.16": {
     "region": "Europe",
     "country": "Russia",
@@ -2187,6 +2197,16 @@
     "coordinates": [
       37.7399,
       -120.9347
+    ]
+  },
+  "98.111.214.82": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Monroeville",
+    "coordinates": [
+      40.4212,
+      -79.7881
     ]
   },
   "98.128.174.153": {
