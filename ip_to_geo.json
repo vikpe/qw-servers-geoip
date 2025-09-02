@@ -149,16 +149,6 @@
       -0.127586
     ]
   },
-  "111.119.49.25": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -439,16 +429,6 @@
       -118.2707
     ]
   },
-  "148.222.0.243": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.8393,
-      115.8441
-    ]
-  },
   "149.19.168.131": {
     "region": "North America",
     "country": "Mexico",
@@ -667,6 +647,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "167.99.124.241": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Clifton",
+    "coordinates": [
+      40.8364,
+      -74.1403
     ]
   },
   "170.239.85.153": {
@@ -1109,6 +1099,16 @@
       115.8765
     ]
   },
+  "203.9.210.137": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1127,16 +1127,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "208.72.153.183": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Honolulu",
-    "coordinates": [
-      21.3513,
-      -157.8725
     ]
   },
   "208.83.232.203": {
@@ -1167,6 +1157,16 @@
     "coordinates": [
       55.7558,
       37.6173
+    ]
+  },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1267,6 +1267,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "24.86.203.52": {
