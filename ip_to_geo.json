@@ -179,6 +179,16 @@
       174.7804
     ]
   },
+  "122.199.63.203": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8469,
+      145.2136
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -427,6 +437,16 @@
     "coordinates": [
       34.0515,
       -118.2707
+    ]
+  },
+  "148.222.0.243": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.8393,
+      115.8441
     ]
   },
   "149.19.168.131": {
@@ -769,6 +789,16 @@
       2.2093
     ]
   },
+  "185.182.194.241": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Naaldwijk",
+    "coordinates": [
+      51.9968,
+      4.2057
+    ]
+  },
   "185.185.40.101": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -817,6 +847,16 @@
     "coordinates": [
       52.1972,
       -0.8873
+    ]
+  },
+  "187.170.254.128": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "Cuauht\u00e9moc",
+    "coordinates": [
+      19.4491,
+      -99.1574
     ]
   },
   "187.190.24.50": {
@@ -1269,16 +1309,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "24.86.203.52": {
     "region": "North America",
     "country": "Canada",
@@ -1329,6 +1359,16 @@
       -21.9154
     ]
   },
+  "34.135.190.125": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1347,16 +1387,6 @@
     "coordinates": [
       52.52,
       13.4049
-    ]
-  },
-  "34.56.203.46": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "34.88.1.37": {
@@ -1507,16 +1537,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "5.173.152.56": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.1795,
-      21.0216
     ]
   },
   "5.196.28.199": {
@@ -2147,6 +2167,16 @@
     "coordinates": [
       47.5053,
       7.5477
+    ]
+  },
+  "94.254.232.50": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Ciechan\u00f3w",
+    "coordinates": [
+      52.8814,
+      20.62
     ]
   },
   "94.45.205.16": {
