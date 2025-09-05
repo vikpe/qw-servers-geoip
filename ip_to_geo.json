@@ -49,16 +49,6 @@
       -95.7129
     ]
   },
-  "103.163.182.75": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "103.179.143.12": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -359,7 +349,7 @@
       -121.9732
     ]
   },
-  "138.84.56.123": {
+  "138.84.54.157": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
@@ -427,6 +417,16 @@
     "coordinates": [
       51.1005,
       17.0324
+    ]
+  },
+  "146.185.10.250": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Hyvink\u00e4\u00e4",
+    "coordinates": [
+      60.619,
+      24.8415
     ]
   },
   "147.135.208.107": {
@@ -767,6 +767,16 @@
     "coordinates": [
       39.3202,
       -84.552
+    ]
+  },
+  "185.108.197.128": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Chita",
+    "coordinates": [
+      52.0333,
+      113.55
     ]
   },
   "185.157.244.204": {
@@ -1219,16 +1229,6 @@
       13.4069
     ]
   },
-  "217.209.59.184": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.605,
-      13.0038
-    ]
-  },
   "220.233.95.7": {
     "region": "Oceania",
     "country": "Australia",
@@ -1409,6 +1409,16 @@
       8.6779
     ]
   },
+  "38.140.16.188": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenixville",
+    "coordinates": [
+      40.1265,
+      -75.5232
+    ]
+  },
   "38.225.91.20": {
     "region": "South America",
     "country": "Chile",
@@ -1479,16 +1489,6 @@
       -118.2414
     ]
   },
-  "45.33.29.156": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Richardson",
-    "coordinates": [
-      32.9473,
-      -96.7028
-    ]
-  },
   "45.76.56.39": {
     "region": "North America",
     "country": "United States",
@@ -1517,6 +1517,16 @@
     "coordinates": [
       39.0469,
       -77.4903
+    ]
+  },
+  "5.173.152.77": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.1795,
+      21.0216
     ]
   },
   "5.196.28.199": {
@@ -1839,16 +1849,6 @@
       -87.6386
     ]
   },
-  "74.91.120.229": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7908,
-      -96.8336
-    ]
-  },
   "75.154.239.81": {
     "region": "North America",
     "country": "Canada",
@@ -1867,16 +1867,6 @@
     "coordinates": [
       33.675,
       -118.0027
-    ]
-  },
-  "76.118.40.159": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Brookline",
-    "coordinates": [
-      42.3268,
-      -71.1341
     ]
   },
   "77.239.212.26": {
@@ -2149,14 +2139,14 @@
       7.5477
     ]
   },
-  "94.254.232.50": {
+  "94.45.205.16": {
     "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Ciechan\u00f3w",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Dolgoprudny",
     "coordinates": [
-      52.8814,
-      20.62
+      55.9389,
+      37.5085
     ]
   },
   "95.165.130.151": {
