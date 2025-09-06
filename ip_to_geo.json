@@ -349,16 +349,6 @@
       -121.9732
     ]
   },
-  "138.84.54.157": {
-    "region": "North America",
-    "country": "Mexico",
-    "cc": "MX",
-    "city": "Mexico City",
-    "coordinates": [
-      19.3783,
-      -99.1741
-    ]
-  },
   "139.162.245.4": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -417,16 +407,6 @@
     "coordinates": [
       51.1005,
       17.0324
-    ]
-  },
-  "146.185.10.250": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Hyvink\u00e4\u00e4",
-    "coordinates": [
-      60.619,
-      24.8415
     ]
   },
   "147.135.208.107": {
@@ -719,6 +699,16 @@
       73.3729
     ]
   },
+  "177.112.139.187": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
+    ]
+  },
   "178.164.124.230": {
     "region": "Europe",
     "country": "Norway",
@@ -787,6 +777,16 @@
     "coordinates": [
       48.8909,
       2.2093
+    ]
+  },
+  "185.184.195.138": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Naaldwijk",
+    "coordinates": [
+      51.9968,
+      4.2057
     ]
   },
   "185.185.40.101": {
@@ -1119,6 +1119,16 @@
       115.8765
     ]
   },
+  "203.9.210.54": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1207,6 +1217,16 @@
     "coordinates": [
       45.0648,
       -92.8466
+    ]
+  },
+  "216.234.205.129": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "Mexico City",
+    "coordinates": [
+      19.3783,
+      -99.1741
     ]
   },
   "216.249.103.87": {
@@ -2007,16 +2027,6 @@
     "coordinates": [
       68.7708,
       16.5681
-    ]
-  },
-  "85.209.118.137": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6494,
-      12.5298
     ]
   },
   "85.229.6.53": {
