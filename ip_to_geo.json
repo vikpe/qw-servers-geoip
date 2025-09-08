@@ -149,6 +149,16 @@
       -0.127586
     ]
   },
+  "111.119.49.216": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -167,16 +177,6 @@
     "coordinates": [
       -36.7178,
       174.7365
-    ]
-  },
-  "121.99.166.164": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Wellington",
-    "coordinates": [
-      -41.2869,
-      174.7804
     ]
   },
   "122.199.63.203": {
@@ -419,6 +419,16 @@
       17.0324
     ]
   },
+  "146.185.10.250": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Hyvink\u00e4\u00e4",
+    "coordinates": [
+      60.619,
+      24.8415
+    ]
+  },
   "147.135.208.107": {
     "region": "Europe",
     "country": "Poland",
@@ -437,16 +447,6 @@
     "coordinates": [
       34.0515,
       -118.2707
-    ]
-  },
-  "148.222.0.37": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.8393,
-      115.8441
     ]
   },
   "149.28.62.121": {
@@ -707,16 +707,6 @@
     "coordinates": [
       54.9896,
       73.3729
-    ]
-  },
-  "177.112.139.187": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.5309
     ]
   },
   "178.164.124.230": {
@@ -1119,16 +1109,6 @@
       115.8765
     ]
   },
-  "203.9.210.88": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1417,16 +1397,6 @@
     "coordinates": [
       50.1259,
       8.6779
-    ]
-  },
-  "38.140.16.188": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenixville",
-    "coordinates": [
-      40.1265,
-      -75.5232
     ]
   },
   "38.225.91.20": {
@@ -1819,6 +1789,16 @@
       -83.9007
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1890,16 +1870,6 @@
     ]
   },
   "78.92.199.171": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
-  "78.92.202.246": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2007,6 +1977,16 @@
     "coordinates": [
       68.7708,
       16.5681
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
@@ -2207,16 +2187,6 @@
     "coordinates": [
       37.7399,
       -120.9347
-    ]
-  },
-  "98.111.214.82": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Monroeville",
-    "coordinates": [
-      40.4212,
-      -79.7881
     ]
   },
   "98.128.174.153": {
