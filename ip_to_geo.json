@@ -709,6 +709,16 @@
       73.3729
     ]
   },
+  "177.139.67.37": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
+    ]
+  },
   "178.164.124.230": {
     "region": "Europe",
     "country": "Norway",
@@ -839,6 +849,16 @@
       -99.1935
     ]
   },
+  "187.34.48.23": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.8951,
+      -47.0439
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -877,16 +897,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "189.78.79.117": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.8951,
-      -47.0439
     ]
   },
   "192.121.119.117": {
@@ -1107,6 +1117,16 @@
     "coordinates": [
       -31.8512,
       115.8765
+    ]
+  },
+  "204.216.163.2": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Vinhedo",
+    "coordinates": [
+      -23.0564,
+      -46.9834
     ]
   },
   "206.51.245.84": {
@@ -1499,14 +1519,14 @@
       -77.4903
     ]
   },
-  "5.173.152.77": {
+  "5.173.194.144": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.1795,
-      21.0216
+      52.2299,
+      21.0093
     ]
   },
   "5.196.28.199": {
@@ -1727,16 +1747,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "70.34.242.113": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2299,
-      21.0093
     ]
   },
   "72.109.30.81": {
