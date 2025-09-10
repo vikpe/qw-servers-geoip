@@ -149,16 +149,6 @@
       -0.127586
     ]
   },
-  "111.119.49.216": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -217,16 +207,6 @@
     "coordinates": [
       -26.2041,
       28.0473
-    ]
-  },
-  "13.57.199.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
     ]
   },
   "13.74.254.86": {
@@ -417,16 +397,6 @@
     "coordinates": [
       51.1005,
       17.0324
-    ]
-  },
-  "146.185.10.250": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Hyvink\u00e4\u00e4",
-    "coordinates": [
-      60.619,
-      24.8415
     ]
   },
   "147.135.208.107": {
@@ -649,16 +619,6 @@
       12.3649
     ]
   },
-  "167.99.124.241": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Clifton",
-    "coordinates": [
-      40.8364,
-      -74.1403
-    ]
-  },
   "170.239.85.153": {
     "region": "South America",
     "country": "Chile",
@@ -709,7 +669,7 @@
       73.3729
     ]
   },
-  "177.139.67.37": {
+  "177.157.177.26": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -779,6 +739,16 @@
       113.55
     ]
   },
+  "185.132.176.177": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Naaldwijk",
+    "coordinates": [
+      51.9968,
+      4.2057
+    ]
+  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -839,14 +809,14 @@
       -0.8873
     ]
   },
-  "187.190.24.50": {
+  "187.189.174.118": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
-    "city": "Azcapotzalco",
+    "city": "Puebla",
     "coordinates": [
-      19.4915,
-      -99.1935
+      19.4096,
+      -99.0784
     ]
   },
   "187.34.48.23": {
@@ -1129,16 +1099,6 @@
       -46.9834
     ]
   },
-  "206.51.245.84": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8835,
-      -87.6305
-    ]
-  },
   "207.148.5.167": {
     "region": "North America",
     "country": "United States",
@@ -1389,16 +1349,6 @@
       -80.013
     ]
   },
-  "35.245.113.140": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.247.254.17": {
     "region": "South America",
     "country": "Brazil",
@@ -1417,16 +1367,6 @@
     "coordinates": [
       50.1259,
       8.6779
-    ]
-  },
-  "38.225.91.20": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Lo Barnechea",
-    "coordinates": [
-      -33.3637,
-      -70.506
     ]
   },
   "38.57.161.19": {
@@ -1747,6 +1687,16 @@
     "coordinates": [
       59.3287,
       18.0717
+    ]
+  },
+  "70.34.242.113": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2299,
+      21.0093
     ]
   },
   "72.109.30.81": {
