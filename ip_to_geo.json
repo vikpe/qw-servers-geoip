@@ -169,6 +169,16 @@
       174.7365
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2869,
+      174.7804
+    ]
+  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -199,6 +209,16 @@
       -46.6361
     ]
   },
+  "129.222.64.255": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "Mexico City",
+    "coordinates": [
+      19.3783,
+      -99.1741
+    ]
+  },
   "13.247.30.86": {
     "region": "Africa",
     "country": "South Africa",
@@ -207,6 +227,16 @@
     "coordinates": [
       -26.2041,
       28.0473
+    ]
+  },
+  "13.57.199.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
     ]
   },
   "13.74.254.86": {
@@ -369,16 +399,6 @@
       -111.9956
     ]
   },
-  "143.105.17.26": {
-    "region": "North America",
-    "country": "Mexico",
-    "cc": "MX",
-    "city": "Mexico City",
-    "coordinates": [
-      19.3783,
-      -99.1741
-    ]
-  },
   "145.220.10.99": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -397,6 +417,16 @@
     "coordinates": [
       51.1005,
       17.0324
+    ]
+  },
+  "146.185.10.250": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Hyvink\u00e4\u00e4",
+    "coordinates": [
+      60.619,
+      24.8415
     ]
   },
   "147.135.208.107": {
@@ -739,16 +769,6 @@
       113.55
     ]
   },
-  "185.132.176.177": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Naaldwijk",
-    "coordinates": [
-      51.9968,
-      4.2057
-    ]
-  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -1059,16 +1079,6 @@
       -104.816154
     ]
   },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9518,
-      115.9111
-    ]
-  },
   "203.221.12.36": {
     "region": "Oceania",
     "country": "Australia",
@@ -1097,6 +1107,16 @@
     "coordinates": [
       -23.0564,
       -46.9834
+    ]
+  },
+  "206.51.245.84": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8835,
+      -87.6305
     ]
   },
   "207.148.5.167": {
@@ -1367,6 +1387,16 @@
     "coordinates": [
       50.1259,
       8.6779
+    ]
+  },
+  "38.225.91.20": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Lo Barnechea",
+    "coordinates": [
+      -33.3637,
+      -70.506
     ]
   },
   "38.57.161.19": {
@@ -1747,16 +1777,6 @@
     "coordinates": [
       33.839,
       -83.9007
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.23.203.172": {
