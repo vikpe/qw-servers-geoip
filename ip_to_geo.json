@@ -209,7 +209,7 @@
       -46.6361
     ]
   },
-  "129.222.64.255": {
+  "129.222.64.182": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
@@ -1149,6 +1149,16 @@
       37.6173
     ]
   },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
+    ]
+  },
   "213.239.216.253": {
     "region": "Europe",
     "country": "Germany",
@@ -1247,16 +1257,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "24.86.203.52": {
@@ -1419,6 +1419,16 @@
       -38.5419
     ]
   },
+  "45.32.195.163": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
+    ]
+  },
   "45.32.196.50": {
     "region": "North America",
     "country": "United States",
@@ -1467,16 +1477,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "5.161.55.215": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0469,
-      -77.4903
     ]
   },
   "5.173.194.144": {
@@ -1819,16 +1819,6 @@
       -118.0027
     ]
   },
-  "77.239.212.26": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tyumen",
-    "coordinates": [
-      57.1533,
-      65.5418
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1947,16 +1937,6 @@
     "coordinates": [
       68.7708,
       16.5681
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.209.118.137": {
