@@ -15,8 +15,8 @@
     "cc": "SG",
     "city": "Singapore",
     "coordinates": [
-      1.43333,
-      103.831
+      1.37611,
+      103.902
     ]
   },
   "101.191.97.34": {
@@ -25,28 +25,28 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.7886,
-      145.1513
+      -37.7634,
+      144.8992
     ]
   },
   "103.112.0.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Tulsa",
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
     "coordinates": [
-      37.0902,
-      -95.7129
+      -33.8688,
+      151.209
     ]
   },
   "103.151.65.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Tulsa",
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Kippa-Ring",
     "coordinates": [
-      37.0902,
-      -95.7129
+      -27.2262,
+      153.093
     ]
   },
   "103.179.143.12": {
@@ -149,6 +149,16 @@
       -0.127586
     ]
   },
+  "111.119.49.64": {
+    "region": "Asia",
+    "country": "Nepal",
+    "cc": "NP",
+    "city": "Kathmandu",
+    "coordinates": [
+      27.7108,
+      85.3251
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -175,8 +185,8 @@
     "cc": "NZ",
     "city": "Wellington",
     "coordinates": [
-      -41.2869,
-      174.7804
+      -41.2971,
+      174.7932
     ]
   },
   "122.199.63.203": {
@@ -739,14 +749,14 @@
       -46.6333
     ]
   },
-  "185.108.197.128": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Chita",
+  "184.54.162.131": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fairfield",
     "coordinates": [
-      52.0333,
-      113.55
+      39.3202,
+      -84.552
     ]
   },
   "185.157.244.204": {
@@ -765,8 +775,8 @@
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
-      52.3759,
-      4.8975
+      52.3716,
+      4.8883
     ]
   },
   "185.189.139.18": {
@@ -803,10 +813,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Northampton",
+    "city": "City of Westminster",
     "coordinates": [
-      52.1972,
-      -0.8873
+      51.5081,
+      -0.1278
     ]
   },
   "187.189.174.118": {
@@ -983,10 +993,10 @@
     "region": "Asia",
     "country": "Kazakhstan",
     "cc": "KZ",
-    "city": "Astana",
+    "city": "Almaty",
     "coordinates": [
-      51.1876,
-      71.4491
+      43.238,
+      76.8829
     ]
   },
   "20.106.48.249": {
@@ -1065,8 +1075,8 @@
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.9518,
-      115.9111
+      -31.9167,
+      115.9114
     ]
   },
   "203.221.12.36": {
@@ -1075,8 +1085,8 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.7673,
-      145.0043
+      -37.8159,
+      144.9669
     ]
   },
   "203.29.240.182": {
@@ -1183,10 +1193,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Stillwater",
+    "city": "Burnsville",
     "coordinates": [
-      45.0648,
-      -92.8466
+      44.7601,
+      -93.2748
     ]
   },
   "216.249.103.87": {
@@ -1215,8 +1225,8 @@
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -33.875,
-      151.1608
+      -33.8672,
+      151.1997
     ]
   },
   "223.165.64.141": {
@@ -1257,6 +1267,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "24.86.203.52": {
@@ -1319,6 +1339,16 @@
       -80.013
     ]
   },
+  "34.150.191.245": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.32.95.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1329,7 +1359,7 @@
       13.4049
     ]
   },
-  "34.61.139.98": {
+  "34.56.254.167": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1475,11 +1505,11 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3326,
+      18.0651
     ]
   },
-  "5.173.194.144": {
+  "5.173.156.65": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
@@ -1633,10 +1663,10 @@
     "region": "Europe",
     "country": "Lithuania",
     "cc": "LT",
-    "city": "\u0160iauliai",
+    "city": "Nemun\u0117lio Radvili\u0161kis",
     "coordinates": [
-      55.9399,
-      23.3132
+      56.4001,
+      24.7728
     ]
   },
   "64.118.226.47": {
@@ -1695,8 +1725,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3326,
+      18.0651
     ]
   },
   "70.34.206.203": {
@@ -1705,8 +1735,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3287,
-      18.0717
+      59.3326,
+      18.0651
     ]
   },
   "70.34.242.113": {
@@ -1723,10 +1753,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Denver",
+    "city": "Philadelphia",
     "coordinates": [
-      40.2332,
-      -76.1372
+      40.09,
+      -75.0363
     ]
   },
   "72.18.132.133": {
@@ -1763,10 +1793,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Loganville",
+    "city": "Marietta",
     "coordinates": [
-      33.839,
-      -83.9007
+      33.9343,
+      -84.6076
     ]
   },
   "73.23.203.172": {
@@ -1783,10 +1813,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Branford",
+    "city": "Danbury",
     "coordinates": [
-      41.2827,
-      -72.8105
+      41.3908,
+      -73.4483
     ]
   },
   "74.91.119.37": {
@@ -1805,8 +1835,8 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.4518,
-      -123.4206
+      48.4248,
+      -123.3709
     ]
   },
   "75.82.121.13": {
@@ -1825,8 +1855,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0766,
-      14.4464
+      50.0948,
+      14.4785
     ]
   },
   "78.92.199.171": {
@@ -1893,10 +1923,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "M\u00e4rsta",
+    "city": "Trollh\u00e4ttan",
     "coordinates": [
-      59.6131,
-      17.8495
+      58.2835,
+      12.2858
     ]
   },
   "82.196.112.57": {
@@ -1913,10 +1943,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Lomma",
+    "city": "Esl\u00f6v",
     "coordinates": [
-      55.6727,
-      13.0615
+      55.8393,
+      13.3039
     ]
   },
   "83.233.64.30": {
@@ -1935,8 +1965,18 @@
     "cc": "NO",
     "city": "Harstad",
     "coordinates": [
-      68.7708,
-      16.5681
+      68.7859,
+      16.5211
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.209.118.137": {
@@ -1975,8 +2015,8 @@
     "cc": "PL",
     "city": "Lodz",
     "coordinates": [
-      51.7419,
-      19.4976
+      51.7284,
+      19.4805
     ]
   },
   "87.128.111.190": {
@@ -1997,6 +2037,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "87.239.29.179": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
     ]
   },
   "89.109.83.239": {
@@ -2025,8 +2075,8 @@
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.1363,
-      21.0644
+      52.1475,
+      21.069
     ]
   },
   "92.35.17.241": {
@@ -2073,10 +2123,10 @@
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
-    "city": "Dolgoprudny",
+    "city": "Moscow",
     "coordinates": [
-      55.9389,
-      37.5085
+      55.7487,
+      37.6187
     ]
   },
   "95.165.130.151": {
@@ -2143,10 +2193,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "J\u00e4rf\u00e4lla Municipality",
+    "city": "Stockholm",
     "coordinates": [
-      59.3497,
-      17.9738
+      59.3326,
+      18.0651
     ]
   },
   "99.72.255.45": {
