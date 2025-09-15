@@ -149,7 +149,7 @@
       -0.127586
     ]
   },
-  "111.119.49.64": {
+  "111.119.49.18": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -217,16 +217,6 @@
     "coordinates": [
       -23.5475,
       -46.6361
-    ]
-  },
-  "129.222.64.182": {
-    "region": "North America",
-    "country": "Mexico",
-    "cc": "MX",
-    "city": "Mexico City",
-    "coordinates": [
-      19.3783,
-      -99.1741
     ]
   },
   "13.247.30.86": {
@@ -447,6 +437,16 @@
     "coordinates": [
       34.0515,
       -118.2707
+    ]
+  },
+  "149.19.169.189": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "Mexico City",
+    "coordinates": [
+      19.3783,
+      -99.1741
     ]
   },
   "149.28.62.121": {
@@ -697,16 +697,6 @@
     "coordinates": [
       54.9896,
       73.3729
-    ]
-  },
-  "177.157.177.26": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.5309
     ]
   },
   "178.164.124.230": {
@@ -1069,6 +1059,16 @@
       -104.816154
     ]
   },
+  "201.27.230.144": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
+    ]
+  },
   "202.87.162.206": {
     "region": "Oceania",
     "country": "Australia",
@@ -1267,16 +1267,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "24.86.203.52": {
@@ -1799,6 +1789,16 @@
       -84.6076
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1977,16 +1977,6 @@
     "coordinates": [
       54.741,
       55.9891
-    ]
-  },
-  "85.209.118.137": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Copenhagen",
-    "coordinates": [
-      55.6494,
-      12.5298
     ]
   },
   "85.229.6.53": {
