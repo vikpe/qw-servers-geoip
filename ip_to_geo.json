@@ -179,16 +179,6 @@
       174.7365
     ]
   },
-  "121.99.166.164": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Wellington",
-    "coordinates": [
-      -41.2971,
-      174.7932
-    ]
-  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -867,6 +857,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "189.6.97.59": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7798,
+      -47.9331
     ]
   },
   "192.121.119.117": {
@@ -2107,16 +2107,6 @@
     "coordinates": [
       47.5053,
       7.5477
-    ]
-  },
-  "94.45.205.16": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
     ]
   },
   "95.165.130.151": {
