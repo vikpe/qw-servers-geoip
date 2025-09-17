@@ -149,7 +149,7 @@
       -0.127586
     ]
   },
-  "111.119.49.18": {
+  "111.119.49.68": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -589,16 +589,6 @@
       139.6899
     ]
   },
-  "161.97.142.198": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "D\u00fcsseldorf",
-    "coordinates": [
-      51.1864,
-      6.8624
-    ]
-  },
   "162.19.231.86": {
     "region": "Europe",
     "country": "Germany",
@@ -859,16 +849,6 @@
       12.3649
     ]
   },
-  "189.6.97.59": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7798,
-      -47.9331
-    ]
-  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -1059,7 +1039,7 @@
       -104.816154
     ]
   },
-  "201.27.230.144": {
+  "200.158.9.127": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1217,6 +1197,16 @@
     "coordinates": [
       52.5196,
       13.4069
+    ]
+  },
+  "217.209.84.140": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sundbyberg",
+    "coordinates": [
+      59.3565,
+      17.9651
     ]
   },
   "220.233.95.7": {
@@ -1427,6 +1417,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "45.134.142.201": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7701,
+      -80.1928
     ]
   },
   "45.234.92.131": {
@@ -1969,14 +1969,14 @@
       16.5211
     ]
   },
-  "84.39.252.192": {
+  "84.249.61.111": {
     "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
     "coordinates": [
-      54.741,
-      55.9891
+      61.4966,
+      23.7831
     ]
   },
   "85.229.6.53": {
@@ -2107,6 +2107,16 @@
     "coordinates": [
       47.5053,
       7.5477
+    ]
+  },
+  "94.45.205.16": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
     ]
   },
   "95.165.130.151": {
