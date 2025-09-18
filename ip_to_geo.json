@@ -429,7 +429,7 @@
       -118.2707
     ]
   },
-  "149.19.169.189": {
+  "148.222.132.231": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
@@ -1039,7 +1039,7 @@
       -104.816154
     ]
   },
-  "200.158.9.127": {
+  "201.27.230.19": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1419,7 +1419,7 @@
       12.9982
     ]
   },
-  "45.134.142.201": {
+  "45.134.142.214": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1869,6 +1869,16 @@
       18.9191
     ]
   },
+  "79.161.4.202": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Sola",
+    "coordinates": [
+      58.8885,
+      5.65285
+    ]
+  },
   "80.200.117.95": {
     "region": "Europe",
     "country": "Belgium",
@@ -1967,16 +1977,6 @@
     "coordinates": [
       68.7859,
       16.5211
-    ]
-  },
-  "84.249.61.111": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4966,
-      23.7831
     ]
   },
   "85.229.6.53": {
