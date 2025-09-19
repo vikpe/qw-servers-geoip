@@ -149,7 +149,7 @@
       -0.127586
     ]
   },
-  "111.119.49.68": {
+  "111.119.49.247": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -859,16 +859,6 @@
       12.2926
     ]
   },
-  "192.121.209.251": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Solna",
-    "coordinates": [
-      59.3661,
-      18.0113
-    ]
-  },
   "192.227.152.195": {
     "region": "North America",
     "country": "United States",
@@ -1259,6 +1249,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "24.86.203.52": {
     "region": "North America",
     "country": "Canada",
@@ -1317,16 +1317,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.150.191.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.32.95.193": {
@@ -1419,17 +1409,17 @@
       12.9982
     ]
   },
-  "45.134.142.214": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
+  "45.234.92.131": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Fortaleza",
     "coordinates": [
-      25.7701,
-      -80.1928
+      -3.7145,
+      -38.5419
     ]
   },
-  "45.234.92.131": {
+  "45.234.93.70": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1497,6 +1487,16 @@
     "coordinates": [
       59.3326,
       18.0651
+    ]
+  },
+  "5.161.55.215": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0469,
+      -77.4903
     ]
   },
   "5.173.156.65": {
