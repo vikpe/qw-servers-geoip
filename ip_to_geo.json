@@ -179,6 +179,16 @@
       174.7365
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2971,
+      174.7932
+    ]
+  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -349,6 +359,16 @@
       -121.9732
     ]
   },
+  "138.84.54.17": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "Mexico City",
+    "coordinates": [
+      19.3783,
+      -99.1741
+    ]
+  },
   "139.162.245.4": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -427,16 +447,6 @@
     "coordinates": [
       34.0515,
       -118.2707
-    ]
-  },
-  "148.222.132.231": {
-    "region": "North America",
-    "country": "Mexico",
-    "cc": "MX",
-    "city": "Mexico City",
-    "coordinates": [
-      19.3783,
-      -99.1741
     ]
   },
   "149.28.62.121": {
@@ -789,7 +799,7 @@
       -0.1278
     ]
   },
-  "187.189.174.118": {
+  "187.189.174.21": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
@@ -1037,16 +1047,6 @@
     "coordinates": [
       -23.4566,
       -46.5309
-    ]
-  },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9167,
-      115.9114
     ]
   },
   "203.221.12.36": {
@@ -1379,16 +1379,6 @@
       8.6779
     ]
   },
-  "38.225.91.20": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Lo Barnechea",
-    "coordinates": [
-      -33.3637,
-      -70.506
-    ]
-  },
   "38.57.161.19": {
     "region": "North America",
     "country": "United States",
@@ -1397,6 +1387,16 @@
     "coordinates": [
       30.2625,
       -97.7463
+    ]
+  },
+  "45.124.55.179": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "45.132.235.172": {
@@ -1669,6 +1669,16 @@
       -80.7294
     ]
   },
+  "64.176.8.46": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Santiago",
+    "coordinates": [
+      -33.4521,
+      -70.6536
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1919,16 +1929,6 @@
       13.3224
     ]
   },
-  "81.209.182.26": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Hamburg",
-    "coordinates": [
-      53.5488,
-      9.98717
-    ]
-  },
   "81.226.25.230": {
     "region": "Europe",
     "country": "Sweden",
@@ -2067,16 +2067,6 @@
     "coordinates": [
       52.1475,
       21.069
-    ]
-  },
-  "92.35.17.241": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Link\u00f6ping",
-    "coordinates": [
-      58.416,
-      15.6288
     ]
   },
   "93.212.97.177": {
