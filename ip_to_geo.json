@@ -19,14 +19,14 @@
       103.902
     ]
   },
-  "101.191.97.34": {
+  "101.185.45.3": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.7634,
-      144.8992
+      -37.7706,
+      145.0817
     ]
   },
   "103.112.0.130": {
@@ -337,16 +337,6 @@
     "coordinates": [
       50.1103,
       8.7147
-    ]
-  },
-  "136.37.100.159": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Olathe",
-    "coordinates": [
-      38.8715,
-      -94.7713
     ]
   },
   "137.74.7.185": {
@@ -859,6 +849,16 @@
       4.9392
     ]
   },
+  "188.243.158.208": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "St Petersburg",
+    "coordinates": [
+      59.8983,
+      30.2618
+    ]
+  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -1079,16 +1079,6 @@
       115.8765
     ]
   },
-  "204.216.163.2": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Vinhedo",
-    "coordinates": [
-      -23.0564,
-      -46.9834
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1199,16 +1189,6 @@
       13.4069
     ]
   },
-  "217.209.84.140": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundbyberg",
-    "coordinates": [
-      59.3565,
-      17.9651
-    ]
-  },
   "220.233.95.7": {
     "region": "Oceania",
     "country": "Australia",
@@ -1317,6 +1297,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.150.218.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.32.95.193": {
@@ -1659,16 +1649,6 @@
       24.7728
     ]
   },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
-    ]
-  },
   "64.176.8.46": {
     "region": "South America",
     "country": "Chile",
@@ -1837,16 +1817,6 @@
     "coordinates": [
       41.8868,
       -87.6386
-    ]
-  },
-  "74.98.211.131": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pittsburgh",
-    "coordinates": [
-      40.4268,
-      -79.8935
     ]
   },
   "75.154.239.81": {
@@ -2019,6 +1989,16 @@
       19.4805
     ]
   },
+  "86.161.241.52": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Farnborough",
+    "coordinates": [
+      51.2887,
+      -0.7957
+    ]
+  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -2117,16 +2097,6 @@
     "coordinates": [
       47.5053,
       7.5477
-    ]
-  },
-  "94.45.205.16": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
     ]
   },
   "95.165.130.151": {
