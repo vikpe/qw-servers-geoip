@@ -139,6 +139,16 @@
       -87.9954
     ]
   },
+  "109.104.155.158": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -149,7 +159,17 @@
       -0.127586
     ]
   },
-  "111.119.48.215": {
+  "109.72.168.42": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Bj\u00f8rnevatn",
+    "coordinates": [
+      69.6393,
+      29.9827
+    ]
+  },
+  "111.119.49.131": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -177,16 +197,6 @@
     "coordinates": [
       -36.7178,
       174.7365
-    ]
-  },
-  "121.99.166.164": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Wellington",
-    "coordinates": [
-      -41.2971,
-      174.7932
     ]
   },
   "122.199.63.203": {
@@ -507,16 +517,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "155.4.133.6": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "155.4.206.139": {
@@ -1289,6 +1289,16 @@
       -21.9154
     ]
   },
+  "34.116.137.109": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2296,
+      21.0122
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1649,14 +1659,14 @@
       24.7728
     ]
   },
-  "64.176.8.46": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Santiago",
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
     "coordinates": [
-      -33.4521,
-      -70.6536
+      42.8568,
+      -80.7294
     ]
   },
   "64.227.18.147": {
@@ -1929,6 +1939,16 @@
       17.3006
     ]
   },
+  "82.44.30.201": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Newcastle upon Tyne",
+    "coordinates": [
+      54.9958,
+      -1.6897
+    ]
+  },
   "83.233.218.134": {
     "region": "Europe",
     "country": "Sweden",
@@ -1947,16 +1967,6 @@
     "coordinates": [
       59.6146,
       16.5528
-    ]
-  },
-  "84.234.226.138": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Harstad",
-    "coordinates": [
-      68.7859,
-      16.5211
     ]
   },
   "85.229.6.53": {
@@ -1987,16 +1997,6 @@
     "coordinates": [
       51.7284,
       19.4805
-    ]
-  },
-  "86.161.241.52": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Farnborough",
-    "coordinates": [
-      51.2887,
-      -0.7957
     ]
   },
   "87.128.111.190": {
@@ -2099,6 +2099,16 @@
       7.5477
     ]
   },
+  "94.45.205.16": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
+    ]
+  },
   "95.165.130.151": {
     "region": "Europe",
     "country": "Russia",
@@ -2167,6 +2177,16 @@
     "coordinates": [
       59.3326,
       18.0651
+    ]
+  },
+  "98.128.248.148": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Limhamn",
+    "coordinates": [
+      55.5811,
+      12.9553
     ]
   },
   "99.72.255.45": {
