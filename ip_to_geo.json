@@ -159,7 +159,7 @@
       29.9827
     ]
   },
-  "111.119.49.32": {
+  "111.119.49.213": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -177,16 +177,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "118.67.199.81": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "North Shore",
-    "coordinates": [
-      -36.7178,
-      174.7365
     ]
   },
   "122.199.63.203": {
@@ -829,16 +819,6 @@
       4.9392
     ]
   },
-  "188.243.158.208": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "St Petersburg",
-    "coordinates": [
-      59.8983,
-      30.2618
-    ]
-  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -1229,16 +1209,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "24.86.203.52": {
     "region": "North America",
     "country": "Canada",
@@ -1509,7 +1479,7 @@
       -77.4903
     ]
   },
-  "5.173.159.111": {
+  "5.173.159.21": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
@@ -1957,16 +1927,6 @@
     "coordinates": [
       59.6146,
       16.5528
-    ]
-  },
-  "85.229.6.53": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "V\u00e5rsta",
-    "coordinates": [
-      59.2484,
-      18.0782
     ]
   },
   "85.28.131.207": {
