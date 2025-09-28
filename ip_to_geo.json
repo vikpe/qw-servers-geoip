@@ -179,6 +179,16 @@
       11.0783
     ]
   },
+  "118.67.199.81": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "North Shore",
+    "coordinates": [
+      -36.7178,
+      174.7365
+    ]
+  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -649,6 +659,16 @@
       -87.6305
     ]
   },
+  "173.69.60.97": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Providence",
+    "coordinates": [
+      41.7816,
+      -71.3897
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -767,6 +787,16 @@
     "coordinates": [
       -23.5475,
       -46.6361
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2361,
+      21.0235
     ]
   },
   "185.73.44.100": {
@@ -1017,6 +1047,16 @@
     "coordinates": [
       41.13925,
       -104.816154
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9167,
+      115.9114
     ]
   },
   "203.29.240.182": {
@@ -1457,6 +1497,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.105.46.52": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Roubaix",
+    "coordinates": [
+      50.6924,
+      3.20113
     ]
   },
   "46.227.68.148": {
