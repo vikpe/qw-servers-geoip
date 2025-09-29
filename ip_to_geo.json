@@ -159,7 +159,7 @@
       29.9827
     ]
   },
-  "111.119.49.213": {
+  "111.119.49.37": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -659,16 +659,6 @@
       -87.6305
     ]
   },
-  "173.69.60.97": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Providence",
-    "coordinates": [
-      41.7816,
-      -71.3897
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -809,14 +799,14 @@
       -0.1278
     ]
   },
-  "187.189.87.208": {
+  "187.188.11.178": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
-    "city": "Azcapotzalco",
+    "city": "Iztapalapa",
     "coordinates": [
-      19.4706,
-      -99.1577
+      19.3491,
+      -99.0554
     ]
   },
   "188.166.161.185": {
@@ -847,6 +837,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "188.243.158.208": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "St Petersburg",
+    "coordinates": [
+      59.8983,
+      30.2618
     ]
   },
   "188.40.103.81": {
@@ -1109,16 +1109,6 @@
       -157.8725
     ]
   },
-  "212.193.49.233": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "St Petersburg",
-    "coordinates": [
-      60.0167,
-      30.3261
-    ]
-  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1287,16 +1277,6 @@
     "coordinates": [
       64.1172,
       -21.9154
-    ]
-  },
-  "31.40.212.148": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6176,
-      -58.3809
     ]
   },
   "34.116.137.109": {
@@ -1879,6 +1859,16 @@
       -118.0027
     ]
   },
+  "78.24.220.139": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7558,
+      37.6173
+    ]
+  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1979,6 +1969,16 @@
       16.5528
     ]
   },
+  "84.23.210.208": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Funchal",
+    "coordinates": [
+      32.6333,
+      -16.9
+    ]
+  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -2019,16 +2019,6 @@
       8.7399
     ]
   },
-  "89.109.83.239": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2047,6 +2037,16 @@
     "coordinates": [
       52.1475,
       21.069
+    ]
+  },
+  "92.35.23.44": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Link\u00f6ping",
+    "coordinates": [
+      58.416,
+      15.6288
     ]
   },
   "93.212.97.177": {
