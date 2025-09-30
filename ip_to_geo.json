@@ -659,6 +659,16 @@
       -87.6305
     ]
   },
+  "173.69.60.97": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Providence",
+    "coordinates": [
+      41.7816,
+      -71.3897
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -857,6 +867,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "189.6.97.59": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7798,
+      -47.9331
     ]
   },
   "192.121.119.117": {
@@ -1109,6 +1129,16 @@
       -157.8725
     ]
   },
+  "212.247.51.186": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "M\u00f6lnlycke",
+    "coordinates": [
+      57.6597,
+      12.123
+    ]
+  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1277,6 +1307,16 @@
     "coordinates": [
       64.1172,
       -21.9154
+    ]
+  },
+  "31.40.212.148": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6176,
+      -58.3809
     ]
   },
   "34.116.137.109": {
@@ -1939,6 +1979,16 @@
       12.2858
     ]
   },
+  "81.226.53.232": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "V\u00e4nersborg",
+    "coordinates": [
+      58.3807,
+      12.3234
+    ]
+  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1977,6 +2027,16 @@
     "coordinates": [
       32.6333,
       -16.9
+    ]
+  },
+  "84.52.54.108": {
+    "region": "Europe",
+    "country": "Estonia",
+    "cc": "EE",
+    "city": "Tallinn",
+    "coordinates": [
+      59.4381,
+      24.7369
     ]
   },
   "85.28.131.207": {
