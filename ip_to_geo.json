@@ -819,14 +819,14 @@
       -0.1278
     ]
   },
-  "187.188.11.178": {
+  "187.189.93.133": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
-    "city": "Iztapalapa",
+    "city": "Mexico City",
     "coordinates": [
-      19.3491,
-      -99.0554
+      19.4426,
+      -99.1926
     ]
   },
   "188.166.161.185": {
@@ -1289,6 +1289,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "24.86.203.52": {
     "region": "North America",
     "country": "Canada",
@@ -1569,7 +1579,7 @@
       -77.4903
     ]
   },
-  "5.173.159.21": {
+  "5.173.159.85": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
@@ -1929,6 +1939,16 @@
       -118.0027
     ]
   },
+  "77.104.155.44": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Rochdale",
+    "coordinates": [
+      53.6139,
+      -2.18998
+    ]
+  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -2147,16 +2167,6 @@
     "coordinates": [
       47.5053,
       7.5477
-    ]
-  },
-  "94.45.205.16": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
     ]
   },
   "95.165.130.151": {
