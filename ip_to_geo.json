@@ -19,16 +19,6 @@
       103.902
     ]
   },
-  "101.185.45.3": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7706,
-      145.0817
-    ]
-  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -159,7 +149,7 @@
       29.9827
     ]
   },
-  "111.119.49.223": {
+  "111.119.49.67": {
     "region": "Asia",
     "country": "Nepal",
     "cc": "NP",
@@ -187,6 +177,16 @@
     "coordinates": [
       -36.7178,
       174.7365
+    ]
+  },
+  "121.45.245.69": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.744,
+      144.9682
     ]
   },
   "122.199.63.203": {
@@ -569,16 +569,6 @@
       144.9669
     ]
   },
-  "160.16.101.168": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Tokyo",
-    "coordinates": [
-      35.6893,
-      139.6899
-    ]
-  },
   "162.19.231.86": {
     "region": "Europe",
     "country": "Germany",
@@ -819,14 +809,14 @@
       -0.1278
     ]
   },
-  "187.189.93.133": {
+  "187.189.87.26": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
-    "city": "Mexico City",
+    "city": "Azcapotzalco",
     "coordinates": [
-      19.4426,
-      -99.1926
+      19.4706,
+      -99.1577
     ]
   },
   "188.166.161.185": {
@@ -877,16 +867,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "189.6.97.59": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Bras\u00edlia",
-    "coordinates": [
-      -15.7798,
-      -47.9331
     ]
   },
   "192.121.119.117": {
@@ -1129,6 +1109,16 @@
       -96.8021
     ]
   },
+  "208.73.137.27": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lynchburg",
+    "coordinates": [
+      37.4386,
+      -79.208
+    ]
+  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1227,16 +1217,6 @@
     "coordinates": [
       52.5196,
       13.4069
-    ]
-  },
-  "217.209.84.140": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundbyberg",
-    "coordinates": [
-      59.3565,
-      17.9651
     ]
   },
   "220.233.95.7": {
@@ -1839,16 +1819,6 @@
       -75.0363
     ]
   },
-  "72.18.132.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.7491,
-      -104.9945
-    ]
-  },
   "72.239.228.235": {
     "region": "North America",
     "country": "United States",
@@ -1939,16 +1909,6 @@
       -118.0027
     ]
   },
-  "77.104.155.44": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Rochdale",
-    "coordinates": [
-      53.6139,
-      -2.18998
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1960,6 +1920,16 @@
     ]
   },
   "78.92.199.171": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
+  "78.92.201.217": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2127,16 +2097,6 @@
     "coordinates": [
       52.1475,
       21.069
-    ]
-  },
-  "92.35.23.44": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Link\u00f6ping",
-    "coordinates": [
-      58.416,
-      15.6288
     ]
   },
   "93.212.97.177": {
