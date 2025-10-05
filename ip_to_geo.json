@@ -509,6 +509,16 @@
       11.1728
     ]
   },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -769,6 +779,16 @@
       -99.1577
     ]
   },
+  "188.146.6.45": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Mi\u0144sk Mazowiecki",
+    "coordinates": [
+      52.1809,
+      21.5682
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -1019,6 +1039,16 @@
       -104.816154
     ]
   },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9167,
+      115.9114
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1067,16 +1097,6 @@
     "coordinates": [
       21.3513,
       -157.8725
-    ]
-  },
-  "212.193.49.233": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "St Petersburg",
-    "coordinates": [
-      60.0167,
-      30.3261
     ]
   },
   "212.247.51.186": {
@@ -1217,16 +1237,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.86.203.52": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Vancouver",
-    "coordinates": [
-      49.2958,
-      -123.141
     ]
   },
   "3.212.223.70": {
@@ -2009,6 +2019,16 @@
       21.069
     ]
   },
+  "91.107.121.135": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Bromley",
+    "coordinates": [
+      51.4048,
+      0.0098
+    ]
+  },
   "92.35.23.44": {
     "region": "Europe",
     "country": "Sweden",
@@ -2067,6 +2087,16 @@
     "coordinates": [
       55.7487,
       37.6187
+    ]
+  },
+  "95.211.27.120": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Haarlem",
+    "coordinates": [
+      52.3907,
+      4.66555
     ]
   },
   "95.216.18.118": {
