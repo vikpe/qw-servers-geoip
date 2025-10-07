@@ -149,16 +149,6 @@
       29.9827
     ]
   },
-  "111.119.49.179": {
-    "region": "Asia",
-    "country": "Nepal",
-    "cc": "NP",
-    "city": "Kathmandu",
-    "coordinates": [
-      27.7108,
-      85.3251
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -579,6 +569,16 @@
       12.3649
     ]
   },
+  "167.99.124.241": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Clifton",
+    "coordinates": [
+      40.8364,
+      -74.1403
+    ]
+  },
   "170.239.85.153": {
     "region": "South America",
     "country": "Chile",
@@ -839,6 +839,16 @@
       -47.9331
     ]
   },
+  "190.210.192.105": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6132,
+      -58.3772
+    ]
+  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -1069,16 +1079,6 @@
       -87.6305
     ]
   },
-  "207.148.5.167": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7889,
-      -96.8021
-    ]
-  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1107,6 +1107,16 @@
     "coordinates": [
       55.7558,
       37.6173
+    ]
+  },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1217,16 +1227,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "3.212.223.70": {
@@ -1869,16 +1869,6 @@
       14.4124
     ]
   },
-  "80.241.209.47": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Munich",
-    "coordinates": [
-      48.1077,
-      11.6091
-    ]
-  },
   "81.169.207.127": {
     "region": "Europe",
     "country": "Germany",
@@ -1967,6 +1957,16 @@
     "coordinates": [
       51.7284,
       19.4805
+    ]
+  },
+  "86.27.70.69": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Westgate on Sea",
+    "coordinates": [
+      51.3842,
+      1.331
     ]
   },
   "87.128.111.190": {
@@ -2147,6 +2147,16 @@
     "coordinates": [
       55.5811,
       12.9553
+    ]
+  },
+  "99.32.47.148": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lawrence",
+    "coordinates": [
+      38.9683,
+      -95.2695
     ]
   },
   "99.72.255.45": {
