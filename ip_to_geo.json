@@ -159,6 +159,16 @@
       11.0783
     ]
   },
+  "118.148.104.64": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": [
+      -36.8504,
+      174.7675
+    ]
+  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -499,16 +509,6 @@
       11.1728
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -637,16 +637,6 @@
     "coordinates": [
       54.9896,
       73.3729
-    ]
-  },
-  "177.102.166.208": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.8951,
-      -47.0439
     ]
   },
   "177.157.177.91": {
@@ -829,6 +819,16 @@
       12.3649
     ]
   },
+  "189.46.22.139": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.8951,
+      -47.0439
+    ]
+  },
   "189.6.97.59": {
     "region": "South America",
     "country": "Brazil",
@@ -837,16 +837,6 @@
     "coordinates": [
       -15.7798,
       -47.9331
-    ]
-  },
-  "190.210.192.105": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6132,
-      -58.3772
     ]
   },
   "192.121.119.117": {
@@ -1167,16 +1157,6 @@
     "coordinates": [
       52.5196,
       13.4069
-    ]
-  },
-  "217.209.84.140": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundbyberg",
-    "coordinates": [
-      59.3565,
-      17.9651
     ]
   },
   "220.233.95.7": {
@@ -1879,16 +1859,6 @@
       13.3224
     ]
   },
-  "81.226.53.232": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "V\u00e4nersborg",
-    "coordinates": [
-      58.3807,
-      12.3234
-    ]
-  },
   "82.196.112.57": {
     "region": "Europe",
     "country": "Sweden",
@@ -1927,16 +1897,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "84.52.54.108": {
-    "region": "Europe",
-    "country": "Estonia",
-    "cc": "EE",
-    "city": "Tallinn",
-    "coordinates": [
-      59.4381,
-      24.7369
     ]
   },
   "85.28.131.207": {
@@ -2019,6 +1979,16 @@
       0.0098
     ]
   },
+  "92.35.23.44": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Link\u00f6ping",
+    "coordinates": [
+      58.416,
+      15.6288
+    ]
+  },
   "93.212.97.177": {
     "region": "Europe",
     "country": "Germany",
@@ -2049,14 +2019,14 @@
       7.5477
     ]
   },
-  "94.254.239.71": {
+  "94.254.239.126": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Kra\u015bnik",
+    "city": "Przasnysz",
     "coordinates": [
-      50.9236,
-      22.2271
+      53.0191,
+      20.8803
     ]
   },
   "95.165.130.151": {
@@ -2147,16 +2117,6 @@
     "coordinates": [
       55.5811,
       12.9553
-    ]
-  },
-  "99.32.47.148": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lawrence",
-    "coordinates": [
-      38.9683,
-      -95.2695
     ]
   },
   "99.72.255.45": {
