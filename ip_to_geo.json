@@ -399,6 +399,16 @@
       -118.2707
     ]
   },
+  "149.28.62.121": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Piscataway",
+    "coordinates": [
+      40.5511,
+      -74.4606
+    ]
+  },
   "15.181.21.196": {
     "region": "North America",
     "country": "United States",
@@ -483,20 +493,10 @@
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
-    "city": "Fetsund",
+    "city": "Gjerdrum",
     "coordinates": [
-      59.9315,
-      11.1728
-    ]
-  },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
+      60.0797,
+      11.031
     ]
   },
   "159.69.87.212": {
@@ -613,10 +613,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Providence",
+    "city": "East Greenwich",
     "coordinates": [
-      41.7816,
-      -71.3897
+      41.6532,
+      -71.4615
     ]
   },
   "176.210.100.6": {
@@ -667,16 +667,6 @@
     "coordinates": [
       39.3202,
       -84.552
-    ]
-  },
-  "185.107.56.165": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Roosendaal",
-    "coordinates": [
-      51.5359,
-      4.46532
     ]
   },
   "185.145.156.131": {
@@ -759,14 +749,14 @@
       -0.1278
     ]
   },
-  "187.189.87.26": {
+  "187.190.26.50": {
     "region": "North America",
     "country": "Mexico",
     "cc": "MX",
-    "city": "Azcapotzalco",
+    "city": "Puebla",
     "coordinates": [
-      19.4706,
-      -99.1577
+      19.4096,
+      -99.0784
     ]
   },
   "188.166.161.185": {
@@ -835,8 +825,8 @@
     "cc": "BR",
     "city": "Bras\u00edlia",
     "coordinates": [
-      -15.7798,
-      -47.9331
+      -15.7783,
+      -47.9319
     ]
   },
   "192.121.119.117": {
@@ -943,20 +933,20 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "H\u00e4gersten",
+    "city": "Haninge",
     "coordinates": [
-      59.3098,
-      17.9796
+      59.167,
+      18.1458
     ]
   },
   "2.135.154.206": {
     "region": "Asia",
     "country": "Kazakhstan",
     "cc": "KZ",
-    "city": "Almaty",
+    "city": "Astana",
     "coordinates": [
-      43.238,
-      76.8829
+      51.1876,
+      71.4491
     ]
   },
   "20.106.48.249": {
@@ -1035,8 +1025,8 @@
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.9167,
-      115.9114
+      -31.8544,
+      115.9749
     ]
   },
   "203.29.240.182": {
@@ -1083,10 +1073,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "M\u00f6lnlycke",
+    "city": "Gothenburg",
     "coordinates": [
-      57.6597,
-      12.123
+      57.7065,
+      11.967
     ]
   },
   "212.42.38.88": {
@@ -1209,6 +1199,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1247,6 +1247,16 @@
     "coordinates": [
       -34.6176,
       -58.3809
+    ]
+  },
+  "34.11.71.144": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.116.137.109": {
@@ -1289,16 +1299,6 @@
       13.4049
     ]
   },
-  "34.56.254.167": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "34.88.1.37": {
     "region": "Europe",
     "country": "Finland",
@@ -1317,6 +1317,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.223.229.116": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "35.247.254.17": {
@@ -1685,8 +1695,8 @@
     "cc": "US",
     "city": "Philadelphia",
     "coordinates": [
-      40.09,
-      -75.0363
+      39.9476,
+      -75.1474
     ]
   },
   "72.18.132.133": {
@@ -1785,8 +1795,8 @@
     "cc": "US",
     "city": "Huntington Beach",
     "coordinates": [
-      33.675,
-      -118.0027
+      33.6532,
+      -118.0098
     ]
   },
   "78.45.199.104": {
@@ -1815,8 +1825,8 @@
     "cc": "BE",
     "city": "Antwerp",
     "coordinates": [
-      51.2192,
-      4.3917
+      51.2198,
+      4.4671
     ]
   },
   "80.211.201.216": {
@@ -2003,10 +2013,10 @@
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Przasnysz",
+    "city": "Lodz",
     "coordinates": [
-      53.0191,
-      20.8803
+      51.7706,
+      19.4739
     ]
   },
   "94.45.205.16": {
@@ -2075,8 +2085,8 @@
     "cc": "US",
     "city": "Riverbank",
     "coordinates": [
-      37.7399,
-      -120.9347
+      37.7308,
+      -120.9382
     ]
   },
   "98.128.174.153": {
