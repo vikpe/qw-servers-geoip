@@ -719,6 +719,16 @@
       14.9942
     ]
   },
+  "185.192.124.124": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "185.192.124.150": {
     "region": "South America",
     "country": "Brazil",
@@ -1199,16 +1209,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1237,16 +1237,6 @@
     "coordinates": [
       64.1172,
       -21.9154
-    ]
-  },
-  "31.40.212.148": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6176,
-      -58.3809
     ]
   },
   "34.11.71.144": {
@@ -1467,6 +1457,26 @@
     "coordinates": [
       59.3326,
       18.0651
+    ]
+  },
+  "5.161.55.215": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0469,
+      -77.4903
+    ]
+  },
+  "5.173.159.51": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2299,
+      21.0093
     ]
   },
   "5.196.28.199": {
@@ -1909,16 +1919,6 @@
       19.4805
     ]
   },
-  "86.27.70.69": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Westgate on Sea",
-    "coordinates": [
-      51.3842,
-      1.331
-    ]
-  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -1979,16 +1979,6 @@
       15.6288
     ]
   },
-  "93.212.97.177": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.4674,
-      13.3482
-    ]
-  },
   "93.95.230.175": {
     "region": "Europe",
     "country": "Iceland",
@@ -2007,16 +1997,6 @@
     "coordinates": [
       47.5053,
       7.5477
-    ]
-  },
-  "94.254.239.126": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Lodz",
-    "coordinates": [
-      51.7706,
-      19.4739
     ]
   },
   "94.45.205.16": {
