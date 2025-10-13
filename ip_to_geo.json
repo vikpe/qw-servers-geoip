@@ -179,16 +179,6 @@
       145.2136
     ]
   },
-  "124.170.203.220": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8201,
-      144.9636
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1809,16 +1799,6 @@
       -123.3709
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1827,6 +1807,16 @@
     "coordinates": [
       50.0948,
       14.4785
+    ]
+  },
+  "78.72.186.81": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "78.92.201.217": {
@@ -2007,6 +1997,16 @@
     "coordinates": [
       47.5053,
       7.5477
+    ]
+  },
+  "94.23.249.185": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Roubaix",
+    "coordinates": [
+      50.6924,
+      3.20113
     ]
   },
   "94.45.205.16": {
