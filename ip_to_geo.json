@@ -1209,6 +1209,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1237,16 +1247,6 @@
     "coordinates": [
       64.1172,
       -21.9154
-    ]
-  },
-  "34.11.71.144": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.116.137.109": {
@@ -1579,16 +1579,6 @@
       -46.6333
     ]
   },
-  "54.92.145.18": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
   "54.94.165.196": {
     "region": "South America",
     "country": "Brazil",
@@ -1797,6 +1787,16 @@
     "coordinates": [
       48.4248,
       -123.3709
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6532,
+      -118.0098
     ]
   },
   "78.45.199.104": {
@@ -2107,6 +2107,16 @@
     "coordinates": [
       55.5811,
       12.9553
+    ]
+  },
+  "98.91.50.81": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
     ]
   },
   "99.72.255.45": {
