@@ -439,16 +439,6 @@
       -96.8021
     ]
   },
-  "155.4.206.139": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Ume\u00e5",
-    "coordinates": [
-      63.8247,
-      20.2559
-    ]
-  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -597,16 +587,6 @@
     "coordinates": [
       41.8835,
       -87.6305
-    ]
-  },
-  "173.69.60.97": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "East Greenwich",
-    "coordinates": [
-      41.6532,
-      -71.4615
     ]
   },
   "176.210.100.6": {
@@ -809,7 +789,7 @@
       12.3649
     ]
   },
-  "189.46.22.139": {
+  "189.46.22.230": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1019,6 +999,16 @@
       -104.816154
     ]
   },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.8544,
+      115.9749
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1057,16 +1047,6 @@
     "coordinates": [
       21.3513,
       -157.8725
-    ]
-  },
-  "212.247.51.186": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Gothenburg",
-    "coordinates": [
-      57.7065,
-      11.967
     ]
   },
   "212.42.38.88": {
@@ -1209,16 +1189,6 @@
       30.3096
     ]
   },
-  "31.209.232.192": {
-    "region": "Europe",
-    "country": "Iceland",
-    "cc": "IS",
-    "city": "Kopavogur",
-    "coordinates": [
-      64.1172,
-      -21.9154
-    ]
-  },
   "34.116.137.109": {
     "region": "Europe",
     "country": "Poland",
@@ -1247,26 +1217,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.174.84.177": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
-  "34.186.93.39": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.32.95.193": {
@@ -1709,6 +1659,16 @@
       -80.7301
     ]
   },
+  "73.123.216.194": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
+    ]
+  },
   "73.143.214.84": {
     "region": "North America",
     "country": "United States",
@@ -1747,16 +1707,6 @@
     "coordinates": [
       26.6909,
       -81.9483
-    ]
-  },
-  "73.47.176.11": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
     ]
   },
   "74.91.119.37": {
@@ -1889,6 +1839,16 @@
       -16.9
     ]
   },
+  "85.220.65.204": {
+    "region": "Europe",
+    "country": "Iceland",
+    "cc": "IS",
+    "city": "Kopavogur",
+    "coordinates": [
+      64.1172,
+      -21.9154
+    ]
+  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -1997,6 +1957,16 @@
     "coordinates": [
       50.6924,
       3.20113
+    ]
+  },
+  "94.45.205.16": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
     ]
   },
   "95.165.130.151": {
