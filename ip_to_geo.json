@@ -149,6 +149,16 @@
       29.9827
     ]
   },
+  "115.64.104.134": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -437,6 +447,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "155.4.206.139": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Ume\u00e5",
+    "coordinates": [
+      63.8247,
+      20.2559
     ]
   },
   "158.101.16.37": {
@@ -997,16 +1017,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.8544,
-      115.9749
     ]
   },
   "203.29.240.182": {
@@ -1769,6 +1779,16 @@
       18.9191
     ]
   },
+  "78.92.205.217": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
   "80.200.117.95": {
     "region": "Europe",
     "country": "Belgium",
@@ -1957,16 +1977,6 @@
     "coordinates": [
       50.6924,
       3.20113
-    ]
-  },
-  "94.45.205.16": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
     ]
   },
   "95.165.130.151": {
