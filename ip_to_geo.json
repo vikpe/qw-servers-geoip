@@ -369,16 +369,6 @@
       5.12142
     ]
   },
-  "145.239.94.156": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.1005,
-      17.0324
-    ]
-  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -487,6 +477,16 @@
     "coordinates": [
       60.0797,
       11.031
+    ]
+  },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
     ]
   },
   "159.69.87.212": {
@@ -1269,16 +1269,6 @@
       -95.8608
     ]
   },
-  "35.236.238.80": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.247.254.17": {
     "region": "South America",
     "country": "Brazil",
@@ -1939,6 +1929,16 @@
       0.0098
     ]
   },
+  "92.35.23.44": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Link\u00f6ping",
+    "coordinates": [
+      58.416,
+      15.6288
+    ]
+  },
   "93.95.230.175": {
     "region": "Europe",
     "country": "Iceland",
@@ -2027,16 +2027,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "97.118.232.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.7593,
-      -104.9651
     ]
   },
   "97.94.129.234": {
