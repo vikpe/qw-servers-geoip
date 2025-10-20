@@ -369,6 +369,16 @@
       5.12142
     ]
   },
+  "145.239.94.156": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1005,
+      17.0324
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -477,16 +487,6 @@
     "coordinates": [
       60.0797,
       11.031
-    ]
-  },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
     ]
   },
   "159.69.87.212": {
@@ -1009,6 +1009,16 @@
       -104.816154
     ]
   },
+  "201.26.105.220": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
+    ]
+  },
   "202.87.162.206": {
     "region": "Oceania",
     "country": "Australia",
@@ -1267,6 +1277,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "35.245.0.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.247.254.17": {
@@ -1639,16 +1659,6 @@
       21.0093
     ]
   },
-  "72.109.30.81": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      39.9476,
-      -75.1474
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1737,6 +1747,16 @@
     "coordinates": [
       48.4248,
       -123.3709
+    ]
+  },
+  "75.192.180.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cinnaminson",
+    "coordinates": [
+      40.0055,
+      -74.9979
     ]
   },
   "75.82.121.13": {
