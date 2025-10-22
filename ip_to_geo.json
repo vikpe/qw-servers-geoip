@@ -599,16 +599,6 @@
       -87.6305
     ]
   },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8363,
-      -90.6999
-    ]
-  },
   "173.69.60.97": {
     "region": "North America",
     "country": "United States",
@@ -627,6 +617,16 @@
     "coordinates": [
       54.9896,
       73.3729
+    ]
+  },
+  "177.138.57.4": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.8951,
+      -47.0439
     ]
   },
   "178.79.135.210": {
@@ -797,16 +797,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "189.46.22.230": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.8951,
-      -47.0439
     ]
   },
   "189.6.97.59": {
@@ -1259,6 +1249,16 @@
       13.4049
     ]
   },
+  "34.61.139.98": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.88.1.37": {
     "region": "Europe",
     "country": "Finland",
@@ -1277,16 +1277,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.223.229.116": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.247.254.17": {
@@ -1439,14 +1429,14 @@
       -77.4903
     ]
   },
-  "5.173.195.40": {
+  "5.173.194.255": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Warsaw",
+    "city": "Lodz",
     "coordinates": [
-      52.2297,
-      21.0122
+      51.7706,
+      19.4739
     ]
   },
   "5.196.28.199": {
@@ -2030,6 +2020,16 @@
     ]
   },
   "95.216.8.8": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1719,
+      24.9347
+    ]
+  },
+  "95.217.76.136": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
