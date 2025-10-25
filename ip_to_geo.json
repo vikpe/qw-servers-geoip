@@ -169,16 +169,6 @@
       174.7365
     ]
   },
-  "122.199.63.203": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8469,
-      145.2136
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -207,16 +197,6 @@
     "coordinates": [
       -26.2041,
       28.0473
-    ]
-  },
-  "13.57.199.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
     ]
   },
   "13.74.254.86": {
@@ -589,7 +569,7 @@
       -74.0565
     ]
   },
-  "170.64.134.188": {
+  "170.64.231.166": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
@@ -1029,16 +1009,6 @@
       -46.6351
     ]
   },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -32.0313,
-      115.9703
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1087,16 +1057,6 @@
     "coordinates": [
       55.7558,
       37.6173
-    ]
-  },
-  "213.164.209.174": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1199,16 +1159,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1227,6 +1177,16 @@
     "coordinates": [
       59.9417,
       30.3096
+    ]
+  },
+  "34.11.23.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.116.137.109": {
@@ -1889,6 +1849,16 @@
       -21.9453
     ]
   },
+  "85.229.4.238": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "V\u00e5rsta",
+    "coordinates": [
+      59.2484,
+      18.0782
+    ]
+  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -1897,6 +1867,16 @@
     "coordinates": [
       50.0196,
       20.9853
+    ]
+  },
+  "85.76.137.107": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.2327,
+      25.0031
     ]
   },
   "85.89.175.250": {
@@ -1927,16 +1907,6 @@
     "coordinates": [
       48.709,
       8.7399
-    ]
-  },
-  "88.99.66.210": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Falkenstein",
-    "coordinates": [
-      50.4777,
-      12.3649
     ]
   },
   "89.151.207.164": {
@@ -2007,6 +1977,16 @@
     "coordinates": [
       50.6924,
       3.20113
+    ]
+  },
+  "94.245.151.76": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Yakutsk",
+    "coordinates": [
+      62.0313,
+      129.7325
     ]
   },
   "94.45.205.16": {
