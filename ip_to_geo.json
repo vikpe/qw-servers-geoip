@@ -199,6 +199,16 @@
       28.0473
     ]
   },
+  "13.251.101.171": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.28009,
+      103.851
+    ]
+  },
   "13.74.254.86": {
     "region": "Europe",
     "country": "Ireland",
@@ -569,16 +579,6 @@
       -74.0565
     ]
   },
-  "170.64.231.166": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8978,
-      151.1899
-    ]
-  },
   "170.80.110.38": {
     "region": "South America",
     "country": "Brazil",
@@ -799,6 +799,16 @@
       12.3649
     ]
   },
+  "188.93.140.190": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3326,
+      18.0651
+    ]
+  },
   "190.104.34.13": {
     "region": "South America",
     "country": "Argentina",
@@ -807,6 +817,16 @@
     "coordinates": [
       -36,
       -59.9964
+    ]
+  },
+  "191.204.203.138": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.6293,
+      -46.6351
     ]
   },
   "192.121.119.117": {
@@ -999,14 +1019,14 @@
       -104.816154
     ]
   },
-  "201.26.105.220": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
     "coordinates": [
-      -23.6293,
-      -46.6351
+      -32.0313,
+      115.9703
     ]
   },
   "203.29.240.182": {
@@ -1057,6 +1077,16 @@
     "coordinates": [
       55.7558,
       37.6173
+    ]
+  },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1177,16 +1207,6 @@
     "coordinates": [
       59.9417,
       30.3096
-    ]
-  },
-  "34.11.23.60": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.116.137.109": {
@@ -1379,26 +1399,6 @@
       -96.8021
     ]
   },
-  "46.105.46.52": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Roubaix",
-    "coordinates": [
-      50.6924,
-      3.20113
-    ]
-  },
-  "46.112.4.136": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Szczecin",
-    "coordinates": [
-      53.4289,
-      14.553
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1417,6 +1417,16 @@
     "coordinates": [
       39.0469,
       -77.4903
+    ]
+  },
+  "5.173.192.98": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Pionki",
+    "coordinates": [
+      51.476,
+      21.4499
     ]
   },
   "5.196.28.199": {
@@ -1839,6 +1849,16 @@
       -16.9
     ]
   },
+  "85.121.48.69": {
+    "region": "Europe",
+    "country": "Romania",
+    "cc": "RO",
+    "city": "Bucharest",
+    "coordinates": [
+      44.4268,
+      26.1025
+    ]
+  },
   "85.220.65.204": {
     "region": "Europe",
     "country": "Iceland",
@@ -1869,16 +1889,6 @@
       20.9853
     ]
   },
-  "85.76.137.107": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.2327,
-      25.0031
-    ]
-  },
   "85.89.175.250": {
     "region": "Europe",
     "country": "Poland",
@@ -1907,6 +1917,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "88.99.66.210": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Falkenstein",
+    "coordinates": [
+      50.4777,
+      12.3649
     ]
   },
   "89.151.207.164": {
@@ -1977,16 +1997,6 @@
     "coordinates": [
       50.6924,
       3.20113
-    ]
-  },
-  "94.245.151.76": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Yakutsk",
-    "coordinates": [
-      62.0313,
-      129.7325
     ]
   },
   "94.45.205.16": {
