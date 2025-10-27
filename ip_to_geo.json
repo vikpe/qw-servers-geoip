@@ -169,6 +169,16 @@
       174.7365
     ]
   },
+  "122.199.63.203": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8469,
+      145.2136
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -207,6 +217,16 @@
     "coordinates": [
       1.28009,
       103.851
+    ]
+  },
+  "13.57.199.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.3394,
+      -121.895
     ]
   },
   "13.74.254.86": {
@@ -489,6 +509,16 @@
       11.031
     ]
   },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -557,6 +587,16 @@
     "coordinates": [
       40.8364,
       -74.1403
+    ]
+  },
+  "170.168.15.20": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.7431,
+      55.9678
     ]
   },
   "170.239.85.153": {
@@ -657,6 +697,16 @@
     "coordinates": [
       39.3202,
       -84.552
+    ]
+  },
+  "184.57.53.220": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Columbus",
+    "coordinates": [
+      40.0536,
+      -83.0115
     ]
   },
   "185.145.156.131": {
@@ -777,16 +827,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "188.243.158.208": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "St Petersburg",
-    "coordinates": [
-      59.8983,
-      30.2618
     ]
   },
   "188.40.103.81": {
@@ -1849,6 +1889,16 @@
       -16.9
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.121.48.69": {
     "region": "Europe",
     "country": "Romania",
@@ -1857,6 +1907,16 @@
     "coordinates": [
       44.4268,
       26.1025
+    ]
+  },
+  "85.208.208.65": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
     ]
   },
   "85.220.65.204": {
