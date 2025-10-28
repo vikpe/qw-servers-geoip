@@ -489,6 +489,16 @@
       4.9392
     ]
   },
+  "158.174.100.106": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sollentuna",
+    "coordinates": [
+      59.4284,
+      17.9653
+    ]
+  },
   "158.23.48.92": {
     "region": "North America",
     "country": "Mexico",
@@ -627,6 +637,16 @@
     "coordinates": [
       -3.717,
       -38.5287
+    ]
+  },
+  "172.235.175.10": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "172.236.100.99": {
@@ -827,6 +847,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "188.242.60.53": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "St Petersburg",
+    "coordinates": [
+      59.8983,
+      30.2618
     ]
   },
   "188.40.103.81": {
@@ -1299,6 +1329,16 @@
       -95.8608
     ]
   },
+  "34.85.183.2": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.88.1.37": {
     "region": "Europe",
     "country": "Finland",
@@ -1679,16 +1719,6 @@
       -104.9945
     ]
   },
-  "72.239.228.235": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Merritt Island",
-    "coordinates": [
-      28.2764,
-      -80.6568
-    ]
-  },
   "73.123.216.194": {
     "region": "North America",
     "country": "United States",
@@ -1889,16 +1919,6 @@
       -16.9
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.121.48.69": {
     "region": "Europe",
     "country": "Romania",
@@ -1927,16 +1947,6 @@
     "coordinates": [
       64.0677,
       -21.9453
-    ]
-  },
-  "85.229.4.238": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "V\u00e5rsta",
-    "coordinates": [
-      59.2484,
-      18.0782
     ]
   },
   "85.28.131.207": {
