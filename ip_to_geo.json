@@ -789,6 +789,16 @@
       -46.6361
     ]
   },
+  "185.192.124.38": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "185.236.108.250": {
     "region": "Europe",
     "country": "Poland",
@@ -877,16 +887,6 @@
     "coordinates": [
       59.3326,
       18.0651
-    ]
-  },
-  "190.104.34.13": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -36,
-      -59.9964
     ]
   },
   "191.204.203.138": {
@@ -1309,6 +1309,16 @@
       -80.013
     ]
   },
+  "34.32.95.165": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.52,
+      13.4049
+    ]
+  },
   "34.32.95.193": {
     "region": "Europe",
     "country": "Germany",
@@ -1327,16 +1337,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "34.85.183.2": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.88.1.37": {
@@ -1659,16 +1659,6 @@
       -74.0203
     ]
   },
-  "69.226.253.51": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Olmsted",
-    "coordinates": [
-      41.4156,
-      -81.9235
-    ]
-  },
   "69.23.214.248": {
     "region": "North America",
     "country": "United States",
@@ -1717,6 +1707,16 @@
     "coordinates": [
       39.7491,
       -104.9945
+    ]
+  },
+  "72.239.228.235": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Merritt Island",
+    "coordinates": [
+      28.2764,
+      -80.6568
     ]
   },
   "73.123.216.194": {
@@ -1877,6 +1877,16 @@
     "coordinates": [
       52.5234,
       13.3224
+    ]
+  },
+  "81.225.132.107": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Grums",
+    "coordinates": [
+      59.3464,
+      13.0883
     ]
   },
   "82.196.112.57": {
