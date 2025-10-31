@@ -129,6 +129,16 @@
       -87.9954
     ]
   },
+  "109.173.237.19": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Poznan",
+    "coordinates": [
+      52.3904,
+      16.8697
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -519,16 +529,6 @@
       11.031
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -659,6 +659,16 @@
       -87.6305
     ]
   },
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.7767,
+      -90.7694
+    ]
+  },
   "173.69.60.97": {
     "region": "North America",
     "country": "United States",
@@ -739,16 +749,6 @@
       -83.0115
     ]
   },
-  "185.145.156.131": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3759,
-      4.8975
-    ]
-  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -790,16 +790,6 @@
     ]
   },
   "185.192.124.150": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
-    ]
-  },
-  "185.192.124.38": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -897,6 +887,16 @@
     "coordinates": [
       59.3326,
       18.0651
+    ]
+  },
+  "190.104.34.13": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -36,
+      -59.9964
     ]
   },
   "192.121.119.117": {
@@ -1259,6 +1259,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1337,6 +1347,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "34.85.160.146": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.88.1.37": {
@@ -1659,16 +1679,6 @@
       -74.0203
     ]
   },
-  "69.226.253.51": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Olmsted",
-    "coordinates": [
-      41.4156,
-      -81.9235
-    ]
-  },
   "69.23.214.248": {
     "region": "North America",
     "country": "United States",
@@ -1799,6 +1809,16 @@
       -123.4206
     ]
   },
+  "75.192.158.61": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lehighton",
+    "coordinates": [
+      40.8327,
+      -75.7033
+    ]
+  },
   "75.192.180.237": {
     "region": "North America",
     "country": "United States",
@@ -1807,16 +1827,6 @@
     "coordinates": [
       39.6293,
       -75.6583
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
     ]
   },
   "78.45.199.104": {
