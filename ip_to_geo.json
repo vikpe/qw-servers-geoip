@@ -309,6 +309,16 @@
       4.6563
     ]
   },
+  "136.107.70.132": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -669,6 +679,16 @@
       -87.6305
     ]
   },
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.7767,
+      -90.7694
+    ]
+  },
   "173.69.60.97": {
     "region": "North America",
     "country": "United States",
@@ -737,16 +757,6 @@
     "coordinates": [
       39.3202,
       -84.552
-    ]
-  },
-  "184.57.53.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Columbus",
-    "coordinates": [
-      40.0536,
-      -83.0115
     ]
   },
   "185.157.244.204": {
@@ -987,16 +997,6 @@
     "coordinates": [
       47.5667,
       20.5333
-    ]
-  },
-  "194.68.22.126": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Norsj\u00f6",
-    "coordinates": [
-      64.9202,
-      19.481
     ]
   },
   "195.201.133.22": {
@@ -1329,16 +1329,6 @@
       13.4049
     ]
   },
-  "34.32.95.193": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.52,
-      13.4049
-    ]
-  },
   "34.61.139.98": {
     "region": "North America",
     "country": "United States",
@@ -1349,16 +1339,6 @@
       -95.8608
     ]
   },
-  "34.88.1.37": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Lappeenranta",
-    "coordinates": [
-      61.0549,
-      28.1896
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1367,16 +1347,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.247.254.17": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Sao Paulo",
-    "coordinates": [
-      -23.5505,
-      -46.6333
     ]
   },
   "37.201.131.70": {
@@ -1819,14 +1789,14 @@
       -75.1474
     ]
   },
-  "76.144.209.129": {
+  "75.82.121.13": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Tualatin",
+    "city": "Huntington Beach",
     "coordinates": [
-      45.3716,
-      -122.7656
+      33.6532,
+      -118.0098
     ]
   },
   "78.45.199.104": {
@@ -1849,7 +1819,7 @@
       12.9982
     ]
   },
-  "78.92.201.215": {
+  "78.92.196.216": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1987,16 +1957,6 @@
     "coordinates": [
       50.0196,
       20.9853
-    ]
-  },
-  "85.76.143.143": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.2577,
-      24.9764
     ]
   },
   "85.89.175.250": {
