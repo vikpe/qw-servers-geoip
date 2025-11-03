@@ -69,6 +69,16 @@
       -83.0458
     ]
   },
+  "104.137.106.182": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cantonment",
+    "coordinates": [
+      30.6085,
+      -87.34
+    ]
+  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -127,16 +137,6 @@
     "coordinates": [
       42.0048,
       -87.9954
-    ]
-  },
-  "109.173.237.19": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Poznan",
-    "coordinates": [
-      52.3904,
-      16.8697
     ]
   },
   "109.200.20.152": {
@@ -307,16 +307,6 @@
     "coordinates": [
       52.3891,
       4.6563
-    ]
-  },
-  "136.107.70.132": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "136.243.174.101": {
@@ -539,16 +529,6 @@
       11.031
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -767,6 +747,16 @@
     "coordinates": [
       48.8909,
       2.2093
+    ]
+  },
+  "185.183.195.1": {
+    "region": "Europe",
+    "country": "Switzerland",
+    "cc": "CH",
+    "city": "Embrach",
+    "coordinates": [
+      47.5048,
+      8.5866
     ]
   },
   "185.185.40.101": {
@@ -1339,6 +1329,16 @@
       -95.8608
     ]
   },
+  "34.88.31.215": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Lappeenranta",
+    "coordinates": [
+      61.0549,
+      28.1896
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1699,6 +1699,16 @@
       -104.9945
     ]
   },
+  "72.216.20.4": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Pensacola",
+    "coordinates": [
+      30.4767,
+      -87.3141
+    ]
+  },
   "72.239.228.235": {
     "region": "North America",
     "country": "United States",
@@ -1827,16 +1837,6 @@
     "coordinates": [
       47.4277,
       18.9191
-    ]
-  },
-  "78.92.237.208": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Fony\u00f3d",
-    "coordinates": [
-      46.7583,
-      17.5777
     ]
   },
   "80.200.117.95": {
