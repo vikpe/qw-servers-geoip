@@ -89,6 +89,16 @@
       -74.4606
     ]
   },
+  "107.175.32.175": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Buffalo",
+    "coordinates": [
+      42.8864,
+      -78.8784
+    ]
+  },
   "108.181.43.71": {
     "region": "North America",
     "country": "United States",
@@ -527,6 +537,16 @@
     "coordinates": [
       60.0797,
       11.031
+    ]
+  },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
     ]
   },
   "159.69.87.212": {
@@ -1479,14 +1499,14 @@
       -77.4903
     ]
   },
-  "5.173.192.98": {
+  "5.173.26.23": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Pionki",
+    "city": "Warsaw",
     "coordinates": [
-      51.476,
-      21.4499
+      52.2299,
+      21.0093
     ]
   },
   "5.196.28.199": {
@@ -1689,7 +1709,7 @@
       21.0093
     ]
   },
-  "72.18.132.133": {
+  "72.18.132.113": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1699,14 +1719,14 @@
       -104.9945
     ]
   },
-  "72.216.20.4": {
+  "72.18.132.133": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Pensacola",
+    "city": "Denver",
     "coordinates": [
-      30.4767,
-      -87.3141
+      39.7491,
+      -104.9945
     ]
   },
   "72.239.228.235": {
@@ -1839,6 +1859,16 @@
       18.9191
     ]
   },
+  "78.92.237.208": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Fony\u00f3d",
+    "coordinates": [
+      46.7583,
+      17.5777
+    ]
+  },
   "80.200.117.95": {
     "region": "Europe",
     "country": "Belgium",
@@ -1917,6 +1947,16 @@
     "coordinates": [
       32.6333,
       -16.9
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.121.48.69": {
