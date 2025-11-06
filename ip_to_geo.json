@@ -149,6 +149,16 @@
       -0.127586
     ]
   },
+  "109.72.119.213": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Santiago",
+    "coordinates": [
+      -33.4521,
+      -70.6536
+    ]
+  },
   "109.72.168.42": {
     "region": "Europe",
     "country": "Norway",
@@ -217,16 +227,6 @@
     "coordinates": [
       -26.2041,
       28.0473
-    ]
-  },
-  "13.251.101.171": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.28009,
-      103.851
     ]
   },
   "13.57.199.211": {
@@ -527,6 +527,16 @@
     "coordinates": [
       60.0797,
       11.031
+    ]
+  },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
     ]
   },
   "159.69.87.212": {
@@ -879,26 +889,6 @@
       12.3649
     ]
   },
-  "188.93.140.190": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
-    ]
-  },
-  "190.104.34.13": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -36,
-      -59.9964
-    ]
-  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -1089,6 +1079,16 @@
       -104.816154
     ]
   },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -32.0313,
+      115.9703
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1127,6 +1127,16 @@
     "coordinates": [
       21.3513,
       -157.8725
+    ]
+  },
+  "212.227.245.192": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.52,
+      13.405
     ]
   },
   "212.42.38.88": {
@@ -1247,16 +1257,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "3.212.223.70": {
@@ -1469,6 +1469,16 @@
       18.0651
     ]
   },
+  "46.23.94.114": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3676,
+      4.90414
+    ]
+  },
   "5.161.55.215": {
     "region": "North America",
     "country": "United States",
@@ -1500,6 +1510,16 @@
     ]
   },
   "50.47.16.20": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Mountlake Terrace",
+    "coordinates": [
+      47.7941,
+      -122.3066
+    ]
+  },
+  "50.47.31.44": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
