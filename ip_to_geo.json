@@ -69,6 +69,16 @@
       -83.0458
     ]
   },
+  "104.137.106.182": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cantonment",
+    "coordinates": [
+      30.6085,
+      -87.34
+    ]
+  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -187,16 +197,6 @@
     "coordinates": [
       -36.7178,
       174.7365
-    ]
-  },
-  "122.199.63.203": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8469,
-      145.2136
     ]
   },
   "128.199.52.100": {
@@ -369,6 +369,16 @@
       -0.1278
     ]
   },
+  "14.201.65.203": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.895,
+      145.0546
+    ]
+  },
   "141.105.67.104": {
     "region": "Europe",
     "country": "Russia",
@@ -529,16 +539,6 @@
       11.031
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -669,16 +669,6 @@
       -87.6305
     ]
   },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.7767,
-      -90.7694
-    ]
-  },
   "173.69.60.97": {
     "region": "North America",
     "country": "United States",
@@ -719,16 +709,6 @@
       -0.1278
     ]
   },
-  "179.94.169.239": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.6293,
-      -46.6351
-    ]
-  },
   "18.228.3.244": {
     "region": "South America",
     "country": "Brazil",
@@ -757,16 +737,6 @@
     "coordinates": [
       48.8909,
       2.2093
-    ]
-  },
-  "185.183.195.1": {
-    "region": "Europe",
-    "country": "Switzerland",
-    "cc": "CH",
-    "city": "Embrach",
-    "coordinates": [
-      47.5048,
-      8.5866
     ]
   },
   "185.185.40.101": {
@@ -887,6 +857,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "191.205.132.152": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "192.121.119.117": {
@@ -1167,6 +1147,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "213.76.101.30": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2277,
+      21.0082
     ]
   },
   "213.80.111.176": {
@@ -1459,6 +1449,16 @@
       -96.8021
     ]
   },
+  "46.113.13.51": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2144,
+      21.0254
+    ]
+  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1489,16 +1489,6 @@
       -77.4903
     ]
   },
-  "5.173.26.23": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2299,
-      21.0093
-    ]
-  },
   "5.196.28.199": {
     "region": "Europe",
     "country": "France",
@@ -1507,16 +1497,6 @@
     "coordinates": [
       50.6924,
       3.20113
-    ]
-  },
-  "50.47.16.20": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Mountlake Terrace",
-    "coordinates": [
-      47.7941,
-      -122.3066
     ]
   },
   "50.47.31.44": {
