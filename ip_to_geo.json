@@ -69,16 +69,6 @@
       -83.0458
     ]
   },
-  "104.137.106.182": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cantonment",
-    "coordinates": [
-      30.6085,
-      -87.34
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -367,16 +357,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "14.201.65.203": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.895,
-      145.0546
     ]
   },
   "141.105.67.104": {
@@ -1089,16 +1069,6 @@
       -46.9834
     ]
   },
-  "206.51.245.84": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8835,
-      -87.6305
-    ]
-  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1247,6 +1217,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "3.212.223.70": {
@@ -1799,16 +1779,6 @@
       -75.1474
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1997,16 +1967,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "89.151.207.164": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Steinkjer",
-    "coordinates": [
-      64.0161,
-      11.4985
     ]
   },
   "89.68.252.42": {
