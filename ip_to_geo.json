@@ -69,6 +69,16 @@
       -83.0458
     ]
   },
+  "104.137.106.182": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cantonment",
+    "coordinates": [
+      30.6085,
+      -87.34
+    ]
+  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -147,16 +157,6 @@
     "coordinates": [
       51.5072,
       -0.127586
-    ]
-  },
-  "109.72.119.213": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Santiago",
-    "coordinates": [
-      -33.4521,
-      -70.6536
     ]
   },
   "109.72.168.42": {
@@ -769,6 +769,16 @@
       20.9963
     ]
   },
+  "185.24.11.169": {
+    "region": "Europe",
+    "country": "Austria",
+    "cc": "AT",
+    "city": "Vienna",
+    "coordinates": [
+      48.2049,
+      16.3662
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -837,6 +847,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "190.104.34.13": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -36,
+      -59.9964
     ]
   },
   "191.205.132.152": {
@@ -1069,6 +1089,16 @@
       -46.9834
     ]
   },
+  "206.51.245.84": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8835,
+      -87.6305
+    ]
+  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1217,16 +1247,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "3.212.223.70": {
@@ -1889,6 +1909,16 @@
       -16.9
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.121.48.69": {
     "region": "Europe",
     "country": "Romania",
@@ -1927,6 +1957,16 @@
     "coordinates": [
       50.0196,
       20.9853
+    ]
+  },
+  "85.76.35.179": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Varpaisj\u00e4rvi",
+    "coordinates": [
+      63.3593,
+      27.7551
     ]
   },
   "85.89.175.250": {
