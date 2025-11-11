@@ -69,16 +69,6 @@
       -83.0458
     ]
   },
-  "104.137.106.182": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cantonment",
-    "coordinates": [
-      30.6085,
-      -87.34
-    ]
-  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -159,16 +149,6 @@
       -0.127586
     ]
   },
-  "109.72.168.42": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Bj\u00f8rnevatn",
-    "coordinates": [
-      69.6393,
-      29.9827
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -187,6 +167,16 @@
     "coordinates": [
       -36.7178,
       174.7365
+    ]
+  },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2881,
+      174.74
     ]
   },
   "128.199.52.100": {
@@ -759,26 +749,6 @@
       -46.6361
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2246,
-      20.9963
-    ]
-  },
-  "185.24.11.169": {
-    "region": "Europe",
-    "country": "Austria",
-    "cc": "AT",
-    "city": "Vienna",
-    "coordinates": [
-      48.2049,
-      16.3662
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -847,6 +817,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "189.6.97.59": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7798,
+      -47.9331
     ]
   },
   "190.104.34.13": {
@@ -1119,6 +1099,16 @@
       13.405
     ]
   },
+  "212.247.51.186": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "M\u00f6lnlycke",
+    "coordinates": [
+      57.6597,
+      12.123
+    ]
+  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1329,6 +1319,16 @@
       28.1896
     ]
   },
+  "35.138.62.129": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Brooksville",
+    "coordinates": [
+      28.5486,
+      -82.516
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1467,16 +1467,6 @@
     "coordinates": [
       59.3326,
       18.0651
-    ]
-  },
-  "46.23.94.114": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3676,
-      4.90414
     ]
   },
   "5.161.55.215": {
@@ -1719,16 +1709,6 @@
       -80.6568
     ]
   },
-  "73.123.216.194": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
-    ]
-  },
   "73.143.214.84": {
     "region": "North America",
     "country": "United States",
@@ -1749,16 +1729,6 @@
       -83.9007
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1767,6 +1737,16 @@
     "coordinates": [
       26.6909,
       -81.9483
+    ]
+  },
+  "73.47.176.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ridgefield",
+    "coordinates": [
+      41.298,
+      -73.4963
     ]
   },
   "74.91.119.37": {
@@ -1959,16 +1939,6 @@
       20.9853
     ]
   },
-  "85.76.35.179": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Varpaisj\u00e4rvi",
-    "coordinates": [
-      63.3593,
-      27.7551
-    ]
-  },
   "85.89.175.250": {
     "region": "Europe",
     "country": "Poland",
@@ -2039,6 +2009,16 @@
       15.6288
     ]
   },
+  "92.5.73.255": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1049,
+      8.6295
+    ]
+  },
   "93.95.230.175": {
     "region": "Europe",
     "country": "Iceland",
@@ -2067,16 +2047,6 @@
     "coordinates": [
       50.6924,
       3.20113
-    ]
-  },
-  "94.45.205.16": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
     ]
   },
   "95.165.130.151": {
@@ -2137,16 +2107,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "97.94.129.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Turlock",
-    "coordinates": [
-      37.4912,
-      -120.8559
     ]
   },
   "98.128.174.153": {
