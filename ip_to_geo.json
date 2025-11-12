@@ -619,6 +619,16 @@
       -38.5287
     ]
   },
+  "172.218.252.40": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Kelowna",
+    "coordinates": [
+      49.8956,
+      -119.4897
+    ]
+  },
   "172.235.175.10": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -657,6 +667,16 @@
     "coordinates": [
       54.9896,
       73.3729
+    ]
+  },
+  "177.112.139.106": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Jundia\u00ed",
+    "coordinates": [
+      -23.1798,
+      -46.8816
     ]
   },
   "177.138.57.4": {
@@ -719,16 +739,6 @@
       4.8975
     ]
   },
-  "185.189.139.18": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Konstancin-Jeziorna",
-    "coordinates": [
-      52.0936,
-      21.1244
-    ]
-  },
   "185.189.48.45": {
     "region": "Europe",
     "country": "Sweden",
@@ -757,16 +767,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "187.190.26.50": {
-    "region": "North America",
-    "country": "Mexico",
-    "cc": "MX",
-    "city": "Benito Juarez",
-    "coordinates": [
-      19.3591,
-      -99.1643
     ]
   },
   "188.166.161.185": {
@@ -837,16 +837,6 @@
     "coordinates": [
       -36,
       -59.9964
-    ]
-  },
-  "191.205.132.152": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "192.121.119.117": {
@@ -1089,6 +1079,16 @@
       -157.8725
     ]
   },
+  "210.5.39.30": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "212.227.245.192": {
     "region": "Europe",
     "country": "Germany",
@@ -1097,16 +1097,6 @@
     "coordinates": [
       52.52,
       13.405
-    ]
-  },
-  "212.247.51.186": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "M\u00f6lnlycke",
-    "coordinates": [
-      57.6597,
-      12.123
     ]
   },
   "212.42.38.88": {
@@ -1137,16 +1127,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "213.76.101.30": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2277,
-      21.0082
     ]
   },
   "213.80.111.176": {
@@ -1297,6 +1277,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.48.116.232": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.61.139.98": {
@@ -1817,16 +1807,6 @@
     "coordinates": [
       46.7583,
       17.5777
-    ]
-  },
-  "80.200.117.95": {
-    "region": "Europe",
-    "country": "Belgium",
-    "cc": "BE",
-    "city": "Antwerp",
-    "coordinates": [
-      51.1904,
-      4.4294
     ]
   },
   "80.211.201.216": {
