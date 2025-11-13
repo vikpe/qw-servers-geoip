@@ -219,16 +219,6 @@
       -121.895
     ]
   },
-  "13.74.254.86": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3478,
-      -6.2597
-    ]
-  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -649,14 +639,14 @@
       -87.6305
     ]
   },
-  "173.69.60.97": {
+  "173.206.33.156": {
     "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Riverside",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Toronto",
     "coordinates": [
-      41.7741,
-      -71.3738
+      43.7154,
+      -79.3896
     ]
   },
   "176.210.100.6": {
@@ -739,6 +729,16 @@
       4.8975
     ]
   },
+  "185.189.139.18": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Konstancin-Jeziorna",
+    "coordinates": [
+      52.0936,
+      21.1244
+    ]
+  },
   "185.189.48.45": {
     "region": "Europe",
     "country": "Sweden",
@@ -757,6 +757,16 @@
     "coordinates": [
       -23.5475,
       -46.6361
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2246,
+      20.9963
     ]
   },
   "185.73.44.100": {
@@ -1109,16 +1119,6 @@
       37.6173
     ]
   },
-  "213.164.209.174": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
-    ]
-  },
   "213.239.216.253": {
     "region": "Europe",
     "country": "Germany",
@@ -1219,6 +1219,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1277,16 +1287,6 @@
     "coordinates": [
       52.52,
       13.4049
-    ]
-  },
-  "34.48.116.232": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.61.139.98": {
@@ -1737,16 +1737,6 @@
     "coordinates": [
       41.298,
       -73.4963
-    ]
-  },
-  "74.91.119.37": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8868,
-      -87.6386
     ]
   },
   "75.154.237.109": {
