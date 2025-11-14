@@ -179,6 +179,16 @@
       174.74
     ]
   },
+  "122.199.63.203": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8469,
+      145.2136
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -277,6 +287,16 @@
     "coordinates": [
       52.3891,
       4.6563
+    ]
+  },
+  "136.107.54.5": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "136.243.174.101": {
@@ -497,6 +517,16 @@
     "coordinates": [
       60.0797,
       11.031
+    ]
+  },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
     ]
   },
   "159.69.87.212": {
@@ -1119,6 +1149,16 @@
       37.6173
     ]
   },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
+    ]
+  },
   "213.239.216.253": {
     "region": "Europe",
     "country": "Germany",
@@ -1479,14 +1519,24 @@
       3.20113
     ]
   },
-  "50.47.31.44": {
+  "5.78.126.237": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Mountlake Terrace",
+    "city": "Hillsboro",
     "coordinates": [
-      47.7941,
-      -122.3066
+      45.526,
+      -122.9874
+    ]
+  },
+  "50.35.177.74": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lynnwood",
+    "coordinates": [
+      47.8022,
+      -122.286
     ]
   },
   "52.215.55.73": {
@@ -1719,6 +1769,16 @@
       -83.9007
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1857,16 +1917,6 @@
     "coordinates": [
       32.6333,
       -16.9
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.121.48.69": {
