@@ -169,6 +169,16 @@
       174.7365
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2881,
+      174.74
+    ]
+  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -839,16 +849,6 @@
       -47.9331
     ]
   },
-  "190.104.34.13": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -36,
-      -59.9964
-    ]
-  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -1229,6 +1229,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1247,6 +1257,16 @@
     "coordinates": [
       59.9417,
       30.3096
+    ]
+  },
+  "31.40.212.199": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6176,
+      -58.3809
     ]
   },
   "34.116.137.109": {
@@ -1457,16 +1477,6 @@
     "coordinates": [
       59.3326,
       18.0651
-    ]
-  },
-  "46.62.241.241": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1699,
-      24.9384
     ]
   },
   "5.161.55.215": {
@@ -1820,6 +1830,16 @@
     ]
   },
   "78.92.196.216": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
+  "78.92.206.28": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
