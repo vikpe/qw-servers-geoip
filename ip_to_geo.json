@@ -219,6 +219,16 @@
       28.0473
     ]
   },
+  "13.251.101.171": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.28009,
+      103.851
+    ]
+  },
   "13.57.199.211": {
     "region": "North America",
     "country": "United States",
@@ -1229,16 +1239,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1829,16 +1829,6 @@
       12.9982
     ]
   },
-  "78.92.196.216": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
   "78.92.206.28": {
     "region": "Europe",
     "country": "Hungary",
@@ -1969,16 +1959,6 @@
       19.4805
     ]
   },
-  "87.121.75.193": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Brisbane",
-    "coordinates": [
-      -27.6086,
-      153.3059
-    ]
-  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -2007,16 +1987,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "89.101.28.233": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3586,
-      -6.2483
     ]
   },
   "89.68.252.42": {
