@@ -1199,16 +1199,6 @@
       151.0463
     ]
   },
-  "223.165.64.141": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8906,
-      174.794
-    ]
-  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1237,6 +1227,16 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "3.212.223.70": {
