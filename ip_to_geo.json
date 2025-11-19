@@ -219,16 +219,6 @@
       28.0473
     ]
   },
-  "13.251.101.171": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.28009,
-      103.851
-    ]
-  },
   "13.57.199.211": {
     "region": "North America",
     "country": "United States",
@@ -679,16 +669,6 @@
       73.3729
     ]
   },
-  "177.112.139.106": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Jundia\u00ed",
-    "coordinates": [
-      -23.1798,
-      -46.8816
-    ]
-  },
   "177.138.57.4": {
     "region": "South America",
     "country": "Brazil",
@@ -697,6 +677,16 @@
     "coordinates": [
       -22.8951,
       -47.0439
+    ]
+  },
+  "177.157.177.22": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "178.79.135.210": {
@@ -1119,6 +1109,16 @@
       13.405
     ]
   },
+  "212.247.51.186": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "M\u00f6lnlycke",
+    "coordinates": [
+      57.6597,
+      12.123
+    ]
+  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1229,16 +1229,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1267,6 +1257,16 @@
     "coordinates": [
       -34.6176,
       -58.3809
+    ]
+  },
+  "34.11.101.167": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.116.137.109": {
@@ -1459,16 +1459,6 @@
       -96.8021
     ]
   },
-  "46.113.13.51": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2144,
-      21.0254
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1487,6 +1477,16 @@
     "coordinates": [
       39.0469,
       -77.4903
+    ]
+  },
+  "5.173.30.2": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2299,
+      21.0093
     ]
   },
   "5.196.28.199": {
@@ -1747,16 +1747,6 @@
     "coordinates": [
       33.839,
       -83.9007
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -2117,6 +2107,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "97.94.129.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Turlock",
+    "coordinates": [
+      37.4912,
+      -120.8559
     ]
   },
   "98.128.174.153": {
