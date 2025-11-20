@@ -169,16 +169,6 @@
       174.7365
     ]
   },
-  "121.99.166.164": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Wellington",
-    "coordinates": [
-      -41.2881,
-      174.74
-    ]
-  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -819,16 +809,6 @@
       4.9392
     ]
   },
-  "188.242.60.53": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "St Petersburg",
-    "coordinates": [
-      59.8983,
-      30.2618
-    ]
-  },
   "188.40.103.81": {
     "region": "Europe",
     "country": "Germany",
@@ -1129,14 +1109,14 @@
       37.6173
     ]
   },
-  "213.164.209.174": {
+  "212.53.165.161": {
     "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Hamburg",
     "coordinates": [
-      55.6078,
-      12.9982
+      53.5522,
+      10.04
     ]
   },
   "213.239.216.253": {
@@ -1257,16 +1237,6 @@
     "coordinates": [
       -34.6176,
       -58.3809
-    ]
-  },
-  "34.11.101.167": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.116.137.109": {
@@ -1617,6 +1587,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "62.220.162.124": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lidk\u00f6ping",
+    "coordinates": [
+      58.5019,
+      13.1585
     ]
   },
   "62.80.247.69": {
