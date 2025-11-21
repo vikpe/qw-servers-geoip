@@ -669,16 +669,6 @@
       -47.0439
     ]
   },
-  "177.157.177.22": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
-    ]
-  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -687,6 +677,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "179.94.168.151": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.6293,
+      -46.6351
     ]
   },
   "18.228.3.244": {
@@ -1117,6 +1117,16 @@
     "coordinates": [
       53.5522,
       10.04
+    ]
+  },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1629,6 +1639,16 @@
       -74.0203
     ]
   },
+  "67.144.220.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.1,
+      -87.6307
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1767,16 +1787,6 @@
     "coordinates": [
       39.9476,
       -75.1474
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
     ]
   },
   "78.45.199.104": {
