@@ -179,16 +179,6 @@
       174.74
     ]
   },
-  "122.199.63.203": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8469,
-      145.2136
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -509,16 +499,6 @@
       11.031
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -687,16 +667,6 @@
     "coordinates": [
       -22.8951,
       -47.0439
-    ]
-  },
-  "177.139.7.175": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.6293,
-      -46.6351
     ]
   },
   "178.79.135.210": {
@@ -1219,16 +1189,6 @@
       -96.8704
     ]
   },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1649,16 +1609,6 @@
       -74.0203
     ]
   },
-  "67.144.220.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.1,
-      -87.6307
-    ]
-  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1729,16 +1679,6 @@
       -104.9945
     ]
   },
-  "72.239.228.235": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Merritt Island",
-    "coordinates": [
-      28.2764,
-      -80.6568
-    ]
-  },
   "73.143.214.84": {
     "region": "North America",
     "country": "United States",
@@ -1757,6 +1697,16 @@
     "coordinates": [
       33.839,
       -83.9007
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
