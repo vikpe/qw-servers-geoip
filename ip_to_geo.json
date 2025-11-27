@@ -179,6 +179,16 @@
       174.74
     ]
   },
+  "122.199.63.203": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8469,
+      145.2136
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1189,6 +1199,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1207,16 +1227,6 @@
     "coordinates": [
       59.9417,
       30.3096
-    ]
-  },
-  "31.192.112.245": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3925,
-      4.84624
     ]
   },
   "31.40.212.199": {
@@ -1429,7 +1439,7 @@
       -77.4903
     ]
   },
-  "5.173.30.2": {
+  "5.173.30.13": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
@@ -1609,14 +1619,14 @@
       -74.0203
     ]
   },
-  "69.226.253.51": {
+  "67.144.220.103": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "North Olmsted",
+    "city": "Marinette",
     "coordinates": [
-      41.4156,
-      -81.9235
+      45.1,
+      -87.6307
     ]
   },
   "69.23.214.248": {
@@ -1749,16 +1759,6 @@
       -115.086
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1869,6 +1869,16 @@
       -16.9
     ]
   },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
+    ]
+  },
   "85.121.48.69": {
     "region": "Europe",
     "country": "Romania",
@@ -1897,6 +1907,16 @@
     "coordinates": [
       64.0677,
       -21.9453
+    ]
+  },
+  "85.221.162.142": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Poznan",
+    "coordinates": [
+      52.3834,
+      16.843
     ]
   },
   "85.28.131.207": {
