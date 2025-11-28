@@ -385,8 +385,8 @@
     "cc": "PL",
     "city": "Wroclaw",
     "coordinates": [
-      51.1005,
-      17.0324
+      51.101,
+      17.0295
     ]
   },
   "148.135.104.18": {
@@ -483,10 +483,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Sollentuna",
+    "city": "Lerum",
     "coordinates": [
-      59.4284,
-      17.9653
+      57.7701,
+      12.2653
     ]
   },
   "158.23.48.92": {
@@ -507,6 +507,16 @@
     "coordinates": [
       60.0797,
       11.031
+    ]
+  },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
     ]
   },
   "159.69.87.212": {
@@ -645,18 +655,18 @@
     "cc": "CA",
     "city": "Toronto",
     "coordinates": [
-      43.7154,
-      -79.3896
+      43.6911,
+      -79.3353
     ]
   },
   "173.69.60.97": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Riverside",
+    "city": "East Providence",
     "coordinates": [
-      41.7741,
-      -71.3738
+      41.815,
+      -71.3663
     ]
   },
   "176.210.100.6": {
@@ -775,8 +785,8 @@
     "cc": "GB",
     "city": "City of Westminster",
     "coordinates": [
-      51.5081,
-      -0.1278
+      51.5026,
+      -0.1339
     ]
   },
   "188.166.161.185": {
@@ -903,10 +913,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Tiszan\u00e1na",
+    "city": "Szeged",
     "coordinates": [
-      47.5667,
-      20.5333
+      46.2527,
+      20.154
     ]
   },
   "195.201.133.22": {
@@ -1015,8 +1025,8 @@
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -32.0313,
-      115.9703
+      -31.9474,
+      115.8648
     ]
   },
   "203.29.240.182": {
@@ -1057,6 +1067,16 @@
     "coordinates": [
       21.3513,
       -157.8725
+    ]
+  },
+  "212.162.155.158": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Poznan",
+    "coordinates": [
+      52.3794,
+      16.9709
     ]
   },
   "212.227.245.192": {
@@ -1123,7 +1143,7 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "H\u00e4sselby",
+    "city": "S\u00f6dert\u00e4lje",
     "coordinates": [
       59.15,
       16.85
@@ -1133,10 +1153,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Saint Paul",
+    "city": "Minneapolis",
     "coordinates": [
-      44.971,
-      -93.0498
+      44.8769,
+      -93.2535
     ]
   },
   "216.249.103.87": {
@@ -1165,8 +1185,8 @@
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -33.8906,
-      151.0463
+      -33.8399,
+      151.0583
     ]
   },
   "23.159.160.34": {
@@ -1197,16 +1217,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "3.212.223.70": {
@@ -1293,10 +1303,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Brooksville",
+    "city": "Port Richey",
     "coordinates": [
-      28.5486,
-      -82.516
+      28.2987,
+      -82.6902
     ]
   },
   "35.185.44.174": {
@@ -1425,8 +1435,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3326,
-      18.0651
+      59.3287,
+      18.0717
     ]
   },
   "5.161.55.215": {
@@ -1445,8 +1455,8 @@
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.2299,
-      21.0093
+      52.2319,
+      20.9943
     ]
   },
   "5.196.28.199": {
@@ -1593,10 +1603,10 @@
     "region": "Europe",
     "country": "Lithuania",
     "cc": "LT",
-    "city": "Nemun\u0117lio Radvili\u0161kis",
+    "city": "\u0160iauliai",
     "coordinates": [
-      56.4001,
-      24.7728
+      55.9399,
+      23.3132
     ]
   },
   "64.118.226.47": {
@@ -1619,14 +1629,14 @@
       -74.0203
     ]
   },
-  "67.144.220.103": {
+  "69.226.253.51": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Marinette",
+    "city": "North Olmsted",
     "coordinates": [
-      45.1,
-      -87.6307
+      41.4156,
+      -81.9235
     ]
   },
   "69.23.214.248": {
@@ -1635,28 +1645,28 @@
     "cc": "US",
     "city": "Springfield",
     "coordinates": [
-      39.9126,
-      -83.7821
+      39.9534,
+      -83.7801
     ]
   },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Sp\u00e5nga",
     "coordinates": [
-      59.3326,
-      18.0651
+      59.3779,
+      17.9155
     ]
   },
   "70.34.206.203": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Sp\u00e5nga",
     "coordinates": [
-      59.3326,
-      18.0651
+      59.3779,
+      17.9155
     ]
   },
   "70.34.242.113": {
@@ -1745,8 +1755,8 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.4518,
-      -123.4206
+      48.4152,
+      -123.3655
     ]
   },
   "75.175.156.139": {
@@ -1755,8 +1765,8 @@
     "cc": "US",
     "city": "Las Vegas",
     "coordinates": [
-      36.122,
-      -115.086
+      36.0907,
+      -115.0886
     ]
   },
   "78.45.199.104": {
@@ -1773,10 +1783,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Malmo",
+    "city": "Lund",
     "coordinates": [
-      55.6078,
-      12.9982
+      55.7037,
+      13.1946
     ]
   },
   "78.92.206.28": {
@@ -1823,10 +1833,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Grums",
+    "city": "\u00d6rebro",
     "coordinates": [
-      59.3464,
-      13.0883
+      59.274,
+      15.2119
     ]
   },
   "82.196.112.57": {
@@ -1843,10 +1853,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Sk\u00f6vde",
+    "city": "Esl\u00f6v",
     "coordinates": [
-      58.3937,
-      13.8463
+      55.8393,
+      13.3039
     ]
   },
   "83.233.64.30": {
@@ -1869,24 +1879,14 @@
       -16.9
     ]
   },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.121.48.69": {
     "region": "Europe",
     "country": "Romania",
     "cc": "RO",
-    "city": "Bucharest",
+    "city": "N\u0103vodari",
     "coordinates": [
-      44.4268,
-      26.1025
+      44.317,
+      28.6266
     ]
   },
   "85.208.208.65": {
@@ -1935,8 +1935,8 @@
     "cc": "PL",
     "city": "Lodz",
     "coordinates": [
-      51.7284,
-      19.4805
+      51.7684,
+      19.4678
     ]
   },
   "86.157.181.102": {
@@ -1983,10 +1983,10 @@
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Warsaw",
+    "city": "Lublin",
     "coordinates": [
-      52.1475,
-      21.069
+      51.2302,
+      22.5239
     ]
   },
   "91.107.121.135": {
@@ -2009,16 +2009,6 @@
       15.6288
     ]
   },
-  "92.5.73.255": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1049,
-      8.6295
-    ]
-  },
   "93.95.230.175": {
     "region": "Europe",
     "country": "Iceland",
@@ -2033,10 +2023,10 @@
     "region": "Europe",
     "country": "Switzerland",
     "cc": "CH",
-    "city": "Therwil",
+    "city": "Aesch",
     "coordinates": [
-      47.5053,
-      7.5477
+      47.4638,
+      7.5887
     ]
   },
   "94.23.249.185": {
@@ -2113,10 +2103,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Turlock",
+    "city": "Riverbank",
     "coordinates": [
-      37.4912,
-      -120.8559
+      37.7308,
+      -120.9382
     ]
   },
   "98.128.174.153": {
@@ -2133,10 +2123,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Gothenburg",
     "coordinates": [
-      59.3326,
-      18.0651
+      57.7065,
+      11.967
     ]
   },
   "98.128.248.148": {
@@ -2153,10 +2143,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Collierville",
+    "city": "Memphis",
     "coordinates": [
-      35.0644,
-      -89.6759
+      35.1128,
+      -89.9085
     ]
   }
 }
