@@ -509,16 +509,6 @@
       11.031
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -1249,14 +1239,14 @@
       -58.3809
     ]
   },
-  "34.147.123.101": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Groningen",
+  "34.145.143.55": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
     "coordinates": [
-      53.2193,
-      6.5665
+      38.9071,
+      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1267,6 +1257,26 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.174.171.244": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
+    ]
+  },
+  "34.32.13.123": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.52,
+      13.4049
     ]
   },
   "34.32.95.165": {
@@ -1289,7 +1299,7 @@
       -95.8608
     ]
   },
-  "34.88.31.215": {
+  "34.88.143.113": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
@@ -1627,6 +1637,16 @@
     "coordinates": [
       40.7964,
       -74.0203
+    ]
+  },
+  "67.144.220.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.1,
+      -87.6307
     ]
   },
   "69.226.253.51": {
