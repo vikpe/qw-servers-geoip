@@ -1239,16 +1239,6 @@
       -58.3809
     ]
   },
-  "34.145.143.55": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1259,27 +1249,7 @@
       -80.013
     ]
   },
-  "34.174.171.244": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "34.32.13.123": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.52,
-      13.4049
-    ]
-  },
-  "34.32.95.165": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -1297,6 +1267,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "34.7.34.213": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Groningen",
+    "coordinates": [
+      53.2193,
+      6.5665
     ]
   },
   "34.88.143.113": {
@@ -1477,16 +1457,6 @@
     "coordinates": [
       50.6924,
       3.20113
-    ]
-  },
-  "5.78.126.237": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Hillsboro",
-    "coordinates": [
-      45.526,
-      -122.9874
     ]
   },
   "50.34.82.255": {
@@ -1787,6 +1757,16 @@
     "coordinates": [
       36.0907,
       -115.0886
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6532,
+      -118.0098
     ]
   },
   "78.45.199.104": {
