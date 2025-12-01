@@ -289,6 +289,16 @@
       4.6563
     ]
   },
+  "136.107.51.61": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -657,6 +667,16 @@
     "coordinates": [
       41.815,
       -71.3663
+    ]
+  },
+  "176.118.198.106": {
+    "region": "Europe",
+    "country": "Lithuania",
+    "cc": "LT",
+    "city": "Vilnius",
+    "coordinates": [
+      54.7332,
+      25.2628
     ]
   },
   "176.210.100.6": {
@@ -1209,6 +1229,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1607,16 +1637,6 @@
     "coordinates": [
       40.7964,
       -74.0203
-    ]
-  },
-  "67.144.220.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.1,
-      -87.6307
     ]
   },
   "69.226.253.51": {
