@@ -9,14 +9,14 @@
       -77.35
     ]
   },
-  "101.127.22.2": {
+  "101.127.244.89": {
     "region": "Asia",
     "country": "Singapore",
     "cc": "SG",
     "city": "Singapore",
     "coordinates": [
-      1.37611,
-      103.902
+      1.39167,
+      103.894
     ]
   },
   "103.112.0.130": {
@@ -639,16 +639,6 @@
       -87.6305
     ]
   },
-  "173.206.33.156": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Toronto",
-    "coordinates": [
-      43.6911,
-      -79.3353
-    ]
-  },
   "173.69.60.97": {
     "region": "North America",
     "country": "United States",
@@ -657,6 +647,16 @@
     "coordinates": [
       41.815,
       -71.3663
+    ]
+  },
+  "174.30.221.128": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Las Vegas",
+    "coordinates": [
+      36.122,
+      -115.086
     ]
   },
   "176.118.198.106": {
@@ -1219,6 +1219,26 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
+  "24.157.106.3": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Oakville",
+    "coordinates": [
+      43.4769,
+      -79.6653
+    ]
+  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1317,16 +1337,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.199.29.233": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1699,16 +1709,6 @@
       21.0093
     ]
   },
-  "72.18.132.113": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.7491,
-      -104.9945
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1779,16 +1779,6 @@
       -123.3655
     ]
   },
-  "75.175.156.139": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Las Vegas",
-    "coordinates": [
-      36.0907,
-      -115.0886
-    ]
-  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1857,16 +1847,6 @@
     "coordinates": [
       52.5234,
       13.3224
-    ]
-  },
-  "81.225.132.107": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "\u00d6rebro",
-    "coordinates": [
-      59.274,
-      15.2119
     ]
   },
   "82.196.112.57": {
