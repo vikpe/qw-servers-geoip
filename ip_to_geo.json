@@ -689,6 +689,16 @@
       -47.0439
     ]
   },
+  "177.157.177.33": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.531
+    ]
+  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -757,16 +767,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.192.124.150": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
     ]
   },
   "185.236.108.250": {
@@ -857,6 +857,16 @@
     "coordinates": [
       42.8864,
       -78.8784
+    ]
+  },
+  "192.41.102.73": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7838,
+      -80.1823
     ]
   },
   "192.9.173.60": {
@@ -1227,16 +1237,6 @@
     "coordinates": [
       48.1789,
       -122.5181
-    ]
-  },
-  "24.157.106.3": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Oakville",
-    "coordinates": [
-      43.4769,
-      -79.6653
     ]
   },
   "3.212.223.70": {
@@ -1987,6 +1987,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "89.245.16.230": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
     ]
   },
   "89.68.252.42": {
