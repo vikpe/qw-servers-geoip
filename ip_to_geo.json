@@ -619,6 +619,16 @@
       -38.5287
     ]
   },
+  "172.218.253.17": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Kelowna",
+    "coordinates": [
+      49.8956,
+      -119.4897
+    ]
+  },
   "172.235.175.10": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -687,16 +697,6 @@
     "coordinates": [
       -22.8951,
       -47.0439
-    ]
-  },
-  "177.157.177.33": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.531
     ]
   },
   "178.79.135.210": {
@@ -1047,16 +1047,6 @@
     "coordinates": [
       -31.8512,
       115.8765
-    ]
-  },
-  "204.216.163.2": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Vinhedo",
-    "coordinates": [
-      -23.0564,
-      -46.9834
     ]
   },
   "206.51.245.84": {
@@ -1489,16 +1479,6 @@
       3.20113
     ]
   },
-  "50.34.82.255": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lynnwood",
-    "coordinates": [
-      47.8022,
-      -122.286
-    ]
-  },
   "50.39.218.104": {
     "region": "North America",
     "country": "United States",
@@ -1507,6 +1487,16 @@
     "coordinates": [
       45.4241,
       -122.7691
+    ]
+  },
+  "50.47.105.68": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lynnwood",
+    "coordinates": [
+      47.8022,
+      -122.286
     ]
   },
   "52.215.55.73": {
@@ -1987,16 +1977,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "89.245.16.230": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.68.252.42": {
