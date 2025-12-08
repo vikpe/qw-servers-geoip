@@ -19,16 +19,6 @@
       103.894
     ]
   },
-  "102.132.171.115": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Sandton",
-    "coordinates": [
-      -26.104,
-      28.0746
-    ]
-  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -649,16 +639,6 @@
       -87.6305
     ]
   },
-  "173.69.60.97": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "East Providence",
-    "coordinates": [
-      41.815,
-      -71.3663
-    ]
-  },
   "176.118.198.106": {
     "region": "Europe",
     "country": "Lithuania",
@@ -1219,6 +1199,16 @@
       -96.8704
     ]
   },
+  "24.143.70.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1419,6 +1409,16 @@
       -118.2414
     ]
   },
+  "45.36.139.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Winston-Salem",
+    "coordinates": [
+      36.143,
+      -80.3073
+    ]
+  },
   "45.76.56.39": {
     "region": "North America",
     "country": "United States",
@@ -1460,6 +1460,16 @@
     ]
   },
   "5.196.28.199": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Roubaix",
+    "coordinates": [
+      50.6924,
+      3.20113
+    ]
+  },
+  "5.39.84.156": {
     "region": "Europe",
     "country": "France",
     "cc": "FR",
@@ -1657,6 +1667,16 @@
     "coordinates": [
       39.9534,
       -83.7801
+    ]
+  },
+  "69.40.25.229": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Nashville",
+    "coordinates": [
+      31.2074,
+      -83.2502
     ]
   },
   "70.34.200.204": {
@@ -1967,16 +1987,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "89.245.16.226": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.68.252.42": {
