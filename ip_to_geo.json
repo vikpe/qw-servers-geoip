@@ -19,6 +19,16 @@
       103.894
     ]
   },
+  "102.132.171.115": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Sandton",
+    "coordinates": [
+      -26.104,
+      28.0746
+    ]
+  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -169,16 +179,6 @@
       174.74
     ]
   },
-  "122.199.54.128": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9454,
-      115.7856
-    ]
-  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -187,6 +187,16 @@
     "coordinates": [
       -37.8469,
       145.2136
+    ]
+  },
+  "124.149.241.56": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.7666,
+      145.0434
     ]
   },
   "128.199.52.100": {
@@ -799,6 +809,16 @@
       12.3649
     ]
   },
+  "189.0.121.206": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.531
+    ]
+  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -1109,6 +1129,16 @@
       12.9982
     ]
   },
+  "213.178.102.16": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5,
+      19.0412
+    ]
+  },
   "213.239.216.253": {
     "region": "Europe",
     "country": "Germany",
@@ -1409,16 +1439,6 @@
       -118.2414
     ]
   },
-  "45.36.139.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Winston-Salem",
-    "coordinates": [
-      36.143,
-      -80.3073
-    ]
-  },
   "45.76.56.39": {
     "region": "North America",
     "country": "United States",
@@ -1449,7 +1469,7 @@
       -77.4903
     ]
   },
-  "5.173.30.2": {
+  "5.173.30.22": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
@@ -1487,16 +1507,6 @@
     "coordinates": [
       45.4241,
       -122.7691
-    ]
-  },
-  "50.47.105.68": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lynnwood",
-    "coordinates": [
-      47.8022,
-      -122.286
     ]
   },
   "52.215.55.73": {
@@ -1669,16 +1679,6 @@
       -83.7801
     ]
   },
-  "69.40.25.229": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Nashville",
-    "coordinates": [
-      31.2074,
-      -83.2502
-    ]
-  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1787,6 +1787,16 @@
     "coordinates": [
       36.1172,
       -115.0528
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6532,
+      -118.0098
     ]
   },
   "78.45.199.104": {
