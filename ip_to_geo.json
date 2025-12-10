@@ -19,16 +19,6 @@
       103.894
     ]
   },
-  "102.132.171.115": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Sandton",
-    "coordinates": [
-      -26.104,
-      28.0746
-    ]
-  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -187,16 +177,6 @@
     "coordinates": [
       -37.8469,
       145.2136
-    ]
-  },
-  "124.149.241.56": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7666,
-      145.0434
     ]
   },
   "128.199.52.100": {
@@ -679,6 +659,16 @@
       -47.0439
     ]
   },
+  "177.139.68.46": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.531
+    ]
+  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -807,16 +797,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "189.0.121.206": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.531
     ]
   },
   "192.121.119.117": {
@@ -1089,16 +1069,6 @@
       13.405
     ]
   },
-  "212.247.51.186": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "M\u00f6lnlycke",
-    "coordinates": [
-      57.6597,
-      12.123
-    ]
-  },
   "212.42.38.88": {
     "region": "Europe",
     "country": "Russia",
@@ -1227,16 +1197,6 @@
     "coordinates": [
       32.8137,
       -96.8704
-    ]
-  },
-  "24.143.70.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "3.212.223.70": {
@@ -1499,6 +1459,16 @@
       3.20113
     ]
   },
+  "50.125.84.95": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lynnwood",
+    "coordinates": [
+      47.8022,
+      -122.286
+    ]
+  },
   "50.39.218.104": {
     "region": "North America",
     "country": "United States",
@@ -1719,6 +1689,16 @@
       -104.9945
     ]
   },
+  "72.239.227.191": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Merritt Island",
+    "coordinates": [
+      28.3888,
+      -80.7301
+    ]
+  },
   "73.143.214.84": {
     "region": "North America",
     "country": "United States",
@@ -1737,16 +1717,6 @@
     "coordinates": [
       33.839,
       -83.9007
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -1817,16 +1787,6 @@
     "coordinates": [
       55.7037,
       13.1946
-    ]
-  },
-  "78.92.206.28": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
     ]
   },
   "78.92.237.208": {
@@ -2100,6 +2060,16 @@
     ]
   },
   "95.216.8.8": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1719,
+      24.9347
+    ]
+  },
+  "95.217.104.88": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
