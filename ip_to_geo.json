@@ -19,6 +19,16 @@
       103.894
     ]
   },
+  "102.132.171.115": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Sandton",
+    "coordinates": [
+      -26.104,
+      28.0746
+    ]
+  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -207,16 +217,6 @@
     "coordinates": [
       -26.2041,
       28.0473
-    ]
-  },
-  "13.57.199.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
     ]
   },
   "13.79.234.207": {
@@ -629,6 +629,16 @@
       -87.6305
     ]
   },
+  "172.92.253.198": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "176.118.198.106": {
     "region": "Europe",
     "country": "Lithuania",
@@ -829,16 +839,6 @@
       -78.8784
     ]
   },
-  "192.41.102.73": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.7838,
-      -80.1823
-    ]
-  },
   "192.9.173.60": {
     "region": "Oceania",
     "country": "Australia",
@@ -999,16 +999,6 @@
       -104.816154
     ]
   },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9474,
-      115.8648
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1099,7 +1089,7 @@
       12.9982
     ]
   },
-  "213.178.102.16": {
+  "213.178.102.120": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1399,6 +1389,16 @@
       -118.2414
     ]
   },
+  "45.36.139.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Winston-Salem",
+    "coordinates": [
+      36.143,
+      -80.3073
+    ]
+  },
   "45.76.56.39": {
     "region": "North America",
     "country": "United States",
@@ -1457,16 +1457,6 @@
     "coordinates": [
       50.6924,
       3.20113
-    ]
-  },
-  "50.125.84.95": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lynnwood",
-    "coordinates": [
-      47.8022,
-      -122.286
     ]
   },
   "50.39.218.104": {
@@ -1719,6 +1709,16 @@
       -83.9007
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1957,6 +1957,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "89.245.16.226": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
     ]
   },
   "89.68.252.42": {
