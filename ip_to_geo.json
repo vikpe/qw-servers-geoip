@@ -689,6 +689,16 @@
       -0.1278
     ]
   },
+  "18.223.24.90": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
+    ]
+  },
   "18.228.3.244": {
     "region": "South America",
     "country": "Brazil",
@@ -837,6 +847,16 @@
     "coordinates": [
       42.8864,
       -78.8784
+    ]
+  },
+  "192.41.102.73": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7838,
+      -80.1823
     ]
   },
   "192.9.173.60": {
@@ -997,6 +1017,16 @@
     "coordinates": [
       41.13925,
       -104.816154
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9474,
+      115.8648
     ]
   },
   "203.29.240.182": {
@@ -1389,16 +1419,6 @@
       -118.2414
     ]
   },
-  "45.36.139.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Winston-Salem",
-    "coordinates": [
-      36.143,
-      -80.3073
-    ]
-  },
   "45.76.56.39": {
     "region": "North America",
     "country": "United States",
@@ -1457,6 +1477,16 @@
     "coordinates": [
       50.6924,
       3.20113
+    ]
+  },
+  "50.125.84.95": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Lynnwood",
+    "coordinates": [
+      47.8022,
+      -122.286
     ]
   },
   "50.39.218.104": {
@@ -1567,6 +1597,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "61.69.162.16": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.7468,
+      145.0681
     ]
   },
   "62.220.162.124": {
@@ -1957,16 +1997,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "89.245.16.226": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.68.252.42": {
