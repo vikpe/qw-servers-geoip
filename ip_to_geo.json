@@ -499,6 +499,16 @@
       11.031
     ]
   },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -1599,16 +1609,6 @@
       -46.6333
     ]
   },
-  "61.69.162.16": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7468,
-      145.0681
-    ]
-  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1809,6 +1809,26 @@
       -118.0098
     ]
   },
+  "76.144.209.129": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Tualatin",
+    "coordinates": [
+      45.3716,
+      -122.7656
+    ]
+  },
+  "77.239.212.26": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tyumen",
+    "coordinates": [
+      57.1533,
+      65.5418
+    ]
+  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1997,6 +2017,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "89.245.16.244": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
     ]
   },
   "89.68.252.42": {
