@@ -159,6 +159,16 @@
       11.0783
     ]
   },
+  "118.148.103.3": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Auckland",
+    "coordinates": [
+      -36.8504,
+      174.7675
+    ]
+  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -359,6 +369,16 @@
       -111.9956
     ]
   },
+  "144.64.37.26": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Aveiro",
+    "coordinates": [
+      40.6501,
+      -8.6502
+    ]
+  },
   "145.220.10.99": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -437,6 +457,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "155.4.107.203": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "\u00c4ngelholm",
+    "coordinates": [
+      56.249,
+      12.8649
     ]
   },
   "155.4.206.139": {
@@ -639,16 +669,6 @@
       -87.6305
     ]
   },
-  "172.92.253.198": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "176.118.198.106": {
     "region": "Europe",
     "country": "Lithuania",
@@ -679,16 +699,6 @@
       -47.0439
     ]
   },
-  "177.139.68.46": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.531
-    ]
-  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -697,6 +707,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "179.146.41.5": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.531
     ]
   },
   "18.223.24.90": {
@@ -1129,7 +1149,7 @@
       12.9982
     ]
   },
-  "213.178.102.120": {
+  "213.178.104.67": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1809,26 +1829,6 @@
       -118.0098
     ]
   },
-  "76.144.209.129": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Tualatin",
-    "coordinates": [
-      45.3716,
-      -122.7656
-    ]
-  },
-  "77.239.212.26": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tyumen",
-    "coordinates": [
-      57.1533,
-      65.5418
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1979,6 +1979,16 @@
       19.4678
     ]
   },
+  "86.141.26.92": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Spean Bridge",
+    "coordinates": [
+      56.891,
+      -4.9188
+    ]
+  },
   "86.157.181.102": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -2019,7 +2029,7 @@
       12.3649
     ]
   },
-  "89.245.16.244": {
+  "89.245.16.251": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2130,16 +2140,6 @@
     ]
   },
   "95.216.8.8": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1719,
-      24.9347
-    ]
-  },
-  "95.217.104.88": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
