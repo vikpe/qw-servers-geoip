@@ -149,6 +149,16 @@
       -0.127586
     ]
   },
+  "109.81.118.24": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Brno",
+    "coordinates": [
+      49.1953,
+      16.6016
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -157,16 +167,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "118.148.103.3": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8504,
-      174.7675
     ]
   },
   "118.67.199.81": {
@@ -709,7 +709,7 @@
       -0.1278
     ]
   },
-  "179.146.41.5": {
+  "179.94.17.127": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1459,6 +1459,16 @@
       -96.8021
     ]
   },
+  "46.113.12.2": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2579,
+      21.0339
+    ]
+  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1477,16 +1487,6 @@
     "coordinates": [
       39.0469,
       -77.4903
-    ]
-  },
-  "5.173.30.22": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2319,
-      20.9943
     ]
   },
   "5.196.28.199": {
@@ -1979,16 +1979,6 @@
       19.4678
     ]
   },
-  "86.141.26.92": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Spean Bridge",
-    "coordinates": [
-      56.891,
-      -4.9188
-    ]
-  },
   "86.157.181.102": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -2027,16 +2017,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "89.245.16.251": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.68.252.42": {
