@@ -149,16 +149,6 @@
       -0.127586
     ]
   },
-  "109.81.118.24": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Brno",
-    "coordinates": [
-      49.1953,
-      16.6016
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -529,16 +519,6 @@
       11.031
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -689,16 +669,6 @@
       73.3729
     ]
   },
-  "177.138.57.4": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.8951,
-      -47.0439
-    ]
-  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -707,16 +677,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "179.94.17.127": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.531
     ]
   },
   "18.223.24.90": {
@@ -847,6 +807,26 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "191.19.118.19": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.531
+    ]
+  },
+  "191.9.107.114": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.8951,
+      -47.0439
     ]
   },
   "192.121.119.117": {
@@ -1627,6 +1607,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "61.68.171.210": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.7892,
+      144.9658
     ]
   },
   "62.220.162.124": {
