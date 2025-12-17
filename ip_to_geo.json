@@ -589,16 +589,6 @@
       -74.1403
     ]
   },
-  "170.168.15.20": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.7431,
-      55.9678
-    ]
-  },
   "170.239.85.153": {
     "region": "South America",
     "country": "Chile",
@@ -647,6 +637,16 @@
     "coordinates": [
       41.8835,
       -87.6305
+    ]
+  },
+  "172.92.253.198": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "176.118.198.106": {
@@ -937,16 +937,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "195.67.154.18": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Lund",
-    "coordinates": [
-      55.7047,
-      13.191
     ]
   },
   "2.135.154.206": {
@@ -1609,16 +1599,6 @@
       -46.6333
     ]
   },
-  "61.68.171.210": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7892,
-      144.9658
-    ]
-  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1829,16 +1809,6 @@
       14.4785
     ]
   },
-  "78.72.186.81": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Lund",
-    "coordinates": [
-      55.7037,
-      13.1946
-    ]
-  },
   "78.92.237.208": {
     "region": "Europe",
     "country": "Hungary",
@@ -1867,6 +1837,16 @@
     "coordinates": [
       52.5234,
       13.3224
+    ]
+  },
+  "81.226.10.87": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Br\u00e5landa",
+    "coordinates": [
+      58.5633,
+      12.3708
     ]
   },
   "82.196.112.57": {
@@ -1917,16 +1897,6 @@
     "coordinates": [
       44.317,
       28.6266
-    ]
-  },
-  "85.208.208.65": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
     ]
   },
   "85.220.65.204": {
