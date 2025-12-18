@@ -519,6 +519,16 @@
       11.031
     ]
   },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -637,16 +647,6 @@
     "coordinates": [
       41.8835,
       -87.6305
-    ]
-  },
-  "172.92.253.198": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "176.118.198.106": {
@@ -1017,16 +1017,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9474,
-      115.8648
     ]
   },
   "203.29.240.182": {
@@ -1487,16 +1477,6 @@
     "coordinates": [
       47.8022,
       -122.286
-    ]
-  },
-  "50.39.218.104": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Tigard",
-    "coordinates": [
-      45.4241,
-      -122.7691
     ]
   },
   "52.215.55.73": {
@@ -2127,16 +2107,6 @@
     "coordinates": [
       57.7065,
       11.967
-    ]
-  },
-  "98.128.248.148": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Limhamn",
-    "coordinates": [
-      55.5811,
-      12.9553
     ]
   },
   "99.72.255.45": {
