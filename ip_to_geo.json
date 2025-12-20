@@ -49,16 +49,6 @@
       153.093
     ]
   },
-  "103.179.143.12": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5081,
-      -0.1278
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -147,6 +137,16 @@
     "coordinates": [
       51.5072,
       -0.127586
+    ]
+  },
+  "109.81.118.24": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Brno",
+    "coordinates": [
+      49.1953,
+      16.6016
     ]
   },
   "116.203.97.160": {
@@ -799,16 +799,6 @@
       12.3649
     ]
   },
-  "191.19.118.19": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.531
-    ]
-  },
   "191.9.107.114": {
     "region": "South America",
     "country": "Brazil",
@@ -1039,6 +1029,16 @@
       -80.9908
     ]
   },
+  "208.77.22.94": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.871,
+      -87.6289
+    ]
+  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1067,6 +1067,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "212.247.51.186": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "M\u00f6lnlycke",
+    "coordinates": [
+      57.6597,
+      12.123
     ]
   },
   "212.42.38.88": {
@@ -1229,6 +1239,16 @@
       -58.3809
     ]
   },
+  "34.11.80.227": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.121.113.158": {
     "region": "North America",
     "country": "United States",
@@ -1297,16 +1317,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.188.227.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1789,6 +1799,16 @@
       14.4785
     ]
   },
+  "78.72.186.81": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lund",
+    "coordinates": [
+      55.7037,
+      13.1946
+    ]
+  },
   "78.92.237.208": {
     "region": "Europe",
     "country": "Hungary",
@@ -1957,6 +1977,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "89.245.16.250": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
     ]
   },
   "89.68.252.42": {
