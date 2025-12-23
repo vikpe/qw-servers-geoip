@@ -129,6 +129,16 @@
       -0.127586
     ]
   },
+  "109.81.118.24": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Brno",
+    "coordinates": [
+      49.1953,
+      16.6016
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -259,6 +269,16 @@
       4.6563
     ]
   },
+  "136.107.45.162": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -367,6 +387,16 @@
     "coordinates": [
       51.101,
       17.0295
+    ]
+  },
+  "147.185.221.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eugene",
+    "coordinates": [
+      44.0535,
+      -123.09
     ]
   },
   "148.135.104.18": {
@@ -757,16 +787,6 @@
     "coordinates": [
       60.8211,
       14.9942
-    ]
-  },
-  "185.195.232.174": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Stepney",
-    "coordinates": [
-      51.518,
-      -0.0459
     ]
   },
   "185.236.108.250": {
@@ -1479,16 +1499,6 @@
       3.20113
     ]
   },
-  "50.125.84.95": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lynnwood",
-    "coordinates": [
-      47.8022,
-      -122.286
-    ]
-  },
   "52.215.55.73": {
     "region": "Europe",
     "country": "Ireland",
@@ -1839,16 +1849,6 @@
       13.3224
     ]
   },
-  "81.183.194.218": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5,
-      19.0412
-    ]
-  },
   "81.226.10.87": {
     "region": "Europe",
     "country": "Sweden",
@@ -1989,7 +1989,7 @@
       12.3649
     ]
   },
-  "89.245.16.234": {
+  "89.245.16.240": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
