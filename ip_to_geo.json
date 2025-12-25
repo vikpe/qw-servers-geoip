@@ -129,6 +129,16 @@
       -0.127586
     ]
   },
+  "109.81.118.24": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Brno",
+    "coordinates": [
+      49.1953,
+      16.6016
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -249,16 +259,6 @@
       24.9347
     ]
   },
-  "136.0.141.215": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Haarlem",
-    "coordinates": [
-      52.3891,
-      4.6563
-    ]
-  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -317,16 +317,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "14.201.156.200": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8391,
-      145.0197
     ]
   },
   "141.105.67.104": {
@@ -1029,6 +1019,16 @@
       -104.816154
     ]
   },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9474,
+      115.8648
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1057,16 +1057,6 @@
     "coordinates": [
       35.0502,
       -80.9908
-    ]
-  },
-  "208.77.22.94": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
     ]
   },
   "208.83.232.203": {
@@ -1239,14 +1229,14 @@
       30.3096
     ]
   },
-  "31.40.212.199": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
+  "32.216.67.68": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "New Britain",
     "coordinates": [
-      -34.6176,
-      -58.3809
+      41.6669,
+      -72.7726
     ]
   },
   "34.121.113.158": {
@@ -1619,6 +1609,16 @@
       -74.0203
     ]
   },
+  "67.144.220.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.1,
+      -87.6307
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1947,6 +1947,16 @@
     "coordinates": [
       48.709,
       8.7399
+    ]
+  },
+  "88.193.167.155": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4966,
+      23.7831
     ]
   },
   "88.99.66.210": {
