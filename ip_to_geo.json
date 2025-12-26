@@ -369,16 +369,6 @@
       17.0295
     ]
   },
-  "147.185.221.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Eugene",
-    "coordinates": [
-      44.0535,
-      -123.09
-    ]
-  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -387,6 +377,16 @@
     "coordinates": [
       34.0515,
       -118.2707
+    ]
+  },
+  "149.104.76.203": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6142,
+      -58.3811
     ]
   },
   "149.28.62.121": {
@@ -629,6 +629,16 @@
       -87.6305
     ]
   },
+  "172.92.241.166": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "176.118.198.106": {
     "region": "Europe",
     "country": "Lithuania",
@@ -687,6 +697,16 @@
     "coordinates": [
       -23.4566,
       -46.531
+    ]
+  },
+  "179.190.61.52": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Vinhedo",
+    "coordinates": [
+      -23.0564,
+      -46.9834
     ]
   },
   "18.223.24.90": {
@@ -1689,16 +1709,6 @@
       -71.1245
     ]
   },
-  "73.207.108.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Loganville",
-    "coordinates": [
-      33.839,
-      -83.9007
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1807,6 +1817,16 @@
     "coordinates": [
       52.5234,
       13.3224
+    ]
+  },
+  "81.183.194.218": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5,
+      19.0412
     ]
   },
   "81.226.10.87": {
