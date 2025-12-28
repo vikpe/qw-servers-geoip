@@ -129,16 +129,6 @@
       -0.127586
     ]
   },
-  "109.81.118.24": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Brno",
-    "coordinates": [
-      49.1953,
-      16.6016
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -159,6 +149,16 @@
       174.7365
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2881,
+      174.74
+    ]
+  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -167,6 +167,16 @@
     "coordinates": [
       -37.8469,
       145.2136
+    ]
+  },
+  "124.148.219.99": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8805,
+      145.0414
     ]
   },
   "128.199.52.100": {
@@ -357,16 +367,6 @@
     "coordinates": [
       51.101,
       17.0295
-    ]
-  },
-  "147.185.221.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Eugene",
-    "coordinates": [
-      44.0535,
-      -123.09
     ]
   },
   "148.135.104.18": {
@@ -639,16 +639,6 @@
       -87.6305
     ]
   },
-  "172.92.241.166": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "176.118.198.106": {
     "region": "Europe",
     "country": "Lithuania",
@@ -667,6 +657,16 @@
     "coordinates": [
       54.9896,
       73.3729
+    ]
+  },
+  "177.188.139.180": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.531
     ]
   },
   "178.156.145.131": {
@@ -697,16 +697,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "179.146.41.34": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.531
     ]
   },
   "179.190.61.52": {
@@ -1099,16 +1089,6 @@
       -157.8725
     ]
   },
-  "212.162.155.158": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Poznan",
-    "coordinates": [
-      52.3794,
-      16.9709
-    ]
-  },
   "212.227.245.192": {
     "region": "Europe",
     "country": "Germany",
@@ -1479,14 +1459,14 @@
       3.20113
     ]
   },
-  "50.35.104.16": {
+  "50.125.85.42": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Edmonds",
+    "city": "Lynnwood",
     "coordinates": [
-      47.8302,
-      -122.3331
+      47.8022,
+      -122.286
     ]
   },
   "52.215.55.73": {
@@ -1639,6 +1619,16 @@
       -87.6307
     ]
   },
+  "69.226.253.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Olmsted",
+    "coordinates": [
+      41.4156,
+      -81.9235
+    ]
+  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1679,14 +1669,14 @@
       -104.9945
     ]
   },
-  "72.239.227.191": {
+  "72.239.233.54": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Merritt Island",
     "coordinates": [
-      28.3888,
-      -80.7301
+      28.2764,
+      -80.6568
     ]
   },
   "73.143.214.84": {
@@ -1779,6 +1769,16 @@
       13.1946
     ]
   },
+  "78.92.202.131": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
   "78.92.237.208": {
     "region": "Europe",
     "country": "Hungary",
@@ -1857,6 +1857,16 @@
     "coordinates": [
       59.6146,
       16.5528
+    ]
+  },
+  "83.27.88.138": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1208,
+      17.0627
     ]
   },
   "84.20.243.152": {
@@ -1989,6 +1999,16 @@
       22.5239
     ]
   },
+  "90.227.97.73": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Olsfors",
+    "coordinates": [
+      57.6987,
+      12.7009
+    ]
+  },
   "91.107.121.135": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1997,6 +2017,16 @@
     "coordinates": [
       51.4048,
       0.0098
+    ]
+  },
+  "92.112.126.83": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "92.35.23.44": {
