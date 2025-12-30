@@ -379,7 +379,7 @@
       -118.2707
     ]
   },
-  "149.104.92.12": {
+  "149.104.76.203": {
     "region": "South America",
     "country": "Argentina",
     "cc": "AR",
@@ -507,6 +507,16 @@
     "coordinates": [
       60.0797,
       11.031
+    ]
+  },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
     ]
   },
   "159.69.87.212": {
@@ -1069,16 +1079,6 @@
       -87.6305
     ]
   },
-  "208.104.176.151": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fort Mill",
-    "coordinates": [
-      35.0502,
-      -80.9908
-    ]
-  },
   "208.77.22.94": {
     "region": "North America",
     "country": "United States",
@@ -1609,6 +1609,16 @@
       23.3132
     ]
   },
+  "64.118.226.47": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Tillsonburg",
+    "coordinates": [
+      42.8568,
+      -80.7294
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1619,7 +1629,7 @@
       -74.0203
     ]
   },
-  "67.144.220.103": {
+  "67.144.220.146": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1627,16 +1637,6 @@
     "coordinates": [
       45.1,
       -87.6307
-    ]
-  },
-  "69.226.253.51": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Olmsted",
-    "coordinates": [
-      41.4156,
-      -81.9235
     ]
   },
   "70.34.200.204": {
@@ -1759,6 +1759,16 @@
       -115.0528
     ]
   },
+  "77.111.8.223": {
+    "region": "Europe",
+    "country": "Slovenia",
+    "cc": "SI",
+    "city": "Ljubljana",
+    "coordinates": [
+      46.0503,
+      14.5046
+    ]
+  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1857,16 +1867,6 @@
     "coordinates": [
       59.6146,
       16.5528
-    ]
-  },
-  "84.20.225.202": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
     ]
   },
   "84.23.210.208": {
@@ -1979,7 +1979,7 @@
       12.3649
     ]
   },
-  "89.245.16.232": {
+  "89.245.16.247": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
