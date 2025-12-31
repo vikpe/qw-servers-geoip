@@ -1189,16 +1189,6 @@
       13.4069
     ]
   },
-  "220.233.95.7": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8399,
-      151.0583
-    ]
-  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1247,16 +1237,6 @@
     "coordinates": [
       59.9417,
       30.3096
-    ]
-  },
-  "32.216.67.68": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "New Britain",
-    "coordinates": [
-      41.6669,
-      -72.7726
     ]
   },
   "34.121.113.158": {
@@ -1639,6 +1619,16 @@
       -87.6307
     ]
   },
+  "69.226.253.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Olmsted",
+    "coordinates": [
+      41.4156,
+      -81.9235
+    ]
+  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1757,6 +1747,16 @@
     "coordinates": [
       36.1172,
       -115.0528
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6532,
+      -118.0098
     ]
   },
   "77.111.8.223": {
@@ -1979,7 +1979,7 @@
       12.3649
     ]
   },
-  "89.245.16.247": {
+  "89.245.16.246": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
