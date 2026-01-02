@@ -359,6 +359,16 @@
       17.0295
     ]
   },
+  "147.185.221.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eugene",
+    "coordinates": [
+      44.0535,
+      -123.09
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -1059,16 +1069,6 @@
       115.8765
     ]
   },
-  "206.51.245.84": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8835,
-      -87.6305
-    ]
-  },
   "208.77.22.94": {
     "region": "North America",
     "country": "United States",
@@ -1237,6 +1237,16 @@
     "coordinates": [
       59.9417,
       30.3096
+    ]
+  },
+  "32.216.67.68": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "New Britain",
+    "coordinates": [
+      41.6669,
+      -72.7726
     ]
   },
   "34.121.113.158": {
@@ -1859,16 +1869,6 @@
       13.3039
     ]
   },
-  "83.233.64.30": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "V\u00e4ster\u00e5s",
-    "coordinates": [
-      59.6146,
-      16.5528
-    ]
-  },
   "84.23.210.208": {
     "region": "Europe",
     "country": "Portugal",
@@ -1979,7 +1979,7 @@
       12.3649
     ]
   },
-  "89.245.16.225": {
+  "89.245.16.248": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
