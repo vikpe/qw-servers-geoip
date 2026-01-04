@@ -519,16 +519,6 @@
       11.031
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -859,7 +849,7 @@
       12.3649
     ]
   },
-  "191.205.92.134": {
+  "191.19.118.224": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1689,16 +1679,6 @@
       -104.9945
     ]
   },
-  "72.239.233.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Merritt Island",
-    "coordinates": [
-      28.2764,
-      -80.6568
-    ]
-  },
   "73.143.214.84": {
     "region": "North America",
     "country": "United States",
@@ -1849,6 +1829,16 @@
       13.3224
     ]
   },
+  "81.183.195.157": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5,
+      19.0412
+    ]
+  },
   "81.226.10.87": {
     "region": "Europe",
     "country": "Sweden",
@@ -1987,6 +1977,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "89.245.16.243": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
     ]
   },
   "89.68.252.42": {
