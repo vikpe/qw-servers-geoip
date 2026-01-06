@@ -659,6 +659,16 @@
       -87.6305
     ]
   },
+  "172.92.241.166": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "176.118.198.106": {
     "region": "Europe",
     "country": "Lithuania",
@@ -857,16 +867,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "188.40.103.81": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Falkenstein",
-    "coordinates": [
-      50.4777,
-      12.3649
     ]
   },
   "191.19.118.224": {
@@ -1087,16 +1087,6 @@
     "coordinates": [
       41.8835,
       -87.6305
-    ]
-  },
-  "208.77.22.94": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
     ]
   },
   "208.83.232.203": {
@@ -1679,16 +1669,6 @@
       21.0093
     ]
   },
-  "71.69.235.82": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Greensboro",
-    "coordinates": [
-      36.0787,
-      -79.9067
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1779,16 +1759,6 @@
       -115.0528
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6532,
-      -118.0098
-    ]
-  },
   "77.111.8.223": {
     "region": "Europe",
     "country": "Slovenia",
@@ -1817,16 +1787,6 @@
     "coordinates": [
       55.7037,
       13.1946
-    ]
-  },
-  "78.92.237.208": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Fony\u00f3d",
-    "coordinates": [
-      46.7583,
-      17.5777
     ]
   },
   "78.92.237.48": {
@@ -2057,16 +2017,6 @@
     "coordinates": [
       47.4638,
       7.5887
-    ]
-  },
-  "94.21.120.149": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5,
-      19.0412
     ]
   },
   "94.23.249.185": {
