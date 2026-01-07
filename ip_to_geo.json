@@ -279,16 +279,6 @@
       8.7147
     ]
   },
-  "137.184.162.43": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Toronto",
-    "coordinates": [
-      43.709,
-      -79.4057
-    ]
-  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -629,16 +619,6 @@
       -74.0565
     ]
   },
-  "170.80.110.38": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Fortaleza",
-    "coordinates": [
-      -3.717,
-      -38.5287
-    ]
-  },
   "172.235.175.10": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -669,14 +649,14 @@
       -122.5181
     ]
   },
-  "176.118.198.106": {
-    "region": "Europe",
-    "country": "Lithuania",
-    "cc": "LT",
-    "city": "Vilnius",
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
     "coordinates": [
-      54.7332,
-      25.2628
+      35.8363,
+      -90.6999
     ]
   },
   "176.210.100.6": {
@@ -849,16 +829,6 @@
       8.6837
     ]
   },
-  "188.208.143.247": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Lisbon",
-    "coordinates": [
-      38.7219,
-      -9.1398
-    ]
-  },
   "188.226.133.102": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -869,7 +839,7 @@
       4.9392
     ]
   },
-  "191.19.118.224": {
+  "191.205.92.143": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -969,16 +939,6 @@
       19.0555
     ]
   },
-  "194.38.96.52": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Szeged",
-    "coordinates": [
-      46.2527,
-      20.154
-    ]
-  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1067,6 +1027,16 @@
     "coordinates": [
       41.13925,
       -104.816154
+    ]
+  },
+  "203.220.200.241": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "203.29.240.182": {
@@ -1429,6 +1399,16 @@
       -96.8021
     ]
   },
+  "46.182.228.184": {
+    "region": "Europe",
+    "country": "Slovenia",
+    "cc": "SI",
+    "city": "Ljubljana",
+    "coordinates": [
+      46.0503,
+      14.5046
+    ]
+  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1619,16 +1599,6 @@
       -74.0203
     ]
   },
-  "67.144.220.146": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.1,
-      -87.6307
-    ]
-  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1799,6 +1769,16 @@
       17.5777
     ]
   },
+  "79.136.98.234": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bromma",
+    "coordinates": [
+      59.35,
+      17.9167
+    ]
+  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1857,16 +1837,6 @@
     "coordinates": [
       55.8393,
       13.3039
-    ]
-  },
-  "84.23.210.208": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Funchal",
-    "coordinates": [
-      32.6333,
-      -16.9
     ]
   },
   "85.121.48.69": {
