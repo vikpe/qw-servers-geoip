@@ -229,6 +229,16 @@
       18.0623
     ]
   },
+  "135.125.234.220": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Limburg an der Lahn",
+    "coordinates": [
+      50.3986,
+      8.07958
+    ]
+  },
   "135.148.59.26": {
     "region": "North America",
     "country": "United States",
@@ -639,26 +649,6 @@
       -87.6305
     ]
   },
-  "172.92.241.166": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8363,
-      -90.6999
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1029,14 +1019,14 @@
       -104.816154
     ]
   },
-  "203.220.200.241": {
+  "202.87.162.206": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Melbourne",
+    "city": "Perth",
     "coordinates": [
-      -37.8159,
-      144.9669
+      -31.9474,
+      115.8648
     ]
   },
   "203.29.240.182": {
@@ -1057,6 +1047,16 @@
     "coordinates": [
       41.8835,
       -87.6305
+    ]
+  },
+  "207.126.162.246": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7616,
+      -80.1917
     ]
   },
   "208.83.232.203": {
@@ -1209,6 +1209,16 @@
       -77.4874
     ]
   },
+  "31.15.141.202": {
+    "region": "Europe",
+    "country": "Slovenia",
+    "cc": "SI",
+    "city": "Ljubljana",
+    "coordinates": [
+      46.0503,
+      14.5046
+    ]
+  },
   "31.184.218.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1237,6 +1247,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.174.219.116": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
     ]
   },
   "34.32.13.123": {
@@ -1397,16 +1417,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "46.182.228.184": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
     ]
   },
   "46.227.68.148": {
@@ -1599,6 +1609,16 @@
       -74.0203
     ]
   },
+  "67.144.220.146": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marinette",
+    "coordinates": [
+      45.1,
+      -87.6307
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1727,16 +1747,6 @@
     "coordinates": [
       36.1172,
       -115.0528
-    ]
-  },
-  "77.111.8.223": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
     ]
   },
   "78.45.199.104": {
