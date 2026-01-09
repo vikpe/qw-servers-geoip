@@ -1249,16 +1249,6 @@
       -80.013
     ]
   },
-  "34.174.219.116": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "34.32.13.123": {
     "region": "Europe",
     "country": "Germany",
@@ -1267,6 +1257,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.48.12.199": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.7.34.213": {
@@ -1787,6 +1787,16 @@
     "coordinates": [
       59.35,
       17.9167
+    ]
+  },
+  "79.161.4.202": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Sandnes",
+    "coordinates": [
+      58.8544,
+      5.7456
     ]
   },
   "80.211.201.216": {
