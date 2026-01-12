@@ -19,6 +19,16 @@
       103.894
     ]
   },
+  "102.132.171.115": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Sandton",
+    "coordinates": [
+      -26.104,
+      28.0746
+    ]
+  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -357,6 +367,16 @@
     "coordinates": [
       51.101,
       17.0295
+    ]
+  },
+  "147.185.221.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eugene",
+    "coordinates": [
+      44.0535,
+      -123.09
     ]
   },
   "148.135.104.18": {
@@ -717,6 +737,16 @@
     "coordinates": [
       -23.5505,
       -46.6333
+    ]
+  },
+  "181.214.152.14": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.8137,
+      -96.8704
     ]
   },
   "184.54.162.131": {
@@ -1219,16 +1249,6 @@
       -80.013
     ]
   },
-  "34.174.235.164": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "34.32.13.123": {
     "region": "Europe",
     "country": "Germany",
@@ -1569,6 +1589,16 @@
       -80.7294
     ]
   },
+  "64.181.167.17": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1739,7 +1769,17 @@
       12.9982
     ]
   },
-  "78.92.237.48": {
+  "78.92.196.79": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
+  "78.92.236.162": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1749,14 +1789,14 @@
       17.5777
     ]
   },
-  "79.136.98.234": {
+  "78.92.237.48": {
     "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bromma",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Fony\u00f3d",
     "coordinates": [
-      59.35,
-      17.9167
+      46.7583,
+      17.5777
     ]
   },
   "79.161.4.202": {
@@ -1807,16 +1847,6 @@
     "coordinates": [
       58.5633,
       12.3708
-    ]
-  },
-  "81.233.41.133": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
     ]
   },
   "82.196.112.57": {
@@ -1939,16 +1969,6 @@
       12.3649
     ]
   },
-  "89.245.16.227": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
-    ]
-  },
   "89.68.252.42": {
     "region": "Europe",
     "country": "Poland",
@@ -2007,6 +2027,16 @@
     "coordinates": [
       47.5119,
       7.5579
+    ]
+  },
+  "94.21.46.133": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5,
+      19.0412
     ]
   },
   "94.23.249.185": {
@@ -2107,6 +2137,16 @@
     "coordinates": [
       58.416,
       15.6288
+    ]
+  },
+  "98.128.248.148": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Limhamn",
+    "coordinates": [
+      55.5811,
+      12.9553
     ]
   },
   "99.72.255.45": {
