@@ -649,6 +649,16 @@
       -87.6305
     ]
   },
+  "172.92.241.166": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -687,16 +697,6 @@
     "coordinates": [
       39.0469,
       -77.4903
-    ]
-  },
-  "178.164.245.19": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Szeged",
-    "coordinates": [
-      46.2527,
-      20.154
     ]
   },
   "178.79.135.210": {
@@ -847,6 +847,16 @@
     "coordinates": [
       -23.4608,
       -46.5274
+    ]
+  },
+  "192.121.119.117": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Copenhagen",
+    "coordinates": [
+      55.674,
+      12.5696
     ]
   },
   "192.227.152.195": {
@@ -1299,6 +1309,16 @@
       -80.013
     ]
   },
+  "35.230.163.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1719,6 +1739,16 @@
       -72.75
     ]
   },
+  "74.103.210.105": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "East Providence",
+    "coordinates": [
+      41.815,
+      -71.3663
+    ]
+  },
   "74.139.69.45": {
     "region": "North America",
     "country": "United States",
@@ -1747,6 +1777,16 @@
     "coordinates": [
       36.1473,
       -115.1152
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6647,
+      -117.9663
     ]
   },
   "78.45.199.104": {
@@ -1789,16 +1829,6 @@
       17.5777
     ]
   },
-  "78.92.237.48": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Fony\u00f3d",
-    "coordinates": [
-      46.7583,
-      17.5777
-    ]
-  },
   "79.161.4.202": {
     "region": "Europe",
     "country": "Norway",
@@ -1827,16 +1857,6 @@
     "coordinates": [
       52.5234,
       13.3224
-    ]
-  },
-  "81.183.195.157": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
     ]
   },
   "81.226.10.87": {
@@ -2137,16 +2157,6 @@
     "coordinates": [
       58.416,
       15.6288
-    ]
-  },
-  "98.128.248.148": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Limhamn",
-    "coordinates": [
-      55.5811,
-      12.9553
     ]
   },
   "99.72.255.45": {
