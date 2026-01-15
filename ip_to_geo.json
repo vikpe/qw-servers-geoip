@@ -699,6 +699,16 @@
       -0.1278
     ]
   },
+  "179.160.196.190": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -1019,6 +1029,16 @@
       115.8648
     ]
   },
+  "203.221.12.82": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8136,
+      144.963
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1047,6 +1067,16 @@
     "coordinates": [
       25.7616,
       -80.1917
+    ]
+  },
+  "208.77.22.94": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.871,
+      -87.6289
     ]
   },
   "208.83.232.203": {
@@ -1289,16 +1319,6 @@
       -80.013
     ]
   },
-  "35.245.41.225": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1337,16 +1357,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.163.77.254": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1679,6 +1689,16 @@
       21.0093
     ]
   },
+  "72.104.12.81": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Feasterville",
+    "coordinates": [
+      40.1533,
+      -74.9937
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1707,16 +1727,6 @@
     "coordinates": [
       42.3399,
       -71.1245
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -1777,16 +1787,6 @@
     "coordinates": [
       33.6647,
       -117.9663
-    ]
-  },
-  "77.239.212.26": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tyumen",
-    "coordinates": [
-      57.1533,
-      65.5418
     ]
   },
   "78.45.199.104": {
@@ -1989,16 +1989,6 @@
       12.3649
     ]
   },
-  "89.245.16.245": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
-    ]
-  },
   "89.68.252.42": {
     "region": "Europe",
     "country": "Poland",
@@ -2007,6 +1997,16 @@
     "coordinates": [
       51.253,
       22.5576
+    ]
+  },
+  "90.227.97.73": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Karlsborg",
+    "coordinates": [
+      58.5377,
+      14.5122
     ]
   },
   "91.107.121.135": {
@@ -2157,16 +2157,6 @@
     "coordinates": [
       58.416,
       15.6288
-    ]
-  },
-  "98.128.248.148": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Limhamn",
-    "coordinates": [
-      55.5811,
-      12.9553
     ]
   },
   "99.72.255.45": {
