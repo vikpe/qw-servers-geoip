@@ -179,6 +179,16 @@
       144.9669
     ]
   },
+  "125.14.20.123": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Yokosuka",
+    "coordinates": [
+      35.2797,
+      139.6787
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -649,6 +659,16 @@
       -87.6305
     ]
   },
+  "172.92.241.166": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -699,7 +719,7 @@
       -0.1278
     ]
   },
-  "179.160.196.190": {
+  "179.146.41.18": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1189,6 +1209,16 @@
       151.0973
     ]
   },
+  "223.178.82.215": {
+    "region": "Asia",
+    "country": "India",
+    "cc": "IN",
+    "city": "Chennai",
+    "coordinates": [
+      13.0895,
+      80.2739
+    ]
+  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1437,6 +1467,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.182.227.155": {
+    "region": "Europe",
+    "country": "Slovenia",
+    "cc": "SI",
+    "city": "Ljubljana",
+    "coordinates": [
+      46.0503,
+      14.5046
     ]
   },
   "46.227.68.148": {
@@ -1749,6 +1789,16 @@
       -72.75
     ]
   },
+  "74.103.210.105": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "East Providence",
+    "coordinates": [
+      41.815,
+      -71.3663
+    ]
+  },
   "74.139.69.45": {
     "region": "North America",
     "country": "United States",
@@ -1997,16 +2047,6 @@
     "coordinates": [
       51.253,
       22.5576
-    ]
-  },
-  "90.227.97.73": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Karlsborg",
-    "coordinates": [
-      58.5377,
-      14.5122
     ]
   },
   "91.107.121.135": {
