@@ -159,16 +159,6 @@
       174.7365
     ]
   },
-  "121.99.166.164": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Wellington",
-    "coordinates": [
-      -41.2971,
-      174.7932
-    ]
-  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -177,16 +167,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "125.14.20.123": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Yokosuka",
-    "coordinates": [
-      35.2797,
-      139.6787
     ]
   },
   "128.199.52.100": {
@@ -377,6 +357,16 @@
     "coordinates": [
       51.101,
       17.0295
+    ]
+  },
+  "146.70.116.182": {
+    "region": "Europe",
+    "country": "Austria",
+    "cc": "AT",
+    "city": "Viktring",
+    "coordinates": [
+      46.5919,
+      14.2692
     ]
   },
   "147.185.221.16": {
@@ -719,16 +709,6 @@
       -0.1278
     ]
   },
-  "179.146.41.18": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -867,16 +847,6 @@
     "coordinates": [
       55.674,
       12.5696
-    ]
-  },
-  "192.227.152.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Buffalo",
-    "coordinates": [
-      42.8864,
-      -78.8784
     ]
   },
   "192.227.214.224": {
@@ -1039,16 +1009,6 @@
       -104.816154
     ]
   },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9474,
-      115.8648
-    ]
-  },
   "203.221.12.82": {
     "region": "Oceania",
     "country": "Australia",
@@ -1209,16 +1169,6 @@
       151.0973
     ]
   },
-  "223.178.82.215": {
-    "region": "Asia",
-    "country": "India",
-    "cc": "IN",
-    "city": "Chennai",
-    "coordinates": [
-      13.0895,
-      80.2739
-    ]
-  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1257,16 +1207,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "31.15.141.202": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
     ]
   },
   "31.184.218.192": {
@@ -1349,6 +1289,16 @@
       -80.013
     ]
   },
+  "35.245.65.186": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1387,6 +1337,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1467,16 +1427,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "46.182.227.155": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
     ]
   },
   "46.227.68.148": {
@@ -1769,6 +1719,16 @@
       -71.1245
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1847,16 +1807,6 @@
     "coordinates": [
       50.0948,
       14.4785
-    ]
-  },
-  "78.72.186.81": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "78.92.196.79": {
@@ -2039,6 +1989,16 @@
       12.3649
     ]
   },
+  "89.245.16.236": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
+    ]
+  },
   "89.68.252.42": {
     "region": "Europe",
     "country": "Poland",
@@ -2057,6 +2017,16 @@
     "coordinates": [
       51.4048,
       0.0098
+    ]
+  },
+  "92.112.125.142": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "92.35.23.44": {
