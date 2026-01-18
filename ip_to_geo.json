@@ -159,6 +159,16 @@
       174.7365
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2971,
+      174.7932
+    ]
+  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -227,16 +237,6 @@
     "coordinates": [
       59.342,
       18.0623
-    ]
-  },
-  "135.125.234.220": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Limburg an der Lahn",
-    "coordinates": [
-      50.3986,
-      8.07958
     ]
   },
   "135.148.59.26": {
@@ -357,16 +357,6 @@
     "coordinates": [
       51.101,
       17.0295
-    ]
-  },
-  "146.70.116.182": {
-    "region": "Europe",
-    "country": "Austria",
-    "cc": "AT",
-    "city": "Viktring",
-    "coordinates": [
-      46.5919,
-      14.2692
     ]
   },
   "147.185.221.16": {
@@ -649,16 +639,6 @@
       -87.6305
     ]
   },
-  "172.92.241.166": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -847,6 +827,16 @@
     "coordinates": [
       55.674,
       12.5696
+    ]
+  },
+  "192.227.152.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Buffalo",
+    "coordinates": [
+      42.8864,
+      -78.8784
     ]
   },
   "192.227.214.224": {
@@ -1239,6 +1229,16 @@
       -80.013
     ]
   },
+  "34.186.96.31": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.32.13.123": {
     "region": "Europe",
     "country": "Germany",
@@ -1287,16 +1287,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.65.186": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1809,6 +1799,16 @@
       14.4785
     ]
   },
+  "78.72.186.81": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
+    ]
+  },
   "78.92.196.79": {
     "region": "Europe",
     "country": "Hungary",
@@ -1989,7 +1989,7 @@
       12.3649
     ]
   },
-  "89.245.16.236": {
+  "89.245.16.237": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2077,6 +2077,16 @@
     "coordinates": [
       50.6924,
       3.20113
+    ]
+  },
+  "94.254.23.181": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Degerfors",
+    "coordinates": [
+      59.242,
+      14.4262
     ]
   },
   "95.165.130.151": {
