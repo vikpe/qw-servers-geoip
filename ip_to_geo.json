@@ -239,6 +239,16 @@
       18.0623
     ]
   },
+  "135.125.234.220": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Limburg an der Lahn",
+    "coordinates": [
+      50.3986,
+      8.07958
+    ]
+  },
   "135.148.59.26": {
     "region": "North America",
     "country": "United States",
@@ -629,6 +639,16 @@
       -87.6305
     ]
   },
+  "172.92.241.166": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1009,16 +1029,6 @@
       115.8648
     ]
   },
-  "203.214.50.15": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1047,16 +1057,6 @@
     "coordinates": [
       25.7616,
       -80.1917
-    ]
-  },
-  "208.77.22.94": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
     ]
   },
   "208.83.232.203": {
@@ -1789,14 +1789,14 @@
       -115.1152
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
+  "77.239.212.26": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tyumen",
     "coordinates": [
-      33.6647,
-      -117.9663
+      57.1533,
+      65.5418
     ]
   },
   "78.45.199.104": {
@@ -1999,6 +1999,16 @@
       12.3649
     ]
   },
+  "89.245.16.227": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
+    ]
+  },
   "89.68.252.42": {
     "region": "Europe",
     "country": "Poland",
@@ -2069,16 +2079,6 @@
       18.3933
     ]
   },
-  "94.21.46.133": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5,
-      19.0412
-    ]
-  },
   "94.23.249.185": {
     "region": "Europe",
     "country": "France",
@@ -2140,6 +2140,16 @@
     ]
   },
   "95.216.8.8": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1719,
+      24.9347
+    ]
+  },
+  "95.217.104.88": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
