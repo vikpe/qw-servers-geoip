@@ -769,16 +769,6 @@
       14.9942
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2361,
-      21.0235
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1417,6 +1407,16 @@
     "coordinates": [
       39.0469,
       -77.4903
+    ]
+  },
+  "5.182.39.224": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Lisbon",
+    "coordinates": [
+      38.7223,
+      -9.13934
     ]
   },
   "5.196.28.199": {
