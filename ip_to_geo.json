@@ -139,6 +139,16 @@
       -0.127586
     ]
   },
+  "110.175.160.77": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.789,
+      145.0517
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -639,6 +649,16 @@
       -87.6305
     ]
   },
+  "172.92.241.166": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -767,6 +787,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2361,
+      21.0235
     ]
   },
   "185.73.44.100": {
@@ -1229,6 +1259,16 @@
       6.5665
     ]
   },
+  "34.85.199.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.88.143.113": {
     "region": "Europe",
     "country": "Finland",
@@ -1297,16 +1337,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
