@@ -139,16 +139,6 @@
       -0.127586
     ]
   },
-  "110.175.160.77": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.789,
-      145.0517
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -269,6 +259,16 @@
       -77.3429
     ]
   },
+  "136.107.85.17": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -377,6 +377,16 @@
     "coordinates": [
       51.101,
       17.0295
+    ]
+  },
+  "147.185.221.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eugene",
+    "coordinates": [
+      44.0535,
+      -123.09
     ]
   },
   "148.135.104.18": {
@@ -647,16 +657,6 @@
     "coordinates": [
       41.8835,
       -87.6305
-    ]
-  },
-  "172.92.241.166": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "176.210.100.6": {
@@ -1259,16 +1259,6 @@
       6.5665
     ]
   },
-  "34.85.199.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.88.143.113": {
     "region": "Europe",
     "country": "Finland",
@@ -1337,6 +1327,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1837,16 +1837,6 @@
     "coordinates": [
       46.7583,
       17.5777
-    ]
-  },
-  "79.161.4.202": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Stavanger",
-    "coordinates": [
-      58.9731,
-      5.7427
     ]
   },
   "80.211.201.216": {
