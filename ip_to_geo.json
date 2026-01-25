@@ -259,16 +259,6 @@
       -77.3429
     ]
   },
-  "136.107.85.17": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -377,16 +367,6 @@
     "coordinates": [
       51.101,
       17.0295
-    ]
-  },
-  "147.185.221.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Eugene",
-    "coordinates": [
-      44.0535,
-      -123.09
     ]
   },
   "148.135.104.18": {
@@ -1029,6 +1009,16 @@
       115.8648
     ]
   },
+  "203.214.50.15": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1429,16 +1419,6 @@
       17.9612
     ]
   },
-  "5.161.55.215": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0469,
-      -77.4903
-    ]
-  },
   "5.182.39.224": {
     "region": "Europe",
     "country": "Portugal",
@@ -1679,16 +1659,6 @@
       21.0093
     ]
   },
-  "72.104.12.81": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Feasterville",
-    "coordinates": [
-      40.1533,
-      -74.9937
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1787,6 +1757,16 @@
     "coordinates": [
       36.1473,
       -115.1152
+    ]
+  },
+  "75.192.157.47": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Blackwood",
+    "coordinates": [
+      39.8023,
+      -75.0641
     ]
   },
   "75.82.121.13": {
@@ -1989,6 +1969,16 @@
       12.3649
     ]
   },
+  "89.245.16.242": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
+    ]
+  },
   "89.68.252.42": {
     "region": "Europe",
     "country": "Poland",
@@ -2177,16 +2167,6 @@
     "coordinates": [
       58.416,
       15.6288
-    ]
-  },
-  "99.72.255.45": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Memphis",
-    "coordinates": [
-      35.1128,
-      -89.9085
     ]
   }
 }
