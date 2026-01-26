@@ -509,16 +509,6 @@
       10.7494
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.9062,
-      151.2107
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -639,6 +629,16 @@
       -87.6305
     ]
   },
+  "172.92.241.166": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -677,6 +677,16 @@
     "coordinates": [
       39.0469,
       -77.4903
+    ]
+  },
+  "178.164.245.250": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Szeged",
+    "coordinates": [
+      46.2527,
+      20.154
     ]
   },
   "178.79.135.210": {
@@ -1209,6 +1219,16 @@
       30.3096
     ]
   },
+  "31.58.102.53": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7797,
+      -96.8022
+    ]
+  },
   "34.121.113.158": {
     "region": "North America",
     "country": "United States",
@@ -1247,6 +1267,16 @@
     "coordinates": [
       53.2193,
       6.5665
+    ]
+  },
+  "34.86.11.147": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.88.143.113": {
@@ -1959,6 +1989,26 @@
       8.7399
     ]
   },
+  "88.193.167.155": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4966,
+      23.7831
+    ]
+  },
+  "88.202.150.169": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Chipping Norton",
+    "coordinates": [
+      51.9376,
+      -1.5368
+    ]
+  },
   "88.99.66.212": {
     "region": "Europe",
     "country": "Germany",
@@ -1967,16 +2017,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "89.245.16.242": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.68.252.42": {
@@ -2037,16 +2077,6 @@
     "coordinates": [
       47.5119,
       7.5579
-    ]
-  },
-  "94.21.15.111": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Tatab\u00e1nya",
-    "coordinates": [
-      47.5849,
-      18.3933
     ]
   },
   "94.23.249.185": {
