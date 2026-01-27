@@ -159,16 +159,6 @@
       174.7365
     ]
   },
-  "121.99.166.164": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Wellington",
-    "coordinates": [
-      -41.2971,
-      174.7932
-    ]
-  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -339,6 +329,16 @@
       -111.9956
     ]
   },
+  "142.114.125.192": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Scarborough",
+    "coordinates": [
+      43.768,
+      -79.2142
+    ]
+  },
   "144.64.37.26": {
     "region": "Europe",
     "country": "Portugal",
@@ -507,6 +507,16 @@
     "coordinates": [
       59.9056,
       10.7494
+    ]
+  },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.9062,
+      151.2107
     ]
   },
   "159.69.87.212": {
@@ -1019,16 +1029,6 @@
       115.8648
     ]
   },
-  "203.214.50.15": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1269,16 +1269,6 @@
       6.5665
     ]
   },
-  "34.86.11.147": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.88.143.113": {
     "region": "Europe",
     "country": "Finland",
@@ -1427,6 +1417,16 @@
     "coordinates": [
       40.8229,
       -74.4592
+    ]
+  },
+  "45.59.169.233": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Secaucus",
+    "coordinates": [
+      40.7876,
+      -74.06
     ]
   },
   "45.76.56.39": {
@@ -1939,6 +1939,16 @@
       16.894
     ]
   },
+  "85.24.154.2": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Bromma",
+    "coordinates": [
+      59.35,
+      17.9167
+    ]
+  },
   "85.28.131.207": {
     "region": "Europe",
     "country": "Poland",
@@ -2140,16 +2150,6 @@
     ]
   },
   "95.216.8.8": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1719,
-      24.9347
-    ]
-  },
-  "95.217.104.88": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
