@@ -159,6 +159,16 @@
       174.7365
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2971,
+      174.7932
+    ]
+  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -327,16 +337,6 @@
     "coordinates": [
       33.4656,
       -111.9956
-    ]
-  },
-  "142.114.125.192": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Scarborough",
-    "coordinates": [
-      43.768,
-      -79.2142
     ]
   },
   "144.64.37.26": {
@@ -637,16 +637,6 @@
     "coordinates": [
       41.8835,
       -87.6305
-    ]
-  },
-  "172.92.241.166": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "176.210.100.6": {
@@ -1869,14 +1859,14 @@
       13.3224
     ]
   },
-  "81.226.10.87": {
+  "81.232.145.90": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Br\u00e5landa",
+    "city": "Trollh\u00e4ttan",
     "coordinates": [
-      58.5633,
-      12.3708
+      58.2835,
+      12.2858
     ]
   },
   "82.196.112.57": {
@@ -1997,16 +1987,6 @@
     "coordinates": [
       48.709,
       8.7399
-    ]
-  },
-  "88.193.167.155": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4966,
-      23.7831
     ]
   },
   "88.202.150.169": {
