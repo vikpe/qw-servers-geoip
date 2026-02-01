@@ -369,6 +369,16 @@
       17.0295
     ]
   },
+  "147.185.221.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eugene",
+    "coordinates": [
+      44.0535,
+      -123.09
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -1249,16 +1259,6 @@
       -96.8022
     ]
   },
-  "34.121.113.158": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1317,6 +1317,26 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.223.229.116": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
+  "35.236.220.196": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1739,16 +1759,6 @@
       -71.1245
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1809,14 +1819,14 @@
       -115.1152
     ]
   },
-  "75.215.192.76": {
+  "75.192.164.127": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Claymont",
+    "city": "Blackwood",
     "coordinates": [
-      39.8044,
-      -75.4649
+      39.8023,
+      -75.0641
     ]
   },
   "78.45.199.104": {
@@ -2037,6 +2047,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "89.245.16.229": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
     ]
   },
   "89.68.252.42": {
