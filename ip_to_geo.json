@@ -259,6 +259,16 @@
       -77.3429
     ]
   },
+  "136.107.73.143": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -317,6 +327,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "140.235.125.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7701,
+      -80.1928
     ]
   },
   "141.105.67.104": {
@@ -619,16 +639,6 @@
       -71.2344
     ]
   },
-  "170.39.226.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Secaucus",
-    "coordinates": [
-      40.7895,
-      -74.0565
-    ]
-  },
   "172.235.175.10": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -647,6 +657,16 @@
     "coordinates": [
       41.8835,
       -87.6305
+    ]
+  },
+  "172.7.58.121": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Aubrey",
+    "coordinates": [
+      33.3043,
+      -96.9861
     ]
   },
   "172.92.241.166": {
@@ -699,14 +719,14 @@
       -77.4903
     ]
   },
-  "178.164.245.250": {
+  "178.164.234.9": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Szeged",
+    "city": "Budapest",
     "coordinates": [
-      46.2527,
-      20.154
+      47.5,
+      19.0412
     ]
   },
   "178.79.135.210": {
@@ -799,16 +819,6 @@
       14.9942
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2361,
-      21.0235
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -867,16 +877,6 @@
     "coordinates": [
       42.8864,
       -78.8784
-    ]
-  },
-  "192.41.102.73": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.7701,
-      -80.1928
     ]
   },
   "192.9.173.60": {
@@ -1329,16 +1329,6 @@
       -95.8608
     ]
   },
-  "35.236.220.196": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1519,7 +1509,7 @@
       3.20113
     ]
   },
-  "50.125.85.42": {
+  "50.35.180.26": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1819,14 +1809,14 @@
       -115.1152
     ]
   },
-  "75.192.164.127": {
+  "75.192.135.132": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Blackwood",
+    "city": "York",
     "coordinates": [
-      39.8023,
-      -75.0641
+      39.9517,
+      -76.7064
     ]
   },
   "78.45.199.104": {
@@ -2019,16 +2009,6 @@
       8.7399
     ]
   },
-  "88.193.167.155": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4966,
-      23.7831
-    ]
-  },
   "88.202.150.169": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -2049,7 +2029,7 @@
       12.3649
     ]
   },
-  "89.245.16.229": {
+  "89.245.16.230": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
