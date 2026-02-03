@@ -259,16 +259,6 @@
       -77.3429
     ]
   },
-  "136.107.73.143": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -387,16 +377,6 @@
     "coordinates": [
       51.101,
       17.0295
-    ]
-  },
-  "147.185.221.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Eugene",
-    "coordinates": [
-      44.0535,
-      -123.09
     ]
   },
   "148.135.104.18": {
@@ -669,16 +649,6 @@
       -96.9861
     ]
   },
-  "172.92.241.166": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -817,6 +787,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2361,
+      21.0235
     ]
   },
   "185.73.44.100": {
@@ -1699,16 +1679,6 @@
       17.9155
     ]
   },
-  "70.34.206.203": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sp\u00e5nga",
-    "coordinates": [
-      59.3779,
-      17.9155
-    ]
-  },
   "70.34.242.113": {
     "region": "Europe",
     "country": "Poland",
@@ -1749,6 +1719,16 @@
       -71.1245
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1769,7 +1749,7 @@
       -72.75
     ]
   },
-  "74.103.210.105": {
+  "74.103.210.104": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -2029,7 +2009,7 @@
       12.3649
     ]
   },
-  "89.245.16.230": {
+  "89.245.16.227": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
