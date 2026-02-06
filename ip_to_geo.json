@@ -319,6 +319,16 @@
       -0.1278
     ]
   },
+  "140.235.125.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7701,
+      -80.1928
+    ]
+  },
   "141.105.67.104": {
     "region": "Europe",
     "country": "Russia",
@@ -639,16 +649,6 @@
       -96.9861
     ]
   },
-  "172.92.232.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stevenson",
-    "coordinates": [
-      45.6957,
-      -121.8845
-    ]
-  },
   "172.92.241.166": {
     "region": "North America",
     "country": "United States",
@@ -729,16 +729,6 @@
       -46.6351
     ]
   },
-  "179.41.142.222": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Ituzaing\u00f3",
-    "coordinates": [
-      -34.6671,
-      -58.6691
-    ]
-  },
   "18.223.24.90": {
     "region": "North America",
     "country": "United States",
@@ -767,6 +757,26 @@
     "coordinates": [
       39.3202,
       -84.552
+    ]
+  },
+  "184.57.53.220": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Columbus",
+    "coordinates": [
+      40.0536,
+      -83.0115
+    ]
+  },
+  "185.144.159.231": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7616,
+      -80.1917
     ]
   },
   "185.157.244.204": {
@@ -1059,16 +1069,6 @@
       -87.6305
     ]
   },
-  "207.126.162.246": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.7616,
-      -80.1917
-    ]
-  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1279,16 +1279,6 @@
       -80.013
     ]
   },
-  "34.186.119.52": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.13.123": {
     "region": "Europe",
     "country": "Germany",
@@ -1347,6 +1337,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.199.52.76": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1819,14 +1819,24 @@
       -115.1152
     ]
   },
-  "75.192.141.89": {
+  "75.192.146.8": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Reading",
+    "city": "Somerdale",
     "coordinates": [
-      40.296,
-      -75.9894
+      39.8417,
+      -75.0281
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.6647,
+      -117.9663
     ]
   },
   "78.45.199.104": {
@@ -1907,6 +1917,16 @@
     "coordinates": [
       62.3924,
       17.3006
+    ]
+  },
+  "82.215.74.207": {
+    "region": "Asia",
+    "country": "Uzbekistan",
+    "cc": "UZ",
+    "city": "Tashkent",
+    "coordinates": [
+      41.2615,
+      69.2177
     ]
   },
   "83.233.218.134": {
@@ -2039,6 +2059,16 @@
       12.3649
     ]
   },
+  "89.245.16.255": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
+    ]
+  },
   "89.68.252.42": {
     "region": "Europe",
     "country": "Poland",
@@ -2067,6 +2097,16 @@
     "coordinates": [
       52.3759,
       4.8975
+    ]
+  },
+  "92.221.92.92": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Sandnes",
+    "coordinates": [
+      58.8544,
+      5.7456
     ]
   },
   "92.35.23.44": {
