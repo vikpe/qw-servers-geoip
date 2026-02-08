@@ -59,6 +59,16 @@
       138.6352
     ]
   },
+  "103.63.29.40": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Lisbon",
+    "coordinates": [
+      38.729,
+      -9.1551
+    ]
+  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -487,16 +497,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "158.174.100.106": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
     ]
   },
   "158.23.48.92": {
@@ -1017,16 +1017,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9474,
-      115.8648
     ]
   },
   "203.29.240.182": {
@@ -1789,24 +1779,14 @@
       -115.1152
     ]
   },
-  "75.215.219.14": {
+  "75.192.146.126": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Sicklerville",
+    "city": "Somerdale",
     "coordinates": [
-      39.7173,
-      -74.9693
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.6647,
-      -117.9663
+      39.8417,
+      -75.0281
     ]
   },
   "78.45.199.104": {
@@ -1837,16 +1817,6 @@
     "coordinates": [
       47.4277,
       18.9191
-    ]
-  },
-  "78.92.236.162": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Fony\u00f3d",
-    "coordinates": [
-      46.7583,
-      17.5777
     ]
   },
   "80.211.201.216": {
@@ -1889,6 +1859,16 @@
       17.3006
     ]
   },
+  "82.215.74.207": {
+    "region": "Asia",
+    "country": "Uzbekistan",
+    "cc": "UZ",
+    "city": "Tashkent",
+    "coordinates": [
+      41.2615,
+      69.2177
+    ]
+  },
   "83.233.218.134": {
     "region": "Europe",
     "country": "Sweden",
@@ -1897,6 +1877,16 @@
     "coordinates": [
       59.2753,
       15.2134
+    ]
+  },
+  "83.27.86.179": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1242,
+      16.9933
     ]
   },
   "83.29.42.104": {
@@ -2019,7 +2009,7 @@
       12.3649
     ]
   },
-  "89.245.16.238": {
+  "89.245.16.239": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
