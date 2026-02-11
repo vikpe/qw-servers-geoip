@@ -389,6 +389,16 @@
       17.0295
     ]
   },
+  "147.185.221.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eugene",
+    "coordinates": [
+      44.0535,
+      -123.09
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -657,6 +667,16 @@
     "coordinates": [
       33.3043,
       -96.9861
+    ]
+  },
+  "172.92.251.91": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Camano",
+    "coordinates": [
+      48.1789,
+      -122.5181
     ]
   },
   "176.210.100.6": {
@@ -1049,24 +1069,14 @@
       -47.4011
     ]
   },
-  "201.54.1.166": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Franca",
-    "coordinates": [
-      -20.5395,
-      -47.4011
-    ]
-  },
-  "202.87.162.206": {
+  "203.214.50.15": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Perth",
+    "city": "Melbourne",
     "coordinates": [
-      -31.9474,
-      115.8648
+      -37.8159,
+      144.9669
     ]
   },
   "203.29.240.182": {
@@ -1137,6 +1147,16 @@
     "coordinates": [
       53.5522,
       10.04
+    ]
+  },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1317,6 +1337,16 @@
     "coordinates": [
       53.2193,
       6.5665
+    ]
+  },
+  "34.86.55.146": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.88.143.113": {
@@ -1659,16 +1689,6 @@
       -80.7294
     ]
   },
-  "64.181.167.17": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1717,6 +1737,16 @@
     "coordinates": [
       52.2299,
       21.0093
+    ]
+  },
+  "72.104.8.251": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Newark",
+    "coordinates": [
+      39.6336,
+      -75.701
     ]
   },
   "72.18.132.133": {
@@ -1809,14 +1839,14 @@
       -115.1152
     ]
   },
-  "75.192.146.126": {
+  "75.82.121.13": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Somerdale",
+    "city": "Huntington Beach",
     "coordinates": [
-      39.8417,
-      -75.0281
+      33.6647,
+      -117.9663
     ]
   },
   "78.45.199.104": {
@@ -2029,6 +2059,26 @@
       12.3649
     ]
   },
+  "89.245.16.242": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
+    ]
+  },
+  "89.67.105.77": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2758,
+      20.959
+    ]
+  },
   "89.68.252.42": {
     "region": "Europe",
     "country": "Poland",
@@ -2047,6 +2097,16 @@
     "coordinates": [
       51.4048,
       0.0098
+    ]
+  },
+  "92.112.125.142": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3759,
+      4.8975
     ]
   },
   "92.221.92.92": {
