@@ -669,16 +669,6 @@
       -96.9861
     ]
   },
-  "172.92.251.91": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1059,24 +1049,14 @@
       -47.4011
     ]
   },
-  "201.23.14.183": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Franca",
-    "coordinates": [
-      -20.5395,
-      -47.4011
-    ]
-  },
-  "203.214.50.15": {
+  "202.87.162.206": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Melbourne",
+    "city": "Perth",
     "coordinates": [
-      -37.8159,
-      144.9669
+      -31.9474,
+      115.8648
     ]
   },
   "203.29.240.182": {
@@ -1339,16 +1319,6 @@
       6.5665
     ]
   },
-  "34.86.55.146": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.88.143.113": {
     "region": "Europe",
     "country": "Finland",
@@ -1377,6 +1347,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.236.195.55": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1739,16 +1719,6 @@
       21.0093
     ]
   },
-  "72.104.8.251": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Newark",
-    "coordinates": [
-      39.6336,
-      -75.701
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1779,16 +1749,6 @@
       -71.1245
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1809,16 +1769,6 @@
       -72.75
     ]
   },
-  "74.103.210.104": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "East Providence",
-    "coordinates": [
-      41.815,
-      -71.3663
-    ]
-  },
   "75.154.237.109": {
     "region": "North America",
     "country": "Canada",
@@ -1837,6 +1787,16 @@
     "coordinates": [
       36.1473,
       -115.1152
+    ]
+  },
+  "75.215.205.112": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Somerdale",
+    "coordinates": [
+      39.8417,
+      -75.0281
     ]
   },
   "75.82.121.13": {
@@ -1927,6 +1887,16 @@
     "coordinates": [
       59.2753,
       15.2134
+    ]
+  },
+  "83.27.86.179": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.1242,
+      16.9933
     ]
   },
   "83.29.42.104": {
@@ -2059,7 +2029,7 @@
       12.3649
     ]
   },
-  "89.245.16.242": {
+  "89.245.16.236": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
