@@ -19,16 +19,6 @@
       103.894
     ]
   },
-  "102.132.171.115": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Johannesburg",
-    "coordinates": [
-      -26.2023,
-      28.0436
-    ]
-  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -549,6 +539,16 @@
       151.0148
     ]
   },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.709,
+      151.1641
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -619,16 +619,6 @@
       12.3649
     ]
   },
-  "167.99.124.241": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Clifton",
-    "coordinates": [
-      40.8364,
-      -74.1403
-    ]
-  },
   "170.239.85.153": {
     "region": "South America",
     "country": "Chile",
@@ -667,16 +657,6 @@
     "coordinates": [
       33.349,
       -96.5486
-    ]
-  },
-  "172.92.251.91": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Camano",
-    "coordinates": [
-      48.1789,
-      -122.5181
     ]
   },
   "173.69.14.157": {
@@ -1269,6 +1249,16 @@
       -77.4874
     ]
   },
+  "3.94.62.64": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0438,
+      -77.4874
+    ]
+  },
   "31.184.218.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1287,6 +1277,16 @@
     "coordinates": [
       32.7797,
       -96.8022
+    ]
+  },
+  "34.11.72.71": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1337,16 +1337,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.138.62.129": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Spring Hill",
-    "coordinates": [
-      28.4797,
-      -82.5126
     ]
   },
   "35.185.44.174": {
@@ -1809,6 +1799,16 @@
       -75.2261
     ]
   },
+  "77.55.194.24": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Krakow",
+    "coordinates": [
+      50.0754,
+      20.0162
+    ]
+  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -2009,16 +2009,6 @@
       12.3649
     ]
   },
-  "89.245.16.245": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3222,
-      10.0488
-    ]
-  },
   "89.68.252.42": {
     "region": "Europe",
     "country": "Poland",
@@ -2047,6 +2037,26 @@
     "coordinates": [
       51.4048,
       0.0098
+    ]
+  },
+  "91.227.77.23": {
+    "region": "Europe",
+    "country": "Bulgaria",
+    "cc": "BG",
+    "city": "Sofia",
+    "coordinates": [
+      42.6977,
+      23.3218
+    ]
+  },
+  "92.221.92.92": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Sandnes",
+    "coordinates": [
+      58.8544,
+      5.7456
     ]
   },
   "92.246.128.81": {
