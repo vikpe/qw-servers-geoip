@@ -59,6 +59,16 @@
       138.6017
     ]
   },
+  "103.63.29.40": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Lisbon",
+    "coordinates": [
+      38.729,
+      -9.1551
+    ]
+  },
   "103.72.77.220": {
     "region": "North America",
     "country": "United States",
@@ -259,6 +269,16 @@
       -77.3429
     ]
   },
+  "136.107.82.35": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -377,6 +397,16 @@
     "coordinates": [
       51.1046,
       17.03
+    ]
+  },
+  "147.185.221.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eugene",
+    "coordinates": [
+      44.0535,
+      -123.09
     ]
   },
   "148.135.104.18": {
@@ -727,16 +757,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "184.54.162.131": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fairfield",
-    "coordinates": [
-      39.3202,
-      -84.552
     ]
   },
   "184.57.53.220": {
@@ -1279,7 +1299,7 @@
       -80.013
     ]
   },
-  "34.32.13.123": {
+  "34.32.78.166": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -1299,17 +1319,7 @@
       -95.8608
     ]
   },
-  "34.7.34.213": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Groningen",
-    "coordinates": [
-      53.2193,
-      6.5665
-    ]
-  },
-  "34.88.143.113": {
+  "34.88.66.126": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
@@ -1779,6 +1789,16 @@
       -75.2261
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "77.55.194.24": {
     "region": "Europe",
     "country": "Poland",
@@ -1817,6 +1837,16 @@
     "coordinates": [
       47.4277,
       18.9191
+    ]
+  },
+  "78.92.236.162": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Balatonbogl\u00e1r",
+    "coordinates": [
+      46.7783,
+      17.6405
     ]
   },
   "80.211.201.216": {
@@ -1989,14 +2019,24 @@
       12.3649
     ]
   },
-  "89.68.252.42": {
+  "89.245.16.243": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3222,
+      10.0488
+    ]
+  },
+  "89.72.118.186": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.1475,
-      21.069
+      52.1642,
+      21.0325
     ]
   },
   "89.72.208.121": {
@@ -2157,16 +2197,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "97.94.129.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Riverbank",
-    "coordinates": [
-      37.7308,
-      -120.9382
     ]
   },
   "98.128.174.153": {
