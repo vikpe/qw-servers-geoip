@@ -1279,16 +1279,6 @@
       30.3096
     ]
   },
-  "31.58.102.53": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7797,
-      -96.8022
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1649,6 +1639,16 @@
       -80.7294
     ]
   },
+  "64.181.167.17": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1789,16 +1789,6 @@
       -75.2261
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "77.55.194.24": {
     "region": "Europe",
     "country": "Poland",
@@ -1819,6 +1809,16 @@
       14.4523
     ]
   },
+  "78.72.186.81": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.605,
+      13.0038
+    ]
+  },
   "78.92.196.79": {
     "region": "Europe",
     "country": "Hungary",
@@ -1827,16 +1827,6 @@
     "coordinates": [
       47.4277,
       18.9191
-    ]
-  },
-  "78.92.236.162": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Balatonbogl\u00e1r",
-    "coordinates": [
-      46.7783,
-      17.6405
     ]
   },
   "80.211.201.216": {
@@ -1897,16 +1887,6 @@
     "coordinates": [
       54.741,
       55.9891
-    ]
-  },
-  "85.121.48.69": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "London",
-    "coordinates": [
-      51.5072,
-      -0.127586
     ]
   },
   "85.220.65.204": {
@@ -2007,6 +1987,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "89.245.16.234": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3222,
+      10.0488
     ]
   },
   "89.72.118.186": {
@@ -2157,6 +2147,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "97.94.129.234": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Riverbank",
+    "coordinates": [
+      37.7308,
+      -120.9382
     ]
   },
   "98.128.174.153": {
