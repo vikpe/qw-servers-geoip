@@ -469,16 +469,6 @@
       -96.8021
     ]
   },
-  "155.4.107.203": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "\u00c4ngelholm",
-    "coordinates": [
-      56.249,
-      12.8649
-    ]
-  },
   "155.4.206.139": {
     "region": "Europe",
     "country": "Sweden",
@@ -547,6 +537,16 @@
     "coordinates": [
       -34.0168,
       151.0148
+    ]
+  },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.709,
+      151.1641
     ]
   },
   "159.69.87.212": {
@@ -829,7 +829,7 @@
       -1.3379
     ]
   },
-  "188.143.82.187": {
+  "188.143.82.53": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1069,6 +1069,16 @@
       -47.4011
     ]
   },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9815,
+      115.9214
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1277,6 +1287,16 @@
     "coordinates": [
       59.9417,
       30.3096
+    ]
+  },
+  "34.11.10.68": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1789,6 +1809,16 @@
       -75.2261
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "77.55.194.24": {
     "region": "Europe",
     "country": "Poland",
@@ -1989,16 +2019,6 @@
       12.3649
     ]
   },
-  "89.245.16.234": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3222,
-      10.0488
-    ]
-  },
   "89.72.118.186": {
     "region": "Europe",
     "country": "Poland",
@@ -2177,6 +2197,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "98.128.248.148": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Limhamn",
+    "coordinates": [
+      55.5811,
+      12.9553
     ]
   }
 }
