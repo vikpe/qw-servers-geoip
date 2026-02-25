@@ -179,6 +179,16 @@
       174.7932
     ]
   },
+  "122.199.63.203": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8766,
+      145.1623
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -457,16 +467,6 @@
     "coordinates": [
       32.7889,
       -96.8021
-    ]
-  },
-  "155.4.107.203": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "\u00c4ngelholm",
-    "coordinates": [
-      56.249,
-      12.8649
     ]
   },
   "155.4.206.139": {
@@ -829,16 +829,6 @@
       -1.3379
     ]
   },
-  "187.74.39.42": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "188.143.82.53": {
     "region": "Europe",
     "country": "Hungary",
@@ -1097,16 +1087,6 @@
     "coordinates": [
       -31.8512,
       115.8765
-    ]
-  },
-  "205.206.227.230": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Edmonton",
-    "coordinates": [
-      53.488,
-      -113.4797
     ]
   },
   "206.51.245.84": {
@@ -1419,6 +1399,16 @@
       12.9982
     ]
   },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
+    ]
+  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1699,16 +1689,6 @@
       -74.0203
     ]
   },
-  "67.144.220.146": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Marinette",
-    "coordinates": [
-      45.1,
-      -87.6307
-    ]
-  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1819,16 +1799,6 @@
       -115.1152
     ]
   },
-  "75.192.167.254": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      40.0251,
-      -75.2261
-    ]
-  },
   "77.55.194.24": {
     "region": "Europe",
     "country": "Poland",
@@ -1847,16 +1817,6 @@
     "coordinates": [
       50.0471,
       14.4523
-    ]
-  },
-  "78.72.186.81": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.605,
-      13.0038
     ]
   },
   "78.92.196.79": {
@@ -1989,16 +1949,6 @@
       -0.093
     ]
   },
-  "86.27.70.69": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Margate",
-    "coordinates": [
-      51.3844,
-      1.3934
-    ]
-  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -2029,7 +1979,7 @@
       12.3649
     ]
   },
-  "89.245.16.225": {
+  "89.245.16.251": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2097,6 +2047,16 @@
     "coordinates": [
       64.1476,
       -21.9392
+    ]
+  },
+  "94.16.128.193": {
+    "region": "Europe",
+    "country": "Switzerland",
+    "cc": "CH",
+    "city": "Oberwil",
+    "coordinates": [
+      47.5119,
+      7.5579
     ]
   },
   "94.23.249.185": {
