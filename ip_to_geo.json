@@ -479,16 +479,6 @@
       -111.9956
     ]
   },
-  "158.174.100.106": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Lerum",
-    "coordinates": [
-      57.7701,
-      12.2653
-    ]
-  },
   "158.23.48.92": {
     "region": "North America",
     "country": "Mexico",
@@ -1199,16 +1189,6 @@
       151.1321
     ]
   },
-  "23.147.236.51": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3385,
-      4.9168
-    ]
-  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1319,14 +1299,14 @@
       -80.013
     ]
   },
-  "35.245.115.123": {
+  "35.237.45.226": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Washington",
+    "city": "North Charleston",
     "coordinates": [
-      38.9071,
-      -77.0368
+      32.8771,
+      -80.013
     ]
   },
   "37.201.131.70": {
@@ -1947,6 +1927,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "89.245.16.240": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3222,
+      10.0488
     ]
   },
   "89.72.118.186": {
