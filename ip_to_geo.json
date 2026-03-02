@@ -479,6 +479,16 @@
       -111.9956
     ]
   },
+  "158.174.100.106": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lerum",
+    "coordinates": [
+      57.7701,
+      12.2653
+    ]
+  },
   "158.23.48.92": {
     "region": "North America",
     "country": "Mexico",
@@ -769,16 +779,6 @@
       14.9942
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2288,
-      21.0879
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -789,7 +789,7 @@
       -1.3379
     ]
   },
-  "188.143.82.53": {
+  "188.143.82.82": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1069,6 +1069,16 @@
       -157.8725
     ]
   },
+  "212.10.127.32": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Aalborg",
+    "coordinates": [
+      57.0421,
+      9.9145
+    ]
+  },
   "212.227.245.192": {
     "region": "Europe",
     "country": "Germany",
@@ -1189,6 +1199,16 @@
       151.1321
     ]
   },
+  "23.147.236.51": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3385,
+      4.9168
+    ]
+  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1299,14 +1319,14 @@
       -80.013
     ]
   },
-  "35.237.45.226": {
+  "35.245.17.54": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "North Charleston",
+    "city": "Washington",
     "coordinates": [
-      32.8771,
-      -80.013
+      38.9071,
+      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1659,6 +1679,16 @@
       -104.9945
     ]
   },
+  "72.239.233.54": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Merritt Island",
+    "coordinates": [
+      28.2764,
+      -80.6568
+    ]
+  },
   "73.143.214.84": {
     "region": "North America",
     "country": "United States",
@@ -1729,16 +1759,6 @@
       -75.2261
     ]
   },
-  "76.112.210.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Warren",
-    "coordinates": [
-      42.4723,
-      -82.9967
-    ]
-  },
   "77.55.194.24": {
     "region": "Europe",
     "country": "Poland",
@@ -1757,16 +1777,6 @@
     "coordinates": [
       50.0471,
       14.4523
-    ]
-  },
-  "78.72.186.81": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.605,
-      13.0038
     ]
   },
   "78.92.196.79": {
@@ -1927,16 +1937,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "89.245.16.240": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3222,
-      10.0488
     ]
   },
   "89.72.118.186": {
