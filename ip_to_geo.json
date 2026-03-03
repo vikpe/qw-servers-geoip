@@ -259,6 +259,26 @@
       8.07958
     ]
   },
+  "135.148.59.26": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Reston",
+    "coordinates": [
+      38.9609,
+      -77.3429
+    ]
+  },
+  "136.107.45.252": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -507,16 +527,6 @@
     "coordinates": [
       59.9056,
       10.7494
-    ]
-  },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.0168,
-      151.0148
     ]
   },
   "159.69.87.212": {
@@ -777,6 +787,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2288,
+      21.0879
     ]
   },
   "185.73.44.100": {
@@ -1049,16 +1069,6 @@
       -87.6305
     ]
   },
-  "208.77.22.94": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8835,
-      -87.6305
-    ]
-  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1067,16 +1077,6 @@
     "coordinates": [
       21.3513,
       -157.8725
-    ]
-  },
-  "212.10.127.32": {
-    "region": "Europe",
-    "country": "Denmark",
-    "cc": "DK",
-    "city": "Aalborg",
-    "coordinates": [
-      57.0421,
-      9.9145
     ]
   },
   "212.227.245.192": {
@@ -1317,16 +1317,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.17.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.201.131.70": {
@@ -1779,6 +1769,16 @@
       14.4523
     ]
   },
+  "78.72.186.81": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.605,
+      13.0038
+    ]
+  },
   "78.92.196.79": {
     "region": "Europe",
     "country": "Hungary",
@@ -1937,6 +1937,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "89.245.16.246": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3222,
+      10.0488
     ]
   },
   "89.72.118.186": {
