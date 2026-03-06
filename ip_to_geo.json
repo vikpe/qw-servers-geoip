@@ -679,16 +679,6 @@
       73.3729
     ]
   },
-  "177.188.171.74": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.8951,
-      -47.0439
-    ]
-  },
   "178.156.145.131": {
     "region": "North America",
     "country": "United States",
@@ -857,6 +847,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.46.21.110": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.8951,
+      -47.0439
     ]
   },
   "192.121.119.117": {
@@ -1299,6 +1299,16 @@
       30.3096
     ]
   },
+  "34.11.5.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1527,6 +1537,16 @@
     "coordinates": [
       47.8022,
       -122.286
+    ]
+  },
+  "52.14.57.255": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
     ]
   },
   "52.215.55.73": {
@@ -1829,6 +1849,16 @@
       18.9191
     ]
   },
+  "78.92.197.238": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1977,6 +2007,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "89.245.16.253": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3222,
+      10.0488
     ]
   },
   "89.72.118.186": {
@@ -2177,6 +2217,16 @@
     "coordinates": [
       55.5811,
       12.9553
+    ]
+  },
+  "99.109.225.147": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Houston",
+    "coordinates": [
+      29.9203,
+      -95.4318
     ]
   }
 }
