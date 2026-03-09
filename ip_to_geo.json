@@ -789,16 +789,6 @@
       14.9942
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2288,
-      21.0879
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -807,16 +797,6 @@
     "coordinates": [
       50.9656,
       -1.3379
-    ]
-  },
-  "188.143.82.82": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5,
-      19.0412
     ]
   },
   "188.166.161.185": {
@@ -1969,7 +1949,7 @@
       12.3649
     ]
   },
-  "89.245.16.247": {
+  "89.245.16.242": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2047,6 +2027,16 @@
     "coordinates": [
       47.5119,
       7.5579
+    ]
+  },
+  "94.21.195.135": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Kecskem\u00e9t",
+    "coordinates": [
+      46.905,
+      19.6958
     ]
   },
   "94.23.249.185": {
