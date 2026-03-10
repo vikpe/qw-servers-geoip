@@ -529,6 +529,16 @@
       151.0148
     ]
   },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.709,
+      151.1641
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -647,16 +657,6 @@
     "coordinates": [
       33.349,
       -96.5486
-    ]
-  },
-  "173.69.14.157": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cranston",
-    "coordinates": [
-      41.7689,
-      -71.4758
     ]
   },
   "176.210.100.6": {
@@ -787,6 +787,16 @@
     "coordinates": [
       60.8211,
       14.9942
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2288,
+      21.0879
     ]
   },
   "185.73.44.100": {
@@ -1079,6 +1089,16 @@
       -157.8725
     ]
   },
+  "212.10.127.32": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Aalborg",
+    "coordinates": [
+      57.0421,
+      9.9145
+    ]
+  },
   "212.227.245.192": {
     "region": "Europe",
     "country": "Germany",
@@ -1117,16 +1137,6 @@
     "coordinates": [
       53.5492,
       9.9418
-    ]
-  },
-  "213.164.209.174": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1220,16 +1230,6 @@
     ]
   },
   "23.227.170.216": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.8137,
-      -96.8704
-    ]
-  },
-  "23.227.170.222": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1749,14 +1749,14 @@
       -75.2261
     ]
   },
-  "77.55.194.24": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Krakow",
+  "76.191.111.240": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Sedro-Woolley",
     "coordinates": [
-      50.0754,
-      20.0162
+      48.5274,
+      -122.2329
     ]
   },
   "77.90.0.186": {
@@ -1919,6 +1919,16 @@
       -0.093
     ]
   },
+  "86.27.70.69": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Margate",
+    "coordinates": [
+      51.3844,
+      1.3934
+    ]
+  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -1949,7 +1959,7 @@
       12.3649
     ]
   },
-  "89.245.16.242": {
+  "89.245.16.236": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
