@@ -529,16 +529,6 @@
       151.0148
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.709,
-      151.1641
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -659,6 +649,16 @@
       -96.5486
     ]
   },
+  "172.92.232.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stevenson",
+    "coordinates": [
+      45.6957,
+      -121.8845
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -667,6 +667,16 @@
     "coordinates": [
       54.9896,
       73.3729
+    ]
+  },
+  "177.93.132.220": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Franca",
+    "coordinates": [
+      -20.5395,
+      -47.4011
     ]
   },
   "178.156.145.131": {
@@ -1049,16 +1059,6 @@
       -47.4011
     ]
   },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9815,
-      115.9214
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1137,6 +1137,16 @@
     "coordinates": [
       53.5492,
       9.9418
+    ]
+  },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1239,6 +1249,16 @@
       -96.8704
     ]
   },
+  "23.227.170.222": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.8137,
+      -96.8704
+    ]
+  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1269,6 +1289,16 @@
       30.3096
     ]
   },
+  "34.132.16.62": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1289,14 +1319,14 @@
       13.4049
     ]
   },
-  "34.61.139.98": {
+  "34.85.142.78": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Council Bluffs",
+    "city": "Washington",
     "coordinates": [
-      41.2619,
-      -95.8608
+      38.9071,
+      -77.0368
     ]
   },
   "34.88.66.126": {
@@ -1357,16 +1387,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1719,16 +1739,6 @@
       -81.9483
     ]
   },
-  "73.47.176.11": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "New Britain",
-    "coordinates": [
-      41.6669,
-      -72.7726
-    ]
-  },
   "75.154.237.109": {
     "region": "North America",
     "country": "Canada",
@@ -1747,16 +1757,6 @@
     "coordinates": [
       40.0251,
       -75.2261
-    ]
-  },
-  "76.191.111.240": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Sedro-Woolley",
-    "coordinates": [
-      48.5274,
-      -122.2329
     ]
   },
   "77.90.0.186": {
@@ -1919,16 +1919,6 @@
       -0.093
     ]
   },
-  "86.27.70.69": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Margate",
-    "coordinates": [
-      51.3844,
-      1.3934
-    ]
-  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -1957,16 +1947,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "89.245.16.236": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3222,
-      10.0488
     ]
   },
   "89.72.118.186": {
