@@ -629,16 +629,6 @@
       -96.5486
     ]
   },
-  "172.92.232.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stevenson",
-    "coordinates": [
-      45.6957,
-      -121.8845
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -1279,16 +1269,6 @@
       13.4049
     ]
   },
-  "34.48.191.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.88.66.126": {
     "region": "Europe",
     "country": "Finland",
@@ -1739,16 +1719,6 @@
       13.0038
     ]
   },
-  "78.92.197.238": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
   "78.92.204.154": {
     "region": "Europe",
     "country": "Hungary",
@@ -1787,6 +1757,16 @@
     "coordinates": [
       58.2835,
       12.2858
+    ]
+  },
+  "81.228.59.199": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3327,
+      18.0656
     ]
   },
   "81.232.87.98": {
