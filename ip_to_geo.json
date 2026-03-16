@@ -589,6 +589,16 @@
       12.3649
     ]
   },
+  "169.239.128.46": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": [
+      -26.2309,
+      28.0583
+    ]
+  },
   "170.239.85.153": {
     "region": "South America",
     "country": "Chile",
@@ -879,16 +889,6 @@
       37.8294
     ]
   },
-  "193.77.69.2": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
-    ]
-  },
   "194.145.194.3": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1027,6 +1027,16 @@
     "coordinates": [
       -20.5395,
       -47.4011
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9815,
+      115.9214
     ]
   },
   "203.29.240.182": {
@@ -1889,16 +1899,6 @@
       13.405
     ]
   },
-  "87.189.56.216": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "88.99.66.212": {
     "region": "Europe",
     "country": "Germany",
@@ -1937,6 +1937,16 @@
     "coordinates": [
       42.6977,
       23.3218
+    ]
+  },
+  "91.55.85.57": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "92.221.92.92": {
@@ -1979,14 +1989,14 @@
       7.5579
     ]
   },
-  "94.21.195.135": {
+  "94.21.46.225": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Kecskem\u00e9t",
+    "city": "Budapest",
     "coordinates": [
-      46.905,
-      19.6958
+      47.5,
+      19.0412
     ]
   },
   "94.23.249.185": {
