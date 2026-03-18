@@ -129,16 +129,6 @@
       -87.9954
     ]
   },
-  "108.61.242.130": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elk Grove Village",
-    "coordinates": [
-      42.0048,
-      -87.9954
-    ]
-  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -647,6 +637,16 @@
     "coordinates": [
       33.349,
       -96.5486
+    ]
+  },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
     ]
   },
   "176.210.100.6": {
@@ -1827,6 +1827,16 @@
     "coordinates": [
       62.3924,
       17.3006
+    ]
+  },
+  "83.172.66.214": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Enk\u00f6ping",
+    "coordinates": [
+      59.6323,
+      17.0761
     ]
   },
   "83.233.218.134": {
