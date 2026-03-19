@@ -149,6 +149,16 @@
       11.0783
     ]
   },
+  "118.209.217.169": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.7906,
+      144.9944
+    ]
+  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -639,14 +649,14 @@
       -96.5486
     ]
   },
-  "172.92.238.19": {
+  "174.166.130.97": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Stanwood",
+    "city": "Linden",
     "coordinates": [
-      48.2412,
-      -122.3707
+      40.6342,
+      -74.2427
     ]
   },
   "176.210.100.6": {
@@ -737,16 +747,6 @@
     "coordinates": [
       39.3202,
       -84.552
-    ]
-  },
-  "184.57.53.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Columbus",
-    "coordinates": [
-      40.0536,
-      -83.0115
     ]
   },
   "185.157.244.204": {
@@ -1059,6 +1059,16 @@
       -87.6305
     ]
   },
+  "207.148.176.255": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Innisfail",
+    "coordinates": [
+      52.0269,
+      -113.951
+    ]
+  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1107,16 +1117,6 @@
     "coordinates": [
       53.5492,
       9.9418
-    ]
-  },
-  "213.164.209.174": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1249,14 +1249,14 @@
       30.3096
     ]
   },
-  "34.132.16.62": {
+  "34.11.116.159": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Council Bluffs",
+    "city": "Washington",
     "coordinates": [
-      41.2619,
-      -95.8608
+      38.9071,
+      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1277,6 +1277,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.63.197.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "34.88.66.126": {
@@ -1789,16 +1799,6 @@
       13.3224
     ]
   },
-  "81.226.85.240": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Trollh\u00e4ttan",
-    "coordinates": [
-      58.2835,
-      12.2858
-    ]
-  },
   "81.228.59.199": {
     "region": "Europe",
     "country": "Sweden",
@@ -1807,6 +1807,16 @@
     "coordinates": [
       59.3327,
       18.0656
+    ]
+  },
+  "81.230.215.6": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Trollh\u00e4ttan",
+    "coordinates": [
+      58.2835,
+      12.2858
     ]
   },
   "81.232.87.98": {
@@ -1877,6 +1887,16 @@
     "coordinates": [
       52.4881,
       16.8426
+    ]
+  },
+  "85.24.154.2": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Haninge",
+    "coordinates": [
+      59.167,
+      18.1458
     ]
   },
   "85.28.131.207": {
