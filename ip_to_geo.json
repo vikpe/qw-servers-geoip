@@ -149,16 +149,6 @@
       11.0783
     ]
   },
-  "118.209.217.169": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7906,
-      144.9944
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -519,16 +509,6 @@
       151.0945
     ]
   },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.709,
-      151.1641
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -647,6 +627,16 @@
     "coordinates": [
       33.349,
       -96.5486
+    ]
+  },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
     ]
   },
   "174.166.130.97": {
@@ -1059,14 +1049,14 @@
       -87.6305
     ]
   },
-  "207.148.176.255": {
+  "207.148.176.165": {
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Innisfail",
+    "city": "Fort Macleod",
     "coordinates": [
-      52.0269,
-      -113.951
+      49.7167,
+      -113.419
     ]
   },
   "208.83.232.203": {
@@ -1117,6 +1107,16 @@
     "coordinates": [
       53.5492,
       9.9418
+    ]
+  },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "213.239.216.253": {
@@ -1249,14 +1249,14 @@
       30.3096
     ]
   },
-  "34.11.116.159": {
+  "32.216.67.68": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Washington",
+    "city": "New Britain",
     "coordinates": [
-      38.9071,
-      -77.0368
+      41.6669,
+      -72.7726
     ]
   },
   "34.148.103.12": {
@@ -1347,16 +1347,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1639,6 +1629,16 @@
       -74.0203
     ]
   },
+  "69.222.182.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      38.5317,
+      -89.9988
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1707,6 +1707,16 @@
     "coordinates": [
       42.4604,
       -71.349
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
