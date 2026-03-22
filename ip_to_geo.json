@@ -579,6 +579,16 @@
       12.3649
     ]
   },
+  "167.99.124.241": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Clifton",
+    "coordinates": [
+      40.8364,
+      -74.1403
+    ]
+  },
   "169.239.128.46": {
     "region": "Africa",
     "country": "South Africa",
@@ -627,16 +637,6 @@
     "coordinates": [
       33.349,
       -96.5486
-    ]
-  },
-  "172.92.238.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
     ]
   },
   "176.210.100.6": {
@@ -1049,16 +1049,6 @@
       -87.6305
     ]
   },
-  "207.148.176.165": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Fort Macleod",
-    "coordinates": [
-      49.7167,
-      -113.419
-    ]
-  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1169,16 +1159,6 @@
       13.4069
     ]
   },
-  "217.213.119.154": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "S\u00f6dert\u00e4lje",
-    "coordinates": [
-      59.1955,
-      17.6252
-    ]
-  },
   "220.233.95.7": {
     "region": "Oceania",
     "country": "Australia",
@@ -1257,6 +1237,16 @@
     "coordinates": [
       59.9417,
       30.3096
+    ]
+  },
+  "32.216.67.68": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "New Britain",
+    "coordinates": [
+      41.6669,
+      -72.7726
     ]
   },
   "34.148.103.12": {
@@ -1347,6 +1337,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1699,16 +1699,6 @@
       -71.1341
     ]
   },
-  "73.167.154.86": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Concord",
-    "coordinates": [
-      42.4604,
-      -71.349
-    ]
-  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1780,16 +1770,6 @@
     ]
   },
   "78.92.192.4": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
-  "78.92.204.154": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1979,7 +1959,7 @@
       12.3649
     ]
   },
-  "89.245.16.254": {
+  "89.245.16.241": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
