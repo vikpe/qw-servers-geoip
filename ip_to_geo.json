@@ -189,16 +189,6 @@
       145.1623
     ]
   },
-  "124.170.203.220": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8159,
-      144.9669
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "Netherlands",
@@ -549,6 +539,16 @@
       144.9669
     ]
   },
+  "16.59.130.252": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
+    ]
+  },
   "160.16.101.168": {
     "region": "Asia",
     "country": "Japan",
@@ -799,6 +799,16 @@
       -1.3379
     ]
   },
+  "187.190.26.50": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "Gustavo Adolfo Madero",
+    "coordinates": [
+      19.4522,
+      -99.0943
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -817,6 +827,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "191.81.79.146": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6132,
+      -58.3772
     ]
   },
   "191.9.110.15": {
@@ -927,6 +947,16 @@
     "coordinates": [
       47.518,
       19.0555
+    ]
+  },
+  "194.38.96.52": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Gy\u0151r",
+    "coordinates": [
+      47.6826,
+      17.6252
     ]
   },
   "195.201.133.22": {
@@ -1189,16 +1219,6 @@
       151.1366
     ]
   },
-  "23.147.236.51": {
-    "region": "Europe",
-    "country": "Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3385,
-      4.9168
-    ]
-  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1239,6 +1259,16 @@
       -77.4874
     ]
   },
+  "3.22.246.4": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
+    ]
+  },
   "3.94.62.64": {
     "region": "North America",
     "country": "United States",
@@ -1257,6 +1287,16 @@
     "coordinates": [
       59.9417,
       30.3096
+    ]
+  },
+  "34.11.27.162": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1739,14 +1779,14 @@
       -123.3655
     ]
   },
-  "75.192.167.254": {
+  "75.192.134.204": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Wilmington",
+    "city": "Lancaster",
     "coordinates": [
-      39.7458,
-      -75.581
+      40.033,
+      -76.2867
     ]
   },
   "77.90.0.186": {
@@ -1780,6 +1820,16 @@
     ]
   },
   "78.92.192.4": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
+  "78.92.194.206": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1957,16 +2007,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "89.245.16.236": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.72.118.186": {
