@@ -259,6 +259,16 @@
       8.07958
     ]
   },
+  "136.107.94.31": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -459,16 +469,6 @@
       -96.8021
     ]
   },
-  "155.4.206.139": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Ume\u00e5",
-    "coordinates": [
-      63.8247,
-      20.2559
-    ]
-  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -497,16 +497,6 @@
     "coordinates": [
       59.9056,
       10.7494
-    ]
-  },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.0324,
-      151.0945
     ]
   },
   "159.69.87.212": {
@@ -809,16 +799,6 @@
       -1.3379
     ]
   },
-  "187.190.26.50": {
-    "region": "North America",
-    "country": "Mexico",
-    "cc": "MX",
-    "city": "Gustavo Adolfo Madero",
-    "coordinates": [
-      19.4522,
-      -99.0943
-    ]
-  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -840,16 +820,6 @@
     ]
   },
   "191.13.177.155": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.8951,
-      -47.0439
-    ]
-  },
-  "191.9.110.15": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1047,6 +1017,16 @@
     "coordinates": [
       41.13925,
       -104.816154
+    ]
+  },
+  "200.158.36.105": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "201.23.14.134": {
@@ -1369,16 +1349,6 @@
       12.9982
     ]
   },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
-    ]
-  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1507,6 +1477,16 @@
     "coordinates": [
       50.6924,
       3.20113
+    ]
+  },
+  "5.83.143.80": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Bad Soden am Taunus",
+    "coordinates": [
+      50.1592,
+      8.48173
     ]
   },
   "50.125.89.194": {
@@ -1749,14 +1729,14 @@
       -123.3655
     ]
   },
-  "75.192.134.204": {
+  "75.192.182.76": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Lancaster",
+    "city": "Middletown",
     "coordinates": [
-      40.033,
-      -76.2867
+      39.4496,
+      -75.7163
     ]
   },
   "77.90.0.186": {
@@ -1827,6 +1807,16 @@
     "coordinates": [
       59.3327,
       18.0656
+    ]
+  },
+  "81.230.215.6": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Trollh\u00e4ttan",
+    "coordinates": [
+      58.2835,
+      12.2858
     ]
   },
   "81.232.87.98": {
@@ -1939,14 +1929,14 @@
       -0.093
     ]
   },
-  "86.27.70.69": {
+  "86.158.197.241": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Margate",
+    "city": "City of London",
     "coordinates": [
-      51.3844,
-      1.3934
+      51.5164,
+      -0.093
     ]
   },
   "87.128.111.190": {
@@ -1979,7 +1969,7 @@
       12.3649
     ]
   },
-  "89.245.16.231": {
+  "89.245.16.238": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
