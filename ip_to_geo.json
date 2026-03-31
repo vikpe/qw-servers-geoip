@@ -89,7 +89,7 @@
       -74.4606
     ]
   },
-  "104.28.164.164": {
+  "104.28.156.57": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -259,7 +259,7 @@
       8.07958
     ]
   },
-  "136.107.94.31": {
+  "136.107.91.200": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -469,6 +469,16 @@
       -96.8021
     ]
   },
+  "155.4.206.139": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Ume\u00e5",
+    "coordinates": [
+      63.8247,
+      20.2559
+    ]
+  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -497,6 +507,16 @@
     "coordinates": [
       59.9056,
       10.7494
+    ]
+  },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.0324,
+      151.0945
     ]
   },
   "159.69.87.212": {
@@ -1319,16 +1339,6 @@
       8.6779
     ]
   },
-  "38.57.161.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Austin",
-    "coordinates": [
-      30.2625,
-      -97.7463
-    ]
-  },
   "45.124.55.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -1839,6 +1849,16 @@
       17.3006
     ]
   },
+  "83.172.66.214": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Enk\u00f6ping",
+    "coordinates": [
+      59.6323,
+      17.0761
+    ]
+  },
   "83.233.218.134": {
     "region": "Europe",
     "country": "Sweden",
@@ -1919,16 +1939,6 @@
       19.446
     ]
   },
-  "86.157.181.102": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "City of London",
-    "coordinates": [
-      51.5164,
-      -0.093
-    ]
-  },
   "86.158.197.241": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1969,7 +1979,7 @@
       12.3649
     ]
   },
-  "89.245.16.238": {
+  "89.245.16.244": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
