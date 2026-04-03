@@ -43,10 +43,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Kippa-Ring",
+    "city": "Sydney",
     "coordinates": [
-      -27.2262,
-      153.093
+      -33.8688,
+      151.209
     ]
   },
   "103.195.53.179": {
@@ -111,7 +111,7 @@
   },
   "108.61.117.210": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -191,7 +191,7 @@
   },
   "128.199.52.100": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -259,6 +259,16 @@
       8.07958
     ]
   },
+  "136.107.227.230": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -271,7 +281,7 @@
   },
   "136.244.100.4": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -353,10 +363,10 @@
     "region": "Europe",
     "country": "Portugal",
     "cc": "PT",
-    "city": "Aveiro",
+    "city": "Gafanha",
     "coordinates": [
-      40.6501,
-      -8.6502
+      40.64,
+      -8.7504
     ]
   },
   "145.220.10.99": {
@@ -391,12 +401,12 @@
   },
   "149.104.76.203": {
     "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Santiago",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
     "coordinates": [
-      -33.4489,
-      -70.6693
+      -34.6037,
+      -58.3816
     ]
   },
   "149.28.62.121": {
@@ -473,10 +483,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Askim",
     "coordinates": [
-      59.3327,
-      18.0656
+      57.6158,
+      11.9472
     ]
   },
   "158.248.13.196": {
@@ -495,8 +505,8 @@
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -34.0324,
-      151.0945
+      -34.0523,
+      151.1205
     ]
   },
   "159.69.87.212": {
@@ -555,13 +565,13 @@
     "cc": "NZ",
     "city": "Auckland",
     "coordinates": [
-      -36.8509,
-      174.764
+      -36.8504,
+      174.7675
     ]
   },
   "165.232.81.173": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -601,7 +611,7 @@
   },
   "172.235.175.10": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -623,10 +633,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Anna",
+    "city": "Aubrey",
     "coordinates": [
-      33.349,
-      -96.5486
+      33.3043,
+      -96.9861
     ]
   },
   "172.92.232.79": {
@@ -705,8 +715,8 @@
     "cc": "BR",
     "city": "S\u00e3o Paulo",
     "coordinates": [
-      -23.6293,
-      -46.6351
+      -23.5558,
+      -46.6396
     ]
   },
   "18.223.24.90": {
@@ -755,8 +765,8 @@
     "cc": "PL",
     "city": "Konstancin-Jeziorna",
     "coordinates": [
-      52.0936,
-      21.1244
+      52.09,
+      21.1196
     ]
   },
   "185.189.48.45": {
@@ -775,8 +785,8 @@
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.2288,
-      21.0879
+      52.256,
+      21.0034
     ]
   },
   "185.73.44.100": {
@@ -811,7 +821,7 @@
   },
   "188.226.133.102": {
     "region": "Europe",
-    "country": "Netherlands",
+    "country": "The Netherlands",
     "cc": "NL",
     "city": "Amsterdam",
     "coordinates": [
@@ -865,8 +875,8 @@
     "cc": "US",
     "city": "Champaign",
     "coordinates": [
-      40.1016,
-      -88.2822
+      40.1317,
+      -88.2854
     ]
   },
   "192.9.173.60": {
@@ -1093,10 +1103,10 @@
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
-    "city": "Hamburg",
+    "city": "L\u00fcbeck",
     "coordinates": [
-      53.5492,
-      9.9418
+      53.8705,
+      10.6968
     ]
   },
   "213.164.209.174": {
@@ -1135,8 +1145,8 @@
     "cc": "US",
     "city": "Minneapolis",
     "coordinates": [
-      44.8266,
-      -93.375
+      45.0228,
+      -93.3012
     ]
   },
   "216.249.103.87": {
@@ -1155,8 +1165,8 @@
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -33.9034,
-      151.1366
+      -34.0168,
+      151.0148
     ]
   },
   "23.159.160.34": {
@@ -1285,8 +1295,8 @@
     "cc": "DE",
     "city": "Frankfurt am Main",
     "coordinates": [
-      50.1259,
-      8.6779
+      50.1188,
+      8.6401
     ]
   },
   "38.57.161.19": {
@@ -1449,16 +1459,6 @@
       3.20113
     ]
   },
-  "5.83.143.80": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Bad Soden am Taunus",
-    "coordinates": [
-      50.1592,
-      8.48173
-    ]
-  },
   "50.125.89.194": {
     "region": "North America",
     "country": "United States",
@@ -1593,10 +1593,10 @@
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Tillsonburg",
+    "city": "Norwich",
     "coordinates": [
-      42.8568,
-      -80.7294
+      42.984,
+      -80.6034
     ]
   },
   "64.181.167.17": {
@@ -1675,8 +1675,8 @@
     "cc": "US",
     "city": "Brookline",
     "coordinates": [
-      42.3268,
-      -71.1341
+      42.3399,
+      -71.1245
     ]
   },
   "73.23.130.187": {
@@ -1705,18 +1705,18 @@
     "cc": "CA",
     "city": "Victoria",
     "coordinates": [
-      48.4152,
-      -123.3655
+      48.4248,
+      -123.3709
     ]
   },
   "75.192.182.76": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Middletown",
+    "city": "Bear",
     "coordinates": [
-      39.4496,
-      -75.7163
+      39.6293,
+      -75.6583
     ]
   },
   "77.90.0.186": {
@@ -1735,8 +1735,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0766,
-      14.4464
+      50.0948,
+      14.4785
     ]
   },
   "78.72.186.81": {
@@ -1873,30 +1873,30 @@
     "region": "Europe",
     "country": "Iceland",
     "cc": "IS",
-    "city": "Hafnarfjordur",
+    "city": "Kopavogur",
     "coordinates": [
-      64.0677,
-      -21.9453
+      64.1172,
+      -21.9154
     ]
   },
   "85.221.162.142": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
-    "city": "Z\u0142otniki",
+    "city": "Poznan",
     "coordinates": [
-      52.4881,
-      16.8426
+      52.3665,
+      17.0279
     ]
   },
   "85.24.154.2": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Haninge",
+    "city": "Huddinge",
     "coordinates": [
-      59.167,
-      18.1458
+      59.238,
+      17.9893
     ]
   },
   "85.28.131.207": {
@@ -1907,16 +1907,6 @@
     "coordinates": [
       50.0196,
       20.9853
-    ]
-  },
-  "85.76.144.110": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Yl\u00f6j\u00e4rvi",
-    "coordinates": [
-      61.5563,
-      23.5961
     ]
   },
   "85.89.175.250": {
@@ -1945,8 +1935,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.52,
-      13.405
+      52.5312,
+      13.3878
     ]
   },
   "88.99.66.212": {
@@ -1959,7 +1949,17 @@
       12.3649
     ]
   },
-  "89.245.16.241": {
+  "89.151.207.164": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Steinkjer",
+    "coordinates": [
+      64.0161,
+      11.4985
+    ]
+  },
+  "89.245.16.249": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -1975,8 +1975,8 @@
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.262,
-      20.9779
+      52.1536,
+      21.0518
     ]
   },
   "91.107.121.135": {
@@ -2143,10 +2143,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Turlock",
+    "city": "Riverbank",
     "coordinates": [
-      37.4912,
-      -120.8559
+      37.7308,
+      -120.9382
     ]
   },
   "98.128.174.153": {
