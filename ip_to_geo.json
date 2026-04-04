@@ -89,7 +89,7 @@
       -74.4606
     ]
   },
-  "104.28.156.57": {
+  "104.28.164.165": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -257,16 +257,6 @@
     "coordinates": [
       50.3986,
       8.07958
-    ]
-  },
-  "136.107.227.230": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "136.243.174.101": {
@@ -549,6 +539,16 @@
       139.6899
     ]
   },
+  "161.153.62.180": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
+    ]
+  },
   "162.254.86.73": {
     "region": "Europe",
     "country": "Lithuania",
@@ -719,16 +719,6 @@
       -46.6396
     ]
   },
-  "18.223.24.90": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dublin",
-    "coordinates": [
-      40.0992,
-      -83.1141
-    ]
-  },
   "18.228.3.244": {
     "region": "South America",
     "country": "Brazil",
@@ -807,6 +797,16 @@
     "coordinates": [
       -34.6132,
       -58.3772
+    ]
+  },
+  "187.190.26.50": {
+    "region": "North America",
+    "country": "Mexico",
+    "cc": "MX",
+    "city": "Iztapalapa",
+    "coordinates": [
+      19.373,
+      -99.1273
     ]
   },
   "188.166.161.185": {
@@ -1259,16 +1259,6 @@
       13.4049
     ]
   },
-  "34.63.197.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "34.88.66.126": {
     "region": "Europe",
     "country": "Finland",
@@ -1287,6 +1277,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.232.192.162": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "37.201.131.70": {
@@ -1427,6 +1427,16 @@
     "coordinates": [
       59.2885,
       17.9612
+    ]
+  },
+  "5.161.55.215": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.0469,
+      -77.4903
     ]
   },
   "5.180.252.23": {
@@ -1959,7 +1969,7 @@
       11.4985
     ]
   },
-  "89.245.16.249": {
+  "89.245.16.235": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -1977,6 +1987,16 @@
     "coordinates": [
       52.1536,
       21.0518
+    ]
+  },
+  "90.227.97.73": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lund",
+    "coordinates": [
+      55.7047,
+      13.191
     ]
   },
   "91.107.121.135": {
