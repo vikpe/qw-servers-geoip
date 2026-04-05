@@ -259,6 +259,16 @@
       8.07958
     ]
   },
+  "136.107.226.74": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -649,6 +659,16 @@
       -121.8845
     ]
   },
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8363,
+      -90.6999
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -729,6 +749,16 @@
       -46.6333
     ]
   },
+  "181.22.117.152": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6132,
+      -58.3772
+    ]
+  },
   "184.54.162.131": {
     "region": "North America",
     "country": "United States",
@@ -789,16 +819,6 @@
       -1.3379
     ]
   },
-  "186.130.215.253": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6132,
-      -58.3772
-    ]
-  },
   "187.190.26.50": {
     "region": "North America",
     "country": "Mexico",
@@ -827,6 +847,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.46.175.233": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "191.13.177.155": {
@@ -1057,6 +1087,16 @@
     "coordinates": [
       41.8835,
       -87.6305
+    ]
+  },
+  "207.148.176.197": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Innisfail",
+    "coordinates": [
+      52.0269,
+      -113.951
     ]
   },
   "208.83.232.203": {
@@ -1669,6 +1709,16 @@
       21.0093
     ]
   },
+  "72.18.132.133": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      39.7491,
+      -104.9945
+    ]
+  },
   "72.239.233.54": {
     "region": "North America",
     "country": "United States",
@@ -1760,6 +1810,16 @@
     ]
   },
   "78.92.194.206": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
+  "78.92.197.44": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1969,7 +2029,7 @@
       11.4985
     ]
   },
-  "89.245.16.235": {
+  "89.245.16.234": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
