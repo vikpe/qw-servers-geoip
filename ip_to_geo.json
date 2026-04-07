@@ -719,6 +719,16 @@
       -46.6396
     ]
   },
+  "18.223.24.90": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
+    ]
+  },
   "18.228.3.244": {
     "region": "South America",
     "country": "Brazil",
@@ -829,17 +839,17 @@
       4.9392
     ]
   },
-  "189.78.77.134": {
+  "189.46.175.233": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
-    "city": "Campinas",
+    "city": "Guarulhos",
     "coordinates": [
-      -22.8951,
-      -47.0439
+      -23.4608,
+      -46.5274
     ]
   },
-  "191.13.177.155": {
+  "189.78.77.134": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1047,6 +1057,16 @@
     "coordinates": [
       -20.5395,
       -47.4011
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -32.0744,
+      115.8686
     ]
   },
   "203.29.240.182": {
@@ -1309,6 +1329,16 @@
       -95.8608
     ]
   },
+  "35.245.209.199": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "37.201.131.70": {
     "region": "Europe",
     "country": "Germany",
@@ -1347,16 +1377,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1989,7 +2009,7 @@
       11.4985
     ]
   },
-  "89.245.16.252": {
+  "89.245.16.255": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2117,16 +2137,6 @@
     "coordinates": [
       59.242,
       14.4262
-    ]
-  },
-  "94.72.140.245": {
-    "region": "Europe",
-    "country": "Bulgaria",
-    "cc": "BG",
-    "city": "Sofia",
-    "coordinates": [
-      42.6951,
-      23.325
     ]
   },
   "95.165.130.151": {
