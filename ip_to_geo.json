@@ -379,6 +379,16 @@
       17.0295
     ]
   },
+  "147.185.221.194": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -1089,16 +1099,6 @@
       -87.6305
     ]
   },
-  "207.148.176.197": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Innisfail",
-    "coordinates": [
-      52.0269,
-      -113.951
-    ]
-  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1329,7 +1329,7 @@
       -95.8608
     ]
   },
-  "35.245.209.199": {
+  "35.245.29.122": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1377,6 +1377,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1517,16 +1527,6 @@
     "coordinates": [
       50.6924,
       3.20113
-    ]
-  },
-  "50.125.89.194": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lynnwood",
-    "coordinates": [
-      47.8022,
-      -122.286
     ]
   },
   "51.75.53.205": {
@@ -1709,6 +1709,16 @@
       21.0093
     ]
   },
+  "72.109.19.243": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Wilmington",
+    "coordinates": [
+      39.7552,
+      -75.5312
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1769,14 +1779,14 @@
       -123.3709
     ]
   },
-  "75.192.182.76": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bear",
+  "77.90.0.186": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Bad Soden am Taunus",
     "coordinates": [
-      39.6293,
-      -75.6583
+      50.1592,
+      8.48173
     ]
   },
   "78.45.199.104": {
@@ -2237,6 +2247,16 @@
     "coordinates": [
       55.5811,
       12.9553
+    ]
+  },
+  "99.72.255.45": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Memphis",
+    "coordinates": [
+      35.1841,
+      -89.8588
     ]
   }
 }
