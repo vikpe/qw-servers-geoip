@@ -89,7 +89,7 @@
       -74.4606
     ]
   },
-  "104.28.164.165": {
+  "104.28.156.53": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -167,6 +167,16 @@
     "coordinates": [
       -36.7178,
       174.7365
+    ]
+  },
+  "121.45.110.116": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8024,
+      144.9659
     ]
   },
   "121.99.166.164": {
@@ -377,16 +387,6 @@
     "coordinates": [
       51.101,
       17.0295
-    ]
-  },
-  "147.185.221.194": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.209
     ]
   },
   "148.135.104.18": {
@@ -839,6 +839,16 @@
       4.9392
     ]
   },
+  "189.19.186.82": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "189.78.77.134": {
     "region": "South America",
     "country": "Brazil",
@@ -1079,6 +1089,16 @@
       -87.6305
     ]
   },
+  "207.148.176.43": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Ponoka",
+    "coordinates": [
+      52.6768,
+      -113.581
+    ]
+  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1269,7 +1289,7 @@
       -80.013
     ]
   },
-  "34.21.25.47": {
+  "34.186.45.13": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1689,16 +1709,6 @@
       21.0093
     ]
   },
-  "72.109.19.243": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Wilmington",
-    "coordinates": [
-      39.7552,
-      -75.5312
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1999,7 +2009,7 @@
       11.4985
     ]
   },
-  "89.245.16.249": {
+  "89.245.16.235": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
