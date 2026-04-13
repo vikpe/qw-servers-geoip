@@ -89,7 +89,7 @@
       -74.4606
     ]
   },
-  "104.28.156.53": {
+  "104.28.164.166": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -489,16 +489,6 @@
       10.7494
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.0523,
-      151.1205
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -819,6 +809,16 @@
       4.9392
     ]
   },
+  "189.19.186.82": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "189.78.77.134": {
     "region": "South America",
     "country": "Brazil",
@@ -1059,16 +1059,6 @@
       -87.6305
     ]
   },
-  "207.148.176.43": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Ponoka",
-    "coordinates": [
-      52.6768,
-      -113.581
-    ]
-  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1297,16 +1287,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "37.201.131.70": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1188,
-      8.6401
     ]
   },
   "38.57.161.19": {
@@ -1619,16 +1599,6 @@
       -80.6034
     ]
   },
-  "64.181.167.17": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1637,6 +1607,16 @@
     "coordinates": [
       40.7964,
       -74.0203
+    ]
+  },
+  "67.1.195.151": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Tucson",
+    "coordinates": [
+      32.1943,
+      -110.9767
     ]
   },
   "69.226.253.51": {
@@ -1669,6 +1649,16 @@
       21.0093
     ]
   },
+  "72.18.132.133": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      39.7491,
+      -104.9945
+    ]
+  },
   "72.239.233.54": {
     "region": "North America",
     "country": "United States",
@@ -1687,16 +1677,6 @@
     "coordinates": [
       42.3399,
       -71.1245
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -1719,14 +1699,14 @@
       -123.3709
     ]
   },
-  "75.192.138.223": {
+  "75.192.164.102": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Reading",
+    "city": "Ardmore",
     "coordinates": [
-      40.3102,
-      -76.0388
+      40.0021,
+      -75.2724
     ]
   },
   "77.90.0.186": {
@@ -1757,6 +1737,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "78.92.195.180": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
     ]
   },
   "78.92.197.44": {
@@ -1957,16 +1947,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.245.16.227": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.72.118.186": {
