@@ -489,6 +489,16 @@
       10.7494
     ]
   },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.0523,
+      151.1205
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -659,6 +669,16 @@
       73.3729
     ]
   },
+  "177.197.78.197": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.8951,
+      -47.0439
+    ]
+  },
   "177.93.132.220": {
     "region": "South America",
     "country": "Brazil",
@@ -717,16 +737,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "181.22.113.163": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6132,
-      -58.3772
     ]
   },
   "184.54.162.131": {
@@ -789,6 +799,16 @@
       -1.3379
     ]
   },
+  "186.130.214.203": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Buenos Aires",
+    "coordinates": [
+      -34.6132,
+      -58.3772
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -807,16 +827,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "189.19.186.82": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "189.78.77.134": {
@@ -1199,16 +1209,6 @@
       -96.8704
     ]
   },
-  "24.66.48.194": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Lethbridge",
-    "coordinates": [
-      49.6506,
-      -112.8372
-    ]
-  },
   "3.212.223.70": {
     "region": "North America",
     "country": "United States",
@@ -1247,6 +1247,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.150.225.75": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.32.78.166": {
@@ -1609,16 +1619,6 @@
       -74.0203
     ]
   },
-  "67.1.195.151": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Tucson",
-    "coordinates": [
-      32.1943,
-      -110.9767
-    ]
-  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1677,6 +1677,16 @@
     "coordinates": [
       42.3399,
       -71.1245
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -1740,16 +1750,6 @@
     ]
   },
   "78.92.195.180": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
-  "78.92.197.44": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1929,16 +1929,6 @@
       13.3878
     ]
   },
-  "88.99.66.212": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Falkenstein",
-    "coordinates": [
-      50.4777,
-      12.3649
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -1947,6 +1937,16 @@
     "coordinates": [
       64.0161,
       11.4985
+    ]
+  },
+  "89.245.16.232": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
     ]
   },
   "89.72.118.186": {
@@ -1997,16 +1997,6 @@
     "coordinates": [
       48.709,
       8.7399
-    ]
-  },
-  "92.221.39.178": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Stavanger",
-    "coordinates": [
-      58.9731,
-      5.7427
     ]
   },
   "92.221.92.92": {
