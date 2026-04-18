@@ -369,16 +369,6 @@
       5.12142
     ]
   },
-  "145.239.94.156": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Wroclaw",
-    "coordinates": [
-      51.101,
-      17.0295
-    ]
-  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -649,16 +639,6 @@
       -121.8845
     ]
   },
-  "172.92.238.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
-    ]
-  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -817,16 +797,6 @@
     "coordinates": [
       50.9656,
       -1.3379
-    ]
-  },
-  "187.74.38.218": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "188.166.161.185": {
@@ -1247,6 +1217,16 @@
     "coordinates": [
       59.9417,
       30.3096
+    ]
+  },
+  "34.11.78.124": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1939,6 +1919,16 @@
       11.4985
     ]
   },
+  "89.245.16.242": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
+    ]
+  },
   "89.72.118.186": {
     "region": "Europe",
     "country": "Poland",
@@ -1947,16 +1937,6 @@
     "coordinates": [
       52.1708,
       21.0705
-    ]
-  },
-  "90.227.97.73": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Lund",
-    "coordinates": [
-      55.7047,
-      13.191
     ]
   },
   "91.107.121.135": {
