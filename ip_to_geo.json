@@ -369,6 +369,16 @@
       5.12142
     ]
   },
+  "145.239.94.156": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Wroclaw",
+    "coordinates": [
+      51.101,
+      17.0295
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -477,16 +487,6 @@
     "coordinates": [
       59.9381,
       10.9551
-    ]
-  },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
     ]
   },
   "159.69.87.212": {
@@ -627,16 +627,6 @@
     "coordinates": [
       33.3043,
       -96.9861
-    ]
-  },
-  "172.92.232.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stevenson",
-    "coordinates": [
-      45.6957,
-      -121.8845
     ]
   },
   "173.69.14.157": {
@@ -1219,16 +1209,6 @@
       30.3096
     ]
   },
-  "34.11.78.124": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1589,16 +1569,6 @@
       23.3132
     ]
   },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1759,6 +1729,16 @@
       18.0656
     ]
   },
+  "81.230.215.6": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Trollh\u00e4ttan",
+    "coordinates": [
+      58.2835,
+      12.2858
+    ]
+  },
   "81.232.87.98": {
     "region": "Europe",
     "country": "Sweden",
@@ -1899,6 +1879,16 @@
       13.3878
     ]
   },
+  "87.189.50.136": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "88.99.66.212": {
     "region": "Europe",
     "country": "Germany",
@@ -1919,7 +1909,7 @@
       11.4985
     ]
   },
-  "89.245.16.242": {
+  "89.245.16.224": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -1957,16 +1947,6 @@
     "coordinates": [
       42.6977,
       23.3218
-    ]
-  },
-  "91.55.85.57": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
     ]
   },
   "92.221.92.92": {
