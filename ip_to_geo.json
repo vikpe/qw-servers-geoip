@@ -389,16 +389,6 @@
       -118.2707
     ]
   },
-  "149.104.76.203": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6037,
-      -58.3816
-    ]
-  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -489,26 +479,6 @@
       10.9551
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.709,
-      151.1641
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -567,16 +537,6 @@
     "coordinates": [
       54.6872,
       25.2797
-    ]
-  },
-  "163.47.21.45": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Auckland",
-    "coordinates": [
-      -36.8504,
-      174.7675
     ]
   },
   "165.232.81.173": {
@@ -917,6 +877,16 @@
     "coordinates": [
       55.7731,
       37.8294
+    ]
+  },
+  "193.77.69.2": {
+    "region": "Europe",
+    "country": "Slovenia",
+    "cc": "SI",
+    "city": "Ljubljana",
+    "coordinates": [
+      46.0503,
+      14.5046
     ]
   },
   "194.145.194.3": {
@@ -1669,6 +1639,16 @@
       -71.1245
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1717,16 +1697,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "78.92.195.180": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
     ]
   },
   "78.92.199.94": {
@@ -1959,7 +1929,7 @@
       11.4985
     ]
   },
-  "89.245.16.239": {
+  "89.245.16.253": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
