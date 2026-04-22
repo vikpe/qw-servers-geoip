@@ -479,6 +479,16 @@
       10.9551
     ]
   },
+  "159.196.161.71": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.709,
+      151.1641
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -789,6 +799,16 @@
       -1.3379
     ]
   },
+  "187.74.38.218": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -1049,6 +1069,16 @@
       -157.8725
     ]
   },
+  "210.5.39.30": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.7842,
+      144.878
+    ]
+  },
   "212.227.245.192": {
     "region": "Europe",
     "country": "Germany",
@@ -1239,6 +1269,16 @@
       -80.013
     ]
   },
+  "35.221.19.175": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.232.192.162": {
     "region": "North America",
     "country": "United States",
@@ -1277,16 +1317,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1397,6 +1427,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "5.141.82.62": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Yekaterinburg",
+    "coordinates": [
+      56.8431,
+      60.6454
     ]
   },
   "5.161.55.215": {
@@ -1669,6 +1709,16 @@
       -123.3655
     ]
   },
+  "75.175.162.194": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Las Vegas",
+    "coordinates": [
+      36.122,
+      -115.086
+    ]
+  },
   "75.192.164.102": {
     "region": "North America",
     "country": "United States",
@@ -1927,16 +1977,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.245.16.253": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.72.118.186": {
