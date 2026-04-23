@@ -89,7 +89,7 @@
       -74.4606
     ]
   },
-  "104.28.156.51": {
+  "104.28.164.164": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -379,6 +379,16 @@
       17.0295
     ]
   },
+  "147.185.221.194": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
+    ]
+  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -459,6 +469,16 @@
       -111.9956
     ]
   },
+  "158.101.223.197": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
+    ]
+  },
   "158.174.100.106": {
     "region": "Europe",
     "country": "Sweden",
@@ -477,16 +497,6 @@
     "coordinates": [
       59.9381,
       10.9551
-    ]
-  },
-  "159.196.161.71": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.709,
-      151.1641
     ]
   },
   "159.69.87.212": {
@@ -1019,7 +1029,7 @@
       -104.816154
     ]
   },
-  "201.23.14.134": {
+  "201.23.3.62": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1159,6 +1169,16 @@
       -80.7521
     ]
   },
+  "217.210.203.170": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3327,
+      18.0656
+    ]
+  },
   "220.233.95.7": {
     "region": "Oceania",
     "country": "Australia",
@@ -1267,16 +1287,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.221.19.175": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.232.192.162": {
@@ -1619,6 +1629,16 @@
       -74.0203
     ]
   },
+  "69.222.182.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      38.5317,
+      -89.9988
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1727,6 +1747,16 @@
     "coordinates": [
       40.1551,
       -76.6021
+    ]
+  },
+  "77.90.0.186": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Bad Soden am Taunus",
+    "coordinates": [
+      50.1592,
+      8.48173
     ]
   },
   "78.45.199.104": {
@@ -1977,6 +2007,16 @@
     "coordinates": [
       64.0161,
       11.4985
+    ]
+  },
+  "89.245.16.224": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
     ]
   },
   "89.72.118.186": {
