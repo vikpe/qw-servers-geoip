@@ -329,16 +329,6 @@
       -80.1928
     ]
   },
-  "141.105.67.104": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
-    ]
-  },
   "141.148.150.255": {
     "region": "North America",
     "country": "United States",
@@ -629,6 +619,16 @@
       -121.8845
     ]
   },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -687,16 +687,6 @@
     "coordinates": [
       39.0469,
       -77.4903
-    ]
-  },
-  "178.164.158.33": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.5,
-      19.0412
     ]
   },
   "178.79.135.210": {
@@ -1479,6 +1469,16 @@
       3.20113
     ]
   },
+  "50.47.208.61": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bothell",
+    "coordinates": [
+      47.7494,
+      -122.2173
+    ]
+  },
   "51.75.53.205": {
     "region": "Europe",
     "country": "Poland",
@@ -1709,7 +1709,7 @@
       -123.3655
     ]
   },
-  "75.175.162.194": {
+  "75.175.135.198": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1989,6 +1989,16 @@
       11.4985
     ]
   },
+  "89.245.16.249": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
+    ]
+  },
   "89.72.118.186": {
     "region": "Europe",
     "country": "Poland",
@@ -2017,6 +2027,16 @@
     "coordinates": [
       42.6977,
       23.3218
+    ]
+  },
+  "91.83.187.239": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.4979,
+      19.0402
     ]
   },
   "92.221.92.92": {
