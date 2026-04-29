@@ -89,7 +89,7 @@
       -74.4606
     ]
   },
-  "104.28.164.166": {
+  "104.28.164.164": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -377,6 +377,16 @@
     "coordinates": [
       51.101,
       17.0295
+    ]
+  },
+  "147.185.221.194": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
     ]
   },
   "148.135.104.18": {
@@ -719,14 +729,14 @@
       -83.1141
     ]
   },
-  "18.228.3.244": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
+  "180.150.62.57": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
     "coordinates": [
-      -23.5505,
-      -46.6333
+      -37.9653,
+      145.0199
     ]
   },
   "184.54.162.131": {
@@ -787,6 +797,16 @@
     "coordinates": [
       50.9656,
       -1.3379
+    ]
+  },
+  "187.74.35.224": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "188.166.161.185": {
@@ -1149,16 +1169,6 @@
       -80.7521
     ]
   },
-  "217.210.203.170": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3327,
-      18.0656
-    ]
-  },
   "220.233.95.7": {
     "region": "Oceania",
     "country": "Australia",
@@ -1279,14 +1289,14 @@
       -95.8608
     ]
   },
-  "37.201.131.70": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
+  "35.245.5.75": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
     "coordinates": [
-      50.1573,
-      8.6843
+      38.9071,
+      -77.0368
     ]
   },
   "38.57.161.19": {
@@ -1317,16 +1327,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -2017,16 +2017,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.245.16.234": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.72.118.186": {
