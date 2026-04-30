@@ -379,16 +379,6 @@
       17.0295
     ]
   },
-  "147.185.221.194": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.209
-    ]
-  },
   "148.135.104.18": {
     "region": "North America",
     "country": "United States",
@@ -679,16 +669,6 @@
       -47.4011
     ]
   },
-  "178.156.145.131": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0469,
-      -77.4903
-    ]
-  },
   "178.156.184.213": {
     "region": "North America",
     "country": "United States",
@@ -727,16 +707,6 @@
     "coordinates": [
       40.0992,
       -83.1141
-    ]
-  },
-  "180.150.62.57": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.9653,
-      145.0199
     ]
   },
   "184.54.162.131": {
@@ -797,16 +767,6 @@
     "coordinates": [
       50.9656,
       -1.3379
-    ]
-  },
-  "187.74.35.224": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "188.166.161.185": {
@@ -1119,16 +1079,6 @@
       10.6968
     ]
   },
-  "213.113.4.27": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "V\u00e4ster\u00e5s",
-    "coordinates": [
-      59.6146,
-      16.5528
-    ]
-  },
   "213.164.209.174": {
     "region": "Europe",
     "country": "Sweden",
@@ -1249,6 +1199,16 @@
       -80.013
     ]
   },
+  "34.182.159.92": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.32.78.166": {
     "region": "Europe",
     "country": "Germany",
@@ -1289,16 +1249,6 @@
       -95.8608
     ]
   },
-  "35.245.5.75": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "38.57.161.19": {
     "region": "North America",
     "country": "United States",
@@ -1327,6 +1277,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1479,14 +1439,14 @@
       3.20113
     ]
   },
-  "50.47.208.61": {
+  "50.47.207.113": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Bothell",
     "coordinates": [
-      47.7494,
-      -122.2173
+      47.7946,
+      -122.2193
     ]
   },
   "51.75.53.205": {
@@ -1627,6 +1587,16 @@
     "coordinates": [
       40.7964,
       -74.0203
+    ]
+  },
+  "69.222.182.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      38.5317,
+      -89.9988
     ]
   },
   "69.226.253.51": {
@@ -1987,16 +1957,6 @@
     "coordinates": [
       51.2192,
       4.3917
-    ]
-  },
-  "88.193.167.155": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4966,
-      23.7831
     ]
   },
   "88.99.66.212": {
