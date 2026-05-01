@@ -159,16 +159,6 @@
       11.0783
     ]
   },
-  "118.67.199.81": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "North Shore",
-    "coordinates": [
-      -36.7178,
-      174.7365
-    ]
-  },
   "121.99.166.164": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -629,6 +619,16 @@
       -121.8845
     ]
   },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -767,6 +767,16 @@
     "coordinates": [
       50.9656,
       -1.3379
+    ]
+  },
+  "187.74.35.224": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "188.166.161.185": {
@@ -1279,16 +1289,6 @@
       12.9982
     ]
   },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
-    ]
-  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1589,16 +1589,6 @@
       -74.0203
     ]
   },
-  "69.222.182.36": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Belleville",
-    "coordinates": [
-      38.5317,
-      -89.9988
-    ]
-  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1797,16 +1787,6 @@
     "coordinates": [
       59.3327,
       18.0656
-    ]
-  },
-  "82.196.112.57": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3924,
-      17.3006
     ]
   },
   "83.172.66.214": {
@@ -2057,6 +2037,16 @@
     "coordinates": [
       47.5119,
       7.5579
+    ]
+  },
+  "94.198.220.29": {
+    "region": "Asia",
+    "country": "Kazakhstan",
+    "cc": "KZ",
+    "city": "Almaty",
+    "coordinates": [
+      43.2525,
+      76.9115
     ]
   },
   "94.23.249.185": {
