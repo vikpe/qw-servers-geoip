@@ -89,7 +89,7 @@
       -74.4606
     ]
   },
-  "104.28.164.164": {
+  "104.28.156.53": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -157,6 +157,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "118.67.199.81": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "North Shore",
+    "coordinates": [
+      -36.7178,
+      174.7365
     ]
   },
   "121.99.166.164": {
@@ -619,16 +629,6 @@
       -121.8845
     ]
   },
-  "172.92.238.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
-    ]
-  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -1039,16 +1039,6 @@
       -157.8725
     ]
   },
-  "210.5.39.30": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7842,
-      144.878
-    ]
-  },
   "212.227.245.192": {
     "region": "Europe",
     "country": "Germany",
@@ -1067,6 +1057,16 @@
     "coordinates": [
       57.7065,
       11.967
+    ]
+  },
+  "212.40.79.137": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Budapest",
+    "coordinates": [
+      47.5,
+      19.0412
     ]
   },
   "212.42.38.88": {
@@ -1127,6 +1127,16 @@
     "coordinates": [
       35.0715,
       -80.7521
+    ]
+  },
+  "220.132.73.109": {
+    "region": "Asia",
+    "country": "Taiwan",
+    "cc": "TW",
+    "city": "Taipei",
+    "coordinates": [
+      25.053,
+      121.5259
     ]
   },
   "220.233.95.7": {
@@ -1789,6 +1799,16 @@
       18.0656
     ]
   },
+  "82.196.112.57": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sundsvall",
+    "coordinates": [
+      62.3924,
+      17.3006
+    ]
+  },
   "83.172.66.214": {
     "region": "Europe",
     "country": "Sweden",
@@ -1959,6 +1979,16 @@
       11.4985
     ]
   },
+  "89.245.16.254": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
+    ]
+  },
   "89.72.118.186": {
     "region": "Europe",
     "country": "Poland",
@@ -1987,16 +2017,6 @@
     "coordinates": [
       42.6977,
       23.3218
-    ]
-  },
-  "91.83.187.239": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "Budapest",
-    "coordinates": [
-      47.4979,
-      19.0402
     ]
   },
   "92.221.92.92": {
@@ -2167,6 +2187,16 @@
     "coordinates": [
       55.5811,
       12.9553
+    ]
+  },
+  "98.42.149.210": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "St. Helena",
+    "coordinates": [
+      38.5151,
+      -122.4622
     ]
   },
   "99.72.255.45": {
