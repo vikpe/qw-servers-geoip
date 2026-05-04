@@ -479,6 +479,16 @@
       4.9392
     ]
   },
+  "158.160.189.77": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
+    ]
+  },
   "158.174.100.106": {
     "region": "Europe",
     "country": "Sweden",
@@ -779,6 +789,16 @@
       -1.3379
     ]
   },
+  "187.74.35.224": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -867,16 +887,6 @@
     "coordinates": [
       55.7731,
       37.8294
-    ]
-  },
-  "193.77.69.2": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
     ]
   },
   "194.145.194.3": {
@@ -997,6 +1007,16 @@
     "coordinates": [
       -20.5395,
       -47.4011
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9028,
+      115.855
     ]
   },
   "203.29.240.182": {
@@ -1629,6 +1649,16 @@
       21.0093
     ]
   },
+  "71.161.99.24": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Falmouth",
+    "coordinates": [
+      43.734,
+      -70.2625
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1977,6 +2007,16 @@
     "coordinates": [
       64.0161,
       11.4985
+    ]
+  },
+  "89.245.16.230": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
     ]
   },
   "89.72.118.186": {
