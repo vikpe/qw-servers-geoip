@@ -89,7 +89,7 @@
       -74.4606
     ]
   },
-  "104.28.156.53": {
+  "104.28.156.51": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -589,6 +589,16 @@
       12.3649
     ]
   },
+  "167.99.124.241": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Clifton",
+    "coordinates": [
+      40.8364,
+      -74.1403
+    ]
+  },
   "169.239.128.46": {
     "region": "Africa",
     "country": "South Africa",
@@ -597,16 +607,6 @@
     "coordinates": [
       -26.2309,
       28.0583
-    ]
-  },
-  "170.239.85.153": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Curic\u00f3",
-    "coordinates": [
-      -34.9826,
-      -71.2344
     ]
   },
   "172.235.175.10": {
@@ -787,16 +787,6 @@
     "coordinates": [
       50.9656,
       -1.3379
-    ]
-  },
-  "187.74.35.224": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "188.166.161.185": {
@@ -1549,6 +1539,16 @@
       -121.895
     ]
   },
+  "54.232.22.245": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5505,
+      -46.6333
+    ]
+  },
   "54.233.17.64": {
     "region": "South America",
     "country": "Brazil",
@@ -1759,6 +1759,16 @@
       14.4523
     ]
   },
+  "78.92.193.253": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1799,16 +1809,6 @@
       18.0656
     ]
   },
-  "81.230.215.6": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Trollh\u00e4ttan",
-    "coordinates": [
-      58.2835,
-      12.2858
-    ]
-  },
   "81.232.87.98": {
     "region": "Europe",
     "country": "Sweden",
@@ -1817,6 +1817,16 @@
     "coordinates": [
       59.3327,
       18.0656
+    ]
+  },
+  "82.100.127.4": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "B\u00e5lsta",
+    "coordinates": [
+      59.5653,
+      17.5235
     ]
   },
   "82.196.112.57": {
@@ -2009,7 +2019,7 @@
       11.4985
     ]
   },
-  "89.245.16.230": {
+  "89.245.16.226": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2087,16 +2097,6 @@
     "coordinates": [
       47.5119,
       7.5579
-    ]
-  },
-  "94.198.220.29": {
-    "region": "Asia",
-    "country": "Kazakhstan",
-    "cc": "KZ",
-    "city": "Almaty",
-    "coordinates": [
-      43.2525,
-      76.9115
     ]
   },
   "94.23.249.185": {
