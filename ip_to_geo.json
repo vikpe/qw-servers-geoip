@@ -669,16 +669,6 @@
       -96.9861
     ]
   },
-  "172.92.232.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stevenson",
-    "coordinates": [
-      45.6957,
-      -121.8845
-    ]
-  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -867,16 +857,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "189.163.191.184": {
-    "region": "North America",
-    "country": "Mexico",
-    "cc": "MX",
-    "city": "Zapopan",
-    "coordinates": [
-      20.791,
-      -103.4898
     ]
   },
   "192.121.119.117": {
@@ -1639,6 +1619,16 @@
       -74.0203
     ]
   },
+  "69.222.182.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      38.5317,
+      -89.9988
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1667,16 +1657,6 @@
     "coordinates": [
       52.2299,
       21.0093
-    ]
-  },
-  "71.161.99.24": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Falmouth",
-    "coordinates": [
-      43.734,
-      -70.2625
     ]
   },
   "72.18.132.133": {
@@ -1729,16 +1709,6 @@
       -81.9483
     ]
   },
-  "75.119.155.10": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Lauterbourg",
-    "coordinates": [
-      48.9742,
-      8.1851
-    ]
-  },
   "75.154.237.109": {
     "region": "North America",
     "country": "Canada",
@@ -1757,16 +1727,6 @@
     "coordinates": [
       36.122,
       -115.086
-    ]
-  },
-  "75.192.164.102": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Elizabethtown",
-    "coordinates": [
-      40.1551,
-      -76.6021
     ]
   },
   "75.215.220.121": {
@@ -1827,16 +1787,6 @@
     "coordinates": [
       52.5234,
       13.3224
-    ]
-  },
-  "81.228.59.199": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3327,
-      18.0656
     ]
   },
   "81.232.87.98": {
@@ -2029,6 +1979,16 @@
       11.4985
     ]
   },
+  "89.245.16.238": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Kiel",
+    "coordinates": [
+      54.3273,
+      10.1234
+    ]
+  },
   "89.72.118.186": {
     "region": "Europe",
     "country": "Poland",
@@ -2097,6 +2057,16 @@
     "coordinates": [
       47.5119,
       7.5579
+    ]
+  },
+  "94.198.220.29": {
+    "region": "Asia",
+    "country": "Kazakhstan",
+    "cc": "KZ",
+    "city": "Almaty",
+    "coordinates": [
+      43.2525,
+      76.9115
     ]
   },
   "94.23.249.185": {
