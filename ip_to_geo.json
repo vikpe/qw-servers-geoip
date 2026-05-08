@@ -669,6 +669,16 @@
       -96.9861
     ]
   },
+  "172.92.232.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stevenson",
+    "coordinates": [
+      45.6957,
+      -121.8845
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -1249,26 +1259,6 @@
       -77.0368
     ]
   },
-  "34.32.78.166": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.52,
-      13.4049
-    ]
-  },
-  "34.88.66.126": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Lappeenranta",
-    "coordinates": [
-      61.0549,
-      28.1896
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1619,14 +1609,14 @@
       -74.0203
     ]
   },
-  "69.222.182.36": {
+  "68.116.117.245": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Belleville",
+    "city": "Lincoln City",
     "coordinates": [
-      38.5317,
-      -89.9988
+      44.9587,
+      -124.0235
     ]
   },
   "69.226.253.51": {
@@ -1787,6 +1777,26 @@
     "coordinates": [
       52.5234,
       13.3224
+    ]
+  },
+  "81.228.59.199": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3327,
+      18.0656
+    ]
+  },
+  "81.230.215.6": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Trollh\u00e4ttan",
+    "coordinates": [
+      58.2835,
+      12.2858
     ]
   },
   "81.232.87.98": {
@@ -1959,6 +1969,16 @@
       4.3917
     ]
   },
+  "88.113.185.154": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tuusula",
+    "coordinates": [
+      60.4102,
+      25.0095
+    ]
+  },
   "88.99.66.212": {
     "region": "Europe",
     "country": "Germany",
@@ -1977,16 +1997,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.245.16.238": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.72.118.186": {
