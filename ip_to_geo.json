@@ -679,14 +679,14 @@
       -121.8845
     ]
   },
-  "172.92.238.19": {
+  "173.218.133.145": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Stanwood",
+    "city": "Jonesboro",
     "coordinates": [
-      48.2412,
-      -122.3707
+      35.8363,
+      -90.6999
     ]
   },
   "173.69.14.157": {
@@ -867,6 +867,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "191.193.105.172": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1239,6 +1249,16 @@
       -80.013
     ]
   },
+  "34.159.11.206": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt",
+    "coordinates": [
+      50.1109,
+      8.6821
+    ]
+  },
   "34.182.159.92": {
     "region": "North America",
     "country": "United States",
@@ -1249,6 +1269,16 @@
       -77.0368
     ]
   },
+  "34.32.100.90": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.52,
+      13.4049
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1257,6 +1287,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.228.79.195": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Lappeenranta",
+    "coordinates": [
+      61.0549,
+      28.1896
     ]
   },
   "38.57.161.19": {
@@ -1287,16 +1327,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1849,26 +1879,6 @@
       17.0761
     ]
   },
-  "83.233.218.134": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Hofterup",
-    "coordinates": [
-      55.8082,
-      12.9836
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
-    ]
-  },
   "85.137.228.112": {
     "region": "Europe",
     "country": "Norway",
@@ -2009,7 +2019,7 @@
       11.4985
     ]
   },
-  "89.245.16.238": {
+  "89.245.16.247": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
