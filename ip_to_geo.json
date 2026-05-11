@@ -39,6 +39,16 @@
       151.209
     ]
   },
+  "103.151.65.11": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
+    ]
+  },
   "103.151.65.19": {
     "region": "Oceania",
     "country": "Australia",
@@ -679,16 +689,6 @@
       -121.8845
     ]
   },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8363,
-      -90.6999
-    ]
-  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -867,16 +867,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "191.193.105.172": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1259,16 +1249,6 @@
       8.6821
     ]
   },
-  "34.182.159.92": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.100.90": {
     "region": "Europe",
     "country": "Germany",
@@ -1327,6 +1307,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1779,16 +1769,6 @@
       14.4523
     ]
   },
-  "78.72.186.81": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.605,
-      13.0038
-    ]
-  },
   "78.92.193.253": {
     "region": "Europe",
     "country": "Hungary",
@@ -1877,6 +1857,26 @@
     "coordinates": [
       59.6323,
       17.0761
+    ]
+  },
+  "83.233.218.134": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Hofterup",
+    "coordinates": [
+      55.8082,
+      12.9836
+    ]
+  },
+  "84.39.252.192": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Ufa",
+    "coordinates": [
+      54.741,
+      55.9891
     ]
   },
   "85.137.228.112": {
@@ -2019,7 +2019,7 @@
       11.4985
     ]
   },
-  "89.245.16.247": {
+  "89.245.16.225": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
