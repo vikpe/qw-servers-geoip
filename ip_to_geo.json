@@ -89,6 +89,16 @@
       -83.0458
     ]
   },
+  "104.197.40.240": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "104.207.135.230": {
     "region": "North America",
     "country": "United States",
@@ -287,16 +297,6 @@
     "coordinates": [
       38.719,
       -77.7416
-    ]
-  },
-  "136.116.144.188": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "136.243.174.101": {
@@ -667,6 +667,16 @@
     "coordinates": [
       41.8835,
       -87.6305
+    ]
+  },
+  "172.237.100.112": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5081,
+      -0.1278
     ]
   },
   "172.7.58.121": {
@@ -1239,16 +1249,6 @@
       -80.013
     ]
   },
-  "34.159.11.206": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt",
-    "coordinates": [
-      50.1109,
-      8.6821
-    ]
-  },
   "34.32.100.90": {
     "region": "Europe",
     "country": "Germany",
@@ -1277,6 +1277,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.230.165.93": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "38.57.161.19": {
@@ -1709,16 +1719,6 @@
       -81.7334
     ]
   },
-  "73.23.203.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cape Coral",
-    "coordinates": [
-      26.6909,
-      -81.9483
-    ]
-  },
   "75.154.237.109": {
     "region": "North America",
     "country": "Canada",
@@ -1769,7 +1769,27 @@
       14.4523
     ]
   },
+  "78.72.109.73": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lomma",
+    "coordinates": [
+      55.6724,
+      13.0685
+    ]
+  },
   "78.92.193.253": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
+  "78.92.197.124": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1867,6 +1887,16 @@
     "coordinates": [
       55.8082,
       12.9836
+    ]
+  },
+  "83.243.73.194": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "St Petersburg",
+    "coordinates": [
+      59.8983,
+      30.2618
     ]
   },
   "84.39.252.192": {
@@ -2017,16 +2047,6 @@
     "coordinates": [
       64.0161,
       11.4985
-    ]
-  },
-  "89.245.16.225": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Kiel",
-    "coordinates": [
-      54.3273,
-      10.1234
     ]
   },
   "89.72.118.186": {
