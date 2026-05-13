@@ -109,7 +109,7 @@
       -74.4606
     ]
   },
-  "104.28.156.51": {
+  "104.28.158.40": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -479,16 +479,6 @@
       -96.8021
     ]
   },
-  "155.4.206.139": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Ume\u00e5",
-    "coordinates": [
-      63.8247,
-      20.2559
-    ]
-  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -699,16 +689,6 @@
       -121.8845
     ]
   },
-  "173.69.14.157": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cranston",
-    "coordinates": [
-      41.7689,
-      -71.4758
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -847,6 +827,16 @@
     "coordinates": [
       19.4096,
       -99.0784
+    ]
+  },
+  "187.74.32.34": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "187.77.48.25": {
@@ -1069,6 +1059,16 @@
       -47.4011
     ]
   },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9028,
+      115.855
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1239,6 +1239,16 @@
       30.3096
     ]
   },
+  "34.145.149.38": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1277,16 +1287,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.230.165.93": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "38.57.161.19": {
@@ -1719,6 +1719,16 @@
       -81.7334
     ]
   },
+  "73.23.203.172": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cape Coral",
+    "coordinates": [
+      26.6909,
+      -81.9483
+    ]
+  },
   "75.154.237.109": {
     "region": "North America",
     "country": "Canada",
@@ -1779,16 +1789,6 @@
       13.0685
     ]
   },
-  "78.92.193.253": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
   "78.92.197.124": {
     "region": "Europe",
     "country": "Hungary",
@@ -1827,16 +1827,6 @@
     "coordinates": [
       52.5234,
       13.3224
-    ]
-  },
-  "81.228.59.199": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3327,
-      18.0656
     ]
   },
   "81.230.215.6": {
