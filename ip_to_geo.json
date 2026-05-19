@@ -109,7 +109,7 @@
       -74.4606
     ]
   },
-  "104.28.164.164": {
+  "104.28.158.40": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -427,16 +427,6 @@
     "coordinates": [
       51.101,
       17.0295
-    ]
-  },
-  "147.185.221.194": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.209
     ]
   },
   "148.135.104.18": {
@@ -1319,6 +1309,16 @@
       13.4049
     ]
   },
+  "34.86.235.32": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1347,16 +1347,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "35.245.28.113": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "38.57.161.19": {
@@ -1549,6 +1539,16 @@
       3.20113
     ]
   },
+  "50.47.207.113": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bothell",
+    "coordinates": [
+      47.7946,
+      -122.2193
+    ]
+  },
   "51.75.53.205": {
     "region": "Europe",
     "country": "Poland",
@@ -1719,16 +1719,6 @@
       -89.9988
     ]
   },
-  "69.226.253.51": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Olmsted",
-    "coordinates": [
-      41.4156,
-      -81.9235
-    ]
-  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1777,6 +1767,16 @@
     "coordinates": [
       42.3399,
       -71.1245
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -2067,6 +2067,16 @@
     "coordinates": [
       64.0161,
       11.4985
+    ]
+  },
+  "89.72.118.186": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.1708,
+      21.0705
     ]
   },
   "91.107.121.135": {
