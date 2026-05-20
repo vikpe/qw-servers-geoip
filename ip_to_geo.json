@@ -699,14 +699,14 @@
       -96.9861
     ]
   },
-  "172.92.232.79": {
+  "173.218.133.145": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Stevenson",
+    "city": "Jonesboro",
     "coordinates": [
-      45.6957,
-      -121.8845
+      35.8363,
+      -90.6999
     ]
   },
   "176.210.100.6": {
@@ -1309,16 +1309,6 @@
       13.4049
     ]
   },
-  "34.86.235.32": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1377,6 +1367,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1679,16 +1679,6 @@
       23.3132
     ]
   },
-  "64.118.226.47": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Tillsonburg",
-    "coordinates": [
-      42.8568,
-      -80.7294
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1717,6 +1707,16 @@
     "coordinates": [
       38.5317,
       -89.9988
+    ]
+  },
+  "69.226.253.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Olmsted",
+    "coordinates": [
+      41.4156,
+      -81.9235
     ]
   },
   "70.34.200.204": {
@@ -1899,16 +1899,6 @@
       18.0656
     ]
   },
-  "82.196.112.57": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3924,
-      17.3006
-    ]
-  },
   "83.172.66.214": {
     "region": "Europe",
     "country": "Sweden",
@@ -2039,16 +2029,6 @@
       4.3917
     ]
   },
-  "88.113.185.154": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tuusula",
-    "coordinates": [
-      60.4102,
-      25.0095
-    ]
-  },
   "88.99.66.212": {
     "region": "Europe",
     "country": "Germany",
@@ -2087,6 +2067,16 @@
     "coordinates": [
       51.4048,
       0.0098
+    ]
+  },
+  "91.156.91.105": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Espoo",
+    "coordinates": [
+      60.2338,
+      24.8187
     ]
   },
   "91.216.213.227": {
@@ -2157,16 +2147,6 @@
     "coordinates": [
       50.6924,
       3.20113
-    ]
-  },
-  "94.254.23.181": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Degerfors",
-    "coordinates": [
-      59.242,
-      14.4262
     ]
   },
   "95.165.130.151": {
