@@ -289,16 +289,6 @@
       -77.7416
     ]
   },
-  "136.107.177.128": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -437,16 +427,6 @@
     "coordinates": [
       51.101,
       17.0295
-    ]
-  },
-  "148.135.104.18": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0515,
-      -118.2707
     ]
   },
   "149.28.62.121": {
@@ -669,6 +649,16 @@
       -74.1403
     ]
   },
+  "172.233.117.128": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.4153,
+      -3.694
+    ]
+  },
   "172.235.175.10": {
     "region": "Europe",
     "country": "Netherlands",
@@ -717,16 +707,6 @@
     "coordinates": [
       45.6957,
       -121.8845
-    ]
-  },
-  "172.92.238.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
     ]
   },
   "173.69.14.157": {
@@ -907,16 +887,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "189.46.175.179": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1399,6 +1369,16 @@
       12.9982
     ]
   },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
+    ]
+  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1849,6 +1829,16 @@
       -76.3612
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "77.90.0.186": {
     "region": "Europe",
     "country": "Germany",
@@ -1907,16 +1897,6 @@
     "coordinates": [
       59.3327,
       18.0656
-    ]
-  },
-  "81.230.215.6": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Trollh\u00e4ttan",
-    "coordinates": [
-      58.2835,
-      12.2858
     ]
   },
   "81.232.87.98": {
