@@ -99,7 +99,7 @@
       -74.4606
     ]
   },
-  "104.28.156.54": {
+  "104.28.156.55": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -549,6 +549,16 @@
       10.9551
     ]
   },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -919,6 +929,16 @@
       -78.8784
     ]
   },
+  "192.236.131.199": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seattle",
+    "coordinates": [
+      47.4941,
+      -122.294
+    ]
+  },
   "192.80.99.35": {
     "region": "North America",
     "country": "United States",
@@ -1007,26 +1027,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "199.168.232.14": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.871,
-      -87.6289
-    ]
-  },
-  "199.192.89.208": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cambridge",
-    "coordinates": [
-      38.5643,
-      -76.0874
     ]
   },
   "2.135.154.206": {
@@ -1157,6 +1157,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "212.247.51.186": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Gothenburg",
+    "coordinates": [
+      57.7065,
+      11.967
     ]
   },
   "212.42.38.88": {
@@ -1337,6 +1347,16 @@
     "coordinates": [
       41.2619,
       -95.8608
+    ]
+  },
+  "35.245.97.89": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "38.57.161.19": {
@@ -1819,24 +1839,14 @@
       -115.0528
     ]
   },
-  "75.192.145.213": {
+  "75.192.156.65": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Millersville",
+    "city": "New Castle",
     "coordinates": [
-      39.9999,
-      -76.3612
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
+      39.5929,
+      -75.6515
     ]
   },
   "77.90.0.186": {
@@ -1857,6 +1867,16 @@
     "coordinates": [
       50.0471,
       14.4523
+    ]
+  },
+  "78.72.109.73": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lomma",
+    "coordinates": [
+      55.6724,
+      13.0685
     ]
   },
   "78.92.197.124": {
