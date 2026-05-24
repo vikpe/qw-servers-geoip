@@ -179,6 +179,16 @@
       174.7365
     ]
   },
+  "119.17.137.95": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8129,
+      145.068
+    ]
+  },
   "121.99.166.164": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -549,16 +559,6 @@
       10.9551
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -897,6 +897,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.46.175.225": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1349,14 +1359,14 @@
       -95.8608
     ]
   },
-  "35.245.97.89": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
+  "38.124.152.155": {
+    "region": "Europe",
+    "country": "Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
     "coordinates": [
-      38.9071,
-      -77.0368
+      52.3759,
+      4.8975
     ]
   },
   "38.57.161.19": {
@@ -1387,16 +1397,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1847,6 +1847,16 @@
     "coordinates": [
       39.5929,
       -75.6515
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.90.0.186": {
