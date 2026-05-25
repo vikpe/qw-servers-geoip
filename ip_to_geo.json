@@ -1,4 +1,14 @@
 {
+  "1.55.216.1": {
+    "region": "Asia",
+    "country": "Vietnam",
+    "cc": "VN",
+    "city": "Thanh H\u00f3a",
+    "coordinates": [
+      19.8,
+      105.767
+    ]
+  },
   "100.36.39.144": {
     "region": "North America",
     "country": "United States",
@@ -709,16 +719,6 @@
       -96.9861
     ]
   },
-  "172.92.232.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stevenson",
-    "coordinates": [
-      45.6957,
-      -121.8845
-    ]
-  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -1319,6 +1319,16 @@
       -80.013
     ]
   },
+  "34.181.167.185": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.32.100.90": {
     "region": "Europe",
     "country": "Germany",
@@ -1719,16 +1729,6 @@
       -74.0203
     ]
   },
-  "68.116.117.245": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Lincoln City",
-    "coordinates": [
-      44.9587,
-      -124.0235
-    ]
-  },
   "69.222.182.36": {
     "region": "North America",
     "country": "United States",
@@ -1737,16 +1737,6 @@
     "coordinates": [
       38.5317,
       -89.9988
-    ]
-  },
-  "69.226.253.51": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Olmsted",
-    "coordinates": [
-      41.4156,
-      -81.9235
     ]
   },
   "70.34.200.204": {
@@ -1847,16 +1837,6 @@
     "coordinates": [
       39.5929,
       -75.6515
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.90.0.186": {
@@ -2209,14 +2189,14 @@
       37.6187
     ]
   },
-  "95.211.27.120": {
+  "95.211.165.149": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
-    "city": "Haarlem",
+    "city": "Amsterdam",
     "coordinates": [
-      52.3907,
-      4.66555
+      52.3667,
+      4.89454
     ]
   },
   "95.216.18.118": {
@@ -2257,16 +2237,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "97.94.129.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Riverbank",
-    "coordinates": [
-      37.7308,
-      -120.9382
     ]
   },
   "98.128.174.153": {
