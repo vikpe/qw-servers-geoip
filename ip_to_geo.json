@@ -299,6 +299,16 @@
       -77.7416
     ]
   },
+  "136.107.182.130": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -709,16 +719,6 @@
       -121.8845
     ]
   },
-  "172.92.238.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
-    ]
-  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -897,6 +897,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.46.175.225": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1359,16 +1369,6 @@
       -97.7463
     ]
   },
-  "42.118.79.18": {
-    "region": "Asia",
-    "country": "Vietnam",
-    "cc": "VN",
-    "city": "Ho Chi Minh City",
-    "coordinates": [
-      10.822,
-      106.6257
-    ]
-  },
   "45.124.55.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -1387,16 +1387,6 @@
     "coordinates": [
       55.6078,
       12.9982
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1829,6 +1819,16 @@
       -115.0528
     ]
   },
+  "75.192.156.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "New Castle",
+    "coordinates": [
+      39.5929,
+      -75.6515
+    ]
+  },
   "77.90.0.186": {
     "region": "Europe",
     "country": "Germany",
@@ -1897,6 +1897,16 @@
     "coordinates": [
       59.3327,
       18.0656
+    ]
+  },
+  "81.230.215.6": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Trollh\u00e4ttan",
+    "coordinates": [
+      58.2835,
+      12.2858
     ]
   },
   "81.232.87.98": {
