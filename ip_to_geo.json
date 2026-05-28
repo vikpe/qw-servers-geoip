@@ -99,7 +99,7 @@
       -74.4606
     ]
   },
-  "104.28.164.166": {
+  "104.28.156.54": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -299,14 +299,14 @@
       -77.7416
     ]
   },
-  "136.107.182.130": {
+  "136.116.142.39": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Washington",
+    "city": "Council Bluffs",
     "coordinates": [
-      38.9071,
-      -77.0368
+      41.2619,
+      -95.8608
     ]
   },
   "136.243.174.101": {
@@ -1329,6 +1329,16 @@
       -80.013
     ]
   },
+  "35.194.68.1": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.228.79.195": {
     "region": "Europe",
     "country": "Finland",
@@ -1337,16 +1347,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.232.192.162": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "38.124.152.155": {
@@ -1937,6 +1937,16 @@
     "coordinates": [
       59.6323,
       17.0761
+    ]
+  },
+  "83.220.173.7": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Markova",
+    "coordinates": [
+      52.2074,
+      104.264
     ]
   },
   "83.233.218.134": {
