@@ -19,16 +19,6 @@
       103.903
     ]
   },
-  "102.132.171.115": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Johannesburg",
-    "coordinates": [
-      -26.2309,
-      28.0583
-    ]
-  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -509,6 +499,16 @@
       20.2559
     ]
   },
+  "157.22.207.209": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3676,
+      4.90414
+    ]
+  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -557,6 +557,16 @@
     "coordinates": [
       59.9381,
       10.9551
+    ]
+  },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
     ]
   },
   "159.69.87.212": {
@@ -719,6 +729,16 @@
       -121.8845
     ]
   },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -859,16 +879,6 @@
       -1.3379
     ]
   },
-  "187.190.26.50": {
-    "region": "North America",
-    "country": "Mexico",
-    "cc": "MX",
-    "city": "Puebla",
-    "coordinates": [
-      19.4096,
-      -99.0784
-    ]
-  },
   "187.77.48.25": {
     "region": "South America",
     "country": "Brazil",
@@ -987,16 +997,6 @@
     "coordinates": [
       55.7731,
       37.8294
-    ]
-  },
-  "193.77.69.2": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
     ]
   },
   "194.145.194.3": {
@@ -1309,6 +1309,16 @@
       -80.013
     ]
   },
+  "34.186.53.139": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.32.100.90": {
     "region": "Europe",
     "country": "Germany",
@@ -1327,16 +1337,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.194.68.1": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "35.228.79.195": {
@@ -1377,16 +1377,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "45.132.235.172": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malmo",
-    "coordinates": [
-      55.6078,
-      12.9982
     ]
   },
   "45.234.92.131": {
@@ -1939,17 +1929,7 @@
       17.0761
     ]
   },
-  "83.220.173.7": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Markova",
-    "coordinates": [
-      52.2074,
-      104.264
-    ]
-  },
-  "83.233.218.134": {
+  "83.233.218.149": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
