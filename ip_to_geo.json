@@ -19,6 +19,16 @@
       103.903
     ]
   },
+  "102.132.171.115": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": [
+      -26.2309,
+      28.0583
+    ]
+  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -729,16 +739,6 @@
       -121.8845
     ]
   },
-  "172.92.238.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
-    ]
-  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -909,16 +909,6 @@
       4.9392
     ]
   },
-  "189.46.175.225": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -999,6 +989,16 @@
       37.8294
     ]
   },
+  "193.77.69.2": {
+    "region": "Europe",
+    "country": "Slovenia",
+    "cc": "SI",
+    "city": "Ljubljana",
+    "coordinates": [
+      46.0503,
+      14.5046
+    ]
+  },
   "194.145.194.3": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1007,6 +1007,16 @@
     "coordinates": [
       52.3676,
       4.90414
+    ]
+  },
+  "194.16.219.206": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Uppsala",
+    "coordinates": [
+      59.8586,
+      17.6389
     ]
   },
   "194.180.16.113": {
@@ -1309,16 +1319,6 @@
       -80.013
     ]
   },
-  "34.186.53.139": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.100.90": {
     "region": "Europe",
     "country": "Germany",
@@ -1377,6 +1377,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -2077,16 +2087,6 @@
     "coordinates": [
       52.1708,
       21.0705
-    ]
-  },
-  "91.107.121.135": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Bromley",
-    "coordinates": [
-      51.4048,
-      0.0098
     ]
   },
   "91.156.91.105": {
