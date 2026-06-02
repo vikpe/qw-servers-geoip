@@ -719,6 +719,16 @@
       -121.8845
     ]
   },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -1269,16 +1279,6 @@
       -122.6201
     ]
   },
-  "3.212.223.70": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.0438,
-      -77.4874
-    ]
-  },
   "3.94.62.64": {
     "region": "North America",
     "country": "United States",
@@ -1307,6 +1307,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.174.59.30": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
     ]
   },
   "34.32.100.90": {
@@ -1659,6 +1669,16 @@
       -46.6333
     ]
   },
+  "61.68.254.97": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.7468,
+      145.0681
+    ]
+  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1789,16 +1809,6 @@
       -123.3655
     ]
   },
-  "75.175.173.140": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Las Vegas",
-    "coordinates": [
-      36.1172,
-      -115.0528
-    ]
-  },
   "75.192.156.65": {
     "region": "North America",
     "country": "United States",
@@ -1817,6 +1827,16 @@
     "coordinates": [
       38.901,
       -94.596
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.90.0.186": {
@@ -1937,16 +1957,6 @@
     "coordinates": [
       59.8983,
       30.2618
-    ]
-  },
-  "84.39.252.192": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Ufa",
-    "coordinates": [
-      54.741,
-      55.9891
     ]
   },
   "85.137.228.112": {
@@ -2219,14 +2229,14 @@
       24.9347
     ]
   },
-  "96.227.85.134": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Southampton",
+  "95.84.138.217": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
     "coordinates": [
-      40.1743,
-      -75.0438
+      55.7487,
+      37.6187
     ]
   },
   "97.94.129.234": {
