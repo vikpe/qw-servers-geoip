@@ -99,7 +99,7 @@
       -74.4606
     ]
   },
-  "104.28.156.54": {
+  "104.28.164.164": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -299,7 +299,7 @@
       -77.7416
     ]
   },
-  "136.116.142.39": {
+  "136.111.116.3": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -559,6 +559,16 @@
       10.9551
     ]
   },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -717,16 +727,6 @@
     "coordinates": [
       45.6957,
       -121.8845
-    ]
-  },
-  "172.92.238.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
     ]
   },
   "173.69.14.157": {
@@ -1109,16 +1109,6 @@
       -104.816154
     ]
   },
-  "200.158.34.132": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "201.23.3.62": {
     "region": "South America",
     "country": "Brazil",
@@ -1309,14 +1299,14 @@
       -80.013
     ]
   },
-  "34.174.59.30": {
+  "34.182.207.122": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Dallas",
+    "city": "Washington",
     "coordinates": [
-      32.7766,
-      -96.7969
+      38.9071,
+      -77.0368
     ]
   },
   "34.32.100.90": {
@@ -1377,6 +1367,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1669,16 +1669,6 @@
       -46.6333
     ]
   },
-  "61.68.254.97": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7468,
-      145.0681
-    ]
-  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1829,16 +1819,6 @@
       -94.596
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "77.90.0.186": {
     "region": "Europe",
     "country": "Germany",
@@ -1857,6 +1837,16 @@
     "coordinates": [
       50.0471,
       14.4523
+    ]
+  },
+  "78.72.109.73": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lomma",
+    "coordinates": [
+      55.6724,
+      13.0685
     ]
   },
   "78.92.197.124": {
@@ -2227,16 +2217,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "95.84.138.217": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
     ]
   },
   "97.94.129.234": {
