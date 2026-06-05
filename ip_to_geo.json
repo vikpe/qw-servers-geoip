@@ -339,6 +339,16 @@
       8.7147
     ]
   },
+  "136.248.110.71": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -649,16 +659,6 @@
       -74.1403
     ]
   },
-  "172.233.117.128": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
-    "coordinates": [
-      40.4153,
-      -3.694
-    ]
-  },
   "172.235.175.10": {
     "region": "Europe",
     "country": "Netherlands",
@@ -889,6 +889,16 @@
       4.9392
     ]
   },
+  "191.193.163.26": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -1097,6 +1107,16 @@
     "coordinates": [
       -20.5395,
       -47.4011
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9028,
+      115.855
     ]
   },
   "203.29.240.182": {
@@ -1337,16 +1357,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1799,6 +1809,16 @@
       -94.596
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "77.90.0.186": {
     "region": "Europe",
     "country": "Germany",
@@ -1867,6 +1887,16 @@
     "coordinates": [
       59.3327,
       18.0656
+    ]
+  },
+  "81.230.215.6": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Trollh\u00e4ttan",
+    "coordinates": [
+      58.2835,
+      12.2858
     ]
   },
   "81.232.87.98": {
@@ -2187,6 +2217,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "96.227.85.134": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Southampton",
+    "coordinates": [
+      40.1743,
+      -75.0438
     ]
   },
   "97.94.129.234": {
