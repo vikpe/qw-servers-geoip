@@ -709,6 +709,16 @@
       -121.8845
     ]
   },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -1687,16 +1697,6 @@
     "coordinates": [
       40.7964,
       -74.0203
-    ]
-  },
-  "69.222.182.36": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Belleville",
-    "coordinates": [
-      38.5317,
-      -89.9988
     ]
   },
   "69.226.253.51": {
