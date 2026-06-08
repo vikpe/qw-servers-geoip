@@ -9,16 +9,6 @@
       -77.35
     ]
   },
-  "101.127.244.89": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.31973,
-      103.903
-    ]
-  },
   "102.132.171.115": {
     "region": "Africa",
     "country": "South Africa",
@@ -659,6 +649,16 @@
       -74.1403
     ]
   },
+  "172.233.117.128": {
+    "region": "Europe",
+    "country": "Spain",
+    "cc": "ES",
+    "city": "Madrid",
+    "coordinates": [
+      40.4153,
+      -3.694
+    ]
+  },
   "172.235.175.10": {
     "region": "Europe",
     "country": "Netherlands",
@@ -789,6 +789,16 @@
       -46.8811
     ]
   },
+  "18.223.24.90": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
+    ]
+  },
   "184.54.162.131": {
     "region": "North America",
     "country": "United States",
@@ -877,6 +887,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "191.193.163.26": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1129,6 +1149,16 @@
       -157.8725
     ]
   },
+  "212.147.244.202": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1691,
+      24.9448
+    ]
+  },
   "212.227.245.192": {
     "region": "Europe",
     "country": "Germany",
@@ -1249,6 +1279,16 @@
       -122.6201
     ]
   },
+  "24.218.177.81": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Taunton",
+    "coordinates": [
+      41.9082,
+      -71.1031
+    ]
+  },
   "3.94.62.64": {
     "region": "North America",
     "country": "United States",
@@ -1337,6 +1377,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "45.132.235.172": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malmo",
+    "coordinates": [
+      55.6078,
+      12.9982
     ]
   },
   "45.163.78.45": {
@@ -1989,6 +2039,16 @@
       -0.093
     ]
   },
+  "86.158.32.204": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "City of London",
+    "coordinates": [
+      51.5164,
+      -0.093
+    ]
+  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -2029,6 +2089,16 @@
       11.4985
     ]
   },
+  "89.168.86.177": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1049,
+      8.6295
+    ]
+  },
   "89.72.118.186": {
     "region": "Europe",
     "country": "Poland",
@@ -2047,16 +2117,6 @@
     "coordinates": [
       60.2338,
       24.8187
-    ]
-  },
-  "91.216.213.227": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Mys\u0142owice",
-    "coordinates": [
-      50.2114,
-      19.1407
     ]
   },
   "92.221.92.92": {
@@ -2127,6 +2187,16 @@
     "coordinates": [
       59.242,
       14.4262
+    ]
+  },
+  "94.72.111.66": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Portsmouth",
+    "coordinates": [
+      50.8514,
+      -0.9903
     ]
   },
   "95.165.130.151": {
