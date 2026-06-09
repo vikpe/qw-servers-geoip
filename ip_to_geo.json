@@ -549,6 +549,16 @@
       10.9551
     ]
   },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -1389,16 +1399,6 @@
       12.9982
     ]
   },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
-    ]
-  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1729,14 +1729,14 @@
       -74.0203
     ]
   },
-  "69.226.253.51": {
+  "69.222.182.36": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "North Olmsted",
+    "city": "Belleville",
     "coordinates": [
-      41.4156,
-      -81.9235
+      38.5317,
+      -89.9988
     ]
   },
   "70.34.200.204": {
@@ -1837,6 +1837,16 @@
     "coordinates": [
       38.901,
       -94.596
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.90.0.186": {
@@ -2027,16 +2037,6 @@
     "coordinates": [
       50.0196,
       20.9853
-    ]
-  },
-  "86.158.197.241": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "City of London",
-    "coordinates": [
-      51.5164,
-      -0.093
     ]
   },
   "86.158.32.204": {
@@ -2297,6 +2297,26 @@
     "coordinates": [
       55.5811,
       12.9553
+    ]
+  },
+  "98.35.252.123": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seaside",
+    "coordinates": [
+      36.6111,
+      -121.8516
+    ]
+  },
+  "99.255.191.8": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Markham",
+    "coordinates": [
+      43.9016,
+      -79.3427
     ]
   },
   "99.72.255.45": {
