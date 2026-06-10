@@ -89,7 +89,7 @@
       -74.4606
     ]
   },
-  "104.28.164.166": {
+  "104.28.156.51": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -287,16 +287,6 @@
     "coordinates": [
       38.719,
       -77.7416
-    ]
-  },
-  "136.111.116.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "136.243.174.101": {
@@ -549,16 +539,6 @@
       10.9551
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -597,16 +577,6 @@
     "coordinates": [
       35.6893,
       139.6899
-    ]
-  },
-  "161.153.62.180": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.4656,
-      -111.9956
     ]
   },
   "162.254.86.73": {
@@ -899,16 +869,6 @@
       4.9392
     ]
   },
-  "191.193.163.26": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -1017,6 +977,16 @@
     "coordinates": [
       47.518,
       19.0555
+    ]
+  },
+  "194.223.51.17": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.834,
+      144.9832
     ]
   },
   "194.38.96.52": {
@@ -1329,6 +1299,16 @@
       -80.013
     ]
   },
+  "34.181.137.21": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.32.100.90": {
     "region": "Europe",
     "country": "Germany",
@@ -1357,6 +1337,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.255.53.10": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "38.124.152.155": {
@@ -1397,6 +1387,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1569,7 +1569,7 @@
       3.20113
     ]
   },
-  "50.47.207.113": {
+  "50.35.91.121": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1739,6 +1739,16 @@
       -89.9988
     ]
   },
+  "69.226.253.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Olmsted",
+    "coordinates": [
+      41.4156,
+      -81.9235
+    ]
+  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1837,16 +1847,6 @@
     "coordinates": [
       38.901,
       -94.596
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.90.0.186": {
@@ -2157,16 +2157,6 @@
     "coordinates": [
       47.5119,
       7.5579
-    ]
-  },
-  "94.198.220.29": {
-    "region": "Asia",
-    "country": "Kazakhstan",
-    "cc": "KZ",
-    "city": "Almaty",
-    "coordinates": [
-      43.2525,
-      76.9115
     ]
   },
   "94.23.249.185": {
