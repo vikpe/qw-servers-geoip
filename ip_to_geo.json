@@ -9,6 +9,16 @@
       -77.35
     ]
   },
+  "101.127.244.89": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.36,
+      103.892
+    ]
+  },
   "102.132.171.115": {
     "region": "Africa",
     "country": "South Africa",
@@ -539,16 +549,6 @@
       10.7389
     ]
   },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -719,6 +719,16 @@
       73.3729
     ]
   },
+  "176.224.254.141": {
+    "region": "Asia",
+    "country": "Saudi Arabia",
+    "cc": "SA",
+    "city": "Jeddah",
+    "coordinates": [
+      21.4913,
+      39.1841
+    ]
+  },
   "177.188.171.76": {
     "region": "South America",
     "country": "Brazil",
@@ -867,16 +877,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "188.42.216.197": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3098,
-      4.93535
     ]
   },
   "192.121.119.117": {
@@ -1249,16 +1249,6 @@
       -96.8704
     ]
   },
-  "24.21.24.178": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Oregon City",
-    "coordinates": [
-      45.3573,
-      -122.6068
-    ]
-  },
   "24.218.177.81": {
     "region": "North America",
     "country": "United States",
@@ -1337,16 +1327,6 @@
     "coordinates": [
       41.2619,
       -95.8608
-    ]
-  },
-  "38.124.152.155": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3716,
-      4.8883
     ]
   },
   "38.57.161.19": {
@@ -1819,14 +1799,14 @@
       -123.3709
     ]
   },
-  "75.192.156.65": {
+  "75.192.149.230": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Aston Mills",
     "coordinates": [
-      40.09,
-      -75.0363
+      39.8727,
+      -75.4574
     ]
   },
   "75.81.62.43": {
@@ -1859,16 +1839,6 @@
       8.48173
     ]
   },
-  "78.137.42.215": {
-    "region": "Europe",
-    "country": "Ukraine",
-    "cc": "UA",
-    "city": "Cherkasy",
-    "coordinates": [
-      49.4345,
-      32.0541
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1897,6 +1867,16 @@
     "coordinates": [
       47.4277,
       18.9191
+    ]
+  },
+  "79.134.102.90": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.2188,
+      24.8708
     ]
   },
   "80.211.201.216": {
@@ -2287,26 +2267,6 @@
     "coordinates": [
       55.5811,
       12.9553
-    ]
-  },
-  "98.35.252.123": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seaside",
-    "coordinates": [
-      36.6111,
-      -121.8516
-    ]
-  },
-  "99.255.191.8": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Markham",
-    "coordinates": [
-      43.8784,
-      -79.2642
     ]
   },
   "99.72.255.45": {
