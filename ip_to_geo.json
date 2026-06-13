@@ -549,6 +549,16 @@
       10.7389
     ]
   },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -687,26 +697,6 @@
     "coordinates": [
       33.3043,
       -96.9861
-    ]
-  },
-  "172.92.232.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stevenson",
-    "coordinates": [
-      45.6957,
-      -121.8845
-    ]
-  },
-  "172.92.238.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
     ]
   },
   "176.210.100.6": {
@@ -877,6 +867,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "191.193.163.246": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1179,16 +1179,6 @@
       10.6968
     ]
   },
-  "213.164.209.174": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malm\u00f6",
-    "coordinates": [
-      55.6078,
-      12.9982
-    ]
-  },
   "213.239.216.253": {
     "region": "Europe",
     "country": "Germany",
@@ -1357,16 +1347,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1659,6 +1639,16 @@
       -46.6333
     ]
   },
+  "60.242.74.164": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.7906,
+      144.9944
+    ]
+  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1817,16 +1807,6 @@
     "coordinates": [
       38.8121,
       -94.534
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.90.0.186": {
