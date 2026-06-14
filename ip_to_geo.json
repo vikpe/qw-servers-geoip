@@ -399,6 +399,16 @@
       -111.9956
     ]
   },
+  "144.202.66.126": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7889,
+      -96.8021
+    ]
+  },
   "144.64.37.26": {
     "region": "Europe",
     "country": "Portugal",
@@ -467,6 +477,16 @@
     "coordinates": [
       -33.8688,
       151.209
+    ]
+  },
+  "155.138.204.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Atlanta",
+    "coordinates": [
+      33.7838,
+      -84.4455
     ]
   },
   "155.138.247.213": {
@@ -547,16 +567,6 @@
     "coordinates": [
       59.9133,
       10.7389
-    ]
-  },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
     ]
   },
   "159.69.87.212": {
@@ -649,6 +659,16 @@
       -74.1403
     ]
   },
+  "168.235.88.183": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Piscataway",
+    "coordinates": [
+      40.4993,
+      -74.399
+    ]
+  },
   "172.233.117.128": {
     "region": "Europe",
     "country": "Spain",
@@ -697,6 +717,16 @@
     "coordinates": [
       33.3043,
       -96.9861
+    ]
+  },
+  "172.92.232.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stevenson",
+    "coordinates": [
+      45.6957,
+      -121.8845
     ]
   },
   "176.210.100.6": {
@@ -1179,6 +1209,16 @@
       10.6968
     ]
   },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malm\u00f6",
+    "coordinates": [
+      55.6078,
+      12.9982
+    ]
+  },
   "213.239.216.253": {
     "region": "Europe",
     "country": "Germany",
@@ -1239,7 +1279,7 @@
       -96.8704
     ]
   },
-  "24.218.177.81": {
+  "24.218.177.101": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1347,6 +1387,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1457,6 +1507,16 @@
     "coordinates": [
       59.2885,
       17.9612
+    ]
+  },
+  "47.133.208.165": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Sanford",
+    "coordinates": [
+      35.4502,
+      -79.1362
     ]
   },
   "49.12.2.62": {
@@ -1639,16 +1699,6 @@
       -46.6333
     ]
   },
-  "60.242.74.164": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7906,
-      144.9944
-    ]
-  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1759,16 +1809,6 @@
       -71.1245
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1807,6 +1847,16 @@
     "coordinates": [
       38.8121,
       -94.534
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.90.0.186": {
@@ -2247,6 +2297,16 @@
     "coordinates": [
       55.5811,
       12.9553
+    ]
+  },
+  "98.35.252.123": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seaside",
+    "coordinates": [
+      36.6111,
+      -121.8516
     ]
   },
   "99.72.255.45": {
