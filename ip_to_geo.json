@@ -19,16 +19,6 @@
       103.892
     ]
   },
-  "102.132.171.115": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Sandton",
-    "coordinates": [
-      -26.104,
-      28.0746
-    ]
-  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -399,6 +389,16 @@
       -111.9956
     ]
   },
+  "142.90.2.38": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Kingston",
+    "coordinates": [
+      44.2569,
+      -76.4717
+    ]
+  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -659,16 +659,6 @@
       -74.1403
     ]
   },
-  "168.235.88.183": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Piscataway",
-    "coordinates": [
-      40.4993,
-      -74.399
-    ]
-  },
   "172.233.117.128": {
     "region": "Europe",
     "country": "Spain",
@@ -727,6 +717,16 @@
     "coordinates": [
       45.6957,
       -121.8845
+    ]
+  },
+  "173.69.14.157": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cranston",
+    "coordinates": [
+      41.7689,
+      -71.4758
     ]
   },
   "176.210.100.6": {
@@ -1319,6 +1319,16 @@
       -80.013
     ]
   },
+  "34.181.179.213": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.32.100.90": {
     "region": "Europe",
     "country": "Germany",
@@ -1359,6 +1369,16 @@
       -95.8608
     ]
   },
+  "38.124.152.155": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3716,
+      4.8883
+    ]
+  },
   "38.57.161.19": {
     "region": "North America",
     "country": "United States",
@@ -1387,16 +1407,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1517,6 +1527,26 @@
     "coordinates": [
       35.4502,
       -79.1362
+    ]
+  },
+  "47.157.132.86": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Granada Hills",
+    "coordinates": [
+      34.2773,
+      -118.5001
+    ]
+  },
+  "47.186.130.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Garland",
+    "coordinates": [
+      32.8545,
+      -96.5991
     ]
   },
   "49.12.2.62": {
@@ -1749,16 +1779,6 @@
       -89.9988
     ]
   },
-  "69.226.253.51": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Olmsted",
-    "coordinates": [
-      41.4156,
-      -81.9235
-    ]
-  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1807,6 +1827,16 @@
     "coordinates": [
       42.3399,
       -71.1245
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -2297,16 +2327,6 @@
     "coordinates": [
       55.5811,
       12.9553
-    ]
-  },
-  "98.35.252.123": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seaside",
-    "coordinates": [
-      36.6111,
-      -121.8516
     ]
   },
   "99.72.255.45": {
