@@ -109,26 +109,6 @@
       -118.244
     ]
   },
-  "108.61.117.210": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3891,
-      4.6563
-    ]
-  },
-  "108.61.178.207": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1103,
-      8.7147
-    ]
-  },
   "108.61.229.191": {
     "region": "North America",
     "country": "United States",
@@ -239,6 +219,16 @@
       28.0473
     ]
   },
+  "13.60.48.185": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
+    ]
+  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -287,6 +277,16 @@
     "coordinates": [
       38.8809,
       -77.3008
+    ]
+  },
+  "136.111.116.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "136.243.174.101": {
@@ -387,16 +387,6 @@
     "coordinates": [
       33.4656,
       -111.9956
-    ]
-  },
-  "142.90.2.38": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Kingston",
-    "coordinates": [
-      44.2569,
-      -76.4717
     ]
   },
   "144.202.66.126": {
@@ -659,6 +649,16 @@
       -74.1403
     ]
   },
+  "168.235.88.244": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Piscataway",
+    "coordinates": [
+      40.4993,
+      -74.399
+    ]
+  },
   "172.233.117.128": {
     "region": "Europe",
     "country": "Spain",
@@ -719,6 +719,16 @@
       -121.8845
     ]
   },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -737,16 +747,6 @@
     "coordinates": [
       54.9896,
       73.3729
-    ]
-  },
-  "176.224.254.141": {
-    "region": "Asia",
-    "country": "Saudi Arabia",
-    "cc": "SA",
-    "city": "Jeddah",
-    "coordinates": [
-      21.4913,
-      39.1841
     ]
   },
   "177.188.171.76": {
@@ -1319,16 +1319,6 @@
       -80.013
     ]
   },
-  "34.181.179.213": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.100.90": {
     "region": "Europe",
     "country": "Germany",
@@ -1357,16 +1347,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.255.53.10": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "38.124.152.155": {
@@ -1519,26 +1499,6 @@
       17.9612
     ]
   },
-  "47.133.208.165": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Sanford",
-    "coordinates": [
-      35.4502,
-      -79.1362
-    ]
-  },
-  "47.157.132.86": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Granada Hills",
-    "coordinates": [
-      34.2773,
-      -118.5001
-    ]
-  },
   "47.186.130.79": {
     "region": "North America",
     "country": "United States",
@@ -1557,16 +1517,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "5.134.117.152": {
-    "region": "Europe",
-    "country": "Spain",
-    "cc": "ES",
-    "city": "Madrid",
-    "coordinates": [
-      40.4327,
-      -3.621
     ]
   },
   "5.161.55.215": {
@@ -1779,6 +1729,16 @@
       -89.9988
     ]
   },
+  "69.226.253.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Olmsted",
+    "coordinates": [
+      41.4156,
+      -81.9235
+    ]
+  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1877,16 +1837,6 @@
     "coordinates": [
       38.8121,
       -94.534
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.90.0.186": {
@@ -2327,6 +2277,16 @@
     "coordinates": [
       55.5811,
       12.9553
+    ]
+  },
+  "98.35.252.123": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seaside",
+    "coordinates": [
+      36.6111,
+      -121.8516
     ]
   },
   "99.72.255.45": {
