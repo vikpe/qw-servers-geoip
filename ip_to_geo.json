@@ -89,6 +89,16 @@
       -74.399
     ]
   },
+  "104.236.25.60": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Clifton",
+    "coordinates": [
+      40.8364,
+      -74.1403
+    ]
+  },
   "104.28.164.166": {
     "region": "Europe",
     "country": "Sweden",
@@ -217,6 +227,16 @@
     "coordinates": [
       -26.2041,
       28.0473
+    ]
+  },
+  "13.48.29.63": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3293,
+      18.0686
     ]
   },
   "13.60.48.185": {
@@ -647,16 +667,6 @@
     "coordinates": [
       40.8364,
       -74.1403
-    ]
-  },
-  "168.235.88.244": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Piscataway",
-    "coordinates": [
-      40.4993,
-      -74.399
     ]
   },
   "172.233.117.128": {
@@ -1129,16 +1139,6 @@
       115.8765
     ]
   },
-  "203.87.74.13": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8391,
-      145.0717
-    ]
-  },
   "206.51.245.84": {
     "region": "North America",
     "country": "United States",
@@ -1299,6 +1299,16 @@
       -77.4874
     ]
   },
+  "31.166.237.86": {
+    "region": "Asia",
+    "country": "Saudi Arabia",
+    "cc": "SA",
+    "city": "Jeddah",
+    "coordinates": [
+      21.4913,
+      39.1841
+    ]
+  },
   "31.184.218.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1329,6 +1339,16 @@
       13.4049
     ]
   },
+  "34.85.169.47": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1357,16 +1377,6 @@
     "coordinates": [
       52.3716,
       4.8883
-    ]
-  },
-  "38.57.161.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Austin",
-    "coordinates": [
-      30.2625,
-      -97.7463
     ]
   },
   "45.124.55.179": {
@@ -1719,16 +1729,6 @@
       -74.0203
     ]
   },
-  "69.222.182.36": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Belleville",
-    "coordinates": [
-      38.5317,
-      -89.9988
-    ]
-  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1789,16 +1789,6 @@
       -71.1245
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1847,6 +1837,16 @@
     "coordinates": [
       33.675,
       -118.0027
+    ]
+  },
+  "76.23.232.189": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Newton",
+    "coordinates": [
+      42.327,
+      -71.2008
     ]
   },
   "77.90.0.186": {
@@ -2247,6 +2247,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "95.91.243.175": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.4891,
+      13.4296
     ]
   },
   "97.94.129.234": {
