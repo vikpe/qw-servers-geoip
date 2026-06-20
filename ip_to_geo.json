@@ -229,16 +229,6 @@
       28.0473
     ]
   },
-  "13.51.10.255": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
-    ]
-  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -487,16 +477,6 @@
     "coordinates": [
       33.7838,
       -84.4455
-    ]
-  },
-  "155.138.247.213": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7889,
-      -96.8021
     ]
   },
   "155.4.206.139": {
@@ -850,6 +830,16 @@
     ]
   },
   "187.77.48.25": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
+  "187.77.61.36": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1339,6 +1329,16 @@
       4.8883
     ]
   },
+  "38.57.161.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Austin",
+    "coordinates": [
+      30.2625,
+      -97.7463
+    ]
+  },
   "45.124.55.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -1477,16 +1477,6 @@
     "coordinates": [
       59.2885,
       17.9612
-    ]
-  },
-  "47.133.208.165": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Sanford",
-    "coordinates": [
-      35.4502,
-      -79.1362
     ]
   },
   "47.186.130.79": {
@@ -1749,16 +1739,6 @@
       -104.9945
     ]
   },
-  "72.239.233.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Merritt Island",
-    "coordinates": [
-      28.3888,
-      -80.7301
-    ]
-  },
   "73.143.214.84": {
     "region": "North America",
     "country": "United States",
@@ -1767,16 +1747,6 @@
     "coordinates": [
       42.3399,
       -71.1245
-    ]
-  },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -1799,14 +1769,14 @@
       -123.3709
     ]
   },
-  "75.192.149.230": {
+  "75.215.192.195": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Aston Mills",
+    "city": "Philadelphia",
     "coordinates": [
-      39.8727,
-      -75.4574
+      40.0172,
+      -75.0883
     ]
   },
   "75.81.62.43": {
@@ -1817,16 +1787,6 @@
     "coordinates": [
       38.8121,
       -94.534
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "76.112.210.16": {
@@ -1869,16 +1829,6 @@
       14.4464
     ]
   },
-  "78.70.76.77": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malm\u00f6",
-    "coordinates": [
-      55.6059,
-      13.0007
-    ]
-  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -1917,16 +1867,6 @@
     "coordinates": [
       50.0883,
       14.4124
-    ]
-  },
-  "81.169.207.127": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.5234,
-      13.3224
     ]
   },
   "81.228.59.199": {
@@ -2077,6 +2017,16 @@
     "coordinates": [
       52.5312,
       13.3878
+    ]
+  },
+  "87.189.50.136": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "87.67.241.145": {
@@ -2257,6 +2207,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "95.91.243.175": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.4891,
+      13.4296
     ]
   },
   "97.94.129.234": {
