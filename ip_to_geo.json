@@ -339,6 +339,16 @@
       -46.6361
     ]
   },
+  "136.48.79.142": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "West Des Moines",
+    "coordinates": [
+      41.5757,
+      -93.7364
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -499,16 +509,6 @@
       20.2559
     ]
   },
-  "157.131.32.226": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "El Cerrito",
-    "coordinates": [
-      37.9145,
-      -122.3007
-    ]
-  },
   "157.22.207.209": {
     "region": "Europe",
     "country": "Russia",
@@ -639,14 +639,14 @@
       12.3649
     ]
   },
-  "167.99.124.241": {
+  "168.235.83.155": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Clifton",
+    "city": "Piscataway",
     "coordinates": [
-      40.8364,
-      -74.1403
+      40.4993,
+      -74.399
     ]
   },
   "172.233.117.128": {
@@ -729,16 +729,6 @@
       73.3729
     ]
   },
-  "176.72.173.99": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4492,
-      23.8557
-    ]
-  },
   "177.188.171.76": {
     "region": "South America",
     "country": "Brazil",
@@ -789,6 +779,16 @@
       -46.8811
     ]
   },
+  "18.223.24.90": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dublin",
+    "coordinates": [
+      40.0992,
+      -83.1141
+    ]
+  },
   "184.54.162.131": {
     "region": "North America",
     "country": "United States",
@@ -807,16 +807,6 @@
     "coordinates": [
       48.8558,
       2.3494
-    ]
-  },
-  "185.189.139.18": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Konstancin-Jeziorna",
-    "coordinates": [
-      52.09,
-      21.1196
     ]
   },
   "185.189.48.45": {
@@ -887,6 +877,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.46.175.68": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1099,16 +1099,6 @@
       -47.4011
     ]
   },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9454,
-      115.7856
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1287,16 +1277,6 @@
     "coordinates": [
       39.0438,
       -77.4874
-    ]
-  },
-  "31.166.237.86": {
-    "region": "Asia",
-    "country": "Saudi Arabia",
-    "cc": "SA",
-    "city": "Jeddah",
-    "coordinates": [
-      21.4913,
-      39.1841
     ]
   },
   "31.184.218.192": {
@@ -2049,16 +2029,6 @@
       13.3878
     ]
   },
-  "87.189.50.136": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "87.67.241.145": {
     "region": "Europe",
     "country": "Belgium",
@@ -2117,6 +2087,16 @@
     "coordinates": [
       60.2167,
       24.7225
+    ]
+  },
+  "91.55.73.214": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "92.221.92.92": {
@@ -2237,16 +2217,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "95.91.243.175": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.4891,
-      13.4296
     ]
   },
   "97.94.129.234": {
