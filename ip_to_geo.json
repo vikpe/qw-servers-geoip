@@ -569,6 +569,16 @@
       10.7389
     ]
   },
+  "159.196.122.212": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -34.1348,
+      151.0041
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -597,6 +607,16 @@
     "coordinates": [
       35.6893,
       139.6899
+    ]
+  },
+  "161.153.62.180": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
     ]
   },
   "162.254.86.73": {
@@ -809,6 +829,16 @@
       2.3494
     ]
   },
+  "185.189.139.18": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Konstancin-Jeziorna",
+    "coordinates": [
+      52.09,
+      21.1196
+    ]
+  },
   "185.189.48.45": {
     "region": "Europe",
     "country": "Sweden",
@@ -877,16 +907,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "189.46.175.68": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -967,16 +987,6 @@
     "coordinates": [
       55.7731,
       37.8294
-    ]
-  },
-  "193.77.69.2": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
     ]
   },
   "194.145.194.3": {
@@ -1789,14 +1799,14 @@
       -123.3709
     ]
   },
-  "75.215.192.195": {
+  "75.192.186.114": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Philadelphia",
     "coordinates": [
-      40.0172,
-      -75.0883
+      40.058,
+      -75.1876
     ]
   },
   "75.81.62.43": {
@@ -1807,16 +1817,6 @@
     "coordinates": [
       38.8121,
       -94.534
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "76.112.210.16": {
@@ -1847,6 +1847,16 @@
     "coordinates": [
       50.0766,
       14.4464
+    ]
+  },
+  "78.72.109.73": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Lomma",
+    "coordinates": [
+      55.6724,
+      13.0685
     ]
   },
   "78.92.197.124": {
@@ -2007,6 +2017,16 @@
     "coordinates": [
       50.0196,
       20.9853
+    ]
+  },
+  "86.157.16.41": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "City of London",
+    "coordinates": [
+      51.5164,
+      -0.093
     ]
   },
   "86.158.32.204": {
