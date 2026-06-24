@@ -179,16 +179,6 @@
       174.74
     ]
   },
-  "122.199.63.203": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8469,
-      145.2136
-    ]
-  },
   "123.51.55.162": {
     "region": "Oceania",
     "country": "Australia",
@@ -379,16 +369,6 @@
       -0.1278
     ]
   },
-  "140.235.125.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Miami",
-    "coordinates": [
-      25.7701,
-      -80.1928
-    ]
-  },
   "141.105.67.104": {
     "region": "Europe",
     "country": "Russia",
@@ -567,16 +547,6 @@
     "coordinates": [
       59.9133,
       10.7389
-    ]
-  },
-  "159.196.122.212": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -34.1348,
-      151.0041
     ]
   },
   "159.69.87.212": {
@@ -907,6 +877,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.46.175.68": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1259,16 +1239,6 @@
       -96.8704
     ]
   },
-  "24.218.177.101": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Taunton",
-    "coordinates": [
-      41.9082,
-      -71.1031
-    ]
-  },
   "24.239.125.195": {
     "region": "North America",
     "country": "United States",
@@ -1297,6 +1267,16 @@
     "coordinates": [
       59.9417,
       30.3096
+    ]
+  },
+  "34.11.52.11": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1849,6 +1829,16 @@
       14.4464
     ]
   },
+  "78.70.76.77": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malm\u00f6",
+    "coordinates": [
+      55.6059,
+      13.0007
+    ]
+  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -1959,6 +1949,16 @@
       30.2618
     ]
   },
+  "84.154.191.186": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Iserlohn",
+    "coordinates": [
+      51.3837,
+      7.7127
+    ]
+  },
   "85.137.228.112": {
     "region": "Europe",
     "country": "Norway",
@@ -2020,16 +2020,6 @@
     ]
   },
   "86.157.16.41": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "City of London",
-    "coordinates": [
-      51.5164,
-      -0.093
-    ]
-  },
-  "86.158.32.204": {
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
