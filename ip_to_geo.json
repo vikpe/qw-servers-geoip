@@ -179,6 +179,16 @@
       174.74
     ]
   },
+  "122.199.63.203": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8469,
+      145.2136
+    ]
+  },
   "123.51.55.162": {
     "region": "Oceania",
     "country": "Australia",
@@ -367,6 +377,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "140.235.125.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Miami",
+    "coordinates": [
+      25.7701,
+      -80.1928
     ]
   },
   "141.105.67.104": {
@@ -779,16 +799,6 @@
       -83.1141
     ]
   },
-  "184.54.162.131": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fairfield",
-    "coordinates": [
-      39.3202,
-      -84.552
-    ]
-  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -1119,7 +1129,7 @@
       -157.8725
     ]
   },
-  "212.147.244.202": {
+  "212.147.246.37": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
@@ -1239,16 +1249,6 @@
       -96.8704
     ]
   },
-  "24.239.125.195": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Youngstown",
-    "coordinates": [
-      41.0996,
-      -80.7523
-    ]
-  },
   "3.94.62.64": {
     "region": "North America",
     "country": "United States",
@@ -1267,16 +1267,6 @@
     "coordinates": [
       59.9417,
       30.3096
-    ]
-  },
-  "34.11.52.11": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1357,16 +1347,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1739,6 +1719,16 @@
       -104.9945
     ]
   },
+  "72.239.233.54": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Merritt Island",
+    "coordinates": [
+      28.3888,
+      -80.7301
+    ]
+  },
   "73.143.214.84": {
     "region": "North America",
     "country": "United States",
@@ -1947,6 +1937,16 @@
     "coordinates": [
       59.8983,
       30.2618
+    ]
+  },
+  "83.25.133.108": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Gdansk",
+    "coordinates": [
+      54.3183,
+      18.5839
     ]
   },
   "84.154.191.186": {
