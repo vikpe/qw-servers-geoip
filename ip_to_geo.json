@@ -99,7 +99,7 @@
       -74.1403
     ]
   },
-  "104.28.164.166": {
+  "104.28.164.165": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -199,6 +199,16 @@
       151.207
     ]
   },
+  "124.170.206.20": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8024,
+      144.9659
+    ]
+  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -287,16 +297,6 @@
     "coordinates": [
       38.8809,
       -77.3008
-    ]
-  },
-  "136.111.116.3": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "136.243.174.101": {
@@ -409,6 +409,16 @@
       -111.9956
     ]
   },
+  "142.189.24.230": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Ottawa",
+    "coordinates": [
+      45.3316,
+      -75.6718
+    ]
+  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -479,6 +489,16 @@
       -46.6333
     ]
   },
+  "152.233.40.96": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8483,
+      -87.6517
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -517,6 +537,16 @@
     "coordinates": [
       55.754,
       37.5773
+    ]
+  },
+  "158.101.121.105": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.018,
+      -77.539
     ]
   },
   "158.101.16.37": {
@@ -717,6 +747,16 @@
     "coordinates": [
       45.6957,
       -121.8845
+    ]
+  },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
     ]
   },
   "173.69.14.157": {
@@ -1269,6 +1309,16 @@
       30.3096
     ]
   },
+  "34.132.201.75": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1347,6 +1397,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1789,16 +1849,6 @@
       -94.534
     ]
   },
-  "76.112.210.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Inkster",
-    "coordinates": [
-      42.294,
-      -83.3146
-    ]
-  },
   "77.90.0.186": {
     "region": "Europe",
     "country": "Germany",
@@ -1807,6 +1857,16 @@
     "coordinates": [
       50.1592,
       8.48173
+    ]
+  },
+  "78.137.42.215": {
+    "region": "Europe",
+    "country": "Ukraine",
+    "cc": "UA",
+    "city": "Cherkasy",
+    "coordinates": [
+      49.4345,
+      32.0541
     ]
   },
   "78.45.199.104": {
@@ -1949,16 +2009,6 @@
       18.5839
     ]
   },
-  "84.154.191.186": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Iserlohn",
-    "coordinates": [
-      51.3837,
-      7.7127
-    ]
-  },
   "85.137.228.112": {
     "region": "Europe",
     "country": "Norway",
@@ -1997,16 +2047,6 @@
     "coordinates": [
       52.4758,
       16.9373
-    ]
-  },
-  "85.24.154.2": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Bromma",
-    "coordinates": [
-      59.35,
-      17.9167
     ]
   },
   "85.28.131.207": {
@@ -2129,6 +2169,16 @@
       15.6288
     ]
   },
+  "93.198.178.103": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Iserlohn",
+    "coordinates": [
+      51.3837,
+      7.7127
+    ]
+  },
   "93.95.230.175": {
     "region": "Europe",
     "country": "Iceland",
@@ -2157,6 +2207,16 @@
     "coordinates": [
       50.6924,
       3.20113
+    ]
+  },
+  "94.237.96.237": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1169,
+      8.6837
     ]
   },
   "94.254.23.181": {
