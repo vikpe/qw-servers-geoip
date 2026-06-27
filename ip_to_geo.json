@@ -199,16 +199,6 @@
       151.207
     ]
   },
-  "124.170.206.20": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8024,
-      144.9659
-    ]
-  },
   "128.199.52.100": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -409,16 +399,6 @@
       -111.9956
     ]
   },
-  "142.189.24.230": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Ottawa",
-    "coordinates": [
-      45.3316,
-      -75.6718
-    ]
-  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -487,16 +467,6 @@
     "coordinates": [
       -23.5505,
       -46.6333
-    ]
-  },
-  "152.233.40.96": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8483,
-      -87.6517
     ]
   },
   "152.67.110.136": {
@@ -749,16 +719,6 @@
       -121.8845
     ]
   },
-  "172.92.238.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
-    ]
-  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -767,6 +727,16 @@
     "coordinates": [
       41.7689,
       -71.4758
+    ]
+  },
+  "176.126.86.105": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
     ]
   },
   "176.210.100.6": {
@@ -890,16 +860,6 @@
     ]
   },
   "187.77.48.25": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
-  "187.77.61.36": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1299,6 +1259,16 @@
       -77.4874
     ]
   },
+  "31.166.103.20": {
+    "region": "Asia",
+    "country": "Saudi Arabia",
+    "cc": "SA",
+    "city": "Jeddah",
+    "coordinates": [
+      21.4913,
+      39.1841
+    ]
+  },
   "31.184.218.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1397,16 +1367,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1849,6 +1809,16 @@
       -94.534
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "77.90.0.186": {
     "region": "Europe",
     "country": "Germany",
@@ -1859,16 +1829,6 @@
       8.48173
     ]
   },
-  "78.137.42.215": {
-    "region": "Europe",
-    "country": "Ukraine",
-    "cc": "UA",
-    "city": "Cherkasy",
-    "coordinates": [
-      49.4345,
-      32.0541
-    ]
-  },
   "78.45.199.104": {
     "region": "Europe",
     "country": "Czechia",
@@ -1877,16 +1837,6 @@
     "coordinates": [
       50.0766,
       14.4464
-    ]
-  },
-  "78.70.76.77": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malm\u00f6",
-    "coordinates": [
-      55.6059,
-      13.0007
     ]
   },
   "78.72.109.73": {
@@ -1997,16 +1947,6 @@
     "coordinates": [
       59.8983,
       30.2618
-    ]
-  },
-  "83.25.133.108": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Gdansk",
-    "coordinates": [
-      54.3183,
-      18.5839
     ]
   },
   "85.137.228.112": {
