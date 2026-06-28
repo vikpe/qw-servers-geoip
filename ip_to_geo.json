@@ -459,6 +459,16 @@
       -122.676
     ]
   },
+  "15.204.90.197": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Hillsboro",
+    "coordinates": [
+      45.5397,
+      -122.9638
+    ]
+  },
   "15.229.19.183": {
     "region": "South America",
     "country": "Brazil",
@@ -1239,16 +1249,6 @@
       -96.8704
     ]
   },
-  "23.227.170.222": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.8137,
-      -96.8704
-    ]
-  },
   "3.94.62.64": {
     "region": "North America",
     "country": "United States",
@@ -1367,6 +1367,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1699,6 +1709,16 @@
       -74.0203
     ]
   },
+  "66.226.145.188": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1759,6 +1779,16 @@
       -71.1245
     ]
   },
+  "73.161.126.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Garden City",
+    "coordinates": [
+      42.3315,
+      -83.3425
+    ]
+  },
   "73.23.130.187": {
     "region": "North America",
     "country": "United States",
@@ -1807,16 +1837,6 @@
     "coordinates": [
       38.8121,
       -94.534
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "77.90.0.186": {
