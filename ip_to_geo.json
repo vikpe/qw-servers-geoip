@@ -729,6 +729,16 @@
       -121.8845
     ]
   },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -897,16 +907,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "189.46.175.68": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1247,6 +1247,36 @@
     "coordinates": [
       32.8137,
       -96.8704
+    ]
+  },
+  "23.227.170.222": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.8137,
+      -96.8704
+    ]
+  },
+  "24.62.192.101": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
+    ]
+  },
+  "24.63.112.34": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Melrose",
+    "coordinates": [
+      42.4597,
+      -71.0638
     ]
   },
   "3.94.62.64": {
@@ -1819,14 +1849,14 @@
       -123.3709
     ]
   },
-  "75.192.186.114": {
+  "75.192.166.164": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Philadelphia",
     "coordinates": [
-      40.058,
-      -75.1876
+      39.952,
+      -75.1649
     ]
   },
   "75.81.62.43": {
@@ -1837,6 +1867,16 @@
     "coordinates": [
       38.8121,
       -94.534
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.90.0.186": {
@@ -1857,6 +1897,16 @@
     "coordinates": [
       50.0766,
       14.4464
+    ]
+  },
+  "78.70.76.77": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malm\u00f6",
+    "coordinates": [
+      55.6059,
+      13.0007
     ]
   },
   "78.72.109.73": {
@@ -2287,16 +2337,6 @@
     "coordinates": [
       55.5811,
       12.9553
-    ]
-  },
-  "98.35.252.123": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seaside",
-    "coordinates": [
-      36.6111,
-      -121.8516
     ]
   },
   "99.72.255.45": {
