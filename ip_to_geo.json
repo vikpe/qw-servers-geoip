@@ -99,7 +99,7 @@
       -74.1403
     ]
   },
-  "104.28.164.165": {
+  "104.28.164.166": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -1389,6 +1389,16 @@
       13.0038
     ]
   },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
+    ]
+  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1497,16 +1507,6 @@
     "coordinates": [
       59.2885,
       17.9612
-    ]
-  },
-  "47.186.130.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Garland",
-    "coordinates": [
-      32.8545,
-      -96.5991
     ]
   },
   "49.12.2.62": {
@@ -1639,6 +1639,16 @@
       -121.895
     ]
   },
+  "54.232.22.245": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5505,
+      -46.6333
+    ]
+  },
   "54.233.17.64": {
     "region": "South America",
     "country": "Brazil",
@@ -1727,16 +1737,6 @@
     "coordinates": [
       -33.8688,
       151.209
-    ]
-  },
-  "69.226.253.51": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Olmsted",
-    "coordinates": [
-      41.4156,
-      -81.9235
     ]
   },
   "70.34.200.204": {
@@ -1829,16 +1829,6 @@
       -123.3709
     ]
   },
-  "75.192.166.164": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      39.952,
-      -75.1649
-    ]
-  },
   "75.81.62.43": {
     "region": "North America",
     "country": "United States",
@@ -1927,6 +1917,16 @@
     "coordinates": [
       60.2188,
       24.8708
+    ]
+  },
+  "79.241.102.202": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Iserlohn",
+    "coordinates": [
+      51.3837,
+      7.7127
     ]
   },
   "80.211.201.216": {
@@ -2059,16 +2059,6 @@
       20.9853
     ]
   },
-  "86.157.16.41": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "City of London",
-    "coordinates": [
-      51.5164,
-      -0.093
-    ]
-  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -2167,16 +2157,6 @@
     "coordinates": [
       58.416,
       15.6288
-    ]
-  },
-  "93.198.178.103": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Iserlohn",
-    "coordinates": [
-      51.3837,
-      7.7127
     ]
   },
   "93.95.230.175": {
