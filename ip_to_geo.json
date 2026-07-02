@@ -289,6 +289,16 @@
       -77.3008
     ]
   },
+  "136.111.116.3": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -719,6 +729,16 @@
       -121.8845
     ]
   },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -1019,16 +1039,6 @@
       17.6252
     ]
   },
-  "195.128.172.198": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Krakow",
-    "coordinates": [
-      50.0598,
-      19.9335
-    ]
-  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1117,6 +1127,16 @@
     "coordinates": [
       -20.5395,
       -47.4011
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9454,
+      115.7856
     ]
   },
   "203.29.240.182": {
@@ -1299,16 +1319,6 @@
       30.3096
     ]
   },
-  "34.132.201.75": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1387,16 +1397,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1507,6 +1507,16 @@
     "coordinates": [
       59.2885,
       17.9612
+    ]
+  },
+  "47.157.132.86": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Granada Hills",
+    "coordinates": [
+      34.2773,
+      -118.5001
     ]
   },
   "49.12.2.62": {
@@ -1739,6 +1749,26 @@
       151.209
     ]
   },
+  "69.222.182.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      38.5317,
+      -89.9988
+    ]
+  },
+  "69.226.253.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Olmsted",
+    "coordinates": [
+      41.4156,
+      -81.9235
+    ]
+  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1839,14 +1869,14 @@
       -94.534
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
+  "77.252.11.61": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
     "coordinates": [
-      33.675,
-      -118.0027
+      52.2378,
+      20.9912
     ]
   },
   "77.90.0.186": {
@@ -1877,16 +1907,6 @@
     "coordinates": [
       50.0766,
       14.4464
-    ]
-  },
-  "78.70.76.77": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malm\u00f6",
-    "coordinates": [
-      55.6059,
-      13.0007
     ]
   },
   "78.72.109.73": {
@@ -2057,6 +2077,16 @@
     "coordinates": [
       50.0196,
       20.9853
+    ]
+  },
+  "86.157.16.41": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "City of London",
+    "coordinates": [
+      51.5164,
+      -0.093
     ]
   },
   "87.128.111.190": {
