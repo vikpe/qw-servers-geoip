@@ -229,16 +229,6 @@
       28.0473
     ]
   },
-  "13.51.10.255": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3293,
-      18.0686
-    ]
-  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -339,16 +329,6 @@
       -46.6361
     ]
   },
-  "136.48.79.142": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "West Des Moines",
-    "coordinates": [
-      41.5757,
-      -93.7364
-    ]
-  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -447,6 +427,16 @@
     "coordinates": [
       51.1046,
       17.03
+    ]
+  },
+  "146.83.233.2": {
+    "region": "South America",
+    "country": "Chile",
+    "cc": "CL",
+    "city": "Vi\u00f1a del Mar",
+    "coordinates": [
+      -33.0228,
+      -71.5519
     ]
   },
   "149.28.62.121": {
@@ -837,6 +827,16 @@
     "coordinates": [
       40.0992,
       -83.1141
+    ]
+  },
+  "18.231.173.190": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5505,
+      -46.6333
     ]
   },
   "185.157.244.204": {
@@ -1499,16 +1499,6 @@
       -96.8021
     ]
   },
-  "45.9.156.107": {
-    "region": "Europe",
-    "country": "Bulgaria",
-    "cc": "BG",
-    "city": "Sofia",
-    "coordinates": [
-      42.6951,
-      23.325
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1739,16 +1729,6 @@
       151.209
     ]
   },
-  "69.222.182.36": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Belleville",
-    "coordinates": [
-      38.5317,
-      -89.9988
-    ]
-  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1809,14 +1789,14 @@
       -71.1245
     ]
   },
-  "73.161.126.51": {
+  "73.23.130.187": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Garden City",
+    "city": "Bonita Springs",
     "coordinates": [
-      42.3315,
-      -83.3425
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -1847,6 +1827,16 @@
     "coordinates": [
       38.8121,
       -94.534
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.252.11.61": {
@@ -1889,6 +1879,16 @@
       14.4464
     ]
   },
+  "78.70.76.77": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malm\u00f6",
+    "coordinates": [
+      55.6059,
+      13.0007
+    ]
+  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -1897,6 +1897,16 @@
     "coordinates": [
       55.6724,
       13.0685
+    ]
+  },
+  "78.92.195.220": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
     ]
   },
   "78.92.197.124": {
