@@ -429,6 +429,16 @@
       -71.5519
     ]
   },
+  "147.28.69.55": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3326,
+      18.0651
+    ]
+  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -759,16 +769,6 @@
       73.3729
     ]
   },
-  "176.224.222.204": {
-    "region": "Asia",
-    "country": "Saudi Arabia",
-    "cc": "SA",
-    "city": "Jeddah",
-    "coordinates": [
-      21.4913,
-      39.1841
-    ]
-  },
   "177.188.171.76": {
     "region": "South America",
     "country": "Brazil",
@@ -839,6 +839,16 @@
       2.3494
     ]
   },
+  "185.189.139.18": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Konstancin-Jeziorna",
+    "coordinates": [
+      52.09,
+      21.1196
+    ]
+  },
   "185.189.48.45": {
     "region": "Europe",
     "country": "Sweden",
@@ -867,6 +877,16 @@
     "coordinates": [
       50.9656,
       -1.3379
+    ]
+  },
+  "187.74.39.177": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "187.77.48.25": {
@@ -1109,16 +1129,6 @@
       -47.4011
     ]
   },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9454,
-      115.7856
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1269,6 +1279,16 @@
       -96.8704
     ]
   },
+  "24.62.192.101": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
+    ]
+  },
   "3.94.62.64": {
     "region": "North America",
     "country": "United States",
@@ -1277,6 +1297,16 @@
     "coordinates": [
       39.0438,
       -77.4874
+    ]
+  },
+  "31.166.116.224": {
+    "region": "Asia",
+    "country": "Saudi Arabia",
+    "cc": "SA",
+    "city": "Jeddah",
+    "coordinates": [
+      21.4913,
+      39.1841
     ]
   },
   "31.184.218.192": {
@@ -1367,16 +1397,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1477,6 +1497,16 @@
     "coordinates": [
       59.2885,
       17.9612
+    ]
+  },
+  "47.186.130.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Garland",
+    "coordinates": [
+      32.8545,
+      -96.5991
     ]
   },
   "49.12.2.62": {
@@ -1699,16 +1729,6 @@
       151.209
     ]
   },
-  "69.226.253.51": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Olmsted",
-    "coordinates": [
-      41.4156,
-      -81.9235
-    ]
-  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1727,16 +1747,6 @@
     "coordinates": [
       52.2299,
       21.0093
-    ]
-  },
-  "71.230.130.246": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Wilmington",
-    "coordinates": [
-      39.7384,
-      -75.6656
     ]
   },
   "72.18.132.133": {
