@@ -99,7 +99,7 @@
       -74.1403
     ]
   },
-  "104.28.164.166": {
+  "104.28.164.164": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -649,6 +649,16 @@
       -46.6361
     ]
   },
+  "164.163.10.137": {
+    "region": "North America",
+    "country": "Panama",
+    "cc": "PA",
+    "city": "Panama City",
+    "coordinates": [
+      8.98185,
+      -79.5227
+    ]
+  },
   "165.232.81.173": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -749,16 +759,6 @@
       -71.4758
     ]
   },
-  "176.126.86.105": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -850,6 +850,16 @@
     ]
   },
   "185.189.48.45": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
+  "185.213.24.140": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
@@ -1027,6 +1037,16 @@
     "coordinates": [
       47.6826,
       17.6252
+    ]
+  },
+  "194.95.98.145": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Deggendorf",
+    "coordinates": [
+      48.8439,
+      12.958
     ]
   },
   "195.201.133.22": {
@@ -1739,6 +1759,16 @@
       151.209
     ]
   },
+  "69.222.182.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      38.5317,
+      -89.9988
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1849,16 +1879,6 @@
       20.9912
     ]
   },
-  "77.90.0.186": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Bad Soden am Taunus",
-    "coordinates": [
-      50.1592,
-      8.48173
-    ]
-  },
   "78.131.12.254": {
     "region": "Europe",
     "country": "Hungary",
@@ -1937,16 +1957,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "81.230.215.6": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Uddevalla",
-    "coordinates": [
-      58.3461,
-      11.9479
     ]
   },
   "81.232.87.98": {
@@ -2077,16 +2087,6 @@
     "coordinates": [
       51.2192,
       4.3917
-    ]
-  },
-  "88.99.66.212": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Falkenstein",
-    "coordinates": [
-      50.4777,
-      12.3649
     ]
   },
   "89.151.207.164": {
