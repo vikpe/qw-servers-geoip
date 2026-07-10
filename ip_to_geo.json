@@ -1,12 +1,12 @@
 {
-  "100.36.39.144": {
+  "100.36.27.254": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Reston",
+    "city": "Herndon",
     "coordinates": [
-      38.93,
-      -77.35
+      38.9251,
+      -77.392
     ]
   },
   "101.127.244.89": {
@@ -97,16 +97,6 @@
     "coordinates": [
       40.8364,
       -74.1403
-    ]
-  },
-  "104.28.164.164": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Steninge",
-    "coordinates": [
-      59.5988,
-      17.8095
     ]
   },
   "108.181.43.71": {
@@ -417,16 +407,6 @@
     "coordinates": [
       51.1046,
       17.03
-    ]
-  },
-  "146.83.233.2": {
-    "region": "South America",
-    "country": "Chile",
-    "cc": "CL",
-    "city": "Vi\u00f1a del Mar",
-    "coordinates": [
-      -33.0228,
-      -71.5519
     ]
   },
   "149.28.62.121": {
@@ -767,6 +747,16 @@
     "coordinates": [
       54.9896,
       73.3729
+    ]
+  },
+  "176.224.195.196": {
+    "region": "Asia",
+    "country": "Saudi Arabia",
+    "cc": "SA",
+    "city": "Jeddah",
+    "coordinates": [
+      21.4913,
+      39.1841
     ]
   },
   "177.188.171.76": {
@@ -1319,16 +1309,6 @@
       -77.4874
     ]
   },
-  "31.166.116.224": {
-    "region": "Asia",
-    "country": "Saudi Arabia",
-    "cc": "SA",
-    "city": "Jeddah",
-    "coordinates": [
-      21.4913,
-      39.1841
-    ]
-  },
   "31.184.218.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1427,6 +1407,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1589,14 +1579,14 @@
       3.20113
     ]
   },
-  "50.35.91.121": {
+  "50.46.141.80": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Bothell",
+    "city": "Kirkland",
     "coordinates": [
-      47.7494,
-      -122.2173
+      47.7229,
+      -122.1961
     ]
   },
   "51.75.53.205": {
@@ -1759,16 +1749,6 @@
       151.209
     ]
   },
-  "69.222.182.36": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Belleville",
-    "coordinates": [
-      38.5317,
-      -89.9988
-    ]
-  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1829,16 +1809,6 @@
       -71.1245
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1857,6 +1827,16 @@
     "coordinates": [
       48.4248,
       -123.3709
+    ]
+  },
+  "75.3.247.6": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Oakland",
+    "coordinates": [
+      37.8487,
+      -122.2209
     ]
   },
   "75.81.62.43": {
@@ -2017,6 +1997,16 @@
     "coordinates": [
       59.9158,
       10.8458
+    ]
+  },
+  "85.166.105.11": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9133,
+      10.7389
     ]
   },
   "85.209.118.60": {
