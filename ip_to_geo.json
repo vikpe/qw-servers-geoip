@@ -169,16 +169,6 @@
       174.74
     ]
   },
-  "122.199.63.203": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8469,
-      145.2136
-    ]
-  },
   "123.51.55.162": {
     "region": "Oceania",
     "country": "Australia",
@@ -257,6 +247,16 @@
     "coordinates": [
       50.3986,
       8.07958
+    ]
+  },
+  "135.134.130.139": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Post Falls",
+    "coordinates": [
+      47.7282,
+      -116.9389
     ]
   },
   "135.148.34.204": {
@@ -347,6 +347,16 @@
     "coordinates": [
       25.7701,
       -80.1928
+    ]
+  },
+  "140.238.199.88": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
     ]
   },
   "141.105.67.104": {
@@ -659,16 +669,6 @@
       12.3649
     ]
   },
-  "168.235.83.155": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Piscataway",
-    "coordinates": [
-      40.4993,
-      -74.399
-    ]
-  },
   "172.233.117.128": {
     "region": "Europe",
     "country": "Spain",
@@ -817,6 +817,16 @@
     "coordinates": [
       40.0992,
       -83.1141
+    ]
+  },
+  "181.164.26.140": {
+    "region": "South America",
+    "country": "Argentina",
+    "cc": "AR",
+    "city": "Santos Lugares",
+    "coordinates": [
+      -34.6031,
+      -58.5407
     ]
   },
   "185.157.244.204": {
@@ -1029,16 +1039,6 @@
       17.6252
     ]
   },
-  "194.95.98.145": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Deggendorf",
-    "coordinates": [
-      48.8439,
-      12.958
-    ]
-  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1127,6 +1127,16 @@
     "coordinates": [
       -20.5395,
       -47.4011
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9454,
+      115.7856
     ]
   },
   "203.29.240.182": {
@@ -1369,6 +1379,16 @@
       28.1896
     ]
   },
+  "35.245.109.209": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "38.124.152.155": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1407,16 +1427,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1857,6 +1867,16 @@
     "coordinates": [
       52.2378,
       20.9912
+    ]
+  },
+  "77.90.0.186": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Bad Soden am Taunus",
+    "coordinates": [
+      50.1592,
+      8.48173
     ]
   },
   "78.131.12.254": {
