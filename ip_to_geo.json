@@ -879,6 +879,16 @@
       -1.3379
     ]
   },
+  "187.74.39.177": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -1137,16 +1147,6 @@
     "coordinates": [
       21.3513,
       -157.8725
-    ]
-  },
-  "208.86.3.94": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Pflugerville",
-    "coordinates": [
-      30.4548,
-      -97.6223
     ]
   },
   "212.147.246.37": {
@@ -1999,7 +1999,7 @@
       10.8458
     ]
   },
-  "85.166.105.11": {
+  "85.166.114.5": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
