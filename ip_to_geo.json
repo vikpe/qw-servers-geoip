@@ -769,16 +769,6 @@
       -47.0565
     ]
   },
-  "177.93.132.220": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Franca",
-    "coordinates": [
-      -20.5395,
-      -47.4011
-    ]
-  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -807,16 +797,6 @@
     "coordinates": [
       40.0992,
       -83.1141
-    ]
-  },
-  "185.129.48.228": {
-    "region": "Asia",
-    "country": "Kazakhstan",
-    "cc": "KZ",
-    "city": "Karaganda",
-    "coordinates": [
-      49.7989,
-      73.0994
     ]
   },
   "185.157.244.204": {
@@ -1027,6 +1007,16 @@
     "coordinates": [
       47.6826,
       17.6252
+    ]
+  },
+  "194.95.98.145": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Deggendorf",
+    "coordinates": [
+      48.8439,
+      12.958
     ]
   },
   "195.201.133.22": {
@@ -1799,6 +1789,16 @@
       -71.1245
     ]
   },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1837,6 +1837,16 @@
     "coordinates": [
       38.8121,
       -94.534
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.252.11.61": {
