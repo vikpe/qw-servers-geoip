@@ -159,16 +159,6 @@
       145.068
     ]
   },
-  "121.99.166.164": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "Wellington",
-    "coordinates": [
-      -41.2971,
-      174.7932
-    ]
-  },
   "123.51.55.162": {
     "region": "Oceania",
     "country": "Australia",
@@ -869,6 +859,16 @@
       4.9392
     ]
   },
+  "191.193.163.203": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -1299,16 +1299,6 @@
       -80.013
     ]
   },
-  "34.21.57.25": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.100.90": {
     "region": "Europe",
     "country": "Germany",
@@ -1387,16 +1377,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1759,6 +1739,16 @@
       17.9155
     ]
   },
+  "70.34.242.113": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2299,
+      21.0093
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1777,6 +1767,16 @@
     "coordinates": [
       28.3888,
       -80.7301
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -2127,16 +2127,6 @@
     "coordinates": [
       58.416,
       15.6288
-    ]
-  },
-  "93.188.44.203": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
     ]
   },
   "93.95.230.175": {
