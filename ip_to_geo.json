@@ -49,6 +49,16 @@
       151.209
     ]
   },
+  "103.155.36.239": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Adelaide",
+    "coordinates": [
+      -34.9282,
+      138.5999
+    ]
+  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -539,6 +549,16 @@
       22.1457
     ]
   },
+  "158.174.112.229": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Knutby",
+    "coordinates": [
+      59.9131,
+      18.2503
+    ]
+  },
   "158.248.13.196": {
     "region": "Europe",
     "country": "Norway",
@@ -859,7 +879,7 @@
       4.9392
     ]
   },
-  "191.193.163.203": {
+  "189.19.186.185": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1377,6 +1397,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -2249,16 +2279,6 @@
       11.967
     ]
   },
-  "98.128.186.18": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malm\u00f6",
-    "coordinates": [
-      55.6078,
-      12.9982
-    ]
-  },
   "98.128.248.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -2277,6 +2297,16 @@
     "coordinates": [
       36.6841,
       -121.7886
+    ]
+  },
+  "98.97.137.243": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0522,
+      -118.2436
     ]
   },
   "99.72.255.45": {
