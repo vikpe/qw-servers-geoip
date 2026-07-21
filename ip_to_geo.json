@@ -749,16 +749,6 @@
       39.1841
     ]
   },
-  "177.188.171.76": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -847,6 +837,16 @@
     "coordinates": [
       51.462,
       0.1046
+    ]
+  },
+  "186.212.236.12": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "188.166.161.185": {
@@ -1759,6 +1759,16 @@
       21.0093
     ]
   },
+  "72.109.16.174": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Birdsboro",
+    "coordinates": [
+      40.2645,
+      -75.8041
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1887,16 +1897,6 @@
     "coordinates": [
       60.1954,
       24.9074
-    ]
-  },
-  "79.241.105.146": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Iserlohn",
-    "coordinates": [
-      51.3837,
-      7.7127
     ]
   },
   "79.241.96.231": {
@@ -2037,6 +2037,16 @@
     "coordinates": [
       50.0196,
       20.9853
+    ]
+  },
+  "86.154.191.33": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "City of London",
+    "coordinates": [
+      51.5164,
+      -0.093
     ]
   },
   "86.155.80.127": {
