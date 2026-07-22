@@ -19,6 +19,16 @@
       103.892
     ]
   },
+  "102.132.171.115": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": [
+      -26.2309,
+      28.0583
+    ]
+  },
   "103.112.0.130": {
     "region": "Oceania",
     "country": "Australia",
@@ -159,6 +169,16 @@
       145.068
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2971,
+      174.7932
+    ]
+  },
   "122.199.63.203": {
     "region": "Oceania",
     "country": "Australia",
@@ -297,6 +317,16 @@
     "coordinates": [
       50.1103,
       8.7147
+    ]
+  },
+  "136.47.216.33": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Raleigh",
+    "coordinates": [
+      35.7633,
+      -78.71
     ]
   },
   "136.64.232.192": {
@@ -647,6 +677,16 @@
     "coordinates": [
       -23.5475,
       -46.6361
+    ]
+  },
+  "164.163.10.137": {
+    "region": "North America",
+    "country": "Panama",
+    "cc": "PA",
+    "city": "Panama City",
+    "coordinates": [
+      8.98185,
+      -79.5227
     ]
   },
   "165.232.81.173": {
@@ -1759,16 +1799,6 @@
       21.0093
     ]
   },
-  "72.109.16.174": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Birdsboro",
-    "coordinates": [
-      40.2645,
-      -75.8041
-    ]
-  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1817,6 +1847,16 @@
     "coordinates": [
       48.4152,
       -123.3655
+    ]
+  },
+  "75.192.174.25": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bensalem",
+    "coordinates": [
+      40.1166,
+      -74.9469
     ]
   },
   "75.81.62.43": {
@@ -1877,6 +1917,16 @@
     "coordinates": [
       55.6724,
       13.0685
+    ]
+  },
+  "78.92.196.19": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
     ]
   },
   "78.92.200.246": {
@@ -2049,16 +2099,6 @@
       -0.093
     ]
   },
-  "86.155.80.127": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "City of London",
-    "coordinates": [
-      51.5164,
-      -0.093
-    ]
-  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -2157,6 +2197,16 @@
     "coordinates": [
       58.416,
       15.6288
+    ]
+  },
+  "93.188.99.134": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "San Bartolomeo al Mare",
+    "coordinates": [
+      43.9231,
+      8.10482
     ]
   },
   "93.95.230.175": {
