@@ -819,6 +819,16 @@
       -83.1141
     ]
   },
+  "185.129.48.228": {
+    "region": "Asia",
+    "country": "Kazakhstan",
+    "cc": "KZ",
+    "city": "Karaganda",
+    "coordinates": [
+      49.7989,
+      73.0994
+    ]
+  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -909,6 +919,16 @@
       4.9392
     ]
   },
+  "189.19.186.99": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -997,16 +1017,6 @@
     "coordinates": [
       46.0503,
       14.5046
-    ]
-  },
-  "194.145.194.3": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "The Hague",
-    "coordinates": [
-      52.0781,
-      4.2872
     ]
   },
   "194.180.16.113": {
@@ -1929,16 +1939,6 @@
       18.9191
     ]
   },
-  "78.92.200.246": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
   "79.134.102.90": {
     "region": "Europe",
     "country": "Finland",
@@ -1947,6 +1947,16 @@
     "coordinates": [
       60.1954,
       24.9074
+    ]
+  },
+  "79.139.252.231": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
     ]
   },
   "79.241.96.231": {
@@ -2199,14 +2209,14 @@
       15.6288
     ]
   },
-  "93.188.99.134": {
+  "93.188.44.204": {
     "region": "Europe",
-    "country": "Italy",
-    "cc": "IT",
-    "city": "San Bartolomeo al Mare",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
     "coordinates": [
-      43.9231,
-      8.10482
+      55.7487,
+      37.6187
     ]
   },
   "93.95.230.175": {
