@@ -319,16 +319,6 @@
       8.7147
     ]
   },
-  "136.47.216.33": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Raleigh",
-    "coordinates": [
-      35.7633,
-      -78.71
-    ]
-  },
   "136.64.232.192": {
     "region": "North America",
     "country": "United States",
@@ -1359,16 +1349,6 @@
       13.4049
     ]
   },
-  "34.32.101.231": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.52,
-      13.4049
-    ]
-  },
   "35.185.44.174": {
     "region": "North America",
     "country": "United States",
@@ -1427,16 +1407,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1949,16 +1919,6 @@
       24.9074
     ]
   },
-  "79.139.252.231": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
-    ]
-  },
   "79.241.96.231": {
     "region": "Europe",
     "country": "Germany",
@@ -2207,16 +2167,6 @@
     "coordinates": [
       58.416,
       15.6288
-    ]
-  },
-  "93.188.44.204": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
     ]
   },
   "93.95.230.175": {
