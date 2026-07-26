@@ -519,16 +519,6 @@
       37.5773
     ]
   },
-  "158.101.121.105": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.018,
-      -77.539
-    ]
-  },
   "158.101.16.37": {
     "region": "North America",
     "country": "United States",
@@ -667,6 +657,16 @@
     "coordinates": [
       -23.5475,
       -46.6361
+    ]
+  },
+  "164.163.10.137": {
+    "region": "North America",
+    "country": "Panama",
+    "cc": "PA",
+    "city": "Panama City",
+    "coordinates": [
+      8.98185,
+      -79.5227
     ]
   },
   "165.232.81.173": {
@@ -849,16 +849,6 @@
       18.0717
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Z\u0105bki",
-    "coordinates": [
-      52.293,
-      21.1132
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -957,6 +947,16 @@
     "coordinates": [
       40.1016,
       -88.2822
+    ]
+  },
+  "192.9.170.72": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8688,
+      151.209
     ]
   },
   "192.9.173.60": {
@@ -1509,6 +1509,16 @@
       17.9612
     ]
   },
+  "47.186.130.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Garland",
+    "coordinates": [
+      32.8545,
+      -96.5991
+    ]
+  },
   "49.12.2.62": {
     "region": "Europe",
     "country": "Germany",
@@ -1799,16 +1809,6 @@
       -80.7301
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1907,16 +1907,6 @@
     "coordinates": [
       47.4277,
       18.9191
-    ]
-  },
-  "79.134.102.90": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1954,
-      24.9074
     ]
   },
   "79.241.96.231": {
