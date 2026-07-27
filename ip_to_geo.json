@@ -29,36 +29,6 @@
       28.0583
     ]
   },
-  "103.112.0.130": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.209
-    ]
-  },
-  "103.151.65.11": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.209
-    ]
-  },
-  "103.151.65.19": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.209
-    ]
-  },
   "103.195.53.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -177,16 +147,6 @@
     "coordinates": [
       -41.2971,
       174.7932
-    ]
-  },
-  "122.199.63.203": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8469,
-      145.2136
     ]
   },
   "123.51.55.162": {
@@ -799,16 +759,6 @@
       -83.1141
     ]
   },
-  "185.129.48.228": {
-    "region": "Asia",
-    "country": "Kazakhstan",
-    "cc": "KZ",
-    "city": "Karaganda",
-    "coordinates": [
-      49.7989,
-      73.0994
-    ]
-  },
   "185.157.244.204": {
     "region": "Europe",
     "country": "France",
@@ -1017,6 +967,16 @@
     "coordinates": [
       47.6826,
       17.6252
+    ]
+  },
+  "194.95.98.145": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Deggendorf",
+    "coordinates": [
+      48.8439,
+      12.958
     ]
   },
   "195.201.133.22": {
@@ -1327,6 +1287,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.182.147.85": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.32.100.90": {
@@ -1909,6 +1879,16 @@
       18.9191
     ]
   },
+  "79.134.102.90": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1954,
+      24.9074
+    ]
+  },
   "79.241.96.231": {
     "region": "Europe",
     "country": "Germany",
@@ -1999,7 +1979,7 @@
       10.8458
     ]
   },
-  "85.166.112.177": {
+  "85.166.104.97": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
