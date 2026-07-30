@@ -279,6 +279,16 @@
       8.7147
     ]
   },
+  "136.70.72.103": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -789,16 +799,6 @@
       18.0717
     ]
   },
-  "185.213.24.140": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -807,16 +807,6 @@
     "coordinates": [
       51.462,
       0.1046
-    ]
-  },
-  "186.212.236.12": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
     ]
   },
   "188.166.161.185": {
@@ -1249,6 +1239,16 @@
       -96.8704
     ]
   },
+  "24.218.180.213": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Danbury",
+    "coordinates": [
+      41.3908,
+      -73.4483
+    ]
+  },
   "24.239.125.195": {
     "region": "North America",
     "country": "United States",
@@ -1367,6 +1367,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1719,6 +1729,16 @@
       -71.0726
     ]
   },
+  "69.222.182.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      38.5317,
+      -89.9988
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1839,14 +1859,14 @@
       21.0157
     ]
   },
-  "77.90.0.186": {
+  "77.37.146.131": {
     "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Bad Soden am Taunus",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
     "coordinates": [
-      50.1592,
-      8.48173
+      55.7487,
+      37.6187
     ]
   },
   "78.131.12.254": {
@@ -1877,6 +1897,16 @@
     "coordinates": [
       55.6724,
       13.0685
+    ]
+  },
+  "78.92.195.169": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
     ]
   },
   "78.92.196.19": {
@@ -2189,16 +2219,6 @@
       14.4262
     ]
   },
-  "95.165.130.151": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
-    ]
-  },
   "95.211.165.149": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -2289,7 +2309,7 @@
       -121.7886
     ]
   },
-  "98.97.143.173": {
+  "98.97.137.76": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
