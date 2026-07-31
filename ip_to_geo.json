@@ -109,6 +109,16 @@
       -0.127586
     ]
   },
+  "115.129.234.99": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8805,
+      145.0414
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -277,16 +287,6 @@
     "coordinates": [
       50.1103,
       8.7147
-    ]
-  },
-  "136.70.72.103": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "137.74.7.185": {
@@ -709,6 +709,16 @@
       -121.8845
     ]
   },
+  "173.69.14.157": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Riverside",
+    "coordinates": [
+      41.7741,
+      -71.3738
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -827,16 +837,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "189.19.186.99": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1729,16 +1729,6 @@
       -71.0726
     ]
   },
-  "69.222.182.36": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Belleville",
-    "coordinates": [
-      38.5317,
-      -89.9988
-    ]
-  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1859,16 +1849,6 @@
       21.0157
     ]
   },
-  "77.37.146.131": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
-    ]
-  },
   "78.131.12.254": {
     "region": "Europe",
     "country": "Hungary",
@@ -1900,16 +1880,6 @@
     ]
   },
   "78.92.195.169": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
-  "78.92.196.19": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2057,16 +2027,6 @@
     "coordinates": [
       64.1172,
       -21.9154
-    ]
-  },
-  "85.221.162.142": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Poznan",
-    "coordinates": [
-      52.4141,
-      16.878
     ]
   },
   "85.28.131.207": {
@@ -2309,7 +2269,7 @@
       -121.7886
     ]
   },
-  "98.97.137.76": {
+  "98.97.143.149": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
