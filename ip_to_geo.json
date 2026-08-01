@@ -109,16 +109,6 @@
       -0.127586
     ]
   },
-  "115.129.234.99": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8805,
-      145.0414
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -769,6 +759,16 @@
       -83.1141
     ]
   },
+  "180.181.234.221": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8804,
+      151.1866
+    ]
+  },
   "184.57.53.220": {
     "region": "North America",
     "country": "United States",
@@ -837,6 +837,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.19.186.99": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -977,6 +987,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "198.46.237.179": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7797,
+      -96.8022
     ]
   },
   "20.106.48.249": {
@@ -1479,6 +1499,16 @@
       17.9612
     ]
   },
+  "47.150.230.198": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Rancho Cucamonga",
+    "coordinates": [
+      34.1066,
+      -117.5935
+    ]
+  },
   "47.186.130.79": {
     "region": "North America",
     "country": "United States",
@@ -1707,16 +1737,6 @@
     "coordinates": [
       -33.8688,
       151.209
-    ]
-  },
-  "67.173.128.144": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.9703,
-      -87.664
     ]
   },
   "67.189.194.43": {
@@ -1999,7 +2019,7 @@
       10.8458
     ]
   },
-  "85.166.104.97": {
+  "85.166.112.83": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
@@ -2027,6 +2047,16 @@
     "coordinates": [
       64.1172,
       -21.9154
+    ]
+  },
+  "85.221.162.142": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Poznan",
+    "coordinates": [
+      52.4141,
+      16.878
     ]
   },
   "85.28.131.207": {
