@@ -729,6 +729,16 @@
       39.1841
     ]
   },
+  "176.72.154.135": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.5102,
+      23.7985
+    ]
+  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1389,16 +1399,6 @@
       13.0038
     ]
   },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
-    ]
-  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1739,6 +1739,16 @@
       151.209
     ]
   },
+  "67.173.128.144": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.9703,
+      -87.664
+    ]
+  },
   "67.189.194.43": {
     "region": "North America",
     "country": "United States",
@@ -1857,6 +1867,16 @@
     "coordinates": [
       33.675,
       -118.0027
+    ]
+  },
+  "77.239.212.26": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tyumen",
+    "coordinates": [
+      57.1533,
+      65.5418
     ]
   },
   "77.252.11.61": {
@@ -2297,16 +2317,6 @@
     "coordinates": [
       36.6841,
       -121.7886
-    ]
-  },
-  "98.97.143.149": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0522,
-      -118.2436
     ]
   },
   "99.72.255.45": {
