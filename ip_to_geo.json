@@ -369,16 +369,6 @@
       -8.7404
     ]
   },
-  "145.220.10.99": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Utrecht",
-    "coordinates": [
-      52.0907,
-      5.12142
-    ]
-  },
   "145.239.94.156": {
     "region": "Europe",
     "country": "Poland",
@@ -517,6 +507,16 @@
     "coordinates": [
       59.3326,
       18.0651
+    ]
+  },
+  "158.174.22.129": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3538,
+      17.9667
     ]
   },
   "158.248.13.196": {
@@ -729,16 +729,6 @@
       39.1841
     ]
   },
-  "176.72.154.135": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.5102,
-      23.7985
-    ]
-  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -767,16 +757,6 @@
     "coordinates": [
       40.0992,
       -83.1141
-    ]
-  },
-  "180.181.234.221": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8804,
-      151.1866
     ]
   },
   "184.57.53.220": {
@@ -817,6 +797,16 @@
     "coordinates": [
       59.3287,
       18.0717
+    ]
+  },
+  "185.236.108.250": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Z\u0105bki",
+    "coordinates": [
+      52.293,
+      21.1132
     ]
   },
   "185.73.44.100": {
@@ -1319,16 +1309,6 @@
       -80.013
     ]
   },
-  "34.173.15.43": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
-    ]
-  },
   "34.32.100.90": {
     "region": "Europe",
     "country": "Germany",
@@ -1337,6 +1317,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.61.217.198": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "35.185.44.174": {
@@ -1397,6 +1387,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1689,16 +1689,6 @@
       13.1585
     ]
   },
-  "62.80.247.69": {
-    "region": "Europe",
-    "country": "Lithuania",
-    "cc": "LT",
-    "city": "\u0160iauliai",
-    "coordinates": [
-      55.9399,
-      23.3132
-    ]
-  },
   "64.118.226.47": {
     "region": "North America",
     "country": "Canada",
@@ -1757,6 +1747,16 @@
     "coordinates": [
       42.3388,
       -71.0726
+    ]
+  },
+  "69.223.211.173": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Norman",
+    "coordinates": [
+      35.2025,
+      -97.4835
     ]
   },
   "69.226.253.51": {
@@ -1829,6 +1829,16 @@
       -81.9483
     ]
   },
+  "73.239.145.201": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Joint Base Lewis McChord",
+    "coordinates": [
+      47.1079,
+      -122.577
+    ]
+  },
   "75.154.237.109": {
     "region": "North America",
     "country": "Canada",
@@ -1867,16 +1877,6 @@
     "coordinates": [
       33.675,
       -118.0027
-    ]
-  },
-  "77.239.212.26": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tyumen",
-    "coordinates": [
-      57.1533,
-      65.5418
     ]
   },
   "77.252.11.61": {
@@ -2039,7 +2039,7 @@
       10.8458
     ]
   },
-  "85.166.112.83": {
+  "85.166.117.145": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
