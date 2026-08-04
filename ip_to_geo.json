@@ -15,18 +15,18 @@
     "cc": "SG",
     "city": "Singapore",
     "coordinates": [
-      1.36,
-      103.892
+      1.43333,
+      103.831
     ]
   },
   "102.132.171.115": {
     "region": "Africa",
     "country": "South Africa",
     "cc": "ZA",
-    "city": "Johannesburg",
+    "city": "Randburg",
     "coordinates": [
-      -26.2309,
-      28.0583
+      -26.0941,
+      28.0012
     ]
   },
   "103.195.53.179": {
@@ -97,6 +97,16 @@
     "coordinates": [
       42.0048,
       -87.9954
+    ]
+  },
+  "108.80.179.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jenison",
+    "coordinates": [
+      42.9133,
+      -85.8145
     ]
   },
   "109.200.20.152": {
@@ -217,6 +227,16 @@
     "coordinates": [
       59.2539,
       17.7853
+    ]
+  },
+  "134.16.24.133": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ripon",
+    "coordinates": [
+      37.7502,
+      -121.1276
     ]
   },
   "135.125.234.220": {
@@ -359,6 +379,16 @@
       -96.8021
     ]
   },
+  "144.6.14.154": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.5905,
+      151.1755
+    ]
+  },
   "144.64.37.26": {
     "region": "Europe",
     "country": "Portugal",
@@ -377,6 +407,16 @@
     "coordinates": [
       51.1046,
       17.03
+    ]
+  },
+  "146.70.237.157": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Duivendrecht",
+    "coordinates": [
+      52.3294,
+      4.93964
     ]
   },
   "149.28.62.121": {
@@ -405,8 +445,8 @@
     "cc": "US",
     "city": "Hillsboro",
     "coordinates": [
-      45.5397,
-      -122.9638
+      45.526,
+      -122.9874
     ]
   },
   "15.229.19.183": {
@@ -493,20 +533,20 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Gothenburg",
+    "city": "Malm\u00f6",
     "coordinates": [
-      57.7065,
-      11.967
+      55.6078,
+      12.9982
     ]
   },
   "158.174.112.229": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Uppsala",
     "coordinates": [
-      59.3326,
-      18.0651
+      59.856,
+      17.6403
     ]
   },
   "158.174.22.129": {
@@ -515,8 +555,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3538,
-      17.9667
+      59.3326,
+      18.0651
     ]
   },
   "158.248.13.196": {
@@ -535,8 +575,8 @@
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -33.9276,
-      151.1411
+      -34.1348,
+      151.0041
     ]
   },
   "159.69.87.212": {
@@ -683,10 +723,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Aubrey",
+    "city": "Anna",
     "coordinates": [
-      33.3043,
-      -96.9861
+      33.349,
+      -96.5486
     ]
   },
   "172.92.232.79": {
@@ -799,16 +839,6 @@
       18.0717
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Z\u0105bki",
-    "coordinates": [
-      52.293,
-      21.1132
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -837,16 +867,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "189.19.186.99": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -963,20 +983,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Recsk",
+    "city": "Gy\u0151r",
     "coordinates": [
-      47.9351,
-      20.1221
-    ]
-  },
-  "194.95.98.145": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Deggendorf",
-    "coordinates": [
-      48.8439,
-      12.958
+      47.6826,
+      17.6252
     ]
   },
   "195.201.133.22": {
@@ -1273,10 +1283,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Youngstown",
+    "city": "Butler",
     "coordinates": [
-      41.0996,
-      -80.7523
+      40.8795,
+      -79.93
     ]
   },
   "3.94.62.64": {
@@ -1319,6 +1329,16 @@
       13.4049
     ]
   },
+  "34.32.53.250": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.52,
+      13.4049
+    ]
+  },
   "34.61.217.198": {
     "region": "North America",
     "country": "United States",
@@ -1337,6 +1357,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.228.47.97": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Lappeenranta",
+    "coordinates": [
+      61.0549,
+      28.1896
     ]
   },
   "35.228.79.195": {
@@ -1497,16 +1527,6 @@
     "coordinates": [
       59.2885,
       17.9612
-    ]
-  },
-  "47.150.230.198": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Rancho Cucamonga",
-    "coordinates": [
-      34.1066,
-      -117.5935
     ]
   },
   "47.186.130.79": {
@@ -1689,6 +1709,16 @@
       13.1585
     ]
   },
+  "62.80.247.69": {
+    "region": "Europe",
+    "country": "Lithuania",
+    "cc": "LT",
+    "city": "\u0160iauliai",
+    "coordinates": [
+      55.9399,
+      23.3132
+    ]
+  },
   "64.118.226.47": {
     "region": "North America",
     "country": "Canada",
@@ -1729,14 +1759,14 @@
       151.209
     ]
   },
-  "67.173.128.144": {
+  "66.228.35.52": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Chicago",
+    "city": "Cedar Knolls",
     "coordinates": [
-      41.9703,
-      -87.664
+      40.8229,
+      -74.4592
     ]
   },
   "67.189.194.43": {
@@ -1747,16 +1777,6 @@
     "coordinates": [
       42.3388,
       -71.0726
-    ]
-  },
-  "69.223.211.173": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Norman",
-    "coordinates": [
-      35.2025,
-      -97.4835
     ]
   },
   "69.226.253.51": {
@@ -1827,16 +1847,6 @@
     "coordinates": [
       26.6909,
       -81.9483
-    ]
-  },
-  "73.239.145.201": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Joint Base Lewis McChord",
-    "coordinates": [
-      47.1079,
-      -122.577
     ]
   },
   "75.154.237.109": {
@@ -1935,8 +1945,8 @@
     "cc": "FI",
     "city": "Helsinki",
     "coordinates": [
-      60.154,
-      24.9509
+      60.1954,
+      24.9074
     ]
   },
   "80.211.201.216": {
@@ -1957,6 +1967,16 @@
     "coordinates": [
       53.5287,
       -1.312
+    ]
+  },
+  "81.151.182.246": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Glasgow",
+    "coordinates": [
+      55.9402,
+      -4.1605
     ]
   },
   "81.228.59.199": {
@@ -2105,8 +2125,8 @@
     "cc": "BE",
     "city": "Antwerp",
     "coordinates": [
-      51.2192,
-      4.3917
+      51.2198,
+      4.4671
     ]
   },
   "89.151.207.164": {
@@ -2153,10 +2173,10 @@
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
-    "city": "Kerava",
+    "city": "Kauniainen",
     "coordinates": [
-      60.4034,
-      25.105
+      60.2167,
+      24.7225
     ]
   },
   "91.55.73.214": {
@@ -2169,24 +2189,14 @@
       8.7399
     ]
   },
-  "92.221.92.92": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Sandnes",
-    "coordinates": [
-      58.8544,
-      5.7456
-    ]
-  },
   "92.35.23.44": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
     "city": "Link\u00f6ping",
     "coordinates": [
-      58.416,
-      15.6288
+      58.4127,
+      15.631
     ]
   },
   "93.95.230.175": {
