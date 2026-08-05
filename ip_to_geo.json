@@ -409,16 +409,6 @@
       17.03
     ]
   },
-  "146.70.237.157": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Duivendrecht",
-    "coordinates": [
-      52.3294,
-      4.93964
-    ]
-  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -577,6 +567,16 @@
     "coordinates": [
       -34.1348,
       151.0041
+    ]
+  },
+  "159.26.108.19": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
     ]
   },
   "159.69.87.212": {
@@ -867,6 +867,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.19.186.99": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "192.121.119.117": {
@@ -1319,16 +1329,6 @@
       -80.013
     ]
   },
-  "34.32.100.90": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.52,
-      13.4049
-    ]
-  },
   "34.32.53.250": {
     "region": "Europe",
     "country": "Germany",
@@ -1360,16 +1360,6 @@
     ]
   },
   "35.228.47.97": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Lappeenranta",
-    "coordinates": [
-      61.0549,
-      28.1896
-    ]
-  },
-  "35.228.79.195": {
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
@@ -1417,16 +1407,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1749,6 +1729,16 @@
       24.9347
     ]
   },
+  "66.130.205.253": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Laval",
+    "coordinates": [
+      45.6187,
+      -73.7867
+    ]
+  },
   "66.226.145.188": {
     "region": "Oceania",
     "country": "Australia",
@@ -1777,6 +1767,16 @@
     "coordinates": [
       42.3388,
       -71.0726
+    ]
+  },
+  "69.222.182.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      38.5317,
+      -89.9988
     ]
   },
   "69.226.253.51": {
@@ -1869,16 +1869,6 @@
       -76.1817
     ]
   },
-  "75.81.62.43": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Peculiar",
-    "coordinates": [
-      38.7192,
-      -94.4586
-    ]
-  },
   "75.82.121.13": {
     "region": "North America",
     "country": "United States",
@@ -1887,6 +1877,16 @@
     "coordinates": [
       33.675,
       -118.0027
+    ]
+  },
+  "77.239.212.26": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tyumen",
+    "coordinates": [
+      57.1533,
+      65.5418
     ]
   },
   "77.252.11.61": {
@@ -1949,6 +1949,16 @@
       24.9074
     ]
   },
+  "8.234.244.156": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1957,16 +1967,6 @@
     "coordinates": [
       50.0883,
       14.4124
-    ]
-  },
-  "81.147.139.146": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Goldthorpe",
-    "coordinates": [
-      53.5287,
-      -1.312
     ]
   },
   "81.151.182.246": {
@@ -2127,6 +2127,16 @@
     "coordinates": [
       51.2198,
       4.4671
+    ]
+  },
+  "88.193.167.155": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4966,
+      23.7831
     ]
   },
   "89.151.207.164": {
