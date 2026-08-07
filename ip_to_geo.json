@@ -1119,16 +1119,6 @@
       -47.4011
     ]
   },
-  "201.92.189.34": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "202.87.162.206": {
     "region": "Oceania",
     "country": "Australia",
@@ -1387,6 +1377,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.48.164.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.61.217.198": {
@@ -1819,16 +1819,6 @@
       -74.4592
     ]
   },
-  "67.173.128.144": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.9703,
-      -87.664
-    ]
-  },
   "67.189.194.43": {
     "region": "North America",
     "country": "United States",
@@ -1897,6 +1887,16 @@
     "coordinates": [
       28.3888,
       -80.7301
+    ]
+  },
+  "73.23.130.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
@@ -2000,6 +2000,16 @@
     ]
   },
   "78.92.195.169": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
+  "78.92.207.210": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2167,16 +2177,6 @@
     "coordinates": [
       50.0196,
       20.9853
-    ]
-  },
-  "87.100.184.126": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.469,
-      23.7464
     ]
   },
   "87.128.111.190": {
