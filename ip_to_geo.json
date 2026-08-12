@@ -169,16 +169,6 @@
       174.7708
     ]
   },
-  "122.199.63.203": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8766,
-      145.1623
-    ]
-  },
   "123.51.55.162": {
     "region": "Oceania",
     "country": "Australia",
@@ -489,16 +479,6 @@
       20.2559
     ]
   },
-  "157.131.32.226": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Richmond",
-    "coordinates": [
-      37.9269,
-      -122.3313
-    ]
-  },
   "157.22.207.209": {
     "region": "Europe",
     "country": "Russia",
@@ -739,16 +719,6 @@
       -121.8845
     ]
   },
-  "173.69.14.157": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Riverside",
-    "coordinates": [
-      41.7741,
-      -71.3738
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -779,6 +749,16 @@
       -0.1278
     ]
   },
+  "179.104.77.193": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
+    ]
+  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -797,16 +777,6 @@
     "coordinates": [
       40.0992,
       -83.1141
-    ]
-  },
-  "184.57.53.220": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Columbus",
-    "coordinates": [
-      40.0536,
-      -83.0115
     ]
   },
   "185.129.48.228": {
@@ -887,6 +857,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.19.186.99": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "191.255.7.124": {
@@ -1157,6 +1137,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "208.161.119.106": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Humble",
+    "coordinates": [
+      30.0043,
+      -95.1747
     ]
   },
   "208.83.232.203": {
@@ -1439,16 +1429,6 @@
       13.0038
     ]
   },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
-    ]
-  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1577,16 +1557,6 @@
     "coordinates": [
       39.0469,
       -77.4903
-    ]
-  },
-  "5.180.252.23": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Offenbach",
-    "coordinates": [
-      50.1093,
-      8.7321
     ]
   },
   "5.196.28.199": {
@@ -1849,16 +1819,6 @@
       -80.7301
     ]
   },
-  "73.23.130.187": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1949,6 +1909,16 @@
       14.4523
     ]
   },
+  "78.70.76.77": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malm\u00f6",
+    "coordinates": [
+      55.6059,
+      13.0007
+    ]
+  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -2037,6 +2007,16 @@
     "coordinates": [
       59.6323,
       17.0761
+    ]
+  },
+  "83.233.218.149": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Esl\u00f6v",
+    "coordinates": [
+      55.8355,
+      13.3019
     ]
   },
   "83.243.73.194": {
@@ -2337,16 +2317,6 @@
     "coordinates": [
       36.6841,
       -121.7886
-    ]
-  },
-  "98.36.52.206": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chico",
-    "coordinates": [
-      39.7458,
-      -121.8444
     ]
   },
   "99.72.255.45": {
