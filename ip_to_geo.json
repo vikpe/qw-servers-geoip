@@ -329,6 +329,16 @@
       8.7147
     ]
   },
+  "137.184.162.43": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Toronto",
+    "coordinates": [
+      43.709,
+      -79.4057
+    ]
+  },
   "137.74.7.185": {
     "region": "Europe",
     "country": "Poland",
@@ -467,16 +477,6 @@
     "coordinates": [
       45.5235,
       -122.676
-    ]
-  },
-  "15.229.19.183": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5505,
-      -46.6333
     ]
   },
   "152.67.110.136": {
@@ -759,16 +759,6 @@
       73.3729
     ]
   },
-  "176.224.195.196": {
-    "region": "Asia",
-    "country": "Saudi Arabia",
-    "cc": "SA",
-    "city": "Jeddah",
-    "coordinates": [
-      21.4913,
-      39.1841
-    ]
-  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -777,6 +767,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "179.104.65.248": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -849,16 +849,6 @@
       18.0717
     ]
   },
-  "185.236.108.250": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2865,
-      21.0829
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -907,16 +897,6 @@
     "coordinates": [
       -22.9035,
       -47.0565
-    ]
-  },
-  "191.54.75.201": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1459,6 +1439,16 @@
       13.0038
     ]
   },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
+    ]
+  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1789,16 +1779,6 @@
       -74.4592
     ]
   },
-  "67.173.128.144": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.9703,
-      -87.664
-    ]
-  },
   "67.189.194.43": {
     "region": "North America",
     "country": "United States",
@@ -1869,6 +1849,16 @@
       -81.9483
     ]
   },
+  "75.119.155.10": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Lauterbourg",
+    "coordinates": [
+      48.9742,
+      8.1851
+    ]
+  },
   "75.154.237.109": {
     "region": "North America",
     "country": "Canada",
@@ -1877,6 +1867,16 @@
     "coordinates": [
       48.4152,
       -123.3655
+    ]
+  },
+  "75.215.196.125": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ephrata",
+    "coordinates": [
+      40.175,
+      -76.1817
     ]
   },
   "75.82.121.13": {
@@ -1957,6 +1957,16 @@
     "coordinates": [
       55.6724,
       13.0685
+    ]
+  },
+  "78.92.192.53": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
     ]
   },
   "78.92.207.210": {
