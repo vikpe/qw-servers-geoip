@@ -329,6 +329,16 @@
       8.7147
     ]
   },
+  "136.70.102.241": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "137.184.162.43": {
     "region": "North America",
     "country": "Canada",
@@ -749,6 +759,16 @@
       -121.8845
     ]
   },
+  "173.218.133.145": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jonesboro",
+    "coordinates": [
+      35.8363,
+      -90.6999
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -767,16 +787,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "179.104.65.248": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -897,6 +907,16 @@
     "coordinates": [
       -22.9035,
       -47.0565
+    ]
+  },
+  "191.54.66.50": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1329,6 +1349,26 @@
       -77.4874
     ]
   },
+  "31.13.191.120": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3294,
+      18.0687
+    ]
+  },
+  "31.166.102.229": {
+    "region": "Asia",
+    "country": "Saudi Arabia",
+    "cc": "SA",
+    "city": "Jeddah",
+    "coordinates": [
+      21.4913,
+      39.1841
+    ]
+  },
   "31.184.218.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1437,16 +1477,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1779,6 +1809,16 @@
       -74.4592
     ]
   },
+  "67.173.128.144": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.9703,
+      -87.664
+    ]
+  },
   "67.189.194.43": {
     "region": "North America",
     "country": "United States",
@@ -1787,16 +1827,6 @@
     "coordinates": [
       42.3388,
       -71.0726
-    ]
-  },
-  "69.222.182.36": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Belleville",
-    "coordinates": [
-      38.5317,
-      -89.9988
     ]
   },
   "70.34.200.204": {
@@ -1939,16 +1969,6 @@
       14.4523
     ]
   },
-  "78.70.76.77": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malm\u00f6",
-    "coordinates": [
-      55.6059,
-      13.0007
-    ]
-  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -1960,16 +1980,6 @@
     ]
   },
   "78.92.192.53": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
-  "78.92.207.210": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2147,6 +2157,26 @@
     "coordinates": [
       51.2198,
       4.4671
+    ]
+  },
+  "88.193.167.155": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4966,
+      23.7831
+    ]
+  },
+  "89.114.251.83": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Lisbon",
+    "coordinates": [
+      38.7219,
+      -9.1398
     ]
   },
   "89.151.207.164": {
