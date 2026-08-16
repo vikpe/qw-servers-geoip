@@ -329,16 +329,6 @@
       8.7147
     ]
   },
-  "136.70.102.241": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "137.184.162.43": {
     "region": "North America",
     "country": "Canada",
@@ -757,16 +747,6 @@
     "coordinates": [
       45.6957,
       -121.8845
-    ]
-  },
-  "173.218.133.145": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jonesboro",
-    "coordinates": [
-      35.8363,
-      -90.6999
     ]
   },
   "176.210.100.6": {
@@ -1267,6 +1247,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "216.160.28.148": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Minneapolis",
+    "coordinates": [
+      44.8769,
+      -93.2535
     ]
   },
   "216.249.103.87": {
@@ -1809,16 +1799,6 @@
       -74.4592
     ]
   },
-  "67.173.128.144": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.9703,
-      -87.664
-    ]
-  },
   "67.189.194.43": {
     "region": "North America",
     "country": "United States",
@@ -1827,6 +1807,16 @@
     "coordinates": [
       42.3388,
       -71.0726
+    ]
+  },
+  "69.226.253.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Olmsted",
+    "coordinates": [
+      41.4156,
+      -81.9235
     ]
   },
   "70.34.200.204": {
@@ -1877,6 +1867,16 @@
     "coordinates": [
       26.6909,
       -81.9483
+    ]
+  },
+  "73.8.255.238": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.9703,
+      -87.664
     ]
   },
   "75.119.155.10": {
@@ -2159,16 +2159,6 @@
       4.4671
     ]
   },
-  "88.193.167.155": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4966,
-      23.7831
-    ]
-  },
   "89.114.251.83": {
     "region": "Europe",
     "country": "Portugal",
@@ -2387,6 +2377,16 @@
     "coordinates": [
       36.6841,
       -121.7886
+    ]
+  },
+  "99.229.29.54": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Markham",
+    "coordinates": [
+      43.9016,
+      -79.3427
     ]
   },
   "99.72.255.45": {
