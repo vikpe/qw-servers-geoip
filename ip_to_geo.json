@@ -769,6 +769,16 @@
       -0.1278
     ]
   },
+  "179.104.72.141": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
+    ]
+  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -869,16 +879,6 @@
       4.9392
     ]
   },
-  "189.19.186.99": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "191.255.7.124": {
     "region": "South America",
     "country": "Brazil",
@@ -887,16 +887,6 @@
     "coordinates": [
       -22.9035,
       -47.0565
-    ]
-  },
-  "191.54.66.50": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1339,16 +1329,6 @@
       -77.4874
     ]
   },
-  "31.13.191.120": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3294,
-      18.0687
-    ]
-  },
   "31.166.102.229": {
     "region": "Asia",
     "country": "Saudi Arabia",
@@ -1379,6 +1359,16 @@
       -80.013
     ]
   },
+  "34.173.15.43": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.32.69.76": {
     "region": "Europe",
     "country": "Germany",
@@ -1387,16 +1377,6 @@
     "coordinates": [
       52.52,
       13.4049
-    ]
-  },
-  "34.61.217.198": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "34.88.19.245": {
@@ -1467,6 +1447,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1839,6 +1829,16 @@
       21.0093
     ]
   },
+  "72.109.20.237": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      39.9476,
+      -75.1474
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1897,16 +1897,6 @@
     "coordinates": [
       48.4152,
       -123.3655
-    ]
-  },
-  "75.215.196.125": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ephrata",
-    "coordinates": [
-      40.175,
-      -76.1817
     ]
   },
   "75.82.121.13": {
@@ -2089,7 +2079,7 @@
       10.8458
     ]
   },
-  "85.166.106.190": {
+  "85.166.104.186": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
@@ -2157,16 +2147,6 @@
     "coordinates": [
       51.2198,
       4.4671
-    ]
-  },
-  "89.114.251.83": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Lisbon",
-    "coordinates": [
-      38.7219,
-      -9.1398
     ]
   },
   "89.151.207.164": {
