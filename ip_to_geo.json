@@ -179,6 +179,16 @@
       174.7708
     ]
   },
+  "122.199.63.203": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8766,
+      145.1623
+    ]
+  },
   "123.51.55.162": {
     "region": "Oceania",
     "country": "Australia",
@@ -759,6 +769,16 @@
       73.3729
     ]
   },
+  "177.118.193.118": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Maring\u00e1",
+    "coordinates": [
+      -23.3836,
+      -51.9576
+    ]
+  },
   "177.188.171.82": {
     "region": "South America",
     "country": "Brazil",
@@ -767,6 +787,16 @@
     "coordinates": [
       -22.9035,
       -47.0565
+    ]
+  },
+  "177.235.57.138": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Bras\u00edlia",
+    "coordinates": [
+      -15.7798,
+      -47.9331
     ]
   },
   "178.79.135.210": {
@@ -779,7 +809,7 @@
       -0.1278
     ]
   },
-  "179.104.75.23": {
+  "179.104.73.217": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1169,6 +1199,16 @@
       144.878
     ]
   },
+  "211.220.187.183": {
+    "region": "Asia",
+    "country": "South Korea",
+    "cc": "KR",
+    "city": "Seo-gu",
+    "coordinates": [
+      35.1231,
+      129.0184
+    ]
+  },
   "212.147.246.37": {
     "region": "Europe",
     "country": "Sweden",
@@ -1197,16 +1237,6 @@
     "coordinates": [
       57.7065,
       11.967
-    ]
-  },
-  "212.42.38.88": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7558,
-      37.6173
     ]
   },
   "212.53.165.161": {
@@ -1349,6 +1379,16 @@
       30.3096
     ]
   },
+  "34.145.150.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1357,16 +1397,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.173.15.43": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "34.32.69.76": {
@@ -1387,6 +1417,16 @@
     "coordinates": [
       61.0549,
       28.1896
+    ]
+  },
+  "35.184.67.205": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "35.185.44.174": {
@@ -1949,6 +1989,16 @@
       14.4523
     ]
   },
+  "78.69.123.41": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Askersund",
+    "coordinates": [
+      58.8799,
+      14.9023
+    ]
+  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -1959,7 +2009,7 @@
       13.0685
     ]
   },
-  "78.92.192.53": {
+  "78.92.202.120": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1979,16 +2029,6 @@
       24.9074
     ]
   },
-  "8.228.108.222": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1997,16 +2037,6 @@
     "coordinates": [
       50.0883,
       14.4124
-    ]
-  },
-  "81.151.182.246": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Glasgow",
-    "coordinates": [
-      55.9402,
-      -4.1605
     ]
   },
   "81.228.59.199": {
@@ -2047,16 +2077,6 @@
     "coordinates": [
       59.6323,
       17.0761
-    ]
-  },
-  "83.233.218.149": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Esl\u00f6v",
-    "coordinates": [
-      55.8355,
-      13.3019
     ]
   },
   "83.243.73.194": {
@@ -2139,6 +2159,16 @@
       20.9853
     ]
   },
+  "86.137.68.46": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Ballymena",
+    "coordinates": [
+      54.8622,
+      -6.2786
+    ]
+  },
   "87.128.111.190": {
     "region": "Europe",
     "country": "Germany",
@@ -2209,7 +2239,7 @@
       24.7225
     ]
   },
-  "91.55.90.48": {
+  "91.55.89.107": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2237,16 +2267,6 @@
     "coordinates": [
       51.3837,
       7.7127
-    ]
-  },
-  "93.232.104.60": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Iserlohn",
-    "coordinates": [
-      51.3708,
-      7.6162
     ]
   },
   "93.95.230.175": {
