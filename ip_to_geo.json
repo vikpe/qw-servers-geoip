@@ -809,16 +809,6 @@
       -0.1278
     ]
   },
-  "179.104.73.217": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
-    ]
-  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -909,6 +899,16 @@
       4.9392
     ]
   },
+  "191.54.72.10": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
+    ]
+  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -997,16 +997,6 @@
     "coordinates": [
       55.7731,
       37.8294
-    ]
-  },
-  "193.77.69.2": {
-    "region": "Europe",
-    "country": "Slovenia",
-    "cc": "SI",
-    "city": "Ljubljana",
-    "coordinates": [
-      46.0503,
-      14.5046
     ]
   },
   "194.180.16.113": {
@@ -1199,16 +1189,6 @@
       144.878
     ]
   },
-  "211.220.187.183": {
-    "region": "Asia",
-    "country": "South Korea",
-    "cc": "KR",
-    "city": "Seo-gu",
-    "coordinates": [
-      35.1231,
-      129.0184
-    ]
-  },
   "212.147.246.37": {
     "region": "Europe",
     "country": "Sweden",
@@ -1379,16 +1359,6 @@
       30.3096
     ]
   },
-  "34.145.150.176": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1399,6 +1369,16 @@
       -80.013
     ]
   },
+  "34.174.189.174": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
+    ]
+  },
   "34.32.69.76": {
     "region": "Europe",
     "country": "Germany",
@@ -1407,6 +1387,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.86.172.220": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.88.19.245": {
@@ -1839,6 +1829,16 @@
       -71.0726
     ]
   },
+  "69.222.182.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      38.5317,
+      -89.9988
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1889,16 +1889,6 @@
       -104.9945
     ]
   },
-  "72.239.233.54": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Merritt Island",
-    "coordinates": [
-      28.3888,
-      -80.7301
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1907,16 +1897,6 @@
     "coordinates": [
       26.6909,
       -81.9483
-    ]
-  },
-  "73.8.255.238": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.9703,
-      -87.664
     ]
   },
   "75.119.155.10": {
@@ -1937,6 +1917,16 @@
     "coordinates": [
       48.4152,
       -123.3655
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "77.239.212.26": {
@@ -1997,6 +1987,16 @@
     "coordinates": [
       58.8799,
       14.9023
+    ]
+  },
+  "78.70.76.77": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malm\u00f6",
+    "coordinates": [
+      55.6059,
+      13.0007
     ]
   },
   "78.72.109.73": {
@@ -2189,6 +2189,16 @@
       4.4671
     ]
   },
+  "88.89.150.253": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Loddefjord",
+    "coordinates": [
+      60.3695,
+      5.2178
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2357,6 +2367,16 @@
     "coordinates": [
       60.1719,
       24.9347
+    ]
+  },
+  "96.255.89.185": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Olney",
+    "coordinates": [
+      39.1585,
+      -77.0837
     ]
   },
   "97.94.129.234": {
