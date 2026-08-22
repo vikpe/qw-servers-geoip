@@ -119,6 +119,16 @@
       -87.9954
     ]
   },
+  "109.138.80.195": {
+    "region": "Europe",
+    "country": "Belgium",
+    "cc": "BE",
+    "city": "Antwerp",
+    "coordinates": [
+      51.2198,
+      4.4671
+    ]
+  },
   "109.200.20.152": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -439,6 +449,16 @@
       17.03
     ]
   },
+  "147.28.69.55": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3326,
+      18.0651
+    ]
+  },
   "147.78.123.137": {
     "region": "South America",
     "country": "Argentina",
@@ -487,16 +507,6 @@
     "coordinates": [
       33.7838,
       -84.4455
-    ]
-  },
-  "155.2.191.118": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Kansas",
-    "coordinates": [
-      41.245,
-      -83.2837
     ]
   },
   "155.4.206.139": {
@@ -749,16 +759,6 @@
       -121.8845
     ]
   },
-  "172.92.238.19": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -797,6 +797,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "179.104.67.209": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -869,6 +879,16 @@
       0.1046
     ]
   },
+  "187.74.37.252": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -887,16 +907,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "191.54.72.10": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1097,16 +1107,6 @@
     "coordinates": [
       -20.5395,
       -47.4011
-    ]
-  },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9028,
-      115.855
     ]
   },
   "203.166.232.27": {
@@ -1409,6 +1409,16 @@
       -80.013
     ]
   },
+  "35.243.40.109": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "38.124.152.155": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1457,16 +1467,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1899,16 +1899,6 @@
       -123.3655
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "77.239.212.26": {
     "region": "Europe",
     "country": "Russia",
@@ -1997,26 +1987,6 @@
     "coordinates": [
       47.4277,
       18.9191
-    ]
-  },
-  "79.134.102.90": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1954,
-      24.9074
-    ]
-  },
-  "8.234.230.250": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "80.211.201.216": {
@@ -2169,16 +2139,6 @@
       13.3878
     ]
   },
-  "87.67.241.145": {
-    "region": "Europe",
-    "country": "Belgium",
-    "cc": "BE",
-    "city": "Antwerp",
-    "coordinates": [
-      51.2198,
-      4.4671
-    ]
-  },
   "88.89.150.253": {
     "region": "Europe",
     "country": "Norway",
@@ -2309,6 +2269,16 @@
       14.4262
     ]
   },
+  "95.179.165.74": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1103,
+      8.7147
+    ]
+  },
   "95.211.165.149": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -2417,16 +2387,6 @@
     "coordinates": [
       29.7026,
       -98.4759
-    ]
-  },
-  "99.229.29.54": {
-    "region": "North America",
-    "country": "Canada",
-    "cc": "CA",
-    "city": "Markham",
-    "coordinates": [
-      43.9016,
-      -79.3427
     ]
   },
   "99.72.255.45": {
