@@ -99,6 +99,16 @@
       -74.1403
     ]
   },
+  "104.54.221.173": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Pflugerville",
+    "coordinates": [
+      30.4421,
+      -97.6339
+    ]
+  },
   "108.181.43.71": {
     "region": "North America",
     "country": "United States",
@@ -177,16 +187,6 @@
     "coordinates": [
       -41.2007,
       174.7708
-    ]
-  },
-  "122.199.63.203": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8766,
-      145.1623
     ]
   },
   "123.51.55.162": {
@@ -329,6 +329,16 @@
       8.7147
     ]
   },
+  "136.70.110.144": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "137.184.162.43": {
     "region": "North America",
     "country": "Canada",
@@ -449,16 +459,6 @@
       17.03
     ]
   },
-  "147.28.69.55": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
-    ]
-  },
   "147.78.123.137": {
     "region": "South America",
     "country": "Argentina",
@@ -467,6 +467,16 @@
     "coordinates": [
       -34.6142,
       -58.3811
+    ]
+  },
+  "149.120.63.183": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "St. Petersburg",
+    "coordinates": [
+      27.787,
+      -82.6761
     ]
   },
   "149.28.62.121": {
@@ -549,16 +559,6 @@
       4.9392
     ]
   },
-  "158.160.189.77": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7487,
-      37.6187
-    ]
-  },
   "158.174.100.106": {
     "region": "Europe",
     "country": "Sweden",
@@ -607,6 +607,16 @@
     "coordinates": [
       -34.1348,
       151.0041
+    ]
+  },
+  "159.26.108.175": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
     ]
   },
   "159.69.87.212": {
@@ -799,7 +809,7 @@
       -0.1278
     ]
   },
-  "179.104.67.209": {
+  "179.104.67.210": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -879,16 +889,6 @@
       0.1046
     ]
   },
-  "187.74.37.252": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -957,16 +957,6 @@
     "coordinates": [
       40.1016,
       -88.2822
-    ]
-  },
-  "192.9.170.72": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.209
     ]
   },
   "192.9.173.60": {
@@ -1409,16 +1399,6 @@
       -80.013
     ]
   },
-  "35.243.40.109": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "38.124.152.155": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1467,6 +1447,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1959,16 +1949,6 @@
       14.9023
     ]
   },
-  "78.70.76.77": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malm\u00f6",
-    "coordinates": [
-      55.6059,
-      13.0007
-    ]
-  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -1987,6 +1967,16 @@
     "coordinates": [
       47.4277,
       18.9191
+    ]
+  },
+  "79.139.251.38": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
     ]
   },
   "80.211.201.216": {
@@ -2097,16 +2087,6 @@
     "coordinates": [
       64.1172,
       -21.9154
-    ]
-  },
-  "85.221.162.142": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Poznan",
-    "coordinates": [
-      52.4141,
-      16.878
     ]
   },
   "85.28.131.207": {
