@@ -259,16 +259,6 @@
       17.7853
     ]
   },
-  "134.16.24.133": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ripon",
-    "coordinates": [
-      37.7502,
-      -121.1276
-    ]
-  },
   "135.125.234.220": {
     "region": "Europe",
     "country": "Germany",
@@ -327,16 +317,6 @@
     "coordinates": [
       50.1103,
       8.7147
-    ]
-  },
-  "136.70.110.144": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "137.184.162.43": {
@@ -609,16 +589,6 @@
       151.0041
     ]
   },
-  "159.26.108.175": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -809,16 +779,6 @@
       -0.1278
     ]
   },
-  "179.104.67.210": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
-    ]
-  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -889,6 +849,16 @@
       0.1046
     ]
   },
+  "187.74.37.252": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -907,6 +877,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "191.54.73.48": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1097,6 +1077,16 @@
     "coordinates": [
       -20.5395,
       -47.4011
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -31.9028,
+      115.855
     ]
   },
   "203.166.232.27": {
@@ -1447,16 +1437,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1859,16 +1839,6 @@
       -81.9483
     ]
   },
-  "73.8.255.238": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.9703,
-      -87.664
-    ]
-  },
   "75.119.155.10": {
     "region": "Europe",
     "country": "France",
@@ -1949,6 +1919,16 @@
       14.9023
     ]
   },
+  "78.70.76.77": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malm\u00f6",
+    "coordinates": [
+      55.6059,
+      13.0007
+    ]
+  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -1969,14 +1949,14 @@
       18.9191
     ]
   },
-  "79.139.251.38": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
+  "8.234.155.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
     "coordinates": [
-      55.7487,
-      37.6187
+      38.9071,
+      -77.0368
     ]
   },
   "80.211.201.216": {
@@ -2039,6 +2019,16 @@
       30.2618
     ]
   },
+  "84.154.186.127": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Iserlohn",
+    "coordinates": [
+      51.3837,
+      7.7127
+    ]
+  },
   "84.172.195.22": {
     "region": "Europe",
     "country": "Germany",
@@ -2059,7 +2049,7 @@
       10.8458
     ]
   },
-  "85.166.104.186": {
+  "85.166.106.167": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
@@ -2197,16 +2187,6 @@
     "coordinates": [
       58.4127,
       15.631
-    ]
-  },
-  "93.198.187.226": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Iserlohn",
-    "coordinates": [
-      51.3837,
-      7.7127
     ]
   },
   "93.95.230.175": {
