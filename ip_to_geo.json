@@ -259,6 +259,16 @@
       17.7853
     ]
   },
+  "134.16.24.133": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ripon",
+    "coordinates": [
+      37.7502,
+      -121.1276
+    ]
+  },
   "135.125.234.220": {
     "region": "Europe",
     "country": "Germany",
@@ -779,6 +789,16 @@
       -0.1278
     ]
   },
+  "179.104.72.115": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
+    ]
+  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -797,16 +817,6 @@
     "coordinates": [
       40.0536,
       -83.0115
-    ]
-  },
-  "185.129.48.228": {
-    "region": "Asia",
-    "country": "Kazakhstan",
-    "cc": "KZ",
-    "city": "Karaganda",
-    "coordinates": [
-      49.7989,
-      73.0994
     ]
   },
   "185.157.244.204": {
@@ -877,16 +887,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "191.54.73.48": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1089,14 +1089,14 @@
       115.855
     ]
   },
-  "203.166.232.27": {
+  "203.220.53.97": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -33.9062,
-      151.2107
+      -33.8847,
+      151.146
     ]
   },
   "203.29.240.182": {
@@ -1209,6 +1209,16 @@
       10.6968
     ]
   },
+  "213.164.209.174": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malm\u00f6",
+    "coordinates": [
+      55.6078,
+      12.9982
+    ]
+  },
   "213.183.63.213": {
     "region": "Europe",
     "country": "Bulgaria",
@@ -1227,16 +1237,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "216.160.28.148": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Minneapolis",
-    "coordinates": [
-      44.8769,
-      -93.2535
     ]
   },
   "216.249.103.87": {
@@ -1699,6 +1699,16 @@
       -46.6333
     ]
   },
+  "62.168.149.11": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sandviken",
+    "coordinates": [
+      60.6204,
+      16.7697
+    ]
+  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1919,16 +1929,6 @@
       14.9023
     ]
   },
-  "78.70.76.77": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malm\u00f6",
-    "coordinates": [
-      55.6059,
-      13.0007
-    ]
-  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -1949,7 +1949,7 @@
       18.9191
     ]
   },
-  "8.234.155.79": {
+  "8.234.211.234": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1987,16 +1987,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "82.196.112.57": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3924,
-      17.3006
     ]
   },
   "83.172.66.214": {
@@ -2077,6 +2067,16 @@
     "coordinates": [
       64.1172,
       -21.9154
+    ]
+  },
+  "85.221.162.142": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Poznan",
+    "coordinates": [
+      52.4141,
+      16.878
     ]
   },
   "85.28.131.207": {
