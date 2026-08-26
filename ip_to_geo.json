@@ -219,6 +219,16 @@
       -46.6361
     ]
   },
+  "129.80.194.229": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Ashburn",
+    "coordinates": [
+      39.018,
+      -77.539
+    ]
+  },
   "13.247.30.86": {
     "region": "Africa",
     "country": "South Africa",
@@ -447,6 +457,16 @@
     "coordinates": [
       51.1046,
       17.03
+    ]
+  },
+  "147.185.221.194": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eugene",
+    "coordinates": [
+      44.0535,
+      -123.09
     ]
   },
   "147.78.123.137": {
@@ -779,6 +799,16 @@
       -47.9331
     ]
   },
+  "177.76.50.225": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -789,7 +819,7 @@
       -0.1278
     ]
   },
-  "179.104.72.115": {
+  "179.104.68.47": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -817,6 +847,16 @@
     "coordinates": [
       40.0536,
       -83.0115
+    ]
+  },
+  "185.129.48.228": {
+    "region": "Asia",
+    "country": "Kazakhstan",
+    "cc": "KZ",
+    "city": "Karaganda",
+    "coordinates": [
+      49.7989,
+      73.0994
     ]
   },
   "185.157.244.204": {
@@ -857,16 +897,6 @@
     "coordinates": [
       51.462,
       0.1046
-    ]
-  },
-  "187.74.37.252": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "188.166.161.185": {
@@ -1349,6 +1379,16 @@
       -80.013
     ]
   },
+  "34.150.142.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.32.69.76": {
     "region": "Europe",
     "country": "Germany",
@@ -1437,6 +1477,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1929,6 +1979,16 @@
       14.9023
     ]
   },
+  "78.70.76.77": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Malm\u00f6",
+    "coordinates": [
+      55.6059,
+      13.0007
+    ]
+  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -1939,7 +1999,7 @@
       13.0685
     ]
   },
-  "78.92.202.120": {
+  "78.92.197.54": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1949,14 +2009,14 @@
       18.9191
     ]
   },
-  "8.234.211.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
+  "78.92.202.120": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
     "coordinates": [
-      38.9071,
-      -77.0368
+      47.4277,
+      18.9191
     ]
   },
   "80.211.201.216": {
@@ -1987,6 +2047,16 @@
     "coordinates": [
       59.3287,
       18.0717
+    ]
+  },
+  "82.196.112.57": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Sundsvall",
+    "coordinates": [
+      62.3924,
+      17.3006
     ]
   },
   "83.172.66.214": {
