@@ -189,6 +189,16 @@
       174.7708
     ]
   },
+  "122.199.32.47": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.9783,
+      150.8587
+    ]
+  },
   "123.51.55.162": {
     "region": "Oceania",
     "country": "Australia",
@@ -339,6 +349,16 @@
       8.7147
     ]
   },
+  "136.70.83.109": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "137.184.162.43": {
     "region": "North America",
     "country": "Canada",
@@ -347,6 +367,16 @@
     "coordinates": [
       43.709,
       -79.4057
+    ]
+  },
+  "137.66.52.225": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Gunnison",
+    "coordinates": [
+      38.7946,
+      -106.535
     ]
   },
   "137.74.7.185": {
@@ -457,16 +487,6 @@
     "coordinates": [
       51.1046,
       17.03
-    ]
-  },
-  "147.185.221.194": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Eugene",
-    "coordinates": [
-      44.0535,
-      -123.09
     ]
   },
   "147.78.123.137": {
@@ -769,6 +789,16 @@
       -121.8845
     ]
   },
+  "172.92.238.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -779,7 +809,7 @@
       73.3729
     ]
   },
-  "177.188.171.82": {
+  "177.102.166.11": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -799,16 +829,6 @@
       -47.9331
     ]
   },
-  "177.76.50.225": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -819,14 +839,14 @@
       -0.1278
     ]
   },
-  "179.104.68.47": {
+  "179.119.2.217": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
-    "city": "Patos de Minas",
+    "city": "Florian\u00f3polis",
     "coordinates": [
-      -18.6082,
-      -46.5009
+      -27.6168,
+      -48.4997
     ]
   },
   "179.190.61.52": {
@@ -899,6 +919,16 @@
       0.1046
     ]
   },
+  "187.74.37.252": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -917,6 +947,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "191.54.68.117": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1379,16 +1419,6 @@
       -80.013
     ]
   },
-  "34.150.142.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.69.76": {
     "region": "Europe",
     "country": "Germany",
@@ -1477,16 +1507,6 @@
     "coordinates": [
       55.605,
       13.0038
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4118,
-      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1839,6 +1859,16 @@
       -71.0726
     ]
   },
+  "69.222.182.36": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Belleville",
+    "coordinates": [
+      38.5317,
+      -89.9988
+    ]
+  },
   "69.226.253.51": {
     "region": "North America",
     "country": "United States",
@@ -1899,6 +1929,16 @@
       -81.9483
     ]
   },
+  "73.8.255.238": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.9703,
+      -87.664
+    ]
+  },
   "75.119.155.10": {
     "region": "Europe",
     "country": "France",
@@ -1949,6 +1989,16 @@
       37.6187
     ]
   },
+  "77.90.0.186": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Bad Soden am Taunus",
+    "coordinates": [
+      50.1592,
+      8.48173
+    ]
+  },
   "78.131.12.254": {
     "region": "Europe",
     "country": "Hungary",
@@ -1979,16 +2029,6 @@
       14.9023
     ]
   },
-  "78.70.76.77": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malm\u00f6",
-    "coordinates": [
-      55.6059,
-      13.0007
-    ]
-  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -2000,16 +2040,6 @@
     ]
   },
   "78.92.197.54": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
-  "78.92.202.120": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2087,16 +2117,6 @@
     "coordinates": [
       51.3837,
       7.7127
-    ]
-  },
-  "84.172.195.22": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.4982,
-      13.4755
     ]
   },
   "85.137.228.112": {
@@ -2177,6 +2197,16 @@
     "coordinates": [
       52.5312,
       13.3878
+    ]
+  },
+  "87.154.212.6": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.5078,
+      13.4326
     ]
   },
   "88.89.150.253": {
