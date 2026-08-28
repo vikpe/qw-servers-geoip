@@ -199,6 +199,16 @@
       150.8587
     ]
   },
+  "122.199.63.203": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8766,
+      145.1623
+    ]
+  },
   "123.51.55.162": {
     "region": "Oceania",
     "country": "Australia",
@@ -347,16 +357,6 @@
     "coordinates": [
       50.1103,
       8.7147
-    ]
-  },
-  "136.70.83.109": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "137.184.162.43": {
@@ -789,14 +789,14 @@
       -121.8845
     ]
   },
-  "172.92.238.19": {
+  "173.218.121.71": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Stanwood",
+    "city": "Jonesboro",
     "coordinates": [
-      48.2412,
-      -122.3707
+      35.8363,
+      -90.6999
     ]
   },
   "176.210.100.6": {
@@ -919,16 +919,6 @@
       0.1046
     ]
   },
-  "187.74.37.252": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -949,7 +939,7 @@
       4.9392
     ]
   },
-  "191.54.68.117": {
+  "191.54.69.125": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1177,6 +1167,16 @@
     "coordinates": [
       -31.8512,
       115.8765
+    ]
+  },
+  "206.223.149.104": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cabot",
+    "coordinates": [
+      34.9745,
+      -92.0165
     ]
   },
   "206.51.245.84": {
@@ -1479,6 +1479,16 @@
       -97.7463
     ]
   },
+  "41.1.73.106": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": [
+      -26.2309,
+      28.0583
+    ]
+  },
   "43.131.29.235": {
     "region": "Europe",
     "country": "Germany",
@@ -1507,6 +1517,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4118,
+      -46.4392
     ]
   },
   "45.234.92.131": {
@@ -1769,6 +1789,16 @@
       -46.6333
     ]
   },
+  "62.146.231.166": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Orangeburg",
+    "coordinates": [
+      41.0446,
+      -73.9592
+    ]
+  },
   "62.168.149.11": {
     "region": "Europe",
     "country": "Sweden",
@@ -1859,14 +1889,14 @@
       -71.0726
     ]
   },
-  "69.222.182.36": {
+  "69.140.100.197": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Belleville",
+    "city": "Baltimore",
     "coordinates": [
-      38.5317,
-      -89.9988
+      39.2842,
+      -76.6918
     ]
   },
   "69.226.253.51": {
@@ -2259,6 +2289,16 @@
       20.9983
     ]
   },
+  "91.135.12.57": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Hitchin",
+    "coordinates": [
+      51.9456,
+      -0.277829
+    ]
+  },
   "91.156.91.105": {
     "region": "Europe",
     "country": "Finland",
@@ -2387,16 +2427,6 @@
     "coordinates": [
       60.1719,
       24.9347
-    ]
-  },
-  "96.255.89.185": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Olney",
-    "coordinates": [
-      39.1585,
-      -77.0837
     ]
   },
   "97.94.129.234": {
