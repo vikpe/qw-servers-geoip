@@ -309,6 +309,16 @@
       -77.3008
     ]
   },
+  "136.112.29.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "136.243.174.101": {
     "region": "Europe",
     "country": "Germany",
@@ -609,16 +619,6 @@
       10.7389
     ]
   },
-  "159.26.108.4": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -829,16 +829,6 @@
       -0.1278
     ]
   },
-  "179.104.71.76": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
-    ]
-  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -847,16 +837,6 @@
     "coordinates": [
       -23.3516,
       -46.8811
-    ]
-  },
-  "180.150.62.57": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.8968,
-      145.1
     ]
   },
   "184.57.53.220": {
@@ -937,6 +917,26 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "188.68.101.63": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7558,
+      37.6173
+    ]
+  },
+  "191.54.66.75": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1409,6 +1409,16 @@
       13.4049
     ]
   },
+  "34.85.235.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.88.19.245": {
     "region": "Europe",
     "country": "Finland",
@@ -1417,16 +1427,6 @@
     "coordinates": [
       61.0549,
       28.1896
-    ]
-  },
-  "35.184.67.205": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "35.185.44.174": {
@@ -2109,7 +2109,7 @@
       10.8458
     ]
   },
-  "85.166.106.167": {
+  "85.166.113.202": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
@@ -2157,16 +2157,6 @@
     "coordinates": [
       50.0196,
       20.9853
-    ]
-  },
-  "86.137.68.46": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Ballymena",
-    "coordinates": [
-      54.8622,
-      -6.2786
     ]
   },
   "87.128.111.190": {
