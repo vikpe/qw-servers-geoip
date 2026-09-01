@@ -23,10 +23,10 @@
     "region": "Africa",
     "country": "South Africa",
     "cc": "ZA",
-    "city": "Randburg",
+    "city": "Johannesburg",
     "coordinates": [
-      -26.0941,
-      28.0012
+      -26.2309,
+      28.0583
     ]
   },
   "103.151.65.11": {
@@ -55,8 +55,8 @@
     "cc": "AU",
     "city": "Adelaide",
     "coordinates": [
-      -34.9479,
-      138.6352
+      -34.9008,
+      138.6017
     ]
   },
   "103.63.29.40": {
@@ -183,20 +183,20 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Sydney",
+    "city": "Adelaide",
     "coordinates": [
-      -33.9783,
-      150.8587
+      -34.8304,
+      138.6346
     ]
   },
   "123.51.55.162": {
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Sydney",
+    "city": "Jordan Springs",
     "coordinates": [
-      -33.8878,
-      151.1264
+      -33.7214,
+      150.729
     ]
   },
   "128.199.52.100": {
@@ -233,10 +233,10 @@
     "region": "Africa",
     "country": "South Africa",
     "cc": "ZA",
-    "city": "Johannesburg",
+    "city": "Cape Town",
     "coordinates": [
-      -26.2041,
-      28.0473
+      -33.92584,
+      18.42322
     ]
   },
   "13.79.234.207": {
@@ -293,10 +293,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Coeur d'Alene",
+    "city": "Post Falls",
     "coordinates": [
-      47.7242,
-      -116.7834
+      47.7282,
+      -116.9389
     ]
   },
   "135.148.34.204": {
@@ -463,10 +463,10 @@
     "region": "Europe",
     "country": "Portugal",
     "cc": "PT",
-    "city": "Gafanha da Encarna\u00e7\u00e3o",
+    "city": "Figueir\u00f3 dos Vinhos",
     "coordinates": [
-      40.6186,
-      -8.7404
+      39.9031,
+      -8.2693
     ]
   },
   "145.239.94.156": {
@@ -493,10 +493,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "St. Petersburg",
+    "city": "Tampa",
     "coordinates": [
-      27.787,
-      -82.6761
+      27.9455,
+      -82.4598
     ]
   },
   "149.28.62.121": {
@@ -513,10 +513,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Portland",
+    "city": "Denver",
     "coordinates": [
-      45.5235,
-      -122.676
+      39.73915,
+      -104.9847
     ]
   },
   "152.67.110.136": {
@@ -583,20 +583,20 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Malm\u00f6",
+    "city": "Lule\u00e5",
     "coordinates": [
-      55.6078,
-      12.9982
+      65.5864,
+      22.1457
     ]
   },
   "158.174.112.229": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Uppsala",
+    "city": "Stockholm",
     "coordinates": [
-      59.856,
-      17.6403
+      59.3326,
+      18.0651
     ]
   },
   "158.174.22.129": {
@@ -635,8 +635,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3293,
-      18.0686
+      59.32938,
+      18.06871
     ]
   },
   "16.50.158.34": {
@@ -645,8 +645,8 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.8159,
-      144.9669
+      -37.814,
+      144.96332
     ]
   },
   "160.16.101.168": {
@@ -799,16 +799,6 @@
       -47.0565
     ]
   },
-  "177.118.193.98": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Maring\u00e1",
-    "coordinates": [
-      -23.3836,
-      -51.9576
-    ]
-  },
   "177.235.57.138": {
     "region": "South America",
     "country": "Brazil",
@@ -893,10 +883,10 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Welling",
+    "city": "Cambridge",
     "coordinates": [
-      51.462,
-      0.1046
+      52.2123,
+      0.1516
     ]
   },
   "188.166.161.185": {
@@ -929,7 +919,7 @@
       37.6173
     ]
   },
-  "191.54.66.75": {
+  "191.54.72.57": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -985,8 +975,8 @@
     "cc": "US",
     "city": "Champaign",
     "coordinates": [
-      40.1016,
-      -88.2822
+      40.1317,
+      -88.2854
     ]
   },
   "192.9.173.60": {
@@ -1033,10 +1023,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Gy\u0151r",
+    "city": "Recsk",
     "coordinates": [
-      47.6826,
-      17.6252
+      47.9351,
+      20.1221
     ]
   },
   "195.201.133.22": {
@@ -1135,8 +1125,8 @@
     "cc": "AU",
     "city": "Perth",
     "coordinates": [
-      -31.9028,
-      115.855
+      -31.9307,
+      115.8398
     ]
   },
   "203.220.53.97": {
@@ -1145,8 +1135,8 @@
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -33.8847,
-      151.146
+      -33.9175,
+      151.0922
     ]
   },
   "203.29.240.182": {
@@ -1365,8 +1355,8 @@
     "cc": "US",
     "city": "Ashburn",
     "coordinates": [
-      39.0438,
-      -77.4874
+      39.04372,
+      -77.48749
     ]
   },
   "31.166.102.229": {
@@ -1407,16 +1397,6 @@
     "coordinates": [
       52.52,
       13.4049
-    ]
-  },
-  "34.85.235.65": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.88.19.245": {
@@ -1487,6 +1467,16 @@
     "coordinates": [
       55.605,
       13.0038
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
     ]
   },
   "45.234.92.131": {
@@ -1659,16 +1649,6 @@
       21.0283
     ]
   },
-  "52.215.55.73": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.3498,
-      -6.26031
-    ]
-  },
   "52.240.58.168": {
     "region": "North America",
     "country": "United States",
@@ -1679,74 +1659,54 @@
       -78.37471
     ]
   },
-  "52.64.222.152": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8591,
-      151.2002
-    ]
-  },
   "52.67.74.216": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
-    "city": "S\u00e3o Paulo",
+    "city": "Sao Paulo",
     "coordinates": [
-      -23.5505,
-      -46.6333
+      -23.5475,
+      -46.63611
     ]
   },
   "52.89.197.170": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Portland",
+    "city": "Boardman",
     "coordinates": [
-      45.5235,
-      -122.676
-    ]
-  },
-  "54.153.115.234": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Jose",
-    "coordinates": [
-      37.3394,
-      -121.895
+      45.83986,
+      -119.70058
     ]
   },
   "54.232.22.245": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
-    "city": "S\u00e3o Paulo",
+    "city": "Sao Paulo",
     "coordinates": [
-      -23.5505,
-      -46.6333
+      -23.5475,
+      -46.63611
     ]
   },
   "54.94.165.196": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
-    "city": "S\u00e3o Paulo",
+    "city": "Sao Paulo",
     "coordinates": [
-      -23.5505,
-      -46.6333
+      -23.5475,
+      -46.63611
     ]
   },
   "56.125.165.181": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
-    "city": "S\u00e3o Paulo",
+    "city": "Sao Paulo",
     "coordinates": [
-      -23.5505,
-      -46.6333
+      -23.5475,
+      -46.63611
     ]
   },
   "62.146.231.166": {
@@ -1759,24 +1719,14 @@
       -73.9592
     ]
   },
-  "62.168.149.11": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sandviken",
-    "coordinates": [
-      60.6204,
-      16.7697
-    ]
-  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Lidk\u00f6ping",
+    "city": "Karlstad",
     "coordinates": [
-      58.5019,
-      13.1585
+      59.3784,
+      13.5123
     ]
   },
   "62.80.247.69": {
@@ -1883,10 +1833,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Philadelphia",
+    "city": "Reading",
     "coordinates": [
-      39.9476,
-      -75.1474
+      40.296,
+      -75.9894
     ]
   },
   "72.18.132.133": {
@@ -1907,16 +1857,6 @@
     "coordinates": [
       26.6909,
       -81.9483
-    ]
-  },
-  "73.8.255.238": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.9703,
-      -87.664
     ]
   },
   "75.119.155.10": {
@@ -1955,8 +1895,8 @@
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.1884,
-      21.0157
+      52.2297,
+      21.0122
     ]
   },
   "77.37.146.131": {
@@ -2175,8 +2115,8 @@
     "cc": "DE",
     "city": "Berlin",
     "coordinates": [
-      52.5078,
-      13.4326
+      52.5196,
+      13.4603
     ]
   },
   "89.151.207.164": {
@@ -2209,24 +2149,14 @@
       76.939
     ]
   },
-  "89.253.97.115": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
-    ]
-  },
   "89.72.118.186": {
     "region": "Europe",
     "country": "Poland",
     "cc": "PL",
     "city": "Warsaw",
     "coordinates": [
-      52.1738,
-      20.9983
+      52.1461,
+      21.0594
     ]
   },
   "91.156.91.105": {
@@ -2239,7 +2169,7 @@
       24.7225
     ]
   },
-  "91.55.89.107": {
+  "91.55.70.80": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2293,10 +2223,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Degerfors",
+    "city": "Uddeholm",
     "coordinates": [
-      59.242,
-      14.4262
+      60.0179,
+      13.6092
     ]
   },
   "95.179.165.74": {
@@ -2393,10 +2323,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Marina",
+    "city": "Pleasanton",
     "coordinates": [
-      36.6841,
-      -121.7886
+      37.6873,
+      -121.8957
     ]
   },
   "99.184.61.20": {
@@ -2405,18 +2335,18 @@
     "cc": "US",
     "city": "San Antonio",
     "coordinates": [
-      29.7026,
-      -98.4759
+      29.5863,
+      -98.4769
     ]
   },
   "99.72.255.45": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Memphis",
+    "city": "Cordova",
     "coordinates": [
-      35.1209,
-      -89.8689
+      35.164,
+      -89.7826
     ]
   }
 }
