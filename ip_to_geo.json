@@ -799,6 +799,16 @@
       -47.0565
     ]
   },
+  "177.118.193.98": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "177.235.57.138": {
     "region": "South America",
     "country": "Brazil",
@@ -909,17 +919,7 @@
       4.9392
     ]
   },
-  "188.68.101.63": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.7558,
-      37.6173
-    ]
-  },
-  "191.54.72.57": {
+  "191.54.72.15": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1349,6 +1349,16 @@
       -79.93
     ]
   },
+  "27.33.146.181": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8906,
+      151.0463
+    ]
+  },
   "3.94.62.64": {
     "region": "North America",
     "country": "United States",
@@ -1397,6 +1407,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.48.139.187": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.88.19.245": {
@@ -1457,16 +1477,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "45.132.235.172": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Malm\u00f6",
-    "coordinates": [
-      55.605,
-      13.0038
     ]
   },
   "45.163.78.45": {
@@ -1829,14 +1839,14 @@
       21.0093
     ]
   },
-  "72.109.20.237": {
+  "70.89.115.157": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Reading",
+    "city": "Seattle",
     "coordinates": [
-      40.296,
-      -75.9894
+      47.6137,
+      -122.3104
     ]
   },
   "72.18.132.133": {
@@ -1877,6 +1887,26 @@
     "coordinates": [
       48.4152,
       -123.3655
+    ]
+  },
+  "75.192.138.30": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Philadelphia",
+    "coordinates": [
+      40.0356,
+      -75.1763
+    ]
+  },
+  "76.181.135.226": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Louisville",
+    "coordinates": [
+      38.3048,
+      -85.5865
     ]
   },
   "77.239.212.26": {
@@ -1997,16 +2027,6 @@
     "coordinates": [
       59.3287,
       18.0717
-    ]
-  },
-  "82.196.112.57": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3924,
-      17.3006
     ]
   },
   "83.172.66.214": {
@@ -2147,6 +2167,16 @@
     "coordinates": [
       43.2498,
       76.939
+    ]
+  },
+  "89.253.97.115": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Saltsj\u00f6baden",
+    "coordinates": [
+      59.2862,
+      18.2993
     ]
   },
   "89.72.118.186": {
@@ -2317,6 +2347,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "98.252.145.162": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Kennesaw",
+    "coordinates": [
+      33.9955,
+      -84.6581
     ]
   },
   "98.35.252.123": {
