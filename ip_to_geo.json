@@ -759,7 +759,7 @@
       73.3729
     ]
   },
-  "177.102.166.11": {
+  "177.102.166.178": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -779,6 +779,16 @@
       -47.9331
     ]
   },
+  "178.174.136.235": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Arvidsjaur",
+    "coordinates": [
+      65.5903,
+      19.1668
+    ]
+  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -787,16 +797,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "179.104.75.212": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -889,6 +889,16 @@
       4.9392
     ]
   },
+  "191.54.70.122": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
+    ]
+  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -927,6 +937,16 @@
     "coordinates": [
       34.0549,
       -118.243
+    ]
+  },
+  "192.80.99.35": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Champaign",
+    "coordinates": [
+      40.1317,
+      -88.2854
     ]
   },
   "192.9.173.60": {
@@ -1389,16 +1409,6 @@
       144.9669
     ]
   },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.5309
-    ]
-  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1507,6 +1517,16 @@
     "coordinates": [
       32.8545,
       -96.5991
+    ]
+  },
+  "47.190.124.73": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "League City",
+    "coordinates": [
+      29.5183,
+      -95.0977
     ]
   },
   "49.12.2.62": {
@@ -1949,16 +1969,6 @@
       7.7127
     ]
   },
-  "85.137.228.112": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9158,
-      10.8458
-    ]
-  },
   "85.166.113.202": {
     "region": "Europe",
     "country": "Norway",
@@ -2057,16 +2067,6 @@
     "coordinates": [
       43.2498,
       76.939
-    ]
-  },
-  "89.253.97.115": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Saltsj\u00f6baden",
-    "coordinates": [
-      59.2862,
-      18.2993
     ]
   },
   "89.72.118.186": {
