@@ -139,6 +139,16 @@
       4.4671
     ]
   },
+  "109.200.20.152": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "London",
+    "coordinates": [
+      51.5072,
+      -0.127586
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -187,6 +197,16 @@
     "coordinates": [
       -33.7214,
       150.729
+    ]
+  },
+  "128.199.52.100": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.352,
+      4.9392
     ]
   },
   "129.148.39.85": {
@@ -459,6 +479,16 @@
       17.03
     ]
   },
+  "146.70.237.140": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Duivendrecht",
+    "coordinates": [
+      52.3294,
+      4.93964
+    ]
+  },
   "147.78.123.137": {
     "region": "South America",
     "country": "Argentina",
@@ -639,6 +669,16 @@
       139.6899
     ]
   },
+  "161.153.62.180": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
+    ]
+  },
   "162.254.86.73": {
     "region": "Europe",
     "country": "Lithuania",
@@ -759,6 +799,16 @@
       73.3729
     ]
   },
+  "176.72.168.81": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.5102,
+      23.7985
+    ]
+  },
   "177.102.166.178": {
     "region": "South America",
     "country": "Brazil",
@@ -797,6 +847,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "179.104.64.123": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -859,6 +919,16 @@
       18.0717
     ]
   },
+  "185.213.24.140": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -887,16 +957,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "191.54.70.122": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -939,16 +999,6 @@
       -118.243
     ]
   },
-  "192.80.99.35": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Champaign",
-    "coordinates": [
-      40.1317,
-      -88.2854
-    ]
-  },
   "192.9.173.60": {
     "region": "Oceania",
     "country": "Australia",
@@ -977,6 +1027,16 @@
     "coordinates": [
       55.7731,
       37.8294
+    ]
+  },
+  "193.77.69.2": {
+    "region": "Europe",
+    "country": "Slovenia",
+    "cc": "SI",
+    "city": "Ljubljana",
+    "coordinates": [
+      46.0503,
+      14.5046
     ]
   },
   "194.180.16.113": {
@@ -1117,6 +1177,16 @@
     "coordinates": [
       -31.8512,
       115.8765
+    ]
+  },
+  "206.51.245.84": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8483,
+      -87.6517
     ]
   },
   "207.135.130.237": {
@@ -1369,6 +1439,16 @@
       28.1896
     ]
   },
+  "35.185.44.174": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Charleston",
+    "coordinates": [
+      32.8771,
+      -80.013
+    ]
+  },
   "38.124.152.155": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1407,6 +1487,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
     ]
   },
   "45.234.92.131": {
@@ -1589,6 +1679,16 @@
       21.0283
     ]
   },
+  "52.240.58.168": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Boydton",
+    "coordinates": [
+      36.677696,
+      -78.37471
+    ]
+  },
   "52.67.74.216": {
     "region": "South America",
     "country": "Brazil",
@@ -1657,6 +1757,16 @@
     "coordinates": [
       59.3784,
       13.5123
+    ]
+  },
+  "62.80.247.69": {
+    "region": "Europe",
+    "country": "Lithuania",
+    "cc": "LT",
+    "city": "\u0160iauliai",
+    "coordinates": [
+      55.9399,
+      23.3132
     ]
   },
   "64.118.226.47": {
@@ -1759,6 +1869,16 @@
       -122.3104
     ]
   },
+  "72.18.132.133": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      39.7491,
+      -104.9945
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1809,14 +1929,14 @@
       -75.1763
     ]
   },
-  "75.82.121.13": {
+  "76.181.135.226": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Huntington Beach",
+    "city": "Louisville",
     "coordinates": [
-      33.675,
-      -118.0027
+      38.3048,
+      -85.5865
     ]
   },
   "77.239.212.26": {
@@ -1939,6 +2059,16 @@
       18.0717
     ]
   },
+  "82.68.47.165": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Chinnor",
+    "coordinates": [
+      51.7042,
+      -0.9112
+    ]
+  },
   "83.172.66.214": {
     "region": "Europe",
     "country": "Sweden",
@@ -1967,6 +2097,16 @@
     "coordinates": [
       51.3837,
       7.7127
+    ]
+  },
+  "85.137.228.112": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9158,
+      10.8458
     ]
   },
   "85.166.113.202": {
@@ -2069,6 +2209,16 @@
       76.939
     ]
   },
+  "89.253.97.115": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Saltsj\u00f6baden",
+    "coordinates": [
+      59.2862,
+      18.2993
+    ]
+  },
   "89.72.118.186": {
     "region": "Europe",
     "country": "Poland",
@@ -2117,6 +2267,26 @@
     "coordinates": [
       64.1476,
       -21.9392
+    ]
+  },
+  "94.16.128.193": {
+    "region": "Europe",
+    "country": "Switzerland",
+    "cc": "CH",
+    "city": "Oberwil",
+    "coordinates": [
+      47.5119,
+      7.5579
+    ]
+  },
+  "94.23.249.185": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Roubaix",
+    "coordinates": [
+      50.6924,
+      3.20113
     ]
   },
   "94.254.23.181": {
