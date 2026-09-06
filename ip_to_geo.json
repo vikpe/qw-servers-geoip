@@ -179,6 +179,16 @@
       145.068
     ]
   },
+  "121.99.166.164": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Wellington",
+    "coordinates": [
+      -41.2971,
+      174.7932
+    ]
+  },
   "122.199.32.47": {
     "region": "Oceania",
     "country": "Australia",
@@ -187,6 +197,16 @@
     "coordinates": [
       -34.8304,
       138.6346
+    ]
+  },
+  "122.199.63.203": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8469,
+      145.2136
     ]
   },
   "123.51.55.162": {
@@ -479,7 +499,7 @@
       17.03
     ]
   },
-  "146.70.237.140": {
+  "146.70.237.152": {
     "region": "Europe",
     "country": "The Netherlands",
     "cc": "NL",
@@ -849,7 +869,7 @@
       -0.1278
     ]
   },
-  "179.104.64.123": {
+  "179.104.68.200": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -937,6 +957,16 @@
     "coordinates": [
       52.2123,
       0.1516
+    ]
+  },
+  "187.74.36.123": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "188.166.161.185": {
@@ -1417,6 +1447,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.181.244.200": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.32.69.76": {
@@ -2179,6 +2219,16 @@
       13.4603
     ]
   },
+  "88.193.167.155": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4966,
+      23.7831
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2207,16 +2257,6 @@
     "coordinates": [
       43.2498,
       76.939
-    ]
-  },
-  "89.253.97.115": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Saltsj\u00f6baden",
-    "coordinates": [
-      59.2862,
-      18.2993
     ]
   },
   "89.72.118.186": {
