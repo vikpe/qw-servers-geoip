@@ -499,16 +499,6 @@
       17.03
     ]
   },
-  "146.70.237.152": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Duivendrecht",
-    "coordinates": [
-      52.3294,
-      4.93964
-    ]
-  },
   "147.78.123.137": {
     "region": "South America",
     "country": "Argentina",
@@ -819,16 +809,6 @@
       73.3729
     ]
   },
-  "176.72.168.81": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.5102,
-      23.7985
-    ]
-  },
   "177.102.166.178": {
     "region": "South America",
     "country": "Brazil",
@@ -869,7 +849,7 @@
       -0.1278
     ]
   },
-  "179.104.68.200": {
+  "179.104.72.221": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1097,6 +1077,16 @@
     "coordinates": [
       49.4527,
       11.0783
+    ]
+  },
+  "197.49.25.199": {
+    "region": "Africa",
+    "country": "Egypt",
+    "cc": "EG",
+    "city": "Ash-Shaykh Z\u0101yid",
+    "coordinates": [
+      30.0616,
+      31.0295
     ]
   },
   "198.46.237.179": {
@@ -1389,16 +1379,6 @@
       -96.8704
     ]
   },
-  "24.218.180.213": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Danbury",
-    "coordinates": [
-      41.3908,
-      -73.4483
-    ]
-  },
   "24.239.125.195": {
     "region": "North America",
     "country": "United States",
@@ -1407,6 +1387,26 @@
     "coordinates": [
       40.8795,
       -79.93
+    ]
+  },
+  "24.62.192.246": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Malden",
+    "coordinates": [
+      42.428,
+      -71.0618
+    ]
+  },
+  "27.33.146.181": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8906,
+      151.0463
     ]
   },
   "3.94.62.64": {
@@ -1527,16 +1527,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.5309
     ]
   },
   "45.234.92.131": {
@@ -2149,7 +2139,7 @@
       10.8458
     ]
   },
-  "85.166.113.202": {
+  "85.166.113.116": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
@@ -2219,16 +2209,6 @@
       13.4603
     ]
   },
-  "88.193.167.155": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4966,
-      23.7831
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2279,7 +2259,7 @@
       24.7225
     ]
   },
-  "91.55.70.80": {
+  "91.55.64.175": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
