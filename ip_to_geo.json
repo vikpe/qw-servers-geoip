@@ -479,6 +479,16 @@
       17.03
     ]
   },
+  "147.185.221.194": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Eugene",
+    "coordinates": [
+      44.0535,
+      -123.09
+    ]
+  },
   "147.78.123.137": {
     "region": "South America",
     "country": "Argentina",
@@ -779,16 +789,6 @@
       -121.8845
     ]
   },
-  "173.69.14.157": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cranston",
-    "coordinates": [
-      41.7689,
-      -71.4758
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -837,16 +837,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "179.104.74.198": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -929,16 +919,6 @@
       0.1516
     ]
   },
-  "187.74.36.123": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -957,6 +937,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "191.54.76.38": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1149,16 +1139,6 @@
       -47.4011
     ]
   },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -31.9307,
-      115.8398
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1319,6 +1299,16 @@
       13.405
     ]
   },
+  "220.245.102.228": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.8672,
+      151.1997
+    ]
+  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1397,6 +1387,16 @@
     "coordinates": [
       59.9417,
       30.3096
+    ]
+  },
+  "34.11.79.247": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1487,6 +1487,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
     ]
   },
   "45.234.92.131": {
@@ -1599,7 +1609,7 @@
       -96.5991
     ]
   },
-  "47.190.124.73": {
+  "47.190.124.72": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1677,6 +1687,16 @@
     "coordinates": [
       36.677696,
       -78.37471
+    ]
+  },
+  "52.53.189.61": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "San Jose",
+    "coordinates": [
+      37.33939,
+      -121.89496
     ]
   },
   "52.67.74.216": {
@@ -1909,16 +1929,6 @@
       -123.3655
     ]
   },
-  "75.192.138.30": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Philadelphia",
-    "coordinates": [
-      40.0356,
-      -75.1763
-    ]
-  },
   "76.181.135.226": {
     "region": "North America",
     "country": "United States",
@@ -2037,6 +2047,16 @@
     "coordinates": [
       59.3287,
       18.0717
+    ]
+  },
+  "82.25.75.176": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
     ]
   },
   "82.68.47.165": {
@@ -2159,7 +2179,7 @@
       13.4603
     ]
   },
-  "87.189.59.6": {
+  "87.189.56.137": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2197,16 +2217,6 @@
     "coordinates": [
       43.2498,
       76.939
-    ]
-  },
-  "89.253.97.115": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Saltsj\u00f6baden",
-    "coordinates": [
-      59.2862,
-      18.2993
     ]
   },
   "89.72.118.186": {
