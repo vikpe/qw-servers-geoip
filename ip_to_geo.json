@@ -149,6 +149,16 @@
       11.0783
     ]
   },
+  "118.210.139.247": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.7377,
+      150.9931
+    ]
+  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -779,16 +789,6 @@
       73.3729
     ]
   },
-  "177.102.166.178": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "177.235.57.138": {
     "region": "South America",
     "country": "Brazil",
@@ -797,6 +797,16 @@
     "coordinates": [
       -15.7798,
       -47.9331
+    ]
+  },
+  "177.76.217.220": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "178.174.136.235": {
@@ -819,7 +829,7 @@
       -0.1278
     ]
   },
-  "179.104.67.75": {
+  "179.104.71.108": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1107,6 +1117,16 @@
     "coordinates": [
       41.13925,
       -104.816154
+    ]
+  },
+  "200.158.35.146": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "201.23.3.62": {
@@ -1397,6 +1417,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "35.245.66.27": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "35.253.163.0": {
@@ -1699,16 +1729,6 @@
       -46.63611
     ]
   },
-  "61.8.122.1": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8672,
-      151.1997
-    ]
-  },
   "62.146.231.166": {
     "region": "North America",
     "country": "United States",
@@ -1889,16 +1909,6 @@
       -123.3709
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "76.181.135.226": {
     "region": "North America",
     "country": "United States",
@@ -1990,16 +2000,6 @@
     ]
   },
   "78.92.201.168": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
-  "78.92.201.243": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
