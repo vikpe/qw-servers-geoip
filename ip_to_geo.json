@@ -149,16 +149,6 @@
       11.0783
     ]
   },
-  "118.210.139.247": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.7377,
-      150.9931
-    ]
-  },
   "118.67.199.81": {
     "region": "Oceania",
     "country": "New Zealand",
@@ -629,6 +619,16 @@
       10.7389
     ]
   },
+  "159.26.108.70": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -829,7 +829,7 @@
       -0.1278
     ]
   },
-  "179.104.71.108": {
+  "179.104.69.253": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1119,16 +1119,6 @@
       -104.816154
     ]
   },
-  "200.158.35.146": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "201.23.3.62": {
     "region": "South America",
     "country": "Brazil",
@@ -1137,16 +1127,6 @@
     "coordinates": [
       -20.5395,
       -47.4011
-    ]
-  },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -32.1773,
-      115.9873
     ]
   },
   "203.29.240.182": {
@@ -1339,6 +1319,16 @@
       -96.8704
     ]
   },
+  "24.239.125.195": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Renfrew",
+    "coordinates": [
+      40.8063,
+      -79.9754
+    ]
+  },
   "24.62.192.246": {
     "region": "North America",
     "country": "United States",
@@ -1399,6 +1389,16 @@
       13.4049
     ]
   },
+  "34.66.112.73": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
+    ]
+  },
   "34.88.19.245": {
     "region": "Europe",
     "country": "Finland",
@@ -1417,26 +1417,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.245.66.27": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
-  "35.253.163.0": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "38.124.152.155": {
@@ -2207,16 +2187,6 @@
     "coordinates": [
       43.2498,
       76.939
-    ]
-  },
-  "89.253.97.115": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
     ]
   },
   "89.72.118.186": {
