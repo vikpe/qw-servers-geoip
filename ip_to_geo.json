@@ -619,16 +619,6 @@
       10.7389
     ]
   },
-  "159.26.108.70": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -777,6 +767,16 @@
     "coordinates": [
       48.2412,
       -122.3707
+    ]
+  },
+  "173.249.253.84": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8483,
+      -87.6517
     ]
   },
   "176.210.100.6": {
@@ -999,6 +999,16 @@
       -73.5723
     ]
   },
+  "192.99.43.43": {
+    "region": "North America",
+    "country": "Canada",
+    "cc": "CA",
+    "city": "Beauharnois",
+    "coordinates": [
+      45.3147,
+      -73.8785
+    ]
+  },
   "193.227.134.114": {
     "region": "Europe",
     "country": "Russia",
@@ -1127,6 +1137,16 @@
     "coordinates": [
       -20.5395,
       -47.4011
+    ]
+  },
+  "203.214.93.20": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
     ]
   },
   "203.29.240.182": {
@@ -1569,16 +1589,6 @@
       17.9612
     ]
   },
-  "47.186.130.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Garland",
-    "coordinates": [
-      32.8545,
-      -96.5991
-    ]
-  },
   "47.190.124.72": {
     "region": "North America",
     "country": "United States",
@@ -1859,16 +1869,6 @@
       -81.9021
     ]
   },
-  "74.208.234.169": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Kansas City",
-    "coordinates": [
-      39.0997,
-      -94.5786
-    ]
-  },
   "75.119.155.10": {
     "region": "Europe",
     "country": "France",
@@ -2079,7 +2079,7 @@
       10.8458
     ]
   },
-  "85.166.113.116": {
+  "85.166.114.177": {
     "region": "Europe",
     "country": "Norway",
     "cc": "NO",
@@ -2149,16 +2149,6 @@
       13.4755
     ]
   },
-  "87.189.56.137": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2189,6 +2179,16 @@
       76.939
     ]
   },
+  "89.253.97.115": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3326,
+      18.0651
+    ]
+  },
   "89.72.118.186": {
     "region": "Europe",
     "country": "Poland",
@@ -2207,6 +2207,16 @@
     "coordinates": [
       60.2167,
       24.7225
+    ]
+  },
+  "91.55.92.227": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
     ]
   },
   "92.35.23.44": {
