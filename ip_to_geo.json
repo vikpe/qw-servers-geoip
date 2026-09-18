@@ -139,16 +139,6 @@
       -0.127586
     ]
   },
-  "115.129.46.159": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7491,
-      145.02
-    ]
-  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -689,6 +679,16 @@
       -46.6361
     ]
   },
+  "164.163.10.137": {
+    "region": "North America",
+    "country": "Panama",
+    "cc": "PA",
+    "city": "Panama City",
+    "coordinates": [
+      8.98185,
+      -79.5227
+    ]
+  },
   "165.232.81.173": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -759,16 +759,6 @@
       -96.5486
     ]
   },
-  "172.92.232.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2412,
-      -122.3707
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -807,16 +797,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "179.104.77.62": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -939,6 +919,16 @@
       -47.0565
     ]
   },
+  "191.54.65.18": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
+    ]
+  },
   "192.121.119.117": {
     "region": "Europe",
     "country": "Denmark",
@@ -1049,6 +1039,16 @@
       20.1221
     ]
   },
+  "194.95.98.145": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Deggendorf",
+    "coordinates": [
+      48.8439,
+      12.958
+    ]
+  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1127,6 +1127,16 @@
     "coordinates": [
       41.13925,
       -104.816154
+    ]
+  },
+  "200.158.35.146": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "201.23.3.62": {
@@ -1659,16 +1669,6 @@
       -122.2193
     ]
   },
-  "51.75.53.205": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2633,
-      21.0283
-    ]
-  },
   "52.240.58.168": {
     "region": "North America",
     "country": "United States",
@@ -1717,16 +1717,6 @@
     "coordinates": [
       -23.5475,
       -46.63611
-    ]
-  },
-  "62.146.231.166": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Orangeburg",
-    "coordinates": [
-      41.0446,
-      -73.9592
     ]
   },
   "62.220.162.124": {
@@ -1829,26 +1819,6 @@
       -77.4622
     ]
   },
-  "69.222.182.36": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Belleville",
-    "coordinates": [
-      38.5317,
-      -89.9988
-    ]
-  },
-  "69.226.253.51": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "North Olmsted",
-    "coordinates": [
-      41.4156,
-      -81.9235
-    ]
-  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1907,16 +1877,6 @@
     "coordinates": [
       48.4248,
       -123.3709
-    ]
-  },
-  "76.181.135.226": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Louisville",
-    "coordinates": [
-      38.3048,
-      -85.5865
     ]
   },
   "77.239.212.26": {
@@ -1997,6 +1957,16 @@
     "coordinates": [
       55.6724,
       13.0685
+    ]
+  },
+  "78.92.199.21": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
     ]
   },
   "78.92.201.168": {
@@ -2367,6 +2337,16 @@
     "coordinates": [
       37.9208,
       -122.0182
+    ]
+  },
+  "98.97.33.78": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seattle",
+    "coordinates": [
+      47.6062,
+      -122.332
     ]
   },
   "99.184.61.20": {
