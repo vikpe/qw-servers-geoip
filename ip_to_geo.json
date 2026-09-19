@@ -359,16 +359,6 @@
       -106.535
     ]
   },
-  "137.74.7.185": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2299,
-      21.0093
-    ]
-  },
   "138.68.21.116": {
     "region": "North America",
     "country": "United States",
@@ -759,6 +749,16 @@
       -96.5486
     ]
   },
+  "172.92.232.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -767,6 +767,26 @@
     "coordinates": [
       54.9896,
       73.3729
+    ]
+  },
+  "176.72.164.130": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4492,
+      23.8557
+    ]
+  },
+  "176.72.83.238": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Kiuruvesi",
+    "coordinates": [
+      63.65,
+      26.6167
     ]
   },
   "177.235.57.138": {
@@ -919,7 +939,7 @@
       -47.0565
     ]
   },
-  "191.54.65.18": {
+  "191.54.76.118": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1127,16 +1147,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "200.158.35.146": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "201.23.3.62": {
@@ -1819,6 +1829,16 @@
       -77.4622
     ]
   },
+  "69.226.253.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Olmsted",
+    "coordinates": [
+      41.4156,
+      -81.9235
+    ]
+  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1877,6 +1897,16 @@
     "coordinates": [
       48.4248,
       -123.3709
+    ]
+  },
+  "76.181.135.226": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Louisville",
+    "coordinates": [
+      38.3048,
+      -85.5865
     ]
   },
   "77.239.212.26": {
@@ -1960,16 +1990,6 @@
     ]
   },
   "78.92.199.21": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
-  "78.92.201.168": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2337,16 +2357,6 @@
     "coordinates": [
       37.9208,
       -122.0182
-    ]
-  },
-  "98.97.33.78": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seattle",
-    "coordinates": [
-      47.6062,
-      -122.332
     ]
   },
   "99.184.61.20": {
