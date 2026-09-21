@@ -189,6 +189,16 @@
       145.2136
     ]
   },
+  "123.243.139.4": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.789,
+      145.0517
+    ]
+  },
   "123.51.55.162": {
     "region": "Oceania",
     "country": "Australia",
@@ -327,6 +337,16 @@
     "coordinates": [
       50.1103,
       8.7147
+    ]
+  },
+  "136.70.217.65": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "137.184.162.43": {
@@ -599,16 +619,6 @@
       10.7389
     ]
   },
-  "159.26.108.67": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -759,6 +769,16 @@
       -96.5486
     ]
   },
+  "172.92.232.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2412,
+      -122.3707
+    ]
+  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -767,16 +787,6 @@
     "coordinates": [
       54.9896,
       73.3729
-    ]
-  },
-  "176.72.164.130": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4492,
-      23.8557
     ]
   },
   "177.235.57.138": {
@@ -807,6 +817,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "179.104.68.168": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -899,6 +919,16 @@
       0.1516
     ]
   },
+  "187.77.48.25": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -927,16 +957,6 @@
     "coordinates": [
       -22.9035,
       -47.0565
-    ]
-  },
-  "191.54.67.208": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1049,6 +1069,16 @@
       20.1221
     ]
   },
+  "194.95.98.145": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Deggendorf",
+    "coordinates": [
+      48.8439,
+      12.958
+    ]
+  },
   "195.201.133.22": {
     "region": "Europe",
     "country": "Germany",
@@ -1127,16 +1157,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "200.158.35.146": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "201.23.3.62": {
@@ -1329,16 +1349,6 @@
       13.405
     ]
   },
-  "217.31.161.46": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Vega",
-    "coordinates": [
-      59.167,
-      18.1458
-    ]
-  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1379,7 +1389,7 @@
       -79.9754
     ]
   },
-  "24.62.192.246": {
+  "24.63.151.73": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -1387,16 +1397,6 @@
     "coordinates": [
       41.3908,
       -73.4483
-    ]
-  },
-  "3.94.62.64": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Ashburn",
-    "coordinates": [
-      39.04372,
-      -77.48749
     ]
   },
   "31.166.102.229": {
@@ -1507,6 +1507,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
     ]
   },
   "45.234.92.131": {
@@ -1909,16 +1919,6 @@
       -123.3709
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "76.181.135.226": {
     "region": "North America",
     "country": "United States",
@@ -1957,6 +1957,16 @@
     "coordinates": [
       55.7487,
       37.6187
+    ]
+  },
+  "77.55.194.24": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Krakow",
+    "coordinates": [
+      50.0754,
+      20.0162
     ]
   },
   "77.90.0.186": {
