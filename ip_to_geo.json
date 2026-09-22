@@ -9,6 +9,16 @@
       -77.35
     ]
   },
+  "101.100.164.156": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.33417,
+      103.723
+    ]
+  },
   "101.127.244.89": {
     "region": "Asia",
     "country": "Singapore",
@@ -17,6 +27,16 @@
     "coordinates": [
       1.43333,
       103.831
+    ]
+  },
+  "102.132.171.115": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Johannesburg",
+    "coordinates": [
+      -26.2309,
+      28.0583
     ]
   },
   "103.151.65.11": {
@@ -337,16 +357,6 @@
     "coordinates": [
       50.1103,
       8.7147
-    ]
-  },
-  "136.70.217.65": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "137.184.162.43": {
@@ -1739,16 +1749,6 @@
       -46.63611
     ]
   },
-  "61.245.149.215": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Adelaide",
-    "coordinates": [
-      -34.8733,
-      138.4945
-    ]
-  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1879,6 +1879,16 @@
       21.0093
     ]
   },
+  "70.34.242.185": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2299,
+      21.0093
+    ]
+  },
   "70.89.115.157": {
     "region": "North America",
     "country": "United States",
@@ -1987,16 +1997,6 @@
     "coordinates": [
       47.5,
       19.0412
-    ]
-  },
-  "78.45.199.104": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0471,
-      14.4523
     ]
   },
   "78.69.123.41": {
