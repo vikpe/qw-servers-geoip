@@ -9,16 +9,6 @@
       -77.35
     ]
   },
-  "101.100.164.156": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.33417,
-      103.723
-    ]
-  },
   "101.127.244.89": {
     "region": "Asia",
     "country": "Singapore",
@@ -207,16 +197,6 @@
     "coordinates": [
       -37.8469,
       145.2136
-    ]
-  },
-  "123.243.139.4": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.789,
-      145.0517
     ]
   },
   "123.51.55.162": {
@@ -529,6 +509,16 @@
       -104.9847
     ]
   },
+  "15.220.152.43": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Hamburg",
+    "coordinates": [
+      53.55073,
+      9.99302
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -729,6 +719,16 @@
       12.3649
     ]
   },
+  "172.232.49.127": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Paris",
+    "coordinates": [
+      48.8558,
+      2.3494
+    ]
+  },
   "172.233.117.128": {
     "region": "Europe",
     "country": "Spain",
@@ -827,16 +827,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "179.104.68.168": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -959,6 +949,16 @@
       4.9392
     ]
   },
+  "189.19.186.103": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
+    ]
+  },
   "189.78.79.175": {
     "region": "South America",
     "country": "Brazil",
@@ -967,6 +967,16 @@
     "coordinates": [
       -22.9035,
       -47.0565
+    ]
+  },
+  "191.54.71.77": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1107,6 +1117,16 @@
     "coordinates": [
       32.7797,
       -96.8022
+    ]
+  },
+  "2.27.24.162": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1169,
+      8.6837
     ]
   },
   "20.106.48.249": {
@@ -1519,16 +1539,6 @@
       144.9669
     ]
   },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.5309
-    ]
-  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1879,16 +1889,6 @@
       21.0093
     ]
   },
-  "70.34.242.185": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2299,
-      21.0093
-    ]
-  },
   "70.89.115.157": {
     "region": "North America",
     "country": "United States",
@@ -1997,6 +1997,16 @@
     "coordinates": [
       47.5,
       19.0412
+    ]
+  },
+  "78.45.199.104": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0471,
+      14.4523
     ]
   },
   "78.69.123.41": {
@@ -2189,7 +2199,7 @@
       13.4755
     ]
   },
-  "87.189.49.116": {
+  "87.189.63.100": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2387,6 +2397,16 @@
     "coordinates": [
       37.9208,
       -122.0182
+    ]
+  },
+  "98.97.39.16": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seattle",
+    "coordinates": [
+      47.6062,
+      -122.332
     ]
   },
   "99.184.61.20": {
