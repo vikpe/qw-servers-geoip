@@ -229,6 +229,16 @@
       -46.6361
     ]
   },
+  "13.210.12.178": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.86785,
+      151.20732
+    ]
+  },
   "13.247.30.86": {
     "region": "Africa",
     "country": "South Africa",
@@ -517,6 +527,16 @@
     "coordinates": [
       53.55073,
       9.99302
+    ]
+  },
+  "152.44.208.125": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Black Diamond",
+    "coordinates": [
+      47.3168,
+      -121.9958
     ]
   },
   "152.67.110.136": {
@@ -829,6 +849,16 @@
       -0.1278
     ]
   },
+  "179.104.66.113": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
+    ]
+  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -949,16 +979,6 @@
       4.9392
     ]
   },
-  "189.19.186.103": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "189.78.79.175": {
     "region": "South America",
     "country": "Brazil",
@@ -967,16 +987,6 @@
     "coordinates": [
       -22.9035,
       -47.0565
-    ]
-  },
-  "191.54.71.77": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1319,16 +1329,6 @@
       37.6173
     ]
   },
-  "212.53.165.161": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "L\u00fcbeck",
-    "coordinates": [
-      53.8705,
-      10.6968
-    ]
-  },
   "213.164.209.174": {
     "region": "Europe",
     "country": "Sweden",
@@ -1439,6 +1439,16 @@
       39.1841
     ]
   },
+  "31.167.79.210": {
+    "region": "Asia",
+    "country": "Saudi Arabia",
+    "cc": "SA",
+    "city": "Jeddah",
+    "coordinates": [
+      21.4913,
+      39.1841
+    ]
+  },
   "31.184.218.192": {
     "region": "Europe",
     "country": "Russia",
@@ -1449,6 +1459,16 @@
       30.3096
     ]
   },
+  "34.11.104.218": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1457,6 +1477,16 @@
     "coordinates": [
       32.8771,
       -80.013
+    ]
+  },
+  "34.21.95.194": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.32.69.76": {
@@ -1537,6 +1567,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
     ]
   },
   "45.234.92.131": {
@@ -1759,6 +1799,16 @@
       -46.63611
     ]
   },
+  "61.245.149.215": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Adelaide",
+    "coordinates": [
+      -34.8733,
+      138.4945
+    ]
+  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1927,6 +1977,16 @@
     "coordinates": [
       48.4248,
       -123.3709
+    ]
+  },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
     ]
   },
   "76.181.135.226": {
@@ -2397,16 +2457,6 @@
     "coordinates": [
       37.9208,
       -122.0182
-    ]
-  },
-  "98.97.39.16": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Seattle",
-    "coordinates": [
-      47.6062,
-      -122.332
     ]
   },
   "99.184.61.20": {
