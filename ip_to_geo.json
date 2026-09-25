@@ -53,7 +53,7 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Adelaide",
+    "city": "Medindie",
     "coordinates": [
       -34.9008,
       138.6017
@@ -125,8 +125,8 @@
     "cc": "BE",
     "city": "Antwerp",
     "coordinates": [
-      51.2192,
-      4.3917
+      51.2198,
+      4.4671
     ]
   },
   "109.200.20.152": {
@@ -183,10 +183,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Sydney",
+    "city": "Adelaide",
     "coordinates": [
-      -33.7377,
-      150.9931
+      -34.9282,
+      138.5999
     ]
   },
   "122.199.63.203": {
@@ -203,10 +203,10 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Jordan Springs",
+    "city": "Sydney",
     "coordinates": [
-      -33.7214,
-      150.729
+      -33.8726,
+      151.0387
     ]
   },
   "128.199.52.100": {
@@ -227,16 +227,6 @@
     "coordinates": [
       -23.5475,
       -46.6361
-    ]
-  },
-  "13.210.12.178": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.86785,
-      151.20732
     ]
   },
   "13.247.30.86": {
@@ -613,10 +603,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Stockholm",
+    "city": "Uppsala",
     "coordinates": [
-      59.3326,
-      18.0651
+      59.856,
+      17.6403
     ]
   },
   "158.174.22.129": {
@@ -625,8 +615,8 @@
     "cc": "SE",
     "city": "Stockholm",
     "coordinates": [
-      59.3326,
-      18.0651
+      59.3333,
+      18.05
     ]
   },
   "158.248.13.196": {
@@ -667,6 +657,16 @@
     "coordinates": [
       -37.814,
       144.96332
+    ]
+  },
+  "16.59.130.252": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Columbus",
+    "coordinates": [
+      39.96118,
+      -82.99879
     ]
   },
   "160.16.101.168": {
@@ -819,6 +819,16 @@
       73.3729
     ]
   },
+  "176.72.164.130": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Tampere",
+    "coordinates": [
+      61.4492,
+      23.8557
+    ]
+  },
   "177.235.57.138": {
     "region": "South America",
     "country": "Brazil",
@@ -849,7 +859,7 @@
       -0.1278
     ]
   },
-  "179.104.66.113": {
+  "179.104.66.65": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -863,10 +873,10 @@
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
-    "city": "Guarulhos",
+    "city": "Itatiba",
     "coordinates": [
-      -23.4118,
-      -46.4392
+      -22.9975,
+      -46.7894
     ]
   },
   "182.239.197.143": {
@@ -875,8 +885,8 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.6508,
-      145.1037
+      -37.6481,
+      145.0331
     ]
   },
   "184.57.53.220": {
@@ -977,6 +987,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.19.186.103": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "189.78.79.175": {
@@ -1093,20 +1113,10 @@
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Recsk",
+    "city": "Gy\u0151r",
     "coordinates": [
-      47.9351,
-      20.1221
-    ]
-  },
-  "194.95.98.145": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Deggendorf",
-    "coordinates": [
-      48.8439,
-      12.958
+      47.6826,
+      17.6252
     ]
   },
   "195.201.133.22": {
@@ -1279,16 +1289,6 @@
       -157.8725
     ]
   },
-  "210.5.38.224": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.7842,
-      144.878
-    ]
-  },
   "212.147.246.37": {
     "region": "Europe",
     "country": "Sweden",
@@ -1413,10 +1413,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Renfrew",
+    "city": "Youngstown",
     "coordinates": [
-      40.8063,
-      -79.9754
+      41.0996,
+      -80.7523
     ]
   },
   "24.63.151.73": {
@@ -1427,16 +1427,6 @@
     "coordinates": [
       41.3908,
       -73.4483
-    ]
-  },
-  "31.166.102.229": {
-    "region": "Asia",
-    "country": "Saudi Arabia",
-    "cc": "SA",
-    "city": "Jeddah",
-    "coordinates": [
-      21.4913,
-      39.1841
     ]
   },
   "31.167.79.210": {
@@ -1459,16 +1449,6 @@
       30.3096
     ]
   },
-  "34.11.104.218": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1477,16 +1457,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "34.21.95.194": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "34.32.69.76": {
@@ -1567,16 +1537,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.5309
     ]
   },
   "45.234.92.131": {
@@ -1893,10 +1853,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Livingston",
+    "city": "Turlock",
     "coordinates": [
-      37.3879,
-      -120.7298
+      37.4912,
+      -120.8559
     ]
   },
   "69.140.100.197": {
@@ -1979,16 +1939,6 @@
       -123.3709
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "76.181.135.226": {
     "region": "North America",
     "country": "United States",
@@ -2065,31 +2015,41 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0471,
-      14.4523
+      50.0766,
+      14.4464
     ]
   },
   "78.69.123.41": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Askersund",
+    "city": "\u00d6rebro",
     "coordinates": [
-      58.8799,
-      14.9023
+      59.274,
+      15.2119
     ]
   },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Lomma",
+    "city": "Malm\u00f6",
     "coordinates": [
-      55.6724,
-      13.0685
+      55.6078,
+      12.9982
     ]
   },
   "78.92.199.21": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
+    ]
+  },
+  "78.92.202.193": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2465,8 +2425,8 @@
     "cc": "US",
     "city": "San Antonio",
     "coordinates": [
-      29.7026,
-      -98.4759
+      29.5863,
+      -98.4769
     ]
   },
   "99.72.255.45": {
