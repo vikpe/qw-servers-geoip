@@ -859,7 +859,7 @@
       -0.1278
     ]
   },
-  "179.104.66.65": {
+  "179.104.78.153": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -987,16 +987,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "189.19.186.103": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
     ]
   },
   "189.78.79.175": {
@@ -1539,6 +1529,16 @@
       144.9669
     ]
   },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
+    ]
+  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1759,16 +1759,6 @@
       -46.63611
     ]
   },
-  "61.245.149.215": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Adelaide",
-    "coordinates": [
-      -34.8733,
-      138.4945
-    ]
-  },
   "62.220.162.124": {
     "region": "Europe",
     "country": "Sweden",
@@ -1787,6 +1777,16 @@
     "coordinates": [
       55.9399,
       23.3132
+    ]
+  },
+  "63.32.102.62": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": [
+      53.33306,
+      -6.24889
     ]
   },
   "64.118.226.47": {
@@ -2039,16 +2039,6 @@
       12.9982
     ]
   },
-  "78.92.199.21": {
-    "region": "Europe",
-    "country": "Hungary",
-    "cc": "HU",
-    "city": "T\u00f6r\u00f6kb\u00e1lint",
-    "coordinates": [
-      47.4277,
-      18.9191
-    ]
-  },
   "78.92.202.193": {
     "region": "Europe",
     "country": "Hungary",
@@ -2147,16 +2137,6 @@
     "coordinates": [
       59.9158,
       10.8458
-    ]
-  },
-  "85.166.114.177": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9133,
-      10.7389
     ]
   },
   "85.209.118.60": {
@@ -2427,6 +2407,16 @@
     "coordinates": [
       29.5863,
       -98.4769
+    ]
+  },
+  "99.72.211.125": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Topeka",
+    "coordinates": [
+      39.0176,
+      -95.7431
     ]
   },
   "99.72.255.45": {
