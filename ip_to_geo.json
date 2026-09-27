@@ -119,6 +119,16 @@
       -87.9954
     ]
   },
+  "108.80.179.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Jenison",
+    "coordinates": [
+      42.9133,
+      -85.8145
+    ]
+  },
   "109.138.80.195": {
     "region": "Europe",
     "country": "Belgium",
@@ -227,6 +237,16 @@
     "coordinates": [
       -23.5475,
       -46.6361
+    ]
+  },
+  "13.211.202.22": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.86785,
+      151.20732
     ]
   },
   "13.247.30.86": {
@@ -819,16 +839,6 @@
       73.3729
     ]
   },
-  "176.72.164.130": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4492,
-      23.8557
-    ]
-  },
   "177.235.57.138": {
     "region": "South America",
     "country": "Brazil",
@@ -857,6 +867,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "179.104.71.75": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "179.104.78.153": {
@@ -1479,6 +1499,16 @@
       -80.013
     ]
   },
+  "35.194.88.56": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "35.253.163.0": {
     "region": "North America",
     "country": "United States",
@@ -1777,16 +1807,6 @@
     "coordinates": [
       55.9399,
       23.3132
-    ]
-  },
-  "63.32.102.62": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.33306,
-      -6.24889
     ]
   },
   "64.118.226.47": {
@@ -2199,7 +2219,7 @@
       13.4755
     ]
   },
-  "87.189.63.100": {
+  "87.189.48.2": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
