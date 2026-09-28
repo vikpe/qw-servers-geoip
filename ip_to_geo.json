@@ -239,16 +239,6 @@
       -46.6361
     ]
   },
-  "13.211.202.22": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.86785,
-      151.20732
-    ]
-  },
   "13.247.30.86": {
     "region": "Africa",
     "country": "South Africa",
@@ -537,16 +527,6 @@
     "coordinates": [
       53.55073,
       9.99302
-    ]
-  },
-  "152.44.208.125": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Black Diamond",
-    "coordinates": [
-      47.3168,
-      -121.9958
     ]
   },
   "152.67.110.136": {
@@ -879,16 +859,6 @@
       -46.5009
     ]
   },
-  "179.104.78.153": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
-    ]
-  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -1007,6 +977,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.19.186.103": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "189.78.79.175": {
@@ -1499,16 +1479,6 @@
       -80.013
     ]
   },
-  "35.194.88.56": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "35.253.163.0": {
     "region": "North America",
     "country": "United States",
@@ -1557,16 +1527,6 @@
     "coordinates": [
       -37.8159,
       144.9669
-    ]
-  },
-  "45.163.78.45": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4566,
-      -46.5309
     ]
   },
   "45.234.92.131": {
@@ -1919,6 +1879,16 @@
       21.0093
     ]
   },
+  "70.39.95.254": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seagoville",
+    "coordinates": [
+      32.6528,
+      -96.5576
+    ]
+  },
   "70.89.115.157": {
     "region": "North America",
     "country": "United States",
@@ -1957,16 +1927,6 @@
     "coordinates": [
       48.4248,
       -123.3709
-    ]
-  },
-  "76.181.135.226": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Louisville",
-    "coordinates": [
-      38.3048,
-      -85.5865
     ]
   },
   "77.239.212.26": {
@@ -2327,6 +2287,16 @@
     "coordinates": [
       60.0179,
       13.6092
+    ]
+  },
+  "94.254.85.19": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Ljungby",
+    "coordinates": [
+      56.8294,
+      13.9402
     ]
   },
   "95.179.165.74": {
