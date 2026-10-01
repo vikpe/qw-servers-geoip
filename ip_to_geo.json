@@ -219,16 +219,6 @@
       -46.6361
     ]
   },
-  "13.247.30.86": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Cape Town",
-    "coordinates": [
-      -33.92584,
-      18.42322
-    ]
-  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -389,16 +379,6 @@
       -80.1928
     ]
   },
-  "140.238.199.88": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.8688,
-      151.209
-    ]
-  },
   "141.105.67.104": {
     "region": "Europe",
     "country": "Russia",
@@ -457,16 +437,6 @@
     "coordinates": [
       51.1046,
       17.03
-    ]
-  },
-  "147.78.123.137": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6142,
-      -58.3811
     ]
   },
   "149.120.63.183": {
@@ -757,6 +727,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "172.237.61.99": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
     ]
   },
   "172.7.58.121": {
@@ -1337,6 +1317,16 @@
     "coordinates": [
       52.52,
       13.405
+    ]
+  },
+  "217.229.174.94": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Bietigheim-Bissingen",
+    "coordinates": [
+      48.9417,
+      9.1153
     ]
   },
   "23.159.160.34": {
@@ -2209,7 +2199,7 @@
       24.7225
     ]
   },
-  "92.212.225.226": {
+  "92.212.228.25": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2277,6 +2267,16 @@
     "coordinates": [
       56.8294,
       13.9402
+    ]
+  },
+  "94.29.37.117": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
     ]
   },
   "95.179.165.74": {
