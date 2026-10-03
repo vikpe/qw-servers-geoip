@@ -149,6 +149,16 @@
       -0.127586
     ]
   },
+  "110.174.156.177": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.7444,
+      144.7597
+    ]
+  },
   "116.203.97.160": {
     "region": "Europe",
     "country": "Germany",
@@ -175,8 +185,8 @@
     "cc": "AU",
     "city": "Melbourne",
     "coordinates": [
-      -37.8129,
-      145.068
+      -37.6305,
+      144.8671
     ]
   },
   "121.99.166.164": {
@@ -205,8 +215,8 @@
     "cc": "AU",
     "city": "Sydney",
     "coordinates": [
-      -33.8726,
-      151.0387
+      -33.9158,
+      151.0348
     ]
   },
   "128.199.52.100": {
@@ -227,6 +237,16 @@
     "coordinates": [
       -23.5475,
       -46.6361
+    ]
+  },
+  "13.247.30.86": {
+    "region": "Africa",
+    "country": "South Africa",
+    "cc": "ZA",
+    "city": "Cape Town",
+    "coordinates": [
+      -33.92584,
+      18.42322
     ]
   },
   "13.79.234.207": {
@@ -283,10 +303,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Coeur d'Alene",
+    "city": "Spokane",
     "coordinates": [
-      47.7242,
-      -116.7834
+      47.7345,
+      -117.447
     ]
   },
   "135.148.34.204": {
@@ -297,6 +317,16 @@
     "coordinates": [
       38.8809,
       -77.3008
+    ]
+  },
+  "136.107.252.224": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "136.243.174.101": {
@@ -327,16 +357,6 @@
     "coordinates": [
       50.1103,
       8.7147
-    ]
-  },
-  "136.70.247.57": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "137.184.162.43": {
@@ -573,10 +593,10 @@
     "region": "Europe",
     "country": "Sweden",
     "cc": "SE",
-    "city": "Lule\u00e5",
+    "city": "Stockholm",
     "coordinates": [
-      65.5864,
-      22.1457
+      59.3326,
+      18.0651
     ]
   },
   "158.174.112.229": {
@@ -587,16 +607,6 @@
     "coordinates": [
       59.856,
       17.6403
-    ]
-  },
-  "158.174.22.129": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3333,
-      18.05
     ]
   },
   "158.248.13.196": {
@@ -763,10 +773,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Anna",
+    "city": "Allen",
     "coordinates": [
-      33.349,
-      -96.5486
+      33.1177,
+      -96.6791
     ]
   },
   "172.92.232.79": {
@@ -775,8 +785,8 @@
     "cc": "US",
     "city": "Stanwood",
     "coordinates": [
-      48.2412,
-      -122.3707
+      48.2353,
+      -122.3767
     ]
   },
   "176.210.100.6": {
@@ -819,7 +829,7 @@
       -0.1278
     ]
   },
-  "179.104.64.247": {
+  "179.104.69.155": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -947,6 +957,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "189.46.23.191": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
     ]
   },
   "189.78.79.175": {
@@ -1173,10 +1193,10 @@
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
-    "city": "Franca",
+    "city": "Fortaleza",
     "coordinates": [
-      -20.5395,
-      -47.4011
+      -3.73272,
+      -38.527
     ]
   },
   "202.87.162.206": {
@@ -1339,6 +1359,16 @@
       13.405
     ]
   },
+  "217.229.174.94": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Bietigheim-Bissingen",
+    "coordinates": [
+      48.9417,
+      9.1153
+    ]
+  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1373,10 +1403,10 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Youngstown",
+    "city": "Renfrew",
     "coordinates": [
-      41.0996,
-      -80.7523
+      40.8063,
+      -79.9754
     ]
   },
   "24.63.151.73": {
@@ -1507,6 +1537,16 @@
     "coordinates": [
       -37.8159,
       144.9669
+    ]
+  },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
     ]
   },
   "45.234.92.131": {
@@ -1805,8 +1845,8 @@
     "cc": "US",
     "city": "Turlock",
     "coordinates": [
-      37.4912,
-      -120.8559
+      37.4946,
+      -120.846
     ]
   },
   "69.140.100.197": {
@@ -1859,6 +1899,16 @@
       -96.5576
     ]
   },
+  "70.89.115.157": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seattle",
+    "coordinates": [
+      47.6859,
+      -122.2994
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1883,10 +1933,10 @@
     "region": "North America",
     "country": "Canada",
     "cc": "CA",
-    "city": "Victoria",
+    "city": "Vancouver",
     "coordinates": [
-      48.4248,
-      -123.3709
+      49.2372,
+      -123.037
     ]
   },
   "76.181.135.226": {
@@ -1946,7 +1996,7 @@
     "city": "Bad Soden am Taunus",
     "coordinates": [
       50.1592,
-      8.48173
+      8.48174
     ]
   },
   "78.131.12.254": {
@@ -1965,8 +2015,8 @@
     "cc": "CZ",
     "city": "Prague",
     "coordinates": [
-      50.0766,
-      14.4464
+      50.0471,
+      14.4523
     ]
   },
   "78.69.123.41": {
@@ -1987,6 +2037,16 @@
     "coordinates": [
       55.6078,
       12.9982
+    ]
+  },
+  "78.92.198.102": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "T\u00f6r\u00f6kb\u00e1lint",
+    "coordinates": [
+      47.4277,
+      18.9191
     ]
   },
   "78.92.202.193": {
@@ -2209,14 +2269,14 @@
       24.7225
     ]
   },
-  "92.212.235.57": {
+  "92.212.239.130": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
     "city": "Sindelfingen",
     "coordinates": [
-      48.6989,
-      9.0227
+      48.7045,
+      9.0232
     ]
   },
   "92.35.23.44": {
@@ -2245,8 +2305,8 @@
     "cc": "CH",
     "city": "Therwil",
     "coordinates": [
-      47.5046,
-      7.5695
+      47.5053,
+      7.5477
     ]
   },
   "94.23.249.185": {
