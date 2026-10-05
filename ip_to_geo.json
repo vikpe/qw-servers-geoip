@@ -839,16 +839,6 @@
       -0.1278
     ]
   },
-  "179.104.69.155": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
-    ]
-  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -857,16 +847,6 @@
     "coordinates": [
       -22.9975,
       -46.7894
-    ]
-  },
-  "182.239.197.143": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.6481,
-      145.0331
     ]
   },
   "182.239.211.251": {
@@ -997,6 +977,16 @@
     "coordinates": [
       -22.9035,
       -47.0565
+    ]
+  },
+  "191.54.64.86": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1289,6 +1279,16 @@
       -96.8021
     ]
   },
+  "208.115.197.242": {
+    "region": "Asia",
+    "country": "Singapore",
+    "cc": "SG",
+    "city": "Singapore",
+    "coordinates": [
+      1.35208,
+      103.82
+    ]
+  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1389,16 +1389,6 @@
       13.405
     ]
   },
-  "217.229.174.94": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Bietigheim-Bissingen",
-    "coordinates": [
-      48.9417,
-      9.1153
-    ]
-  },
   "23.159.160.34": {
     "region": "North America",
     "country": "United States",
@@ -1479,16 +1469,6 @@
       -80.013
     ]
   },
-  "34.150.194.223": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.69.76": {
     "region": "Europe",
     "country": "Germany",
@@ -1497,6 +1477,16 @@
     "coordinates": [
       52.52,
       13.4049
+    ]
+  },
+  "34.66.112.73": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Council Bluffs",
+    "coordinates": [
+      41.2619,
+      -95.8608
     ]
   },
   "34.88.19.245": {
@@ -1517,16 +1507,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.253.163.0": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Council Bluffs",
-    "coordinates": [
-      41.2619,
-      -95.8608
     ]
   },
   "38.124.152.155": {
@@ -1879,6 +1859,16 @@
       -77.4622
     ]
   },
+  "69.226.253.51": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "North Olmsted",
+    "coordinates": [
+      41.4156,
+      -81.9235
+    ]
+  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -2219,16 +2209,6 @@
       8.7399
     ]
   },
-  "88.193.167.155": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4966,
-      23.7831
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2277,16 +2257,6 @@
     "coordinates": [
       60.2167,
       24.7225
-    ]
-  },
-  "92.212.235.6": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Sindelfingen",
-    "coordinates": [
-      48.7045,
-      9.0232
     ]
   },
   "92.35.23.44": {
@@ -2457,6 +2427,16 @@
     "coordinates": [
       29.5863,
       -98.4769
+    ]
+  },
+  "99.189.238.202": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Martinez",
+    "coordinates": [
+      38.0194,
+      -122.1341
     ]
   },
   "99.72.211.125": {
