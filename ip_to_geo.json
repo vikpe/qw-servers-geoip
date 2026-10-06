@@ -279,7 +279,7 @@
       17.9651
     ]
   },
-  "134.16.24.133": {
+  "134.16.16.142": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -297,16 +297,6 @@
     "coordinates": [
       50.3986,
       8.07958
-    ]
-  },
-  "135.134.130.139": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Spokane",
-    "coordinates": [
-      47.7345,
-      -117.447
     ]
   },
   "135.148.34.204": {
@@ -517,6 +507,16 @@
     "coordinates": [
       -33.8688,
       151.209
+    ]
+  },
+  "153.130.188.112": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Kanazawa",
+    "coordinates": [
+      36.6109,
+      136.6344
     ]
   },
   "155.138.204.79": {
@@ -809,26 +809,6 @@
       -47.9331
     ]
   },
-  "177.37.141.28": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Jo\u00e3o Pessoa",
-    "coordinates": [
-      -7.1712,
-      -34.8617
-    ]
-  },
-  "178.174.136.235": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Sundsvall",
-    "coordinates": [
-      62.3924,
-      17.3006
-    ]
-  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -979,7 +959,7 @@
       -47.0565
     ]
   },
-  "191.54.64.86": {
+  "191.54.64.170": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1509,6 +1489,16 @@
       -80.013
     ]
   },
+  "37.123.143.199": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Duved",
+    "coordinates": [
+      63.4,
+      12.8667
+    ]
+  },
   "38.124.152.155": {
     "region": "Europe",
     "country": "The Netherlands",
@@ -1939,6 +1929,16 @@
       -123.037
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "76.181.135.226": {
     "region": "North America",
     "country": "United States",
@@ -2257,6 +2257,16 @@
     "coordinates": [
       60.2167,
       24.7225
+    ]
+  },
+  "92.212.232.17": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Sindelfingen",
+    "coordinates": [
+      48.7045,
+      9.0232
     ]
   },
   "92.35.23.44": {
