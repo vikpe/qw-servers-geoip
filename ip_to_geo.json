@@ -299,6 +299,16 @@
       8.07958
     ]
   },
+  "135.134.130.139": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Spokane",
+    "coordinates": [
+      47.7345,
+      -117.447
+    ]
+  },
   "135.148.34.204": {
     "region": "North America",
     "country": "United States",
@@ -499,6 +509,16 @@
       9.99302
     ]
   },
+  "151.244.40.30": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Osasco",
+    "coordinates": [
+      -23.5312,
+      -46.7901
+    ]
+  },
   "152.67.110.136": {
     "region": "Oceania",
     "country": "Australia",
@@ -579,16 +599,6 @@
       4.9392
     ]
   },
-  "158.174.100.106": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3326,
-      18.0651
-    ]
-  },
   "158.174.112.229": {
     "region": "Europe",
     "country": "Sweden",
@@ -617,16 +627,6 @@
     "coordinates": [
       49.4527,
       11.0783
-    ]
-  },
-  "16.171.18.172": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.32938,
-      18.06871
     ]
   },
   "16.50.158.34": {
@@ -819,6 +819,16 @@
       -0.1278
     ]
   },
+  "179.104.69.114": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
+    ]
+  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -827,16 +837,6 @@
     "coordinates": [
       -22.9975,
       -46.7894
-    ]
-  },
-  "182.239.211.251": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Melbourne",
-    "coordinates": [
-      -37.6665,
-      145.0649
     ]
   },
   "184.57.53.220": {
@@ -957,16 +957,6 @@
     "coordinates": [
       -22.9035,
       -47.0565
-    ]
-  },
-  "191.54.64.170": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1929,16 +1919,6 @@
       -123.037
     ]
   },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
-    ]
-  },
   "76.181.135.226": {
     "region": "North America",
     "country": "United States",
@@ -2129,6 +2109,16 @@
       7.7127
     ]
   },
+  "84.172.195.56": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Berlin",
+    "coordinates": [
+      52.4982,
+      13.4755
+    ]
+  },
   "85.137.228.112": {
     "region": "Europe",
     "country": "Norway",
@@ -2187,16 +2177,6 @@
     "coordinates": [
       52.5312,
       13.3878
-    ]
-  },
-  "87.154.212.6": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Berlin",
-    "coordinates": [
-      52.4982,
-      13.4755
     ]
   },
   "87.189.48.2": {
@@ -2259,7 +2239,7 @@
       24.7225
     ]
   },
-  "92.212.232.17": {
+  "92.212.227.134": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
