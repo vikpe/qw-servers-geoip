@@ -829,6 +829,16 @@
       -0.1278
     ]
   },
+  "179.104.76.195": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
+    ]
+  },
   "179.190.61.52": {
     "region": "South America",
     "country": "Brazil",
@@ -947,16 +957,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "189.112.95.229": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Carmo do Parana\u00edba",
-    "coordinates": [
-      -19.0008,
-      -46.3161
     ]
   },
   "189.46.23.191": {
@@ -1539,6 +1539,16 @@
       144.9669
     ]
   },
+  "45.163.78.45": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4566,
+      -46.5309
+    ]
+  },
   "45.234.92.131": {
     "region": "South America",
     "country": "Brazil",
@@ -1627,16 +1637,6 @@
     "coordinates": [
       59.2885,
       17.9612
-    ]
-  },
-  "47.190.124.72": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "League City",
-    "coordinates": [
-      29.5183,
-      -95.0977
     ]
   },
   "49.12.2.62": {
@@ -1809,16 +1809,6 @@
       151.209
     ]
   },
-  "66.228.35.52": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Cedar Knolls",
-    "coordinates": [
-      40.8229,
-      -74.4592
-    ]
-  },
   "67.189.194.43": {
     "region": "North America",
     "country": "United States",
@@ -1899,6 +1889,16 @@
       -122.2994
     ]
   },
+  "71.228.30.100": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.7405,
+      -87.6587
+    ]
+  },
   "72.18.132.133": {
     "region": "North America",
     "country": "United States",
@@ -1927,16 +1927,6 @@
     "coordinates": [
       49.2372,
       -123.037
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "76.181.135.226": {
@@ -2119,16 +2109,6 @@
       30.2618
     ]
   },
-  "84.154.186.127": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Iserlohn",
-    "coordinates": [
-      51.3837,
-      7.7127
-    ]
-  },
   "84.172.195.56": {
     "region": "Europe",
     "country": "Germany",
@@ -2259,7 +2239,7 @@
       8.7399
     ]
   },
-  "92.212.224.35": {
+  "92.212.237.181": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2277,6 +2257,16 @@
     "coordinates": [
       58.4127,
       15.631
+    ]
+  },
+  "93.198.179.79": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Iserlohn",
+    "coordinates": [
+      51.3837,
+      7.7127
     ]
   },
   "93.95.230.175": {
@@ -2437,16 +2427,6 @@
     "coordinates": [
       29.5863,
       -98.4769
-    ]
-  },
-  "99.189.238.202": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Martinez",
-    "coordinates": [
-      38.0194,
-      -122.1341
     ]
   },
   "99.72.211.125": {
