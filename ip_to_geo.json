@@ -629,6 +629,16 @@
       10.7389
     ]
   },
+  "159.26.108.1": {
+    "region": "Europe",
+    "country": "Sweden",
+    "cc": "SE",
+    "city": "Stockholm",
+    "coordinates": [
+      59.3287,
+      18.0717
+    ]
+  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -697,6 +707,16 @@
     "coordinates": [
       8.98185,
       -79.5227
+    ]
+  },
+  "164.5.198.50": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Kempele",
+    "coordinates": [
+      64.9195,
+      25.4936
     ]
   },
   "165.232.81.173": {
@@ -779,16 +799,6 @@
       -96.6791
     ]
   },
-  "172.92.232.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2353,
-      -122.3767
-    ]
-  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -827,16 +837,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "179.104.76.195": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -919,16 +919,6 @@
       0.1516
     ]
   },
-  "187.74.34.49": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Guarulhos",
-    "coordinates": [
-      -23.4608,
-      -46.5274
-    ]
-  },
   "187.77.48.25": {
     "region": "South America",
     "country": "Brazil",
@@ -967,6 +957,16 @@
     "coordinates": [
       -22.9035,
       -47.0565
+    ]
+  },
+  "191.54.71.192": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1489,6 +1489,16 @@
       -80.013
     ]
   },
+  "35.245.184.221": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "37.123.143.199": {
     "region": "Europe",
     "country": "Sweden",
@@ -1637,6 +1647,16 @@
     "coordinates": [
       59.2885,
       17.9612
+    ]
+  },
+  "47.190.124.72": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "League City",
+    "coordinates": [
+      29.5183,
+      -95.0977
     ]
   },
   "49.12.2.62": {
@@ -1889,6 +1909,16 @@
       -122.2994
     ]
   },
+  "71.174.252.19": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Marlborough",
+    "coordinates": [
+      42.3491,
+      -71.5431
+    ]
+  },
   "71.228.30.100": {
     "region": "North America",
     "country": "United States",
@@ -1907,6 +1937,16 @@
     "coordinates": [
       39.7491,
       -104.9945
+    ]
+  },
+  "73.23.136.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fort Myers",
+    "coordinates": [
+      26.6462,
+      -81.8455
     ]
   },
   "73.23.203.172": {
@@ -2047,6 +2087,16 @@
     "coordinates": [
       50.0883,
       14.4124
+    ]
+  },
+  "80.213.165.10": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9133,
+      10.7389
     ]
   },
   "81.228.59.199": {
@@ -2229,7 +2279,7 @@
       24.7225
     ]
   },
-  "91.55.75.13": {
+  "91.55.85.143": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2239,7 +2289,7 @@
       8.7399
     ]
   },
-  "92.212.237.181": {
+  "92.212.233.71": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2427,6 +2477,16 @@
     "coordinates": [
       29.5863,
       -98.4769
+    ]
+  },
+  "99.189.238.202": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Martinez",
+    "coordinates": [
+      38.0194,
+      -122.1341
     ]
   },
   "99.72.211.125": {
