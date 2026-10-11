@@ -629,16 +629,6 @@
       10.7389
     ]
   },
-  "159.26.108.1": {
-    "region": "Europe",
-    "country": "Sweden",
-    "cc": "SE",
-    "city": "Stockholm",
-    "coordinates": [
-      59.3287,
-      18.0717
-    ]
-  },
   "159.69.87.212": {
     "region": "Europe",
     "country": "Germany",
@@ -707,16 +697,6 @@
     "coordinates": [
       8.98185,
       -79.5227
-    ]
-  },
-  "164.5.198.50": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Kempele",
-    "coordinates": [
-      64.9195,
-      25.4936
     ]
   },
   "165.232.81.173": {
@@ -959,7 +939,7 @@
       -47.0565
     ]
   },
-  "191.54.71.192": {
+  "191.54.75.130": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -1489,16 +1469,6 @@
       -80.013
     ]
   },
-  "35.245.184.221": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "37.123.143.199": {
     "region": "Europe",
     "country": "Sweden",
@@ -1829,6 +1799,16 @@
       151.209
     ]
   },
+  "66.228.35.52": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Cedar Knolls",
+    "coordinates": [
+      40.8229,
+      -74.4592
+    ]
+  },
   "67.189.194.43": {
     "region": "North America",
     "country": "United States",
@@ -1969,6 +1949,16 @@
       -123.037
     ]
   },
+  "75.82.121.13": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Huntington Beach",
+    "coordinates": [
+      33.675,
+      -118.0027
+    ]
+  },
   "76.181.135.226": {
     "region": "North America",
     "country": "United States",
@@ -2069,7 +2059,7 @@
       12.9982
     ]
   },
-  "78.92.198.102": {
+  "78.92.192.56": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2077,6 +2067,16 @@
     "coordinates": [
       47.4277,
       18.9191
+    ]
+  },
+  "8.234.224.2": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "80.211.201.216": {
@@ -2229,6 +2229,16 @@
       13.3878
     ]
   },
+  "87.189.59.151": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2269,6 +2279,16 @@
       21.056
     ]
   },
+  "90.198.85.225": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Liverpool",
+    "coordinates": [
+      53.4595,
+      -2.9538
+    ]
+  },
   "91.156.91.105": {
     "region": "Europe",
     "country": "Finland",
@@ -2279,17 +2299,7 @@
       24.7225
     ]
   },
-  "91.55.85.143": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
-  "92.212.233.71": {
+  "92.212.228.140": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
