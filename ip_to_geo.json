@@ -19,16 +19,6 @@
       103.831
     ]
   },
-  "102.132.171.115": {
-    "region": "Africa",
-    "country": "South Africa",
-    "cc": "ZA",
-    "city": "Johannesburg",
-    "coordinates": [
-      -26.2309,
-      28.0583
-    ]
-  },
   "103.151.65.11": {
     "region": "Oceania",
     "country": "Australia",
@@ -117,16 +107,6 @@
     "coordinates": [
       42.0048,
       -87.9954
-    ]
-  },
-  "108.80.179.176": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Jenison",
-    "coordinates": [
-      42.9133,
-      -85.8145
     ]
   },
   "109.138.80.195": {
@@ -469,16 +449,6 @@
       17.03
     ]
   },
-  "149.120.63.183": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "St. Petersburg",
-    "coordinates": [
-      27.787,
-      -82.6761
-    ]
-  },
   "149.28.62.121": {
     "region": "North America",
     "country": "United States",
@@ -659,6 +629,16 @@
       139.6899
     ]
   },
+  "160.222.158.61": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "161.153.62.180": {
     "region": "North America",
     "country": "United States",
@@ -779,6 +759,16 @@
       -96.6791
     ]
   },
+  "172.92.232.79": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Stanwood",
+    "coordinates": [
+      48.2353,
+      -122.3767
+    ]
+  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -817,6 +807,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "179.104.68.189": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Patos de Minas",
+    "coordinates": [
+      -18.6082,
+      -46.5009
     ]
   },
   "179.190.61.52": {
@@ -937,16 +937,6 @@
     "coordinates": [
       -22.9035,
       -47.0565
-    ]
-  },
-  "191.54.75.130": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Patos de Minas",
-    "coordinates": [
-      -18.6082,
-      -46.5009
     ]
   },
   "192.121.119.117": {
@@ -1179,14 +1169,14 @@
       -38.527
     ]
   },
-  "202.87.162.206": {
+  "202.73.28.59": {
     "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "Gisborne",
     "coordinates": [
-      -32.1773,
-      115.9873
+      -38.6682,
+      178.0293
     ]
   },
   "203.206.25.89": {
@@ -1609,6 +1599,16 @@
       -96.8021
     ]
   },
+  "46.22.206.90": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Bordeaux",
+    "coordinates": [
+      44.8891,
+      -0.557421
+    ]
+  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1617,16 +1617,6 @@
     "coordinates": [
       59.2885,
       17.9612
-    ]
-  },
-  "47.190.124.72": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "League City",
-    "coordinates": [
-      29.5183,
-      -95.0977
     ]
   },
   "49.12.2.62": {
@@ -2059,7 +2049,7 @@
       12.9982
     ]
   },
-  "78.92.192.56": {
+  "78.92.205.116": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -2069,7 +2059,7 @@
       18.9191
     ]
   },
-  "8.234.224.2": {
+  "8.234.226.111": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
@@ -2087,16 +2077,6 @@
     "coordinates": [
       50.0883,
       14.4124
-    ]
-  },
-  "80.213.165.10": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9133,
-      10.7389
     ]
   },
   "81.228.59.199": {
@@ -2177,6 +2157,16 @@
     "coordinates": [
       59.9158,
       10.8458
+    ]
+  },
+  "85.166.115.26": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9133,
+      10.7389
     ]
   },
   "85.209.118.60": {
@@ -2299,7 +2289,7 @@
       24.7225
     ]
   },
-  "92.212.228.140": {
+  "92.212.236.139": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2380,6 +2370,16 @@
     ]
   },
   "94.29.37.117": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7487,
+      37.6187
+    ]
+  },
+  "95.165.145.122": {
     "region": "Europe",
     "country": "Russia",
     "cc": "RU",
