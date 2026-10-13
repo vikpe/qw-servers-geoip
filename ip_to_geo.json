@@ -609,6 +609,16 @@
       11.0783
     ]
   },
+  "16.178.30.127": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.86785,
+      151.20732
+    ]
+  },
   "16.50.158.34": {
     "region": "Oceania",
     "country": "Australia",
@@ -759,16 +769,6 @@
       -96.6791
     ]
   },
-  "172.92.232.79": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Stanwood",
-    "coordinates": [
-      48.2353,
-      -122.3767
-    ]
-  },
   "173.69.14.157": {
     "region": "North America",
     "country": "United States",
@@ -809,7 +809,7 @@
       -0.1278
     ]
   },
-  "179.104.68.189": {
+  "179.104.64.224": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -897,6 +897,16 @@
     "coordinates": [
       52.2123,
       0.1516
+    ]
+  },
+  "187.74.34.49": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Guarulhos",
+    "coordinates": [
+      -23.4608,
+      -46.5274
     ]
   },
   "187.77.48.25": {
@@ -1599,16 +1609,6 @@
       -96.8021
     ]
   },
-  "46.22.206.90": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Bordeaux",
-    "coordinates": [
-      44.8891,
-      -0.557421
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1617,6 +1617,16 @@
     "coordinates": [
       59.2885,
       17.9612
+    ]
+  },
+  "47.190.124.72": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "League City",
+    "coordinates": [
+      29.5183,
+      -95.0977
     ]
   },
   "49.12.2.62": {
@@ -2059,16 +2069,6 @@
       18.9191
     ]
   },
-  "8.234.226.111": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -2159,16 +2159,6 @@
       10.8458
     ]
   },
-  "85.166.115.26": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9133,
-      10.7389
-    ]
-  },
   "85.209.118.60": {
     "region": "Europe",
     "country": "Denmark",
@@ -2219,16 +2209,6 @@
       13.3878
     ]
   },
-  "87.189.59.151": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Calw",
-    "coordinates": [
-      48.709,
-      8.7399
-    ]
-  },
   "89.151.207.164": {
     "region": "Europe",
     "country": "Norway",
@@ -2269,16 +2249,6 @@
       21.056
     ]
   },
-  "90.198.85.225": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Liverpool",
-    "coordinates": [
-      53.4595,
-      -2.9538
-    ]
-  },
   "91.156.91.105": {
     "region": "Europe",
     "country": "Finland",
@@ -2289,7 +2259,27 @@
       24.7225
     ]
   },
-  "92.212.236.139": {
+  "91.55.84.209": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Calw",
+    "coordinates": [
+      48.709,
+      8.7399
+    ]
+  },
+  "92.155.246.130": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Saint-Orens-de-Gameville",
+    "coordinates": [
+      43.555,
+      1.539
+    ]
+  },
+  "92.212.227.14": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2477,6 +2467,16 @@
     "coordinates": [
       37.9208,
       -122.0182
+    ]
+  },
+  "98.97.37.192": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Seattle",
+    "coordinates": [
+      47.6062,
+      -122.332
     ]
   },
   "99.184.61.20": {
