@@ -349,6 +349,16 @@
       -95.8608
     ]
   },
+  "136.90.99.172": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "137.184.162.43": {
     "region": "North America",
     "country": "Canada",
@@ -497,16 +507,6 @@
     "coordinates": [
       53.55073,
       9.99302
-    ]
-  },
-  "151.244.40.30": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Osasco",
-    "coordinates": [
-      -23.5312,
-      -46.7901
     ]
   },
   "152.67.110.136": {
@@ -907,6 +907,16 @@
     "coordinates": [
       52.2123,
       0.1516
+    ]
+  },
+  "187.57.95.212": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
     ]
   },
   "187.77.48.25": {
@@ -1399,6 +1409,16 @@
       -79.9754
     ]
   },
+  "3.254.85.238": {
+    "region": "Europe",
+    "country": "Ireland",
+    "cc": "IE",
+    "city": "Dublin",
+    "coordinates": [
+      53.33306,
+      -6.24889
+    ]
+  },
   "31.167.79.210": {
     "region": "Asia",
     "country": "Saudi Arabia",
@@ -1467,16 +1487,6 @@
     "coordinates": [
       32.8771,
       -80.013
-    ]
-  },
-  "35.221.3.161": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
     ]
   },
   "37.123.143.199": {
@@ -1617,6 +1627,16 @@
     "coordinates": [
       32.7889,
       -96.8021
+    ]
+  },
+  "46.22.206.90": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Bordeaux",
+    "coordinates": [
+      44.8891,
+      -0.557421
     ]
   },
   "46.227.68.148": {
@@ -1929,16 +1949,6 @@
       -104.9945
     ]
   },
-  "73.23.136.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fort Myers",
-    "coordinates": [
-      26.6462,
-      -81.8455
-    ]
-  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1957,16 +1967,6 @@
     "coordinates": [
       49.2372,
       -123.037
-    ]
-  },
-  "75.82.121.13": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Huntington Beach",
-    "coordinates": [
-      33.675,
-      -118.0027
     ]
   },
   "76.181.135.226": {
@@ -2077,6 +2077,16 @@
     "coordinates": [
       47.4277,
       18.9191
+    ]
+  },
+  "79.182.128.39": {
+    "region": "Asia",
+    "country": "Israel",
+    "cc": "IL",
+    "city": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
     ]
   },
   "80.211.201.216": {
@@ -2259,6 +2269,16 @@
       21.056
     ]
   },
+  "90.198.85.225": {
+    "region": "Europe",
+    "country": "United Kingdom",
+    "cc": "GB",
+    "city": "Liverpool",
+    "coordinates": [
+      53.4595,
+      -2.9538
+    ]
+  },
   "91.156.91.105": {
     "region": "Europe",
     "country": "Finland",
@@ -2279,7 +2299,7 @@
       8.7399
     ]
   },
-  "92.212.238.102": {
+  "92.212.237.214": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -2467,16 +2487,6 @@
     "coordinates": [
       37.9208,
       -122.0182
-    ]
-  },
-  "99.184.61.20": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "San Antonio",
-    "coordinates": [
-      29.5863,
-      -98.4769
     ]
   },
   "99.189.238.202": {
