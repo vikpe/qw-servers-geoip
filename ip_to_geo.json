@@ -349,16 +349,6 @@
       -95.8608
     ]
   },
-  "136.90.99.172": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "137.184.162.43": {
     "region": "North America",
     "country": "Canada",
@@ -507,6 +497,16 @@
     "coordinates": [
       53.55073,
       9.99302
+    ]
+  },
+  "151.31.171.49": {
+    "region": "Europe",
+    "country": "Italy",
+    "cc": "IT",
+    "city": "Rome",
+    "coordinates": [
+      41.8905,
+      12.5127
     ]
   },
   "152.67.110.136": {
@@ -819,7 +819,7 @@
       -0.1278
     ]
   },
-  "179.104.76.163": {
+  "179.104.76.153": {
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
@@ -909,26 +909,6 @@
       0.1516
     ]
   },
-  "187.57.95.212": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
-    ]
-  },
-  "187.77.48.25": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
-    ]
-  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -987,16 +967,6 @@
     "coordinates": [
       42.8864,
       -78.8784
-    ]
-  },
-  "192.236.131.199": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Los Angeles",
-    "coordinates": [
-      34.0549,
-      -118.243
     ]
   },
   "192.9.173.60": {
@@ -1067,16 +1037,6 @@
     "coordinates": [
       47.6826,
       17.6252
-    ]
-  },
-  "194.95.98.145": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Deggendorf",
-    "coordinates": [
-      48.8439,
-      12.958
     ]
   },
   "195.201.133.22": {
@@ -1409,16 +1369,6 @@
       -79.9754
     ]
   },
-  "3.254.85.238": {
-    "region": "Europe",
-    "country": "Ireland",
-    "cc": "IE",
-    "city": "Dublin",
-    "coordinates": [
-      53.33306,
-      -6.24889
-    ]
-  },
   "31.167.79.210": {
     "region": "Asia",
     "country": "Saudi Arabia",
@@ -1447,6 +1397,16 @@
     "coordinates": [
       -34.6176,
       -58.3809
+    ]
+  },
+  "34.145.241.77": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
     ]
   },
   "34.148.103.12": {
@@ -1629,16 +1589,6 @@
       -96.8021
     ]
   },
-  "46.22.206.90": {
-    "region": "Europe",
-    "country": "France",
-    "cc": "FR",
-    "city": "Bordeaux",
-    "coordinates": [
-      44.8891,
-      -0.557421
-    ]
-  },
   "46.227.68.148": {
     "region": "Europe",
     "country": "Sweden",
@@ -1647,16 +1597,6 @@
     "coordinates": [
       59.2885,
       17.9612
-    ]
-  },
-  "47.190.124.72": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "League City",
-    "coordinates": [
-      29.5183,
-      -95.0977
     ]
   },
   "49.12.2.62": {
@@ -1889,16 +1829,6 @@
       17.9155
     ]
   },
-  "70.34.242.113": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2299,
-      21.0093
-    ]
-  },
   "70.39.95.254": {
     "region": "North America",
     "country": "United States",
@@ -1947,6 +1877,16 @@
     "coordinates": [
       39.7491,
       -104.9945
+    ]
+  },
+  "73.23.136.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fort Myers",
+    "coordinates": [
+      26.6462,
+      -81.8455
     ]
   },
   "73.23.203.172": {
@@ -2269,16 +2209,6 @@
       21.056
     ]
   },
-  "90.198.85.225": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Liverpool",
-    "coordinates": [
-      53.4595,
-      -2.9538
-    ]
-  },
   "91.156.91.105": {
     "region": "Europe",
     "country": "Finland",
@@ -2299,7 +2229,7 @@
       8.7399
     ]
   },
-  "92.212.237.214": {
+  "92.212.226.208": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
