@@ -4,23 +4,10 @@ from typing import List
 import requests
 
 
-def get_ips_from_masters(masters: List[str]) -> List[str]:
-    server_addresses = []
-
-    for master in masters:
-        api_url = f"https://hubapi.quakeworld.nu/v2/masters/{master}"
-        res = requests.get(api_url)
-
-        if res.ok:
-            server_addresses += res.json()
-
-    server_ips = []
-
-    for address in server_addresses:
-        if ":" in address:
-            server_ips.append(address.split(":", maxsplit=1)[0])
-
-    return list(sorted(set(server_ips)))
+def get_server_ips() -> List[str]:
+    res = requests.get("https://api.quake.world/v1/servers")
+    res.raise_for_status()
+    return sorted({server["ip"] for server in res.json()})
 
 
 def chunks(arr: list, size: int):
@@ -49,14 +36,7 @@ def get_ip_to_geo_map(ips: List[str]) -> dict:
 
 
 if __name__ == '__main__':
-    masters = [
-        "master.quakeworld.nu:27000",
-        "master.quakeservers.net:27000",
-        "qwmaster.ocrana.de:27000",
-        "qwmaster.fodquake.net:27000",
-    ]
-
-    ips = get_ips_from_masters(masters)
+    ips = get_server_ips()
     min_expected_server_count = 150
 
     if len(ips) < min_expected_server_count:
