@@ -5,23 +5,26 @@ on:
   schedule:
     - cron: '0 6 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   update:
     timeout-minutes: 5
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
-          python-version: '3.8'
+          python-version: '3.14'
           cache: 'pip'
       - run: pip install -r requirements.txt
 
       - name: Update geo data
         run: python3 update.py
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           file_pattern: ip_to_geo.json
           commit_message: Update geo data
