@@ -439,6 +439,16 @@
       139.6899
     ]
   },
+  "160.222.158.61": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Melbourne",
+    "coordinates": [
+      -37.8159,
+      144.9669
+    ]
+  },
   "161.153.62.180": {
     "region": "North America",
     "country": "United States",
@@ -1079,6 +1089,16 @@
       -80.013
     ]
   },
+  "34.186.67.132": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Washington",
+    "coordinates": [
+      38.9071,
+      -77.0368
+    ]
+  },
   "34.32.69.76": {
     "region": "Europe",
     "country": "Germany",
@@ -1579,7 +1599,7 @@
       12.9982
     ]
   },
-  "78.92.205.116": {
+  "78.92.197.17": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
