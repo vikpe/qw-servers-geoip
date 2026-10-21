@@ -39,16 +39,6 @@
       151.209
     ]
   },
-  "103.195.53.179": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Medindie",
-    "coordinates": [
-      -34.9008,
-      138.6017
-    ]
-  },
   "103.63.29.40": {
     "region": "Europe",
     "country": "Portugal",
@@ -547,16 +537,6 @@
     "coordinates": [
       51.5081,
       -0.1278
-    ]
-  },
-  "172.7.58.121": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Allen",
-    "coordinates": [
-      33.1177,
-      -96.6791
     ]
   },
   "176.210.100.6": {
@@ -1089,16 +1069,6 @@
       -80.013
     ]
   },
-  "34.186.67.132": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "34.32.69.76": {
     "region": "Europe",
     "country": "Germany",
@@ -1389,6 +1359,16 @@
       23.3132
     ]
   },
+  "62.84.175.20": {
+    "region": "Europe",
+    "country": "Portugal",
+    "cc": "PT",
+    "city": "Lisbon",
+    "coordinates": [
+      38.7223,
+      -9.13934
+    ]
+  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1489,14 +1469,14 @@
       -104.9945
     ]
   },
-  "73.23.136.211": {
+  "73.109.211.117": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Fort Myers",
+    "city": "Hoquiam",
     "coordinates": [
-      26.6462,
-      -81.8455
+      46.9823,
+      -123.8801
     ]
   },
   "73.23.203.172": {
@@ -1517,16 +1497,6 @@
     "coordinates": [
       38.3048,
       -85.5865
-    ]
-  },
-  "77.239.212.26": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Tyumen",
-    "coordinates": [
-      57.1533,
-      65.5418
     ]
   },
   "77.252.11.61": {
@@ -1607,6 +1577,16 @@
     "coordinates": [
       47.4277,
       18.9191
+    ]
+  },
+  "78.92.237.17": {
+    "region": "Europe",
+    "country": "Hungary",
+    "cc": "HU",
+    "city": "Balatonlelle",
+    "coordinates": [
+      46.7841,
+      17.6892
     ]
   },
   "79.182.128.39": {
@@ -1747,16 +1727,6 @@
     "coordinates": [
       51.3837,
       7.7127
-    ]
-  },
-  "93.95.230.175": {
-    "region": "Europe",
-    "country": "Iceland",
-    "cc": "IS",
-    "city": "Reykjavik",
-    "coordinates": [
-      64.1476,
-      -21.9392
     ]
   },
   "94.16.128.193": {
