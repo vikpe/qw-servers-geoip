@@ -39,6 +39,16 @@
       151.209
     ]
   },
+  "103.195.53.179": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Medindie",
+    "coordinates": [
+      -34.9008,
+      138.6017
+    ]
+  },
   "103.63.29.40": {
     "region": "Europe",
     "country": "Portugal",
@@ -449,6 +459,16 @@
       -111.9956
     ]
   },
+  "162.254.86.73": {
+    "region": "Europe",
+    "country": "Lithuania",
+    "cc": "LT",
+    "city": "Vilnius",
+    "coordinates": [
+      54.6872,
+      25.2797
+    ]
+  },
   "164.152.62.160": {
     "region": "South America",
     "country": "Brazil",
@@ -537,6 +557,16 @@
     "coordinates": [
       51.5081,
       -0.1278
+    ]
+  },
+  "172.7.58.121": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Allen",
+    "coordinates": [
+      33.1177,
+      -96.6791
     ]
   },
   "176.210.100.6": {
@@ -1359,16 +1389,6 @@
       23.3132
     ]
   },
-  "62.84.175.20": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "Lisbon",
-    "coordinates": [
-      38.7223,
-      -9.13934
-    ]
-  },
   "64.227.18.147": {
     "region": "North America",
     "country": "United States",
@@ -1479,14 +1499,14 @@
       -123.8801
     ]
   },
-  "73.23.203.172": {
+  "73.23.136.211": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
     "city": "Fort Myers",
     "coordinates": [
-      26.5544,
-      -81.9021
+      26.6462,
+      -81.8455
     ]
   },
   "76.181.135.226": {
@@ -1497,6 +1517,16 @@
     "coordinates": [
       38.3048,
       -85.5865
+    ]
+  },
+  "77.239.212.26": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Tyumen",
+    "coordinates": [
+      57.1533,
+      65.5418
     ]
   },
   "77.252.11.61": {

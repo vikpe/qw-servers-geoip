@@ -4,10 +4,20 @@ from typing import List
 import requests
 
 
-def get_server_ips() -> List[str]:
+def get_quakeworld_server_ips() -> List[str]:
     res = requests.get("https://api.quake.world/v1/servers")
     res.raise_for_status()
-    return sorted({server["ip"] for server in res.json()})
+    return [server["ip"] for server in res.json()]
+
+
+def get_qwleague_server_ips() -> List[str]:
+    res = requests.get("https://qwleague.com/api/servers")
+    res.raise_for_status()
+    return [server["ip"] for server in res.json()["items"]]
+
+
+def get_server_ips() -> List[str]:
+    return sorted(set(get_quakeworld_server_ips() + get_qwleague_server_ips()))
 
 
 def chunks(arr: list, size: int):
