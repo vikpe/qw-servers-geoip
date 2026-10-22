@@ -1,6 +1,7 @@
 import json
 from typing import List
 
+import pycountry
 import requests
 
 
@@ -10,14 +11,15 @@ def get_quakeworld_server_ips() -> List[str]:
     return [server["ip"] for server in res.json()]
 
 
-def get_qwleague_server_ips() -> List[str]:
+def get_qwleague_servers() -> List[dict]:
     res = requests.get("https://qwleague.com/api/servers")
     res.raise_for_status()
-    return [server["ip"] for server in res.json()["items"]]
+    return res.json()["items"]
 
 
-def get_server_ips() -> List[str]:
-    return sorted(set(get_quakeworld_server_ips() + get_qwleague_server_ips()))
+def get_server_ips(qwleague_servers: List[dict]) -> List[str]:
+    qwleague_ips = [server["ip"] for server in qwleague_servers]
+    return sorted(set(get_quakeworld_server_ips() + qwleague_ips))
 
 
 def chunks(arr: list, size: int):
@@ -45,8 +47,41 @@ def get_ip_to_geo_map(ips: List[str]) -> dict:
     return ip_to_geo_map
 
 
+CONTINENT_NAMES = {
+    "af": "Africa",
+    "as": "Asia",
+    "eu": "Europe",
+    "na": "North America",
+    "oce": "Oceania",
+    "sa": "South America",
+}
+
+
+def apply_qwleague_overrides(ip_to_geo_map: dict, qwleague_servers: List[dict]):
+    # qwleague is authoritative for its own servers, geoip lookup is often off
+    for server in qwleague_servers:
+        geo = ip_to_geo_map.get(server["ip"])
+
+        if geo is None:
+            continue
+
+        if server.get("continent"):
+            geo["region"] = CONTINENT_NAMES.get(server["continent"], geo["region"])
+
+        cc = (server.get("country") or "").upper()
+
+        if cc and cc != geo["cc"]:
+            country = pycountry.countries.get(alpha_2=cc)
+            geo["cc"] = cc
+            geo["country"] = country.name if country else cc
+
+        if server.get("city"):
+            geo["city"] = server["city"]
+
+
 if __name__ == '__main__':
-    ips = get_server_ips()
+    qwleague_servers = get_qwleague_servers()
+    ips = get_server_ips(qwleague_servers)
     min_expected_server_count = 150
 
     if len(ips) < min_expected_server_count:
@@ -54,6 +89,7 @@ if __name__ == '__main__':
         exit(0)
 
     ip_to_geo_map = get_ip_to_geo_map(ips)
+    apply_qwleague_overrides(ip_to_geo_map, qwleague_servers)
 
     with open("ip_to_geo.json", "w") as fp:
         json.dump(ip_to_geo_map, fp, indent=2)

@@ -333,7 +333,7 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Piscataway",
+    "city": "New York",
     "coordinates": [
       40.4993,
       -74.399
@@ -643,7 +643,7 @@
     "region": "Europe",
     "country": "United Kingdom",
     "cc": "GB",
-    "city": "Cambridge",
+    "city": "London",
     "coordinates": [
       52.2123,
       0.1516
@@ -803,7 +803,7 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Des Moines",
+    "city": "Iowa",
     "coordinates": [
       41.5908,
       -93.6208
@@ -1113,7 +1113,7 @@
     "region": "Europe",
     "country": "Finland",
     "cc": "FI",
-    "city": "Lappeenranta",
+    "city": "Hamina",
     "coordinates": [
       61.0549,
       28.1896
@@ -1343,7 +1343,7 @@
     "region": "South America",
     "country": "Brazil",
     "cc": "BR",
-    "city": "Sao Paulo",
+    "city": "Saopaulo",
     "coordinates": [
       -23.5475,
       -46.63611
@@ -1413,7 +1413,7 @@
     "region": "Oceania",
     "country": "Australia",
     "cc": "AU",
-    "city": "Sydney",
+    "city": "Melbourne",
     "coordinates": [
       -33.8688,
       151.209
@@ -1473,7 +1473,7 @@
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Seagoville",
+    "city": "Denver",
     "coordinates": [
       32.6528,
       -96.5576
@@ -1507,6 +1507,16 @@
     "coordinates": [
       26.6462,
       -81.8455
+    ]
+  },
+  "73.23.203.172": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fort Myers",
+    "coordinates": [
+      26.5544,
+      -81.9021
     ]
   },
   "76.181.135.226": {
