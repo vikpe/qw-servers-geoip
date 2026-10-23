@@ -339,6 +339,16 @@
       -74.399
     ]
   },
+  "15.181.21.124": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      39.73915,
+      -104.9847
+    ]
+  },
   "15.220.152.43": {
     "region": "Europe",
     "country": "Germany",
@@ -869,16 +879,6 @@
       178.0293
     ]
   },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -32.1773,
-      115.9873
-    ]
-  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1057,16 +1057,6 @@
     "coordinates": [
       40.8063,
       -79.9754
-    ]
-  },
-  "31.167.79.210": {
-    "region": "Asia",
-    "country": "Saudi Arabia",
-    "cc": "SA",
-    "city": "Jeddah",
-    "coordinates": [
-      21.4913,
-      39.1841
     ]
   },
   "31.184.218.192": {
