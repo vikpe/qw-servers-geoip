@@ -139,6 +139,16 @@
       18.42322
     ]
   },
+  "13.55.221.6": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.86785,
+      151.20732
+    ]
+  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -909,16 +919,6 @@
       -96.8021
     ]
   },
-  "208.115.197.242": {
-    "region": "Asia",
-    "country": "Singapore",
-    "cc": "SG",
-    "city": "Singapore",
-    "coordinates": [
-      1.35208,
-      103.82
-    ]
-  },
   "208.83.232.203": {
     "region": "North America",
     "country": "United States",
@@ -1399,16 +1399,6 @@
       -74.0203
     ]
   },
-  "65.109.238.95": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Helsinki",
-    "coordinates": [
-      60.1719,
-      24.9347
-    ]
-  },
   "66.226.145.188": {
     "region": "Oceania",
     "country": "Australia",
@@ -1647,6 +1637,16 @@
     "coordinates": [
       50.0883,
       14.4124
+    ]
+  },
+  "80.213.187.229": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9133,
+      10.7389
     ]
   },
   "81.232.87.98": {
