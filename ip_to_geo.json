@@ -589,6 +589,16 @@
       73.3729
     ]
   },
+  "177.144.184.209": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "Campinas",
+    "coordinates": [
+      -22.9035,
+      -47.0565
+    ]
+  },
   "178.79.135.210": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -677,16 +687,6 @@
     "coordinates": [
       52.352,
       4.9392
-    ]
-  },
-  "189.46.23.191": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "Campinas",
-    "coordinates": [
-      -22.9035,
-      -47.0565
     ]
   },
   "192.121.119.117": {
@@ -877,6 +877,16 @@
     "coordinates": [
       -38.6682,
       178.0293
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -32.1773,
+      115.9873
     ]
   },
   "203.29.240.182": {
@@ -1399,6 +1409,16 @@
       -74.0203
     ]
   },
+  "65.109.238.95": {
+    "region": "Europe",
+    "country": "Finland",
+    "cc": "FI",
+    "city": "Helsinki",
+    "coordinates": [
+      60.1719,
+      24.9347
+    ]
+  },
   "66.226.145.188": {
     "region": "Oceania",
     "country": "Australia",
@@ -1487,16 +1507,6 @@
     "coordinates": [
       46.9823,
       -123.8801
-    ]
-  },
-  "73.23.136.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Fort Myers",
-    "coordinates": [
-      26.6462,
-      -81.8455
     ]
   },
   "73.23.203.172": {
@@ -1727,16 +1737,6 @@
     "coordinates": [
       50.0196,
       20.9853
-    ]
-  },
-  "89.151.207.164": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Steinkjer",
-    "coordinates": [
-      64.0161,
-      11.4985
     ]
   },
   "89.168.86.177": {
