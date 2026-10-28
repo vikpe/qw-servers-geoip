@@ -179,6 +179,16 @@
       17.9651
     ]
   },
+  "132.226.245.213": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "135.125.234.220": {
     "region": "Europe",
     "country": "Germany",
@@ -237,16 +247,6 @@
     "coordinates": [
       38.7946,
       -106.535
-    ]
-  },
-  "137.74.7.185": {
-    "region": "Europe",
-    "country": "Poland",
-    "cc": "PL",
-    "city": "Warsaw",
-    "coordinates": [
-      52.2299,
-      21.0093
     ]
   },
   "138.68.21.116": {
@@ -1509,6 +1509,16 @@
       -123.8801
     ]
   },
+  "73.23.136.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Fort Myers",
+    "coordinates": [
+      26.6462,
+      -81.8455
+    ]
+  },
   "73.23.203.172": {
     "region": "North America",
     "country": "United States",
@@ -1609,7 +1619,7 @@
       12.9982
     ]
   },
-  "78.92.197.17": {
+  "78.92.196.167": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1647,16 +1657,6 @@
     "coordinates": [
       50.0883,
       14.4124
-    ]
-  },
-  "80.213.187.229": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9133,
-      10.7389
     ]
   },
   "81.232.87.98": {
@@ -1707,6 +1707,16 @@
     "coordinates": [
       59.9158,
       10.8458
+    ]
+  },
+  "85.166.104.58": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9133,
+      10.7389
     ]
   },
   "85.209.118.60": {
