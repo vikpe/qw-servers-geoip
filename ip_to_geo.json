@@ -139,16 +139,6 @@
       18.42322
     ]
   },
-  "13.55.221.6": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.86785,
-      151.20732
-    ]
-  },
   "13.79.234.207": {
     "region": "Europe",
     "country": "Ireland",
@@ -959,6 +949,16 @@
       13.405
     ]
   },
+  "212.42.38.88": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.7558,
+      37.6173
+    ]
+  },
   "212.53.165.161": {
     "region": "Europe",
     "country": "Germany",
@@ -1047,6 +1047,16 @@
     "coordinates": [
       40.8063,
       -79.9754
+    ]
+  },
+  "3.26.233.253": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Sydney",
+    "coordinates": [
+      -33.86785,
+      151.20732
     ]
   },
   "31.167.79.210": {
@@ -1589,16 +1599,6 @@
       19.0412
     ]
   },
-  "78.45.199.104": {
-    "region": "Europe",
-    "country": "Czechia",
-    "cc": "CZ",
-    "city": "Prague",
-    "coordinates": [
-      50.0471,
-      14.4523
-    ]
-  },
   "78.72.109.73": {
     "region": "Europe",
     "country": "Sweden",
@@ -1679,6 +1679,16 @@
       -1.757
     ]
   },
+  "83.108.66.101": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9133,
+      10.7389
+    ]
+  },
   "83.243.73.194": {
     "region": "Europe",
     "country": "Russia",
@@ -1697,16 +1707,6 @@
     "coordinates": [
       59.9158,
       10.8458
-    ]
-  },
-  "85.166.104.58": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9133,
-      10.7389
     ]
   },
   "85.209.118.60": {
