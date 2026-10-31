@@ -279,16 +279,6 @@
       37.6187
     ]
   },
-  "141.148.150.255": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.4656,
-      -111.9956
-    ]
-  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -407,6 +397,16 @@
     "coordinates": [
       52.352,
       4.9392
+    ]
+  },
+  "158.248.13.196": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9133,
+      10.7389
     ]
   },
   "159.69.87.212": {
@@ -567,6 +567,16 @@
     "coordinates": [
       33.1177,
       -96.6791
+    ]
+  },
+  "173.69.14.157": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Warwick",
+    "coordinates": [
+      41.7139,
+      -71.3895
     ]
   },
   "176.210.100.6": {
@@ -1049,16 +1059,6 @@
       -79.9754
     ]
   },
-  "3.26.233.253": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Sydney",
-    "coordinates": [
-      -33.86785,
-      151.20732
-    ]
-  },
   "31.167.79.210": {
     "region": "Asia",
     "country": "Saudi Arabia",
@@ -1459,16 +1459,6 @@
       -120.846
     ]
   },
-  "69.140.100.197": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Frederick",
-    "coordinates": [
-      39.3641,
-      -77.4622
-    ]
-  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1597,6 +1587,16 @@
     "coordinates": [
       47.5,
       19.0412
+    ]
+  },
+  "78.45.199.104": {
+    "region": "Europe",
+    "country": "Czechia",
+    "cc": "CZ",
+    "city": "Prague",
+    "coordinates": [
+      50.0471,
+      14.4523
     ]
   },
   "78.72.109.73": {
