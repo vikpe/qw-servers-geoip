@@ -279,6 +279,16 @@
       37.6187
     ]
   },
+  "141.148.150.255": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
+    ]
+  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -1457,6 +1467,16 @@
     "coordinates": [
       37.4946,
       -120.846
+    ]
+  },
+  "69.140.100.197": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Frederick",
+    "coordinates": [
+      39.3641,
+      -77.4622
     ]
   },
   "70.34.200.204": {
