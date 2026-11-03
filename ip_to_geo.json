@@ -309,6 +309,16 @@
       -96.8021
     ]
   },
+  "144.22.139.117": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
   "144.6.14.154": {
     "region": "Oceania",
     "country": "Australia",
@@ -347,6 +357,16 @@
     "coordinates": [
       40.4993,
       -74.399
+    ]
+  },
+  "15.181.21.124": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      39.73915,
+      -104.9847
     ]
   },
   "15.220.152.43": {
@@ -1479,16 +1499,6 @@
       -120.8559
     ]
   },
-  "69.140.100.197": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Frederick",
-    "coordinates": [
-      39.3641,
-      -77.4622
-    ]
-  },
   "70.34.200.204": {
     "region": "Europe",
     "country": "Sweden",
@@ -1757,16 +1767,6 @@
     "coordinates": [
       50.0196,
       20.9853
-    ]
-  },
-  "88.193.167.155": {
-    "region": "Europe",
-    "country": "Finland",
-    "cc": "FI",
-    "city": "Tampere",
-    "coordinates": [
-      61.4966,
-      23.7831
     ]
   },
   "89.168.86.177": {
