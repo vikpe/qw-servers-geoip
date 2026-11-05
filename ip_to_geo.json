@@ -289,6 +289,16 @@
       37.6187
     ]
   },
+  "141.148.150.255": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
+    ]
+  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -527,6 +537,16 @@
     "coordinates": [
       50.4777,
       12.3649
+    ]
+  },
+  "167.71.33.1": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1169,
+      8.6837
     ]
   },
   "172.232.49.127": {
@@ -899,6 +919,16 @@
       178.0293
     ]
   },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -32.1773,
+      115.9873
+    ]
+  },
   "203.29.240.182": {
     "region": "Oceania",
     "country": "Australia",
@@ -1159,16 +1189,6 @@
       -97.7463
     ]
   },
-  "43.131.29.235": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1169,
-      8.6837
-    ]
-  },
   "45.124.55.179": {
     "region": "Oceania",
     "country": "Australia",
@@ -1287,16 +1307,6 @@
     "coordinates": [
       50.4777,
       12.3649
-    ]
-  },
-  "49.13.145.172": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Nuremberg",
-    "coordinates": [
-      49.4527,
-      11.0783
     ]
   },
   "5.161.55.215": {
@@ -1489,16 +1499,6 @@
       -104.9945
     ]
   },
-  "72.62.241.93": {
-    "region": "Asia",
-    "country": "Malaysia",
-    "cc": "MY",
-    "city": "Kuala Lumpur",
-    "coordinates": [
-      3.1408,
-      101.6852
-    ]
-  },
   "73.109.211.117": {
     "region": "North America",
     "country": "United States",
@@ -1669,16 +1669,6 @@
       -46.6361
     ]
   },
-  "82.68.47.165": {
-    "region": "Europe",
-    "country": "United Kingdom",
-    "cc": "GB",
-    "city": "Bradford",
-    "coordinates": [
-      53.7939,
-      -1.75206
-    ]
-  },
   "83.243.73.194": {
     "region": "Europe",
     "country": "Russia",
@@ -1817,16 +1807,6 @@
     "coordinates": [
       55.7487,
       37.6187
-    ]
-  },
-  "95.179.165.74": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Frankfurt am Main",
-    "coordinates": [
-      50.1103,
-      8.7147
     ]
   },
   "95.211.165.149": {
