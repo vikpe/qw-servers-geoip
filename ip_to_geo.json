@@ -89,16 +89,6 @@
       -87.9954
     ]
   },
-  "118.67.199.81": {
-    "region": "Oceania",
-    "country": "New Zealand",
-    "cc": "NZ",
-    "city": "North Shore",
-    "coordinates": [
-      -36.7178,
-      174.7365
-    ]
-  },
   "122.199.32.47": {
     "region": "Oceania",
     "country": "Australia",
@@ -357,6 +347,16 @@
     "coordinates": [
       40.4993,
       -74.399
+    ]
+  },
+  "15.181.21.124": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Denver",
+    "coordinates": [
+      39.73915,
+      -104.9847
     ]
   },
   "15.220.152.43": {
@@ -1059,16 +1059,6 @@
       13.405
     ]
   },
-  "23.159.160.34": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Staten Island",
-    "coordinates": [
-      40.6063,
-      -74.1774
-    ]
-  },
   "23.227.170.216": {
     "region": "North America",
     "country": "United States",
@@ -1289,16 +1279,6 @@
       17.9612
     ]
   },
-  "47.190.124.72": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7767,
-      -96.797
-    ]
-  },
   "49.12.2.62": {
     "region": "Europe",
     "country": "Germany",
@@ -1499,6 +1479,16 @@
       -104.9945
     ]
   },
+  "72.62.241.93": {
+    "region": "Asia",
+    "country": "Malaysia",
+    "cc": "MY",
+    "city": "Kuala Lumpur",
+    "coordinates": [
+      3.1408,
+      101.6852
+    ]
+  },
   "73.109.211.117": {
     "region": "North America",
     "country": "United States",
@@ -1527,16 +1517,6 @@
     "coordinates": [
       26.6909,
       -81.9483
-    ]
-  },
-  "76.181.135.226": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Louisville",
-    "coordinates": [
-      38.3048,
-      -85.5865
     ]
   },
   "77.239.212.26": {
@@ -1627,16 +1607,6 @@
     "coordinates": [
       47.4277,
       18.9191
-    ]
-  },
-  "79.182.128.39": {
-    "region": "South America",
-    "country": "Brazil",
-    "cc": "BR",
-    "city": "S\u00e3o Paulo",
-    "coordinates": [
-      -23.5475,
-      -46.6361
     ]
   },
   "80.211.201.216": {
