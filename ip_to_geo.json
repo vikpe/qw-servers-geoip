@@ -89,6 +89,16 @@
       -87.9954
     ]
   },
+  "118.67.199.81": {
+    "region": "Oceania",
+    "country": "New Zealand",
+    "cc": "NZ",
+    "city": "North Shore",
+    "coordinates": [
+      -36.7178,
+      174.7365
+    ]
+  },
   "122.199.32.47": {
     "region": "Oceania",
     "country": "Australia",
@@ -317,16 +327,6 @@
     "coordinates": [
       -33.8252,
       151.0849
-    ]
-  },
-  "144.64.37.26": {
-    "region": "Europe",
-    "country": "Portugal",
-    "cc": "PT",
-    "city": "\u00cdlhavo",
-    "coordinates": [
-      40.6012,
-      -8.6735
     ]
   },
   "145.239.94.156": {
@@ -657,16 +657,6 @@
     "coordinates": [
       40.0536,
       -83.0115
-    ]
-  },
-  "185.129.48.228": {
-    "region": "Asia",
-    "country": "Kazakhstan",
-    "cc": "KZ",
-    "city": "Karaganda",
-    "coordinates": [
-      49.7989,
-      73.0994
     ]
   },
   "185.157.244.204": {
@@ -1607,6 +1597,26 @@
     "coordinates": [
       47.4277,
       18.9191
+    ]
+  },
+  "79.182.128.39": {
+    "region": "South America",
+    "country": "Brazil",
+    "cc": "BR",
+    "city": "S\u00e3o Paulo",
+    "coordinates": [
+      -23.5475,
+      -46.6361
+    ]
+  },
+  "8.230.108.176": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7766,
+      -96.7969
     ]
   },
   "80.211.201.216": {
