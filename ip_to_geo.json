@@ -129,6 +129,16 @@
       -46.6361
     ]
   },
+  "13.184.215.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Columbus",
+    "coordinates": [
+      39.96118,
+      -82.99879
+    ]
+  },
   "13.247.30.86": {
     "region": "Africa",
     "country": "South Africa",
@@ -347,16 +357,6 @@
     "coordinates": [
       40.4993,
       -74.399
-    ]
-  },
-  "15.181.21.124": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Denver",
-    "coordinates": [
-      39.73915,
-      -104.9847
     ]
   },
   "15.220.152.43": {
@@ -657,6 +657,16 @@
     "coordinates": [
       40.0536,
       -83.0115
+    ]
+  },
+  "185.129.48.228": {
+    "region": "Asia",
+    "country": "Kazakhstan",
+    "cc": "KZ",
+    "city": "Karaganda",
+    "coordinates": [
+      49.7989,
+      73.0994
     ]
   },
   "185.157.244.204": {
@@ -1509,6 +1519,16 @@
       -81.9483
     ]
   },
+  "76.181.135.226": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Louisville",
+    "coordinates": [
+      38.3048,
+      -85.5865
+    ]
+  },
   "77.239.212.26": {
     "region": "Europe",
     "country": "Russia",
@@ -1609,16 +1629,6 @@
       -46.6361
     ]
   },
-  "8.230.108.176": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7766,
-      -96.7969
-    ]
-  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1707,6 +1717,16 @@
     "coordinates": [
       50.0196,
       20.9853
+    ]
+  },
+  "86.52.116.148": {
+    "region": "Europe",
+    "country": "Denmark",
+    "cc": "DK",
+    "city": "Aalborg",
+    "coordinates": [
+      57.0421,
+      9.9145
     ]
   },
   "89.168.86.177": {
