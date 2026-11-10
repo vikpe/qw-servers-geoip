@@ -909,6 +909,16 @@
       -104.816154
     ]
   },
+  "20.98.32.31": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8819,
+      -87.6278
+    ]
+  },
   "201.23.3.62": {
     "region": "South America",
     "country": "Brazil",
@@ -947,16 +957,6 @@
     "coordinates": [
       -31.8512,
       115.8765
-    ]
-  },
-  "206.51.245.84": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8483,
-      -87.6517
     ]
   },
   "207.135.130.237": {
@@ -1139,7 +1139,7 @@
       -80.013
     ]
   },
-  "34.32.14.218": {
+  "34.32.25.96": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
@@ -1289,6 +1289,16 @@
       17.9612
     ]
   },
+  "47.190.124.72": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7767,
+      -96.797
+    ]
+  },
   "49.12.2.62": {
     "region": "Europe",
     "country": "Germany",
@@ -1327,16 +1337,6 @@
     "coordinates": [
       50.6924,
       3.20113
-    ]
-  },
-  "50.46.141.80": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bothell",
-    "coordinates": [
-      47.7946,
-      -122.2193
     ]
   },
   "52.240.58.168": {
@@ -1507,16 +1507,6 @@
     "coordinates": [
       46.9823,
       -123.8801
-    ]
-  },
-  "73.23.136.211": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Bonita Springs",
-    "coordinates": [
-      26.3771,
-      -81.7334
     ]
   },
   "73.23.203.172": {
