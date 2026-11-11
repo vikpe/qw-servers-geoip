@@ -289,16 +289,6 @@
       37.6187
     ]
   },
-  "141.148.150.255": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.4656,
-      -111.9956
-    ]
-  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -599,16 +589,6 @@
       -96.5486
     ]
   },
-  "173.69.14.157": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Warwick",
-    "coordinates": [
-      41.7139,
-      -71.3895
-    ]
-  },
   "176.210.100.6": {
     "region": "Europe",
     "country": "Russia",
@@ -907,16 +887,6 @@
     "coordinates": [
       41.13925,
       -104.816154
-    ]
-  },
-  "20.98.32.31": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Chicago",
-    "coordinates": [
-      41.8819,
-      -87.6278
     ]
   },
   "201.23.3.62": {
@@ -1609,7 +1579,7 @@
       12.9982
     ]
   },
-  "78.92.202.17": {
+  "78.92.207.6": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
