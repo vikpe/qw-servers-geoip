@@ -129,6 +129,16 @@
       -46.6361
     ]
   },
+  "13.184.215.12": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Columbus",
+    "coordinates": [
+      39.96118,
+      -82.99879
+    ]
+  },
   "13.247.30.86": {
     "region": "Africa",
     "country": "South Africa",
@@ -1019,6 +1029,16 @@
       11.0783
     ]
   },
+  "213.76.101.30": {
+    "region": "Europe",
+    "country": "Poland",
+    "cc": "PL",
+    "city": "Warsaw",
+    "coordinates": [
+      52.2829,
+      20.932
+    ]
+  },
   "216.249.103.87": {
     "region": "North America",
     "country": "United States",
@@ -1419,6 +1439,16 @@
       -71.0726
     ]
   },
+  "67.21.76.188": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Los Angeles",
+    "coordinates": [
+      34.0515,
+      -118.2707
+    ]
+  },
   "68.185.73.126": {
     "region": "North America",
     "country": "United States",
@@ -1477,6 +1507,16 @@
     "coordinates": [
       46.9823,
       -123.8801
+    ]
+  },
+  "73.23.136.211": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Bonita Springs",
+    "coordinates": [
+      26.3771,
+      -81.7334
     ]
   },
   "73.23.203.172": {
