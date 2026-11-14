@@ -399,16 +399,6 @@
       20.6489
     ]
   },
-  "157.22.207.209": {
-    "region": "Europe",
-    "country": "Russia",
-    "cc": "RU",
-    "city": "Moscow",
-    "coordinates": [
-      55.754,
-      37.5773
-    ]
-  },
   "158.101.195.75": {
     "region": "Europe",
     "country": "Netherlands",
@@ -699,6 +689,16 @@
       -1.3131
     ]
   },
+  "188.120.226.231": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Moscow",
+    "coordinates": [
+      55.754,
+      37.5773
+    ]
+  },
   "188.166.161.185": {
     "region": "Europe",
     "country": "Germany",
@@ -927,6 +927,16 @@
     "coordinates": [
       -31.8512,
       115.8765
+    ]
+  },
+  "206.51.245.84": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Chicago",
+    "coordinates": [
+      41.8483,
+      -87.6517
     ]
   },
   "207.135.130.237": {
@@ -1519,6 +1529,16 @@
       -81.9483
     ]
   },
+  "75.188.198.254": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Columbus",
+    "coordinates": [
+      40.0536,
+      -83.0115
+    ]
+  },
   "76.181.135.226": {
     "region": "North America",
     "country": "United States",
@@ -1749,7 +1769,7 @@
       76.939
     ]
   },
-  "93.198.179.79": {
+  "93.198.176.242": {
     "region": "Europe",
     "country": "Germany",
     "cc": "DE",
