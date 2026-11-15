@@ -299,6 +299,16 @@
       37.6187
     ]
   },
+  "141.148.150.255": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
+    ]
+  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -907,16 +917,6 @@
     "coordinates": [
       -38.6682,
       178.0293
-    ]
-  },
-  "202.87.162.206": {
-    "region": "Oceania",
-    "country": "Australia",
-    "cc": "AU",
-    "city": "Perth",
-    "coordinates": [
-      -32.1773,
-      115.9873
     ]
   },
   "203.29.240.182": {
@@ -1649,6 +1649,16 @@
       -46.6361
     ]
   },
+  "79.241.103.218": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Iserlohn",
+    "coordinates": [
+      51.3837,
+      7.7127
+    ]
+  },
   "80.211.201.216": {
     "region": "Europe",
     "country": "Czechia",
@@ -1699,6 +1709,16 @@
       10.8458
     ]
   },
+  "85.165.167.196": {
+    "region": "Europe",
+    "country": "Norway",
+    "cc": "NO",
+    "city": "Oslo",
+    "coordinates": [
+      59.9133,
+      10.7389
+    ]
+  },
   "85.209.118.60": {
     "region": "Europe",
     "country": "Denmark",
@@ -1739,16 +1759,6 @@
       9.9145
     ]
   },
-  "88.91.243.43": {
-    "region": "Europe",
-    "country": "Norway",
-    "cc": "NO",
-    "city": "Oslo",
-    "coordinates": [
-      59.9133,
-      10.7389
-    ]
-  },
   "89.168.86.177": {
     "region": "Europe",
     "country": "Germany",
@@ -1767,16 +1777,6 @@
     "coordinates": [
       43.2498,
       76.939
-    ]
-  },
-  "93.198.176.242": {
-    "region": "Europe",
-    "country": "Germany",
-    "cc": "DE",
-    "city": "Iserlohn",
-    "coordinates": [
-      51.3837,
-      7.7127
     ]
   },
   "94.16.128.193": {
