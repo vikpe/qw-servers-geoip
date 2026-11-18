@@ -1289,6 +1289,16 @@
       17.9612
     ]
   },
+  "47.190.124.72": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7767,
+      -96.797
+    ]
+  },
   "49.12.2.62": {
     "region": "Europe",
     "country": "Germany",
@@ -1619,7 +1629,7 @@
       12.9982
     ]
   },
-  "78.92.207.6": {
+  "78.92.194.2": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
@@ -1727,6 +1737,16 @@
     "coordinates": [
       55.6494,
       12.5298
+    ]
+  },
+  "85.215.156.215": {
+    "region": "Europe",
+    "country": "Germany",
+    "cc": "DE",
+    "city": "Frankfurt am Main",
+    "coordinates": [
+      50.1109,
+      8.68213
     ]
   },
   "85.221.162.142": {
