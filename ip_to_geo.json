@@ -1289,14 +1289,14 @@
       17.9612
     ]
   },
-  "47.190.124.72": {
+  "47.6.228.64": {
     "region": "North America",
     "country": "United States",
     "cc": "US",
-    "city": "Dallas",
+    "city": "Medford",
     "coordinates": [
-      32.7767,
-      -96.797
+      42.2808,
+      -122.9047
     ]
   },
   "49.12.2.62": {
@@ -1677,6 +1677,16 @@
     "coordinates": [
       50.0883,
       14.4124
+    ]
+  },
+  "80.247.203.74": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Amsterdam",
+    "coordinates": [
+      52.3676,
+      4.90414
     ]
   },
   "81.232.87.98": {
