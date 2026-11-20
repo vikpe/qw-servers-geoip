@@ -299,16 +299,6 @@
       37.6187
     ]
   },
-  "141.148.150.255": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.4656,
-      -111.9956
-    ]
-  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -699,6 +689,16 @@
       18.0717
     ]
   },
+  "185.35.222.250": {
+    "region": "Asia",
+    "country": "Kazakhstan",
+    "cc": "KZ",
+    "city": "Almaty",
+    "coordinates": [
+      43.238,
+      76.8829
+    ]
+  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -937,6 +937,16 @@
     "coordinates": [
       -38.6682,
       178.0293
+    ]
+  },
+  "202.87.162.206": {
+    "region": "Oceania",
+    "country": "Australia",
+    "cc": "AU",
+    "city": "Perth",
+    "coordinates": [
+      -32.1773,
+      115.9873
     ]
   },
   "203.29.240.182": {
@@ -1287,16 +1297,6 @@
     "coordinates": [
       59.2885,
       17.9612
-    ]
-  },
-  "47.6.228.64": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Medford",
-    "coordinates": [
-      42.2808,
-      -122.9047
     ]
   },
   "49.12.2.62": {
@@ -1679,16 +1679,6 @@
       14.4124
     ]
   },
-  "80.247.203.74": {
-    "region": "Europe",
-    "country": "The Netherlands",
-    "cc": "NL",
-    "city": "Amsterdam",
-    "coordinates": [
-      52.3676,
-      4.90414
-    ]
-  },
   "81.232.87.98": {
     "region": "Europe",
     "country": "Sweden",
@@ -1807,16 +1797,6 @@
     "coordinates": [
       43.2498,
       76.939
-    ]
-  },
-  "93.95.230.175": {
-    "region": "Europe",
-    "country": "Iceland",
-    "cc": "IS",
-    "city": "Reykjavik",
-    "coordinates": [
-      64.1476,
-      -21.9392
     ]
   },
   "94.16.128.193": {
