@@ -129,16 +129,6 @@
       -46.6361
     ]
   },
-  "13.184.215.12": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Columbus",
-    "coordinates": [
-      39.96118,
-      -82.99879
-    ]
-  },
   "13.247.30.86": {
     "region": "Africa",
     "country": "South Africa",
@@ -297,6 +287,16 @@
     "coordinates": [
       55.7487,
       37.6187
+    ]
+  },
+  "141.148.150.255": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
     ]
   },
   "144.202.66.126": {
@@ -1547,6 +1547,16 @@
     "coordinates": [
       38.3048,
       -85.5865
+    ]
+  },
+  "77.160.65.81": {
+    "region": "Europe",
+    "country": "The Netherlands",
+    "cc": "NL",
+    "city": "Delft",
+    "coordinates": [
+      52.0184,
+      4.3586
     ]
   },
   "77.239.212.26": {
