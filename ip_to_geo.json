@@ -659,16 +659,6 @@
       18.0717
     ]
   },
-  "185.35.222.250": {
-    "region": "Asia",
-    "country": "Kazakhstan",
-    "cc": "KZ",
-    "city": "Almaty",
-    "coordinates": [
-      43.238,
-      76.8829
-    ]
-  },
   "185.73.44.100": {
     "region": "Europe",
     "country": "United Kingdom",
@@ -1279,6 +1269,16 @@
       17.9612
     ]
   },
+  "47.190.124.72": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Dallas",
+    "coordinates": [
+      32.7767,
+      -96.797
+    ]
+  },
   "49.12.2.62": {
     "region": "Europe",
     "country": "Germany",
@@ -1297,6 +1297,16 @@
     "coordinates": [
       39.0469,
       -77.4903
+    ]
+  },
+  "5.196.28.199": {
+    "region": "Europe",
+    "country": "France",
+    "cc": "FR",
+    "city": "Roubaix",
+    "coordinates": [
+      50.6924,
+      3.20113
     ]
   },
   "5.39.84.156": {
