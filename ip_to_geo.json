@@ -239,16 +239,6 @@
       8.7147
     ]
   },
-  "136.70.243.21": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Washington",
-    "coordinates": [
-      38.9071,
-      -77.0368
-    ]
-  },
   "137.66.52.225": {
     "region": "North America",
     "country": "United States",
@@ -309,16 +299,6 @@
       37.6187
     ]
   },
-  "141.148.150.255": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Phoenix",
-    "coordinates": [
-      33.4656,
-      -111.9956
-    ]
-  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -367,16 +347,6 @@
     "coordinates": [
       -33.8688,
       151.209
-    ]
-  },
-  "153.130.188.112": {
-    "region": "Asia",
-    "country": "Japan",
-    "cc": "JP",
-    "city": "Kanazawa",
-    "coordinates": [
-      36.6109,
-      136.6344
     ]
   },
   "155.138.204.79": {
@@ -1527,6 +1497,16 @@
     "coordinates": [
       38.3048,
       -85.5865
+    ]
+  },
+  "77.239.212.26": {
+    "region": "Europe",
+    "country": "Russia",
+    "cc": "RU",
+    "city": "Yekaterinburg",
+    "coordinates": [
+      56.8431,
+      60.6454
     ]
   },
   "77.252.11.61": {
