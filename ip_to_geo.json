@@ -299,6 +299,16 @@
       37.6187
     ]
   },
+  "141.148.150.255": {
+    "region": "North America",
+    "country": "United States",
+    "cc": "US",
+    "city": "Phoenix",
+    "coordinates": [
+      33.4656,
+      -111.9956
+    ]
+  },
   "144.202.66.126": {
     "region": "North America",
     "country": "United States",
@@ -347,6 +357,16 @@
     "coordinates": [
       -33.8688,
       151.209
+    ]
+  },
+  "153.130.188.112": {
+    "region": "Asia",
+    "country": "Japan",
+    "cc": "JP",
+    "city": "Kanazawa",
+    "coordinates": [
+      36.6109,
+      136.6344
     ]
   },
   "155.138.204.79": {
@@ -1069,16 +1089,6 @@
       30.3096
     ]
   },
-  "31.40.212.53": {
-    "region": "South America",
-    "country": "Argentina",
-    "cc": "AR",
-    "city": "Buenos Aires",
-    "coordinates": [
-      -34.6176,
-      -58.3809
-    ]
-  },
   "34.148.103.12": {
     "region": "North America",
     "country": "United States",
@@ -1237,16 +1247,6 @@
     "coordinates": [
       59.2885,
       17.9612
-    ]
-  },
-  "47.190.124.72": {
-    "region": "North America",
-    "country": "United States",
-    "cc": "US",
-    "city": "Dallas",
-    "coordinates": [
-      32.7767,
-      -96.797
     ]
   },
   "49.12.2.62": {
@@ -1599,14 +1599,14 @@
       18.9191
     ]
   },
-  "78.92.237.99": {
+  "78.92.239.98": {
     "region": "Europe",
     "country": "Hungary",
     "cc": "HU",
-    "city": "Balatonfenyves",
+    "city": "Balatonlelle",
     "coordinates": [
-      46.7154,
-      17.4922
+      46.7841,
+      17.6892
     ]
   },
   "79.182.128.147": {
